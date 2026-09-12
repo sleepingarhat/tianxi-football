@@ -1,0 +1,24 @@
+name: footystats-acceptance
+on:
+  workflow_dispatch:
+    inputs:
+      league_id:
+        description: 'FootyStats season_id'
+        required: false
+        default: '0'
+jobs:
+  acceptance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run acceptance
+        env:
+          FOOTYSTATS_KEY: ${{ secrets.FOOTYSTATS_KEY }}
+        run: python3 scripts/footystats_acceptance.py --league-id ${{ inputs.league_id }} --outdir reports
+      - uses: actions/upload-artifact@v4
+        with:
+          name: footystats-acceptance
+          path: reports/
