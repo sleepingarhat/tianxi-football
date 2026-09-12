@@ -1,0 +1,4 @@
+data/Matches.csv
+data/*.csv
+__pycache__/
+reports/
