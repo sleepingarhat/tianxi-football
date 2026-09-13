@@ -44,6 +44,9 @@ jobs:
         if: github.event.inputs.full_results == 'true'
         run: python3 scripts/ingest_results.py --seasons 2000:$(date -u +%Y)
 
+      - name: 賽前預測凍結（S6）
+        run: python3 scripts/predict_fixtures.py
+
       - name: 自檢
         id: selfcheck
         run: |
