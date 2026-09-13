@@ -1,0 +1,307 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,B365H,B365D,B365A,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,AvgAHH,AvgAHA,season,league_zh
+D2,01/03/01,,St Pauli,Reutlingen,1,0,H,1,0,H,J�rgen Jansen,14,10,4,2,24,17,8,2,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/04/01,,Duisburg,Stuttgarter K,0,0,D,0,0,D,Helmut Fleischer,9,6,4,1,16,22,1,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/04/01,,Greuther Furth,Ahlen,2,4,A,0,0,D,Christian Sch�ssling,20,10,7,7,14,10,8,0,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/04/01,,Osnabruck,Aachen,5,1,H,4,1,H,Wolfgang Stark,18,11,12,3,25,16,4,8,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/04/01,,Ulm,Mainz,0,2,A,0,0,D,Detlef Scheppe,13,6,5,3,13,6,8,5,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/10/00,,Chemnitz,Mainz,0,2,A,0,0,D,Franz-Xaver Wack,,,,,,,,,0,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/10/00,,Greuther Furth,Aachen,3,0,H,1,0,H,Peter Gagelmann,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/10/00,,Hannover,Reutlingen,5,1,H,2,1,H,Thorsten Kinh�fer,,,,,,,,,4,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/10/00,,Osnabruck,Ulm,2,1,H,2,0,H,Detlef Scheppe,,,,,,,,,4,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/12/00,,Chemnitz,Duisburg,1,3,A,1,1,D,Volker Wezel,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,01/12/00,,Greuther Furth,Bielefeld,1,0,H,0,0,D,Dirk Margenberg,,,,,,,,,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/02/01,,Ahlen,Hannover,2,1,H,0,0,D,Alfons Berg,16,8,9,4,9,14,7,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/02/01,,Nurnberg,Mannheim,1,0,H,0,0,D,Manfred Haupt,10,5,6,2,10,6,7,1,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/03/01,,Ulm,Osnabruck,1,1,D,0,1,A,Dirk Margenberg,14,8,11,5,12,7,6,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/04/01,,M'gladbach,Mannheim,3,0,H,0,0,D,Uwe Kemmling,15,9,6,0,21,23,4,6,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/10/00,,Bielefeld,Nurnberg,1,2,A,1,0,H,Florian Meyer,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/12/00,,Osnabruck,Reutlingen,0,2,A,0,1,A,G�nter Perl,,,,,,,,,5,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,02/12/00,,Saarbrucken,Stuttgarter K,1,0,H,0,0,D,Stefan Weber,,,,,,,,,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/03/01,,Mainz,Chemnitz,3,1,H,1,1,D,Peter Lange,12,8,5,3,16,15,6,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/03/01,,Nurnberg,Bielefeld,2,1,H,2,0,H,Edgar Steinborn,12,5,7,3,15,8,6,1,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/11/00,,Bielefeld,Stuttgarter K,0,0,D,0,0,D,Torsten Koop,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/11/00,,Chemnitz,Ahlen,2,2,D,2,1,H,Florian Meyer,,,,,,,,,4,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/12/00,,Mainz,Nurnberg,2,0,H,1,0,H,Frank Minskowski,,,,,,,,,1,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/12/00,,Oberhausen,Ahlen,1,0,H,0,0,D,Thomas Frank,,,,,,,,,3,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/12/00,,St Pauli,Aachen,3,3,D,1,2,A,Mike Pickel,,,,,,,,,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,03/12/00,,Ulm,Mannheim,1,0,H,1,0,H,Uwe Kemmling,,,,,,,,,1,4,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/02/01,,Osnabruck,Greuther Furth,2,1,H,1,0,H,Christian Sch�ssling,,,,,,,,,3,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/03/01,,Aachen,Greuther Furth,0,0,D,0,0,D,Volker Wezel,11,13,3,6,13,14,3,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/03/01,,Ahlen,Duisburg,3,2,H,1,1,D,Thomas Frank,12,12,9,5,11,26,2,8,3,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/03/01,,Mannheim,Stuttgarter K,4,2,H,2,1,H,J�rgen Jansen,13,5,7,2,10,4,6,2,0,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/03/01,,Reutlingen,Hannover,3,0,H,2,0,H,J�rgen Aust,11,13,9,3,9,10,8,8,1,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/05/01,,Duisburg,Chemnitz,1,1,D,1,0,H,J�rg Kessler,7,10,5,5,13,8,6,2,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/05/01,,Stuttgarter K,Saarbrucken,0,1,A,0,1,A,Matthias Anklam,11,7,6,3,9,10,8,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/09/00,,M'gladbach,Ulm,5,0,H,2,0,H,Christian Sch�ssling,,,,,,,,,4,5,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/11/00,,Hannover,Duisburg,0,2,A,0,0,D,Stefan Kammerer,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/11/00,,Oberhausen,Mainz,1,0,H,0,0,D,Peter Sippel,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,04/12/00,,M'gladbach,Hannover,2,0,H,1,0,H,Peter Sippel,,,,,,,,,2,1,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/03/01,,St Pauli,M'gladbach,0,2,A,0,1,A,Torsten Koop,13,16,6,6,12,24,4,5,4,6,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/05/01,,Aachen,St Pauli,0,1,A,0,1,A,Hermann Albrecht,11,9,2,5,15,17,5,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/09/00,,Bielefeld,Oberhausen,2,0,H,2,0,H,Peter Lange,,,,,,,,,1,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/09/00,,Chemnitz,Saarbrucken,1,3,A,0,2,A,Wolfgang Stark,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/09/00,,Duisburg,Mainz,0,0,D,0,0,D,Peter Gagelmann,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/09/00,,Hannover,Ahlen,1,1,D,0,1,A,Dirk Margenberg,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/09/00,,Reutlingen,St Pauli,2,0,H,0,0,D,Manfred Haupt,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/11/00,,Greuther Furth,Mannheim,2,1,H,1,1,D,Lutz Wagner,,,,,,,,,1,5,0,2,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/11/00,,M'gladbach,Reutlingen,1,1,D,1,1,D,Matthias Anklam,,,,,,,,,3,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/11/00,,Osnabruck,St Pauli,0,0,D,0,0,D,Lutz Michael Fr�hlich,,,,,,,,,4,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,05/11/00,,Ulm,Aachen,3,1,H,0,0,D,Stefan Weber,,,,,,,,,3,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/04/01,,Duisburg,Hannover,2,1,H,2,1,H,Peter Gagelmann,10,15,5,4,17,18,4,11,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/04/01,,Nurnberg,Saarbrucken,0,1,A,0,0,D,Babak Rafati,10,8,6,4,13,10,6,1,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/05/01,,Bielefeld,Greuther Furth,1,1,D,1,0,H,J�rgen Jansen,11,5,8,2,20,16,3,5,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/05/01,,Nurnberg,Mainz,1,0,H,0,0,D,Uwe Kemmling,12,4,4,3,15,14,3,4,1,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/05/01,,Reutlingen,Osnabruck,2,0,H,1,0,H,Ralf Sp�ker,15,11,11,4,8,16,6,8,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/09/00,,Greuther Furth,Osnabruck,2,0,H,1,0,H,Thorsten Kinh�fer,,,,,,,,,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/09/00,,Mannheim,Nurnberg,1,4,A,0,2,A,Thorsten Koop,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/09/00,,Stuttgarter K,Aachen,0,3,A,0,0,D,Ralf Sp�ker,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,06/11/00,,Saarbrucken,Nurnberg,2,2,D,1,0,H,Markus Schmidt,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,07/04/01,,Ahlen,Chemnitz,5,2,H,3,2,H,Mike Pickel,17,4,9,2,9,13,4,1,2,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,07/04/01,,Mannheim,Greuther Furth,2,1,H,1,1,D,Herbert Fandel,11,9,7,4,23,17,7,5,3,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,07/05/01,,Hannover,M'gladbach,0,0,D,0,0,D,Knut Kircher,10,19,5,12,24,18,5,11,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/04/01,,Aachen,Ulm,1,0,H,0,0,D,Matthias Anklam,6,4,2,1,9,11,3,4,1,0,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/04/01,,Mainz,Oberhausen,1,0,H,0,0,D,Ralf Sp�ker,13,7,4,2,15,13,9,3,0,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/04/01,,St Pauli,Osnabruck,2,4,A,0,3,A,Thorsten Kinh�fer,17,9,9,6,17,20,16,0,4,6,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/04/01,,Stuttgarter K,Bielefeld,2,1,H,1,1,D,Michael Weiner,9,8,4,3,11,8,7,1,3,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/09/00,,Mainz,Bielefeld,2,4,A,2,4,A,J�rgen Kreyer,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/09/00,,Saarbrucken,Hannover,2,1,H,1,0,H,Volker Wezel,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/12/00,,Duisburg,Saarbrucken,2,1,H,1,1,D,Frank Minskowski,,,,,,,,,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,08/12/00,,Reutlingen,Ulm,2,2,D,1,1,D,Florian Meyer,,,,,,,,,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/02/01,,Hannover,Saarbrucken,3,0,H,1,0,H,Thorsten Koop,13,7,4,1,15,17,2,6,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/02/01,,Stuttgarter K,St Pauli,0,2,A,0,1,A,Peter Gagelmann,16,9,4,4,11,8,12,2,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/03/01,,Duisburg,Mannheim,0,1,A,0,0,D,Peter Sippel,12,5,7,2,15,19,4,3,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/03/01,,Osnabruck,Oberhausen,0,0,D,0,0,D,Peter Gagelmann,4,4,0,0,11,13,3,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/04/01,,Reutlingen,M'gladbach,3,1,H,2,0,H,Lutz Michael Fr�hlich,16,26,11,9,20,21,3,9,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/05/01,,Ahlen,Oberhausen,4,1,H,1,0,H,G�nter Perl,18,7,14,3,12,11,5,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/05/01,,Mannheim,Ulm,5,0,H,3,0,H,Edgar Steinborn,16,13,11,7,16,14,2,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/09/00,,Ahlen,Mannheim,1,2,A,1,0,H,Michael Pickel,,,,,,,,,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/09/00,,Nurnberg,Reutlingen,2,0,H,2,0,H,Lutz Wagner,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/12/00,,Bielefeld,Chemnitz,5,1,H,2,0,H,Manfred Haupt,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,09/12/00,,Stuttgarter K,Osnabruck,2,1,H,1,0,H,Hermann Albrecht,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/02/01,,Chemnitz,Osnabruck,1,2,A,0,0,D,Peter Sippel,15,8,8,5,19,15,11,0,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/02/01,,M'gladbach,Oberhausen,1,0,H,1,0,H,Volker Wezel,11,12,5,5,35,14,1,6,2,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/03/01,,Bielefeld,Ahlen,1,1,D,0,0,D,Stefan Weber,7,6,2,3,10,14,13,3,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/03/01,,Saarbrucken,Mainz,1,1,D,1,1,D,Matthias Anklam,11,12,6,3,16,22,7,7,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/09/00,,Oberhausen,M'gladbach,1,1,D,0,1,A,Uwe Kemmling,,,,,,,,,3,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/09/00,,Osnabruck,Chemnitz,1,1,D,1,0,H,Kai Voss,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/09/00,,St Pauli,Stuttgarter K,4,0,H,2,0,H,Thomas Frank,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/09/00,,Ulm,Greuther Furth,2,2,D,0,0,D,Hartmut Strampe,,,,,,,,,1,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/11/00,,Duisburg,Bielefeld,2,1,H,1,0,H,Mike Pickel,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/11/00,,Mannheim,Chemnitz,0,0,D,0,0,D,Alfons Berg,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/12/00,,Ahlen,Mainz,1,0,H,1,0,H,Dirk Margenberg,,,,,,,,,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/12/00,,M'gladbach,Greuther Furth,3,1,H,1,0,H,Torsten Koop,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/12/00,,Mannheim,Oberhausen,5,0,H,1,0,H,Markus Schmidt,,,,,,,,,3,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,10/12/00,,Nurnberg,Aachen,6,1,H,3,1,H,Helmut Krug,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/02/01,,Bielefeld,Mainz,4,1,H,2,0,H,Lutz Wagner,11,8,7,3,13,21,2,9,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/02/01,,Greuther Furth,Ulm,1,0,H,0,0,D,Ralf Sp�ker,14,5,8,1,24,15,4,2,1,5,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/02/01,,Mannheim,Ahlen,0,3,A,0,0,D,Michael Weiner,9,6,4,3,15,18,4,4,5,3,2,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/02/01,,Reutlingen,Nurnberg,3,2,H,0,1,A,Matthias Anklam,14,14,5,4,8,6,6,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/03/01,,Chemnitz,Aachen,2,3,A,0,1,A,Thorsten Kinh�fer,7,10,4,6,16,15,2,9,1,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/03/01,,Greuther Furth,St Pauli,5,1,H,2,0,H,Manfred Haupt,14,9,8,4,13,19,5,4,3,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/03/01,,Hannover,Ulm,2,0,H,1,0,H,Mike Pickel,16,13,10,7,17,16,11,7,4,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/03/01,,Stuttgarter K,Reutlingen,1,0,H,1,0,H,Stefan Kammerer,12,6,5,3,15,15,3,12,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/04/01,,Oberhausen,Saarbrucken,4,1,H,1,0,H,Detlef Scheppe,9,9,4,6,12,19,5,1,5,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/08/00,,Hannover,Nurnberg,1,1,D,0,0,D,Bernd Heynemann,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/08/00,,Stuttgarter K,Oberhausen,1,0,H,1,0,H,,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/09/00,,Aachen,Duisburg,1,0,H,0,0,D,Peter Sippel,,,,,,,,,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/11/00,,Mainz,Hannover,0,2,A,0,0,D,Matthias Anklam,,,,,,,,,3,0,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/11/00,,St Pauli,Ulm,1,0,H,1,0,H,Peter Sippel,,,,,,,,,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,11/12/00,,Hannover,St Pauli,1,1,D,1,0,H,Thorsten Kinh�fer,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/02/01,,Duisburg,Aachen,4,0,H,0,0,D,Florian Meyer,18,6,9,1,21,15,6,3,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/03/01,,M'gladbach,Nurnberg,1,1,D,1,0,H,Markus Merk,5,10,2,4,24,24,6,1,1,5,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/04/01,,Bielefeld,Duisburg,1,1,D,0,0,D,Markus Schmidt,11,11,6,6,18,12,3,6,1,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/04/01,,Chemnitz,Mannheim,0,0,D,0,0,D,Volker Wezel,12,11,6,5,21,16,8,4,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/08/00,,Ahlen,St Pauli,3,6,A,2,2,D,G�nter Perl,,,,,,,,,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/08/00,,M'gladbach,Saarbrucken,0,0,D,0,0,D,Peter Gagelmann,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/11/00,,Aachen,Oberhausen,3,1,H,3,0,H,Ralf Sp�ker,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/11/00,,Ahlen,Saarbrucken,2,0,H,1,0,H,Peter Lange,,,,,,,,,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/11/00,,Reutlingen,Greuther Furth,2,2,D,1,1,D,Stefan Kammerer,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/11/00,,Stuttgarter K,M'gladbach,1,1,D,0,0,D,J�rgen Aust,,,,,,,,,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/12/00,,Osnabruck,Duisburg,1,3,A,1,1,D,Stefan Kammerer,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/12/00,,Saarbrucken,Bielefeld,1,0,H,1,0,H,G�nter Perl,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,12/12/00,,Ulm,Stuttgarter K,1,1,D,0,1,A,J�rgen Kreyer,,,,,,,,,3,5,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Aachen,Nurnberg,0,1,A,0,0,D,Knut Kircher,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Chemnitz,Bielefeld,1,0,H,1,0,H,Wolfgang Stark,11,15,4,8,9,9,4,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Greuther Furth,M'gladbach,2,2,D,0,2,A,Michael Weiner,16,3,6,2,18,6,6,2,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Mainz,Ahlen,2,2,D,2,2,D,Volker Wezel,11,9,4,4,16,19,6,8,0,0,0,2,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Oberhausen,Mannheim,1,2,A,0,1,A,Lutz Michael Fr�hlich,9,16,3,6,19,25,8,8,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Osnabruck,Stuttgarter K,4,1,H,2,0,H,Alfons Berg,14,6,8,3,14,21,9,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Saarbrucken,Duisburg,1,0,H,0,0,D,Michael Weiner,5,9,2,2,12,12,2,7,1,0,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,St Pauli,Hannover,2,2,D,0,2,A,Helmut Fleischer,19,10,14,6,8,17,10,4,1,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/05/01,,Ulm,Reutlingen,2,3,A,0,0,D,Florian Meyer,10,8,6,5,3,5,4,3,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/08/00,,Bielefeld,Osnabruck,3,1,H,1,1,D,J�rgen Aust,,,,,,,,,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/08/00,,Greuther Furth,Chemnitz,4,1,H,1,0,H,Alfons Berg,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/08/00,,Mannheim,Aachen,3,0,H,1,0,H,J�rgen Jansen,,,,,,,,,1,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/08/00,,Reutlingen,Mainz,3,2,H,1,1,D,Uwe Kemmling,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/10/00,,Aachen,Chemnitz,1,2,A,0,1,A,Matthias Anklam,,,,,,,,,0,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/10/00,,Mannheim,Duisburg,1,0,H,1,0,H,Manfred Haupt,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/11/00,,Nurnberg,Osnabruck,3,1,H,2,0,H,Peter Gagelmann,,,,,,,,,3,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/12/00,,Aachen,Ahlen,4,3,H,1,1,D,Christian Sch�ssling,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/12/00,,Chemnitz,M'gladbach,0,3,A,0,1,A,Peter Gagelmann,,,,,,,,,3,1,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/12/00,,Mainz,Mannheim,0,1,A,0,0,D,Thomas Frank,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,13/12/00,,Oberhausen,Reutlingen,2,0,H,1,0,H,Thorsten Kinh�fer,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/02/01,,Oberhausen,Bielefeld,0,0,D,0,0,D,Stefan Kammerer,7,8,4,3,21,9,8,7,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/02/01,,Saarbrucken,Chemnitz,4,1,H,1,1,D,Uwe Kemmling,10,4,6,2,14,12,10,3,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/02/01,,Ulm,M'gladbach,2,4,A,0,1,A,Thorsten Kinh�fer,4,8,2,5,16,20,0,1,3,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/04/01,,Hannover,Mainz,2,4,A,2,2,D,Alfons Berg,6,18,4,11,10,21,2,10,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/04/01,,Oberhausen,Aachen,3,0,H,0,0,D,Peter Sippel,14,9,7,8,17,11,9,4,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/08/00,,Duisburg,Ulm,1,2,A,0,1,A,Franz-Xaver Wack,11,5,6,2,22,26,10,3,3,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/10/00,,Ahlen,Bielefeld,1,1,D,1,0,H,Volker Wezel,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/10/00,,Mainz,Saarbrucken,1,0,H,1,0,H,G�nter Perl,,,,,,,,,2,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/12/00,,Greuther Furth,Hannover,2,1,H,1,0,H,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2000,德乙
+D2,14/12/00,,St Pauli,Nurnberg,1,0,H,0,0,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/04/01,,Greuther Furth,Reutlingen,1,0,H,0,0,D,Dirk Margenberg,20,4,12,0,14,18,4,5,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/04/01,,M'gladbach,Stuttgarter K,1,0,H,0,0,D,Florian Meyer,16,3,9,1,17,13,10,2,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/04/01,,Ulm,St Pauli,1,4,A,0,3,A,Thomas Frank,8,8,0,5,9,8,8,5,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/09/00,,Duisburg,St Pauli,4,1,H,3,1,H,Peter Lange,,,,,,,,,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/09/00,,Hannover,Mannheim,3,0,H,0,0,D,Detlef Scheppe,,,,,,,,,2,4,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/10/00,,Oberhausen,Osnabruck,5,2,H,1,0,H,Stefan Kammerer,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/10/00,,Reutlingen,Stuttgarter K,1,0,H,0,0,D,Lutz Michael Fr�hlich,,,,,,,,,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/10/00,,St Pauli,Greuther Furth,3,3,D,3,0,H,Markus Schmidt,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/10/00,,Ulm,Hannover,3,3,D,1,0,H,Lutz Wagner,,,,,,,,,2,3,0,2,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/12/00,,Osnabruck,Bielefeld,1,0,H,0,0,D,Markus Schmidt,,,,,,,,,4,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,15/12/00,,Ulm,Duisburg,1,3,A,1,2,A,Ralf Sp�ker,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/02/01,,Mannheim,Hannover,2,1,H,1,0,H,Lutz Michael Fr�hlich,10,7,3,3,14,12,2,3,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/02/01,,Nurnberg,Stuttgarter K,2,1,H,1,1,D,Mike Pickel,12,9,5,5,11,12,8,6,2,0,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/03/01,,Aachen,Saarbrucken,1,0,H,1,0,H,Peter Lange,15,9,8,5,15,13,8,2,3,5,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/03/01,,Stuttgarter K,Hannover,2,0,H,1,0,H,Ralf Sp�ker,15,8,7,2,12,12,10,4,2,0,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/04/01,,Osnabruck,Nurnberg,2,1,H,1,1,D,Mike Pickel,8,3,1,3,15,16,4,0,1,2,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/09/00,,M'gladbach,Mainz,1,1,D,1,1,D,Stefan Weber,,,,,,,,,1,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/09/00,,Reutlingen,Ahlen,5,1,H,1,1,D,Babak Rafati,,,,,,,,,1,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/10/00,,Nurnberg,M'gladbach,2,1,H,1,0,H,Alfons Berg,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/12/00,,Mainz,Reutlingen,1,1,D,0,0,D,Kai Voss,,,,,,,,,5,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,16/12/00,,Oberhausen,Stuttgarter K,1,3,A,1,1,D,Matthias Anklam,,,,,,,,,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/02/01,,Mainz,M'gladbach,0,1,A,0,0,D,Herbert Fandel,10,11,4,3,12,16,6,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/02/01,,Oberhausen,Greuther Furth,2,2,D,0,1,A,Peter Lange,11,8,4,3,16,22,6,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/03/01,,Nurnberg,Greuther Furth,0,1,A,0,1,A,Detlef Scheppe,8,5,6,3,11,20,4,2,1,1,2,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/03/01,,Oberhausen,Ulm,3,1,H,2,1,H,Babak Rafati,6,11,2,4,20,23,4,3,2,3,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/09/00,,Chemnitz,Ulm,1,0,H,1,0,H,Thomas Frank,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/09/00,,Greuther Furth,Oberhausen,1,2,A,1,0,H,Matthias Anklam,,,,,,,,,1,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/09/00,,Saarbrucken,Osnabruck,2,1,H,1,1,D,J�rgen Kreyer,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/09/00,,Stuttgarter K,Nurnberg,0,2,A,0,0,D,J�rg Kessler,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/11/00,,Mainz,Aachen,1,1,D,0,0,D,Florian Meyer,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/11/00,,Ulm,Nurnberg,0,1,A,0,1,A,Dirk Margenberg,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/12/00,,Chemnitz,Greuther Furth,0,2,A,0,1,A,Frank Minskowski,,,,,,,,,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/12/00,,Nurnberg,Hannover,4,2,H,2,1,H,Peter Lange,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/12/00,,Saarbrucken,M'gladbach,0,4,A,0,1,A,Babak Rafati,,,,,,,,,3,5,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,17/12/00,,St Pauli,Ahlen,3,2,H,1,1,D,Knut Kircher,,,,,,,,,3,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/02/01,,Ahlen,Reutlingen,3,1,H,3,1,H,Manfred Haupt,10,10,10,3,16,17,4,6,4,1,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/02/01,,Osnabruck,Saarbrucken,2,2,D,1,1,D,Thorsten Kinh�fer,7,4,2,0,26,16,2,2,1,4,0,2,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/02/01,,St Pauli,Duisburg,1,0,H,1,0,H,Christian Sch�ssling,18,12,7,6,18,20,8,8,3,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/02/01,,Ulm,Chemnitz,3,0,H,2,0,H,Kai Voss,13,5,6,2,17,12,8,1,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/03/01,,Ahlen,M'gladbach,2,1,H,2,1,H,Peter Sippel,11,15,5,9,26,16,4,11,4,3,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/03/01,,Mainz,Osnabruck,2,0,H,1,0,H,Stefan Kammerer,13,5,7,4,17,14,8,3,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/03/01,,Reutlingen,Duisburg,0,1,A,0,1,A,Michael Weiner,15,9,2,4,16,10,6,1,3,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/03/01,,St Pauli,Chemnitz,3,0,H,1,0,H,Dirk Margenberg,27,7,20,3,16,18,8,4,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/08/00,,Chemnitz,Hannover,0,2,A,0,0,D,J�rg Kessler,,,,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/08/00,,St Pauli,Mannheim,5,0,H,4,0,H,Helmut Fleischer,,,,,,,,,2,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/09/00,,Bielefeld,Aachen,1,1,D,1,1,D,Michael Weiner,,,,,,,,,4,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/11/00,,Osnabruck,Ahlen,1,1,D,0,1,A,Knut Kircher,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,18/12/00,,Aachen,Mannheim,0,1,A,0,0,D,Stefan Weber,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/02/01,,Aachen,Bielefeld,1,0,H,1,0,H,Torsten Koop,12,14,6,3,16,11,11,5,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/03/01,,Mannheim,Bielefeld,3,3,D,1,2,A,Florian Meyer,22,12,13,9,9,24,6,6,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/08/00,,Aachen,Reutlingen,4,1,H,1,0,H,Herrmann Albrecht,,,,,,,,,1,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/08/00,,Osnabruck,M'gladbach,1,3,A,1,0,H,Helmut Krug,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/11/00,,Chemnitz,Reutlingen,1,3,A,1,2,A,J�rgen Jansen,,,,,,,,,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/11/00,,Greuther Furth,Stuttgarter K,2,0,H,0,0,D,Kai Voss,,,,,,,,,1,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/11/00,,M'gladbach,Duisburg,1,1,D,0,1,A,Hartmut Strampe,,,,,,,,,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,19/11/00,,Oberhausen,St Pauli,2,3,A,2,1,H,Christian Sch�ssling,,,,,,,,,3,7,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/04/01,,Aachen,Mainz,1,0,H,1,0,H,Kai Voss,41,12,6,4,17,10,2,8,3,5,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/04/01,,Mannheim,Saarbrucken,2,3,A,2,1,H,Stefan Weber,9,8,6,5,10,8,7,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Ahlen,Aachen,1,2,A,0,0,D,J�rg Kessler,11,9,6,7,17,10,6,4,5,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Bielefeld,Saarbrucken,4,2,H,3,1,H,Franz-Xaver Wack,12,8,8,3,16,21,8,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Duisburg,Osnabruck,2,2,D,1,1,D,Lutz Wagner,14,12,6,3,13,9,9,5,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Hannover,Greuther Furth,2,1,H,1,0,H,Edgar Steinborn,10,12,8,3,15,24,7,7,1,0,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,M'gladbach,Chemnitz,3,0,H,2,0,H,J�rgen Aust,20,7,8,2,5,15,9,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Mannheim,Mainz,4,0,H,1,0,H,Helmut Fleischer,12,10,7,2,14,14,6,0,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Nurnberg,St Pauli,1,2,A,1,1,D,Helmut Krug,10,14,5,6,15,15,9,9,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Reutlingen,Oberhausen,1,1,D,0,0,D,Stefan Weber,11,12,5,7,27,12,0,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/05/01,,Stuttgarter K,Ulm,2,4,A,2,3,A,G�nter Perl,13,9,6,5,13,6,7,2,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/08/00,,Mainz,Stuttgarter K,2,2,D,1,2,A,Wolfgang Stark,,,,,,,,,4,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/08/00,,Nurnberg,Ahlen,2,0,H,2,0,H,Hartmut Strampe,,,,,,,,,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/08/00,,Oberhausen,Duisburg,1,0,H,1,0,H,Edgar Steinborn,,,,,,,,,0,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/08/00,,Saarbrucken,Greuther Furth,2,1,H,1,1,D,Florian Mayer,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/10/00,,Bielefeld,Mannheim,0,0,D,0,0,D,Kai Voss,,,,,,,,,4,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/10/00,,Chemnitz,St Pauli,1,3,A,1,0,H,Ralf Sp�ker,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/11/00,,Hannover,Bielefeld,4,2,H,3,1,H,G�nter Perl,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,20/11/00,,Saarbrucken,Mannheim,3,3,D,2,2,D,Volker Wezel,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/03/01,,Chemnitz,Oberhausen,0,1,A,0,0,D,Knut Kircher,13,20,7,11,12,15,7,14,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/03/01,,Stuttgarter K,Ahlen,1,1,D,0,0,D,Frank Minskowski,21,10,6,4,15,10,6,4,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/04/01,,St Pauli,Oberhausen,4,1,H,3,1,H,Peter Lange,10,17,9,4,11,21,2,4,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/08/00,,Ulm,Bielefeld,0,1,A,0,1,A,Markus Merk,16,11,5,9,21,18,6,4,0,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/10/00,,Greuther Furth,Nurnberg,0,0,D,0,0,D,Michael Weiner,,,,,,,,,3,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,21/10/00,,Hannover,Stuttgarter K,1,0,H,0,0,D,J�rgen Kreyer,,,,,,,,,2,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/04/01,,Ahlen,Osnabruck,1,0,H,1,0,H,J�rgen Aust,8,10,3,5,16,16,9,5,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/04/01,,Bielefeld,Hannover,5,2,H,2,0,H,Christian Sch�ssling,16,14,11,4,16,18,6,5,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/04/01,,Nurnberg,Ulm,1,2,A,0,2,A,Peter Gagelmann,16,6,5,2,15,16,5,0,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/04/01,,Stuttgarter K,Greuther Furth,0,5,A,0,2,A,Torsten Koop,13,15,3,8,14,10,5,1,2,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/09/00,,Nurnberg,Duisburg,3,1,H,1,1,D,Christian Sch�ssling,,,,,,,,,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/09/00,,Ulm,Saarbrucken,3,1,H,1,0,H,Mike Pickel,,,,,,,,,3,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/10/00,,Duisburg,Reutlingen,4,3,H,2,1,H,Babak Rafati,,,,,,,,,5,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/10/00,,Osnabruck,Mainz,2,1,H,1,0,H,Peter Lange,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/10/00,,Saarbrucken,Aachen,1,3,A,1,0,H,Thomas Frank,,,,,,,,,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,22/10/00,,Ulm,Oberhausen,0,1,A,0,0,D,Frank Minskowski,,,,,,,,,0,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/02/01,,Duisburg,Nurnberg,3,2,H,1,2,A,Stefan Weber,7,12,7,8,13,11,5,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/02/01,,Saarbrucken,Ulm,1,1,D,0,1,A,Franz-Xaver Wack,15,9,11,6,19,18,4,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/04/01,,Duisburg,M'gladbach,0,2,A,0,1,A,Bernd Heynemann,10,18,4,7,14,21,6,3,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/09/00,,Mannheim,Reutlingen,1,1,D,0,1,A,Dirk Margenberg,,,,,,,,,5,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/09/00,,St Pauli,Bielefeld,2,0,H,0,0,D,J�rgen Jansen,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,23/10/00,,M'gladbach,Ahlen,1,2,A,0,0,D,Stefan Kammerer,,,,,,,,,0,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/02/01,,Bielefeld,St Pauli,3,3,D,1,0,H,J�rgen Kreyer,23,12,14,6,18,23,8,9,4,4,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/02/01,,M'gladbach,Aachen,6,1,H,0,0,D,Lutz Wagner,13,6,9,3,13,15,3,3,2,6,0,2,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/09/00,,Ahlen,Stuttgarter K,1,1,D,0,0,D,Frank Minskowski,,,,,,,,,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/09/00,,Mainz,Greuther Furth,1,0,H,1,0,H,Ralf Sp�ker,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/09/00,,Oberhausen,Chemnitz,4,1,H,2,0,H,Markus Schmidt,,,,,,,,,1,1,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/09/00,,Osnabruck,Hannover,0,1,A,0,0,D,Helmut Fleischer,,,,,,,,,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/11/00,,Aachen,Hannover,0,4,A,0,3,A,Markus Schmidt,,,,,,,,,2,4,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,24/11/00,,Duisburg,Greuther Furth,0,0,D,0,0,D,Knut Kircher,,,,,,,,,1,0,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/02/01,,Greuther Furth,Mainz,3,1,H,1,0,H,Thomas Frank,8,7,5,1,9,12,8,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/02/01,,Reutlingen,Mannheim,1,1,D,0,1,A,Wolfgang Stark,9,11,3,2,20,16,1,4,1,5,1,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/04/01,,Reutlingen,Chemnitz,2,0,H,2,0,H,Detlef Scheppe,19,5,8,1,31,10,7,3,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/04/01,,Saarbrucken,Ahlen,1,2,A,1,0,H,Stefan Kammerer,11,11,5,5,22,22,6,3,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/09/00,,Aachen,M'gladbach,1,1,D,1,1,D,Edgar Steinborn,,,,,,,,,4,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/11/00,,Ahlen,Ulm,1,0,H,1,0,H,Matthias Anklam,,,,,,,,,4,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,25/11/00,,Bielefeld,M'gladbach,1,2,A,1,0,H,Helmut Fleischer,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/01/01,,Hannover,Chemnitz,0,0,D,0,0,D,Dirk Margenberg,18,13,8,7,31,19,12,1,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/01/01,,Mannheim,St Pauli,2,1,H,1,0,H,Frank Minskowski,25,12,13,6,23,25,6,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/02/01,,Hannover,Osnabruck,1,1,D,0,0,D,J�rg Kessler,14,14,3,5,15,15,12,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/11/00,,Mannheim,Osnabruck,2,0,H,0,0,D,Edgar Steinborn,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/11/00,,Nurnberg,Oberhausen,2,1,H,1,0,H,J�rg Kessler,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/11/00,,Reutlingen,Saarbrucken,8,2,H,3,0,H,Michael Weiner,,,,,,,,,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,26/11/00,,Stuttgarter K,Chemnitz,4,0,H,1,0,H,Babak Rafati,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/01/01,,M'gladbach,Osnabruck,0,0,D,0,0,D,Markus Schmidt,16,4,6,2,19,12,16,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/01/01,,Reutlingen,Aachen,3,1,H,1,1,D,Detlef Scheppe,11,8,5,3,12,12,9,6,0,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/04/01,,Hannover,Aachen,0,0,D,0,0,D,Volker Wezel,13,6,3,2,24,20,11,2,2,8,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/04/01,,M'gladbach,Bielefeld,0,1,A,0,0,D,G�nter Perl,18,15,8,8,6,18,7,4,1,2,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/10/00,,Nurnberg,Chemnitz,3,1,H,2,0,H,Knut Kircher,,,,,,,,,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/10/00,,Reutlingen,Bielefeld,3,2,H,2,1,H,Stefan Weber,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,27/11/00,,St Pauli,Mainz,2,2,D,0,0,D,Bernd Heynemann,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/01/01,,Ahlen,Nurnberg,0,1,A,0,1,A,Babak Rafati,9,6,7,3,26,13,6,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/01/01,,Duisburg,Oberhausen,1,2,A,0,0,D,Hermann Albrecht,9,11,4,2,16,12,8,6,3,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/01/01,,Greuther Furth,Saarbrucken,0,1,A,0,1,A,J�rgen Kreyer,13,7,7,3,17,7,15,3,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/01/01,,Stuttgarter K,Mainz,0,0,D,0,0,D,Stefan Weber,9,15,3,9,11,6,6,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/02/01,,Aachen,Stuttgarter K,3,0,H,0,0,D,Thomas Frank,19,1,7,0,12,15,8,0,2,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/02/01,,Mainz,Duisburg,1,0,H,1,0,H,Knut Kircher,14,4,9,3,20,16,3,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/04/01,,Chemnitz,Stuttgarter K,0,2,A,0,0,D,Babak Rafati,4,7,2,3,9,14,3,4,5,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/04/01,,Mainz,St Pauli,1,1,D,0,1,A,Michael Weiner,14,8,9,4,19,16,9,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/10/00,,Aachen,Osnabruck,0,0,D,0,0,D,Manfred Haupt,,,,,,,,,4,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,28/10/00,,Mainz,Ulm,0,3,A,0,0,D,Babak Rafati,,,,,,,,,0,3,1,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/01/01,,Bielefeld,Ulm,1,1,D,1,1,D,Bernd Heynemann,13,9,2,3,22,20,2,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/04/01,,Oberhausen,Nurnberg,1,2,A,0,2,A,Lutz Wagner,12,7,3,2,24,29,6,4,4,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/04/01,,Osnabruck,Mannheim,0,2,A,0,1,A,Franz-Xaver Wack,10,6,5,3,21,24,7,2,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/04/01,,Saarbrucken,Reutlingen,2,2,D,1,1,D,Kai Voss,9,7,4,5,28,19,8,2,4,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/04/01,,Ulm,Ahlen,2,0,H,0,0,D,Wolfgang Stark,11,6,8,5,9,8,7,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/09/00,,Duisburg,Ahlen,3,3,D,1,2,A,J�rgen Aust,,,,,,,,,0,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/09/00,,Saarbrucken,Oberhausen,3,2,H,2,0,H,Torsten Koop,,,,,,,,,1,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/10/00,,Ahlen,Greuther Furth,2,0,H,1,0,H,Bernd Heynemann,,,,,,,,,4,0,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/10/00,,Mannheim,M'gladbach,4,0,H,1,0,H,J�rg Kessler,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/10/00,,Oberhausen,Hannover,0,0,D,0,0,D,Volker Wezel,,,,,,,,,2,1,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/10/00,,St Pauli,Saarbrucken,2,2,D,2,0,H,Detlef Scheppe,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,29/10/00,,Stuttgarter K,Duisburg,0,0,D,0,0,D,Uwe Kemmling,,,,,,,,,1,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,30/03/01,,Chemnitz,Nurnberg,1,1,D,0,1,A,Markus Schmidt,10,12,4,5,11,16,3,7,2,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,30/03/01,,Saarbrucken,St Pauli,1,0,H,1,0,H,Joerg Kessler,16,11,3,3,23,23,6,2,3,3,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,30/04/01,,Greuther Furth,Duisburg,1,0,H,0,0,D,Uwe Kemmling,14,4,4,1,14,20,2,3,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,30/09/00,,M'gladbach,St Pauli,4,2,H,1,1,D,Knut Kircher,,,,,,,,,2,2,0,0,,,,,,,,,,,,,,,,,2000,德乙
+D2,30/09/00,,Stuttgarter K,Mannheim,2,2,D,1,1,D,G�nter Perl,,,,,,,,,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,31/03/01,,Bielefeld,Reutlingen,3,1,H,3,0,H,Franz Minkowski,22,10,14,4,6,17,6,4,2,3,0,1,,,,,,,,,,,,,,,,,2000,德乙
+D2,31/03/01,,Hannover,Oberhausen,3,0,H,0,0,D,Lutz Wagner,10,11,6,3,29,21,2,3,2,4,0,0,,,,,,,,,,,,,,,,,2000,德乙

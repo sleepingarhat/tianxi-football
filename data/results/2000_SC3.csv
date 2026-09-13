@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,B365H,B365D,B365A,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,AvgAHH,AvgAHA,season,league_zh
+SC3,01/05/01,,Montrose,Hamilton,0,2,A,0,1,A,John Fleming,10,10,6,5,14,17,2,3,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,01/05/01,,Peterhead,Elgin,1,1,D,0,0,D,David Somers,13,8,5,5,22,22,8,3,1,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/01/01,,Dumbarton,East Stirling,3,0,H,1,0,H,Ian Brines,6,12,4,6,15,14,5,7,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/01/01,,East Fife,Cowdenbeath,1,2,A,1,1,D,John Gilmore,10,5,2,5,9,7,3,5,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/01/01,,Hamilton,Albion Rvs,3,2,H,1,0,H,Steve Conroy,14,7,7,3,11,17,7,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/12/00,,Dumbarton,Elgin,3,0,H,1,0,H,Alan Gemmill,9,5,4,2,9,11,8,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/12/00,,East Stirling,Brechin,0,1,A,0,0,D,George Clyde,8,7,3,4,9,8,6,0,3,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/12/00,,Hamilton,East Fife,1,1,D,0,1,A,Calum Murray,15,5,10,4,8,16,6,8,0,3,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/12/00,,Montrose,Cowdenbeath,1,2,A,0,0,D,Eddie Mack,12,8,8,5,7,14,6,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,02/12/00,,Peterhead,Albion Rvs,1,2,A,1,0,H,I. M. Fyfe,6,9,3,6,21,16,2,5,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/02/01,,Dumbarton,East Fife,2,0,H,1,0,H,George Clyde,13,8,10,1,9,10,11,5,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/02/01,,East Stirling,Elgin,1,0,H,1,0,H,John Gilmore,11,5,3,2,7,15,3,4,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/02/01,,Hamilton,Brechin,1,0,H,0,0,D,I. M. Fyfe,12,8,6,4,19,22,3,5,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/02/01,,Montrose,Albion Rvs,0,1,A,0,0,D,Cammy Melville,10,4,4,3,12,19,6,1,1,3,2,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/04/01,,Brechin,East Fife,1,0,H,0,0,D,W. Hornby,16,12,7,4,7,16,8,7,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/04/01,,East Stirling,Cowdenbeath,0,2,A,0,0,D,Calum Murray,5,21,2,5,9,9,2,6,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,03/04/01,,Elgin,Montrose,0,2,A,0,1,A,Alan Freeland,18,4,4,2,7,9,9,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,04/11/00,,Albion Rvs,Hamilton,1,1,D,1,0,H,Charlie Richmond,4,15,2,5,11,10,4,4,3,3,2,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,04/11/00,,Cowdenbeath,East Fife,1,0,H,1,0,H,Calum Murray,8,10,2,4,13,15,5,7,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,04/11/00,,East Stirling,Dumbarton,1,1,D,1,0,H,R.J. MacKay,9,5,4,1,10,23,3,10,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,04/11/00,,Montrose,Brechin,1,1,D,0,0,D,Eddie Mack,4,11,2,5,13,10,3,4,1,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,04/11/00,,Peterhead,Elgin,1,0,H,1,0,H,Ian Frickleton,5,8,3,2,10,17,7,4,2,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/05/01,,Cowdenbeath,Brechin,2,1,H,1,0,H,Charlie Richmond,12,13,5,9,8,6,7,5,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/05/01,,Dumbarton,Peterhead,2,2,D,1,1,D,George Clyde,16,5,8,4,17,18,4,6,0,1,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/05/01,,East Fife,East Stirling,4,1,H,1,1,D,Kevin Toner,16,8,8,4,6,6,5,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/05/01,,Elgin,Albion Rvs,1,0,H,0,0,D,Cammy Melville,4,8,2,4,21,18,2,4,3,4,1,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/05/01,,Montrose,Hamilton,1,4,A,0,1,A,Brian Cassidy,10,10,6,6,11,15,4,5,2,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/08/00,,Albion Rvs,East Fife,0,1,A,0,0,D,John Gilmore,9,5,1,1,17,16,4,2,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/08/00,,Brechin,Elgin,2,1,H,1,1,D,Craig Thompson,13,5,4,3,12,21,8,1,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/08/00,,East Stirling,Cowdenbeath,0,2,A,0,1,A,Ian Brines,9,14,1,8,16,17,1,5,1,1,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/08/00,,Hamilton,Dumbarton,2,0,H,0,0,D,Charlie Richmond,14,12,9,5,13,10,5,6,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,05/08/00,,Peterhead,Montrose,2,0,H,1,0,H,Calum Murray,16,17,3,6,8,7,9,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,06/03/01,,Elgin,Peterhead,0,1,A,0,0,D,Ian Frickleton,5,5,1,3,16,10,2,3,5,3,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/03/01,,Dumbarton,Cowdenbeath,3,0,H,1,0,H,Eric Martindale,13,7,9,3,9,6,4,3,2,1,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/04/01,,Albion Rvs,Montrose,2,1,H,1,0,H,Charlie Richmond,8,5,4,1,8,13,7,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/04/01,,Brechin,Hamilton,3,4,A,1,2,A,G P Thompson,9,9,5,6,15,18,7,8,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/04/01,,Cowdenbeath,Peterhead,4,0,H,1,0,H,Craig Thompson,13,4,8,1,10,9,1,3,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/04/01,,East Fife,Dumbarton,0,1,A,0,1,A,Cammy Melville,13,9,8,6,11,11,9,5,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/04/01,,Elgin,East Stirling,4,2,H,3,1,H,Ian Frickleton,10,8,7,6,7,7,3,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/10/00,,Dumbarton,East Fife,2,3,A,1,2,A,Eddie Mack,7,11,5,4,13,15,2,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/10/00,,East Stirling,Elgin,0,2,A,0,1,A,G P Thompson,7,14,3,6,12,27,6,3,0,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/10/00,,Hamilton,Brechin,4,1,H,1,1,D,Alan Gemmill,14,6,7,1,16,14,2,5,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/10/00,,Montrose,Albion Rvs,0,2,A,0,1,A,John Gilmore,6,14,4,6,8,11,3,11,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,07/10/00,,Peterhead,Cowdenbeath,3,0,H,2,0,H,Campell Carson,9,13,5,8,12,10,7,11,2,4,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,09/09/00,,Brechin,Montrose,6,1,H,3,0,H,Ian Brines,14,12,8,4,17,14,4,4,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,09/09/00,,Dumbarton,East Stirling,1,2,A,1,2,A,Martin Doran,12,5,4,2,9,10,7,2,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,09/09/00,,East Fife,Cowdenbeath,0,2,A,0,0,D,Craig Thompson,1,2,1,2,7,12,1,0,4,5,3,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,09/09/00,,Elgin,Peterhead,1,3,A,1,1,D,John Underhill,10,14,4,9,9,10,5,9,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,09/09/00,,Hamilton,Albion Rvs,0,2,A,0,2,A,Craig Thompson,7,9,3,5,6,8,3,7,4,3,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/03/01,,Dumbarton,Albion Rvs,1,4,A,0,1,A,Eric Martindale,4,17,1,12,16,8,4,7,3,1,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/03/01,,East Fife,Montrose,1,0,H,0,0,D,I. M. Fyfe,6,6,2,4,17,11,2,3,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/03/01,,Elgin,Cowdenbeath,0,2,A,0,0,D,Craig MacKay,10,9,1,5,6,8,6,7,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/03/01,,Hamilton,East Stirling,2,2,D,1,0,H,Eddie Mack,22,5,11,4,13,11,4,3,3,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/04/01,,Albion Rvs,Brechin,1,1,D,1,0,H,Dougie Smith,10,4,6,3,18,16,4,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/04/01,,Cowdenbeath,Montrose,2,1,H,0,0,D,Steve Conroy,9,8,2,4,5,6,6,1,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,10/04/01,,Elgin,Hamilton,0,3,A,0,0,D,Gary Mitchell,11,13,7,5,8,3,3,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,11/11/00,,Albion Rvs,East Stirling,2,1,H,1,1,D,Steve Conroy,12,9,5,5,16,8,3,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,11/11/00,,Cowdenbeath,Dumbarton,1,1,D,0,1,A,Charlie Richmond,10,17,3,12,13,10,7,8,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,11/11/00,,East Fife,Brechin,1,0,H,0,0,D,G P Thompson,5,3,3,3,11,5,2,4,4,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,11/11/00,,Montrose,Elgin,0,0,D,0,0,D,Eric Martindale,13,14,6,2,9,11,7,8,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,11/11/00,,Peterhead,Hamilton,1,1,D,1,1,D,Steven Kaney,8,13,4,6,7,16,5,4,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,12/08/00,,Cowdenbeath,Albion Rvs,5,0,H,2,0,H,Calum Murray,10,15,6,5,23,15,8,2,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,12/08/00,,Dumbarton,Brechin,0,2,A,0,0,D,Steve Conroy,3,9,1,5,4,8,6,7,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,12/08/00,,East Fife,Peterhead,1,1,D,1,0,H,Eddie Mack,5,4,4,4,6,10,4,1,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,12/08/00,,Elgin,Hamilton,0,2,A,0,1,A,Gary Mitchell,,,,,,,,,1,2,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,12/08/00,,Montrose,East Stirling,0,1,A,0,1,A,Craig Thompson,16,12,5,5,13,11,9,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,13/01/01,,Peterhead,East Stirling,1,2,A,0,0,D,Steven Kaney,13,15,6,5,16,15,8,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,13/03/01,,East Stirling,Albion Rvs,1,0,H,0,0,D,Colin Hardie,6,14,5,6,17,11,5,8,3,5,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,13/03/01,,Elgin,Dumbarton,0,3,A,0,3,A,Craig MacKay,8,9,5,5,12,11,3,5,4,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,13/03/01,,Montrose,East Fife,1,1,D,0,0,D,Cammy Melville,13,5,5,4,13,19,7,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,13/03/01,,Peterhead,Cowdenbeath,3,0,H,2,0,H,Eddie Mack,14,9,9,3,13,17,5,2,3,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/04/01,,Dumbarton,Elgin,2,0,H,1,0,H,Bobby Orr,8,8,3,2,13,13,2,2,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/04/01,,East Stirling,Brechin,0,2,A,0,2,A,Eddie Mack,7,11,3,4,9,4,9,7,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/04/01,,Hamilton,East Fife,1,1,D,0,0,D,Ian Brines,10,3,7,1,7,18,5,5,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/04/01,,Montrose,Cowdenbeath,0,1,A,0,1,A,George Clyde,9,6,2,4,9,8,3,5,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/04/01,,Peterhead,Albion Rvs,1,1,D,0,0,D,Gary Mitchell,11,10,6,5,10,16,4,9,0,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/10/00,,Cowdenbeath,East Stirling,3,0,H,2,0,H,Brian Cassidy,10,7,5,3,12,7,10,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/10/00,,Dumbarton,Hamilton,2,3,A,1,1,D,Ian Frickleton,9,15,6,6,18,8,7,8,5,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/10/00,,East Fife,Albion Rvs,0,0,D,0,0,D,John Underhill,7,5,5,2,6,11,10,4,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/10/00,,Elgin,Brechin,2,2,D,0,0,D,Cammy Melville,8,5,5,4,14,7,7,2,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,14/10/00,,Montrose,Peterhead,0,2,A,0,1,A,Hugh Dallas,11,14,3,8,14,14,2,7,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/09/00,,Albion Rvs,Brechin,1,3,A,1,1,D,Charlie Richmond,9,11,4,6,15,7,3,2,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/09/00,,Cowdenbeath,Hamilton,2,0,H,2,0,H,Eddie Mack,12,13,6,2,17,9,2,3,3,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/09/00,,East Fife,Elgin,1,1,D,1,0,H,George Clyde,10,2,5,2,7,17,2,1,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/09/00,,Montrose,Dumbarton,2,2,D,2,1,H,Mike Ritchie,15,15,8,6,11,12,3,10,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/09/00,,Peterhead,East Stirling,2,4,A,0,3,A,Steve Conroy,9,8,5,7,12,9,3,7,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/12/00,,Brechin,Elgin,2,1,H,1,0,H,Steve Conroy,6,6,4,3,7,21,9,1,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,16/12/00,,Hamilton,Dumbarton,2,0,H,0,0,D,Tom Brown,8,9,3,5,16,18,7,9,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/02/01,,Albion Rvs,Elgin,0,1,A,0,0,D,Calum Murray,12,3,7,3,13,16,4,0,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/02/01,,Brechin,Cowdenbeath,2,0,H,2,0,H,John Fleming,10,6,4,2,11,17,4,4,1,5,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/02/01,,East Stirling,East Fife,1,0,H,1,0,H,Charlie Richmond,7,10,6,3,6,16,8,7,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/02/01,,Hamilton,Montrose,1,3,A,1,2,A,Tom Brown,14,7,2,5,13,14,7,4,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/03/01,,Albion Rvs,East Stirling,2,2,D,2,0,H,Eric Martindale,16,16,7,6,15,16,3,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/03/01,,Cowdenbeath,Dumbarton,2,2,D,1,2,A,Brian McGarry,16,4,14,2,7,8,5,2,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/03/01,,East Fife,Brechin,1,4,A,0,0,D,Steve Conroy,10,9,6,6,5,5,4,5,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/03/01,,Montrose,Elgin,2,1,H,2,0,H,Steven Kaney,7,10,6,4,8,12,4,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/03/01,,Peterhead,Hamilton,2,1,H,0,0,D,Calum Murray,13,6,7,2,17,12,3,7,2,0,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/04/01,,Brechin,Albion Rvs,1,2,A,0,1,A,Alan Gemmill,5,9,1,5,24,13,3,8,1,5,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/04/01,,Cowdenbeath,East Fife,3,2,H,3,0,H,Gary Mitchell,7,7,5,2,6,11,7,9,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,17/04/01,,Peterhead,Montrose,1,1,D,1,1,D,Brian McGarry,9,15,5,5,16,13,3,8,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,18/11/00,,Brechin,Albion Rvs,2,1,H,1,0,H,Ian Brines,9,12,6,8,16,19,0,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,18/11/00,,Dumbarton,Montrose,1,0,H,1,0,H,G Evans,13,14,6,9,13,17,4,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,18/11/00,,East Stirling,Peterhead,1,3,A,0,2,A,Craig Thompson,14,11,6,9,11,14,4,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,18/11/00,,Elgin,East Fife,1,3,A,0,1,A,Alan Freeland,8,6,4,3,6,10,8,3,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,18/11/00,,Hamilton,Cowdenbeath,0,0,D,0,0,D,John Gilmore,12,11,6,4,14,13,4,5,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,19/08/00,,Albion Rvs,Elgin,1,1,D,0,1,A,Ian Brines,20,8,7,1,12,19,11,5,2,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,19/08/00,,Brechin,Cowdenbeath,0,0,D,0,0,D,Craig Thompson,13,9,6,4,18,12,4,2,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,19/08/00,,East Stirling,East Fife,2,5,A,2,0,H,Charlie Richmond,6,7,3,4,4,6,2,0,2,2,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,19/08/00,,Hamilton,Montrose,6,0,H,0,0,D,Alan Gemmill,13,9,8,2,10,6,4,5,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,19/08/00,,Peterhead,Dumbarton,2,0,H,1,0,H,Craig Thompson,13,9,8,5,15,15,5,7,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/01/01,,Hamilton,Peterhead,3,0,H,0,0,D,Cammy Melville,15,4,8,3,17,10,6,2,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/03/01,,Albion Rvs,Peterhead,0,1,A,0,0,D,Brian McGarry,17,8,9,4,11,14,4,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/03/01,,Brechin,Montrose,3,0,H,1,0,H,Mike Ritchie,11,9,9,5,13,7,6,6,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/03/01,,Cowdenbeath,Hamilton,1,1,D,1,1,D,Brian Cassidy,10,9,5,5,14,8,6,7,3,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/03/01,,East Fife,Elgin,1,1,D,1,0,H,John Rowbotham,9,12,5,6,12,16,7,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,20/03/01,,East Stirling,Dumbarton,0,0,D,0,0,D,Ian Brines,8,7,1,4,17,17,4,8,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/04/01,,Cowdenbeath,East Stirling,1,3,A,0,1,A,John Gilmore,14,8,7,6,7,12,9,1,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/04/01,,Dumbarton,Hamilton,1,2,A,1,1,D,Andy Davis,8,15,4,10,16,12,3,2,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/04/01,,East Fife,Albion Rvs,2,1,H,0,0,D,Steven Kaney,11,6,8,2,5,15,1,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/04/01,,Elgin,Brechin,0,3,A,0,3,A,David Somers,13,9,5,5,10,4,8,3,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/04/01,,Montrose,Peterhead,2,2,D,2,0,H,Eddie Mack,7,12,3,4,12,29,4,6,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/10/00,,Albion Rvs,Cowdenbeath,1,0,H,1,0,H,G P Thompson,11,8,7,4,16,21,3,10,3,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/10/00,,Brechin,Dumbarton,3,1,H,0,0,D,Douglas McDonald,15,9,10,2,11,14,4,8,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/10/00,,East Stirling,Montrose,1,2,A,0,2,A,Dougie Smith,10,13,4,9,5,9,6,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/10/00,,Hamilton,Elgin,4,1,H,1,0,H,George Clyde,12,4,4,2,10,12,8,8,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,21/10/00,,Peterhead,East Fife,0,0,D,0,0,D,Brian Cassidy,8,9,1,3,20,12,5,11,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/09/00,,Brechin,East Fife,3,1,H,2,1,H,Calum Murray,14,10,9,7,17,13,7,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/09/00,,Dumbarton,Cowdenbeath,2,4,A,1,1,D,Craig Thompson,14,10,5,6,10,14,8,4,3,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/09/00,,East Stirling,Albion Rvs,1,1,D,0,0,D,Tom Brown,15,13,7,7,21,17,2,9,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/09/00,,Elgin,Montrose,1,1,D,1,1,D,John Rowbotham,13,6,5,6,7,10,2,3,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/09/00,,Hamilton,Peterhead,3,0,H,2,0,H,Cammy Melville,12,3,6,1,8,8,6,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/12/00,,Albion Rvs,East Fife,1,2,A,0,1,A,Eddie Mack,9,9,3,5,16,11,4,5,5,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/12/00,,Cowdenbeath,Brechin,2,1,H,0,1,A,Dougie Smith,11,11,4,4,14,13,4,3,1,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,23/12/00,,Dumbarton,Peterhead,1,3,A,1,2,A,John Rowbotham,12,12,4,8,13,11,6,2,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/02/01,,Cowdenbeath,Albion Rvs,1,0,H,0,0,D,Alan Gemmill,8,9,4,3,13,18,5,7,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/02/01,,Dumbarton,Brechin,1,0,H,0,0,D,John Underhill,12,14,10,7,13,6,10,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/02/01,,East Fife,Peterhead,2,1,H,0,1,A,John Gilmore,5,6,2,2,17,11,8,1,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/02/01,,Montrose,East Stirling,1,1,D,0,0,D,Craig Thompson,11,7,3,3,14,16,5,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/03/01,,Brechin,East Stirling,5,1,H,3,1,H,Ian Frickleton,12,6,10,4,10,11,6,2,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/03/01,,Peterhead,Dumbarton,0,1,A,0,1,A,Mike Ritchie,10,15,4,7,9,11,3,8,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/04/01,,Montrose,Brechin,1,3,A,0,2,A,George Clyde,6,15,5,6,13,7,4,6,1,1,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,24/10/00,,Hamilton,East Stirling,4,0,H,2,0,H,Colin Hardie,19,3,10,1,12,12,6,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/03/01,,Albion Rvs,Hamilton,0,1,A,0,0,D,John Fleming,10,15,5,10,17,16,7,4,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/03/01,,Cowdenbeath,Elgin,1,0,H,0,0,D,Ian Frickleton,14,7,5,1,10,9,13,3,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/11/00,,Albion Rvs,Montrose,3,2,H,0,0,D,Ian Frickleton,17,9,10,5,11,13,3,7,5,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/11/00,,Brechin,Hamilton,0,0,D,0,0,D,Brian McGarry,11,9,5,5,12,7,2,6,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/11/00,,Cowdenbeath,Peterhead,2,0,H,0,0,D,Paul Barnes,15,6,6,4,9,6,12,3,1,2,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/11/00,,East Fife,Dumbarton,1,0,H,1,0,H,Craig MacKay,14,6,5,4,9,9,2,5,0,0,0,1,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,25/11/00,,Elgin,East Stirling,1,2,A,0,0,D,Gary Mitchell,9,10,4,5,8,6,2,7,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/08/00,,Albion Rvs,Dumbarton,0,1,A,0,1,A,Eddie Mack,13,8,3,4,18,14,5,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/08/00,,Cowdenbeath,Elgin,3,1,H,0,1,A,Steve Conroy,13,4,10,3,6,3,13,3,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/08/00,,East Stirling,Hamilton,0,0,D,0,0,D,Calum Murray,6,10,2,6,8,15,3,11,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/08/00,,Montrose,East Fife,0,1,A,0,0,D,Brian McGarry,18,10,12,5,16,16,8,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/08/00,,Peterhead,Brechin,1,2,A,1,1,D,Ian Frickleton,13,9,5,5,9,14,15,2,3,2,1,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,26/12/00,,East Fife,East Stirling,3,1,H,1,0,H,Eric Martindale,10,5,6,1,9,8,7,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,27/01/01,,Albion Rvs,Dumbarton,1,3,A,0,0,D,Craig Thompson,14,7,6,4,16,11,8,6,4,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,27/01/01,,East Stirling,Hamilton,1,4,A,1,1,D,John Rowbotham,7,18,3,9,7,7,1,6,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,27/03/01,,Brechin,Peterhead,1,1,D,0,0,D,Brian Cassidy,6,14,2,7,13,13,0,10,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,27/03/01,,East Fife,Hamilton,1,4,A,1,0,H,Craig Thompson,7,7,3,5,16,12,1,10,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,27/03/01,,Montrose,Dumbarton,1,2,A,0,0,D,Craig MacKay,15,9,7,6,7,7,7,8,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/03/01,,Elgin,Albion Rvs,1,2,A,1,1,D,Brian Cassidy,4,4,2,3,8,6,5,5,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/04/01,,Albion Rvs,Cowdenbeath,0,0,D,0,0,D,Calum Murray,12,5,5,3,13,18,10,5,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/04/01,,Brechin,Dumbarton,1,0,H,1,0,H,Craig Thompson,10,8,5,2,18,15,8,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/04/01,,East Stirling,Montrose,0,1,A,0,1,A,Eddie Mack,5,7,1,2,12,9,5,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/04/01,,Hamilton,Elgin,3,0,H,1,0,H,Tom Brown,11,5,6,2,11,15,8,4,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/04/01,,Peterhead,East Fife,2,1,H,1,1,D,Mike Ritchie,15,16,9,11,13,18,6,2,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/10/00,,Brechin,Peterhead,3,2,H,2,1,H,John Gilmore,12,14,8,6,12,10,4,5,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/10/00,,Dumbarton,Albion Rvs,0,1,A,0,1,A,Steve Conroy,7,9,2,4,19,10,9,1,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/10/00,,East Fife,Montrose,3,1,H,1,0,H,C Hunter,5,3,3,1,11,11,4,2,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,28/10/00,,Elgin,Cowdenbeath,2,3,A,2,2,D,Tom Brown,10,9,6,6,3,9,6,10,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/09/00,,Albion Rvs,Peterhead,0,0,D,0,0,D,Calum Murray,10,4,1,1,13,20,4,4,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/09/00,,Brechin,East Stirling,4,1,H,1,0,H,Alan Freeland,11,7,7,2,10,5,2,9,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/09/00,,Cowdenbeath,Montrose,2,0,H,0,0,D,Charlie Richmond,13,3,5,1,9,7,7,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/09/00,,East Fife,Hamilton,1,2,A,0,0,D,Steve Conroy,11,14,3,5,19,21,3,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/09/00,,Elgin,Dumbarton,2,0,H,0,0,D,Brian McGarry,9,9,4,3,12,12,4,2,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,30/12/00,,Peterhead,Brechin,0,2,A,0,2,A,Kevin Toner,12,16,5,4,11,12,6,3,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,31/03/01,,Dumbarton,Montrose,1,2,A,1,1,D,Dougie Smith,5,5,2,3,13,16,9,4,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,31/03/01,,East Stirling,Peterhead,1,0,H,0,0,D,John Fleming,10,9,3,2,14,13,1,3,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,31/03/01,,Elgin,East Fife,1,3,A,1,3,A,Colin Hardie,6,6,1,3,11,8,5,4,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇乙
+SC3,31/03/01,,Hamilton,Cowdenbeath,0,0,D,0,0,D,Ian Frickleton,11,6,3,3,14,15,4,6,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇乙

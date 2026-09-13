@@ -1,0 +1,181 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,B365H,B365D,B365A,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA,B365>2.5,B365<2.5,Avg>2.5,Avg<2.5,AHh,AvgAHH,AvgAHA,season,league_zh
+SC2,01/05/01,,Forfar,Queen of Sth,3,1,H,0,1,A,Craig MacKay,9,7,4,2,8,12,5,2,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/01/01,,Arbroath,Forfar,1,1,D,0,0,D,Steven Kaney,8,12,3,3,16,12,4,5,5,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/01/01,,Berwick,Clydebank,1,2,A,1,1,D,Colin Hardie,9,12,2,5,14,16,0,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/01/01,,Queen of Sth,Stranraer,2,3,A,1,2,A,Brian Cassidy,12,14,6,11,14,11,9,3,1,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/01/01,,Queens Park,Partick,0,2,A,0,2,A,Ian Frickleton,3,14,3,7,10,12,4,9,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/01/01,,Stenhousemuir,Stirling,1,1,D,0,1,A,Alan Gemmill,20,15,8,5,19,25,5,7,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/12/00,,Forfar,Partick,0,1,A,0,0,D,Bobby Orr,5,7,2,4,9,10,3,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/12/00,,Queen of Sth,Arbroath,1,1,D,0,0,D,Eric Martindale,9,4,3,4,9,12,4,5,0,2,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/12/00,,Stenhousemuir,Queens Park,1,1,D,1,0,H,Charlie Richmond,10,13,5,8,10,7,4,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,02/12/00,,Stirling,Berwick,1,1,D,0,0,D,Steve Conroy,12,6,3,4,12,18,6,5,4,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/02/01,,Queen of Sth,Partick,1,3,A,1,1,D,Bobby Orr,10,18,7,9,14,12,5,10,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/02/01,,Stenhousemuir,Stranraer,2,2,D,0,1,A,Ian Frickleton,13,5,5,3,14,19,5,5,1,4,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/02/01,,Stirling,Arbroath,1,1,D,0,0,D,Ian Brines,7,12,5,4,19,15,4,12,2,1,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/03/01,,Partick,Queens Park,2,1,H,1,1,D,Steve Conroy,16,3,7,2,6,7,7,3,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/04/01,,Forfar,Berwick,0,1,A,0,0,D,Ian Frickleton,7,8,4,5,12,18,4,1,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/04/01,,Stirling,Stenhousemuir,0,0,D,0,0,D,Craig Thompson,10,10,4,4,14,9,2,7,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,03/04/01,,Stranraer,Queen of Sth,2,0,H,1,0,H,Dougie Smith,9,7,5,1,15,17,4,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,04/11/00,,Clydebank,Berwick,0,1,A,0,0,D,Alan Gemmill,8,9,4,1,14,19,11,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,04/11/00,,Forfar,Arbroath,0,1,A,0,0,D,David Somers,12,10,4,5,17,12,4,5,5,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,04/11/00,,Partick,Queens Park,2,1,H,2,1,H,Cammy Melville,10,7,4,2,10,11,6,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,04/11/00,,Stirling,Stenhousemuir,2,3,A,1,0,H,Stuart Dougal,13,9,4,4,14,14,8,4,2,5,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,04/11/00,,Stranraer,Queen of Sth,3,2,H,2,2,D,Colin Hardie,13,6,7,3,11,16,4,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/05/01,,Berwick,Stranraer,0,2,A,0,2,A,Tom Brown,10,8,6,4,11,21,5,7,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/05/01,,Clydebank,Arbroath,3,1,H,1,0,H,Craig Thompson,14,12,9,7,15,10,6,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/05/01,,Forfar,Stirling,3,1,H,2,0,H,David Somers,8,4,4,3,7,10,7,6,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/05/01,,Partick,Stenhousemuir,4,0,H,0,0,D,George Clyde,10,4,7,1,8,9,7,2,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/05/01,,Queen of Sth,Queens Park,0,1,A,0,1,A,Dougie Smith,7,9,2,4,12,6,6,6,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/08/00,,Arbroath,Partick,1,1,D,1,1,D,Mike Ritchie,8,7,4,3,10,6,3,2,3,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/08/00,,Queens Park,Berwick,1,0,H,0,0,D,Cammy Melville,13,5,8,0,16,20,8,3,2,2,0,2,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/08/00,,Stenhousemuir,Queen of Sth,4,3,H,3,0,H,Bobby Orr,13,13,9,8,24,16,9,4,2,0,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/08/00,,Stirling,Clydebank,2,2,D,1,2,A,Kenny Clark,13,14,5,10,12,18,5,5,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/08/00,,Stranraer,Forfar,2,0,H,0,0,D,Brian Cassidy,6,5,5,3,9,14,8,6,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,05/12/00,,Clydebank,Stranraer,2,3,A,2,2,D,David Somers,14,11,7,5,16,17,1,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,06/01/01,,Forfar,Stenhousemuir,7,0,H,4,0,H,Brian McGarry,11,7,8,4,6,4,4,14,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,06/03/01,,Stenhousemuir,Queen of Sth,1,2,A,0,0,D,Gary Mitchell,10,12,7,5,11,12,4,9,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,06/03/01,,Stranraer,Clydebank,0,0,D,0,0,D,Charlie Richmond,8,10,4,3,11,15,2,3,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/04/01,,Arbroath,Stirling,1,1,D,1,0,H,Eric Martindale,13,8,6,5,8,12,5,2,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/04/01,,Berwick,Forfar,1,0,H,0,0,D,George Clyde,7,19,4,9,16,8,2,9,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/04/01,,Partick,Queen of Sth,0,2,A,0,1,A,Brian Cassidy,7,12,2,5,18,9,5,3,1,3,3,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/04/01,,Queens Park,Clydebank,0,0,D,0,0,D,Tom Brown,4,6,2,1,11,13,3,4,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/04/01,,Stranraer,Stenhousemuir,2,1,H,0,0,D,Alan Gemmill,12,13,6,6,11,15,8,8,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/10/00,,Clydebank,Queens Park,2,0,H,1,0,H,John Underhill,8,5,5,1,14,9,3,7,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/10/00,,Forfar,Berwick,3,5,A,1,3,A,John Fleming,8,10,3,5,20,23,6,1,4,2,2,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/10/00,,Queen of Sth,Partick,1,2,A,0,1,A,George Clyde,11,17,5,9,12,9,9,7,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/10/00,,Stenhousemuir,Stranraer,1,2,A,0,0,D,Cammy Melville,16,12,7,5,8,16,6,8,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,07/10/00,,Stirling,Arbroath,0,0,D,0,0,D,Dougie Smith,8,12,2,6,14,15,9,5,3,3,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,09/09/00,,Arbroath,Forfar,3,4,A,0,3,A,Craig MacKay,12,14,9,9,9,10,8,2,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,09/09/00,,Berwick,Clydebank,3,1,H,0,0,D,Brian Cassidy,13,9,7,2,24,17,4,5,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,09/09/00,,Queen of Sth,Stranraer,1,4,A,0,1,A,David Somers,17,8,10,6,8,15,8,3,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,09/09/00,,Queens Park,Partick,0,1,A,0,0,D,Eric Martindale,11,12,4,5,9,11,3,2,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,09/09/00,,Stenhousemuir,Stirling,0,2,A,0,0,D,Steven Kaney,12,10,7,4,11,11,9,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/02/01,,Partick,Forfar,4,0,H,0,0,D,Calum Murray,17,6,9,3,10,6,5,4,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/02/01,,Queens Park,Stenhousemuir,1,2,A,0,0,D,Gary Mitchell,10,9,5,4,7,14,7,4,1,2,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/03/01,,Arbroath,Stranraer,2,1,H,2,0,H,John Fleming,11,11,7,4,12,10,3,1,0,1,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/03/01,,Berwick,Partick,0,1,A,0,0,D,Tom Murphy,19,11,9,3,16,17,7,5,3,2,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/03/01,,Queen of Sth,Clydebank,1,0,H,1,0,H,Eric Martindale,9,8,4,3,17,15,6,6,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/03/01,,Queens Park,Stirling,1,1,D,0,0,D,Craig Thompson,8,7,3,2,12,11,4,3,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/03/01,,Stenhousemuir,Forfar,0,1,A,0,0,D,Dougie Smith,6,6,3,1,11,19,3,1,0,5,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/04/01,,Clydebank,Berwick,2,2,D,1,0,H,John Gilmore,9,8,5,4,17,15,5,8,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,10/04/01,,Forfar,Stirling,1,0,H,0,0,D,Colin Hardie,14,3,7,1,15,13,4,8,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,11/11/00,,Arbroath,Queens Park,2,2,D,1,1,D,Mike Ritchie,13,8,6,5,9,7,8,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,11/11/00,,Berwick,Stenhousemuir,4,1,H,2,0,H,Ian Brines,19,13,11,2,21,12,3,5,0,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,11/11/00,,Forfar,Queen of Sth,0,1,A,0,0,D,Ian Frickleton,4,5,2,2,12,12,5,5,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,11/11/00,,Partick,Clydebank,2,0,H,1,0,H,Brian Cassidy,8,9,4,4,18,13,7,12,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,11/11/00,,Stranraer,Stirling,1,1,D,0,1,A,Brian McGarry,14,10,4,6,12,13,3,10,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,12/08/00,,Berwick,Arbroath,2,1,H,2,1,H,John Underhill,17,14,7,7,14,14,3,9,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,12/08/00,,Clydebank,Stenhousemuir,1,0,H,0,0,D,Kevin Toner,9,9,4,2,13,12,6,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,12/08/00,,Forfar,Queens Park,0,1,A,0,0,D,Ian Frickleton,7,7,3,4,17,13,3,5,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,12/08/00,,Partick,Stranraer,2,1,H,1,0,H,Steven Kaney,14,5,9,2,11,10,8,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,12/08/00,,Queen of Sth,Stirling,0,0,D,0,0,D,Colin Hardie,12,11,3,2,10,17,3,5,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/01/01,,Arbroath,Stenhousemuir,5,0,H,2,0,H,John Fleming,16,7,9,1,10,7,4,6,1,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/01/01,,Partick,Stirling,1,1,D,0,1,A,Eddie Mack,16,5,7,5,9,15,17,1,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/01/01,,Stranraer,Queens Park,0,1,A,0,0,D,Eric Martindale,3,13,0,5,9,17,8,8,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/02/01,,Clydebank,Partick,0,4,A,0,0,D,Cammy Melville,9,12,3,8,13,16,3,5,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/03/01,,Clydebank,Queen of Sth,1,2,A,1,0,H,I. M. Fyfe,4,8,3,6,20,19,3,3,6,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/03/01,,Forfar,Queens Park,3,0,H,0,0,D,Alan Freeland,9,6,6,2,9,12,7,4,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/03/01,,Stenhousemuir,Berwick,0,2,A,0,2,A,G P Thompson,15,8,6,4,12,18,9,3,2,4,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,13/03/01,,Stirling,Stranraer,0,1,A,0,0,D,George Clyde,8,13,1,10,9,14,1,8,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/04/01,,Clydebank,Stranraer,0,0,D,0,0,D,Kevin Toner,10,7,7,5,7,9,3,7,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/04/01,,Forfar,Partick,2,2,D,2,1,H,Craig MacKay,7,8,4,3,18,11,4,7,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/04/01,,Queen of Sth,Arbroath,1,0,H,0,0,D,John Gilmore,6,8,2,5,8,14,3,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/04/01,,Stenhousemuir,Queens Park,2,0,H,1,0,H,Colin Hardie,12,6,5,1,21,21,5,3,2,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/04/01,,Stirling,Berwick,1,0,H,0,0,D,Steven Kaney,6,10,3,3,14,14,0,7,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/10/00,,Berwick,Queens Park,1,1,D,0,1,A,Calum Murray,16,8,8,5,24,18,3,5,1,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/10/00,,Clydebank,Stirling,3,0,H,2,0,H,Bobby Orr,17,11,8,6,12,16,3,12,0,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/10/00,,Forfar,Stranraer,0,0,D,0,0,D,Craig MacKay,7,9,5,5,7,12,5,7,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/10/00,,Partick,Arbroath,1,1,D,0,0,D,John Rowbotham,11,6,2,2,17,14,8,0,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,14/10/00,,Queen of Sth,Stenhousemuir,4,2,H,2,0,H,Craig Thompson,18,10,7,5,15,18,3,5,2,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/09/00,,Arbroath,Stenhousemuir,3,0,H,1,0,H,Colin Hardie,9,4,5,3,7,4,4,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/09/00,,Berwick,Queen of Sth,0,4,A,0,2,A,Ian Frickleton,11,8,1,7,15,18,3,12,2,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/09/00,,Forfar,Clydebank,0,2,A,0,2,A,Gary Mitchell,1,5,0,3,6,8,5,3,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/09/00,,Partick,Stirling,3,1,H,1,0,H,Cammy Melville,24,13,16,6,15,13,4,6,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/09/00,,Stranraer,Queens Park,3,0,H,0,0,D,Bobby Orr,6,5,4,2,12,10,3,4,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/12/00,,Arbroath,Partick,1,1,D,1,0,H,Alan Gemmill,11,9,4,3,16,17,4,4,3,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/12/00,,Queens Park,Berwick,0,2,A,0,0,D,Steven Kaney,7,6,5,5,14,9,3,4,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/12/00,,Stirling,Clydebank,0,0,D,0,0,D,George Clyde,9,10,4,5,10,15,6,6,3,0,0,2,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,16/12/00,,Stranraer,Forfar,3,1,H,1,1,D,Kevin Toner,11,6,7,5,12,9,3,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/02/01,,Arbroath,Clydebank,4,2,H,2,2,D,Craig MacKay,8,8,7,6,16,10,4,1,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/02/01,,Queens Park,Queen of Sth,1,2,A,1,0,H,I. M. Fyfe,4,8,3,4,9,13,4,5,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/02/01,,Stenhousemuir,Partick,2,0,H,1,0,H,Colin Hardie,17,11,8,5,16,17,2,9,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/02/01,,Stranraer,Berwick,1,1,D,0,1,A,Steve Conroy,17,9,13,7,4,12,6,9,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/03/01,,Arbroath,Queens Park,2,0,H,1,0,H,Ian Frickleton,12,4,7,2,9,12,9,6,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/03/01,,Berwick,Stenhousemuir,1,0,H,1,0,H,David Somers,13,7,6,5,15,22,2,5,2,4,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/03/01,,Partick,Clydebank,2,0,H,0,0,D,I. M. Fyfe,13,2,7,1,15,9,11,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/03/01,,Queen of Sth,Forfar,2,3,A,1,1,D,Alan Gemmill,13,12,7,8,12,14,3,4,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/03/01,,Stranraer,Stirling,0,3,A,0,1,A,Ian Brines,4,14,2,8,13,13,5,4,3,2,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,17/04/01,,Berwick,Arbroath,1,0,H,0,0,D,Brian Cassidy,7,7,4,3,20,18,3,8,3,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,18/11/00,,Clydebank,Forfar,1,1,D,1,1,D,Tom Brown,10,10,4,2,11,22,6,5,3,3,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,18/11/00,,Queen of Sth,Berwick,2,1,H,2,0,H,I. M. Fyfe,9,10,3,5,12,15,9,13,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,18/11/00,,Queens Park,Stranraer,1,2,A,1,0,H,Eddie Mack,8,6,2,3,10,10,4,7,2,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,18/11/00,,Stenhousemuir,Arbroath,3,1,H,0,1,A,Cammy Melville,9,11,6,6,17,20,8,10,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,18/11/00,,Stirling,Partick,1,1,D,0,1,A,John Fleming,7,13,4,4,7,14,7,6,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,19/08/00,,Arbroath,Clydebank,1,0,H,1,0,H,John Fleming,8,6,5,3,11,11,8,3,0,5,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,19/08/00,,Queens Park,Queen of Sth,1,0,H,1,0,H,Alan Gemmill,9,12,3,3,9,9,5,9,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,19/08/00,,Stenhousemuir,Partick,4,0,H,3,0,H,Gary Mitchell,12,28,6,14,15,13,6,12,3,0,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,19/08/00,,Stirling,Forfar,3,3,D,2,2,D,Eric Martindale,12,14,5,8,11,22,7,5,3,2,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,19/08/00,,Stranraer,Berwick,2,2,D,0,0,D,Brian McGarry,12,11,6,6,13,21,7,2,4,4,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,20/01/01,,Queens Park,Arbroath,1,1,D,1,1,D,Craig Thompson,11,8,6,2,14,14,8,3,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,20/03/01,,Arbroath,Queen of Sth,5,2,H,1,1,D,Alan Gemmill,13,6,9,5,7,13,6,4,1,4,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,20/03/01,,Berwick,Stranraer,1,1,D,1,1,D,Tom Brown,16,6,7,2,10,12,7,6,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,20/03/01,,Clydebank,Queens Park,2,1,H,1,0,H,Dougie Smith,8,9,2,3,9,13,5,2,2,0,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,20/03/01,,Stirling,Forfar,1,0,H,0,0,D,John Gilmore,3,13,2,5,8,11,5,9,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/04/01,,Berwick,Queens Park,1,0,H,1,0,H,Steve Conroy,20,6,12,2,12,18,7,2,1,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/04/01,,Clydebank,Stirling,1,1,D,0,0,D,Calum Murray,9,11,5,4,12,15,1,8,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/04/01,,Forfar,Stranraer,2,3,A,2,0,H,Craig Thompson,11,8,5,5,14,12,4,2,3,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/04/01,,Partick,Arbroath,0,1,A,0,0,D,Charlie Richmond,9,8,3,4,7,13,6,4,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/04/01,,Queen of Sth,Stenhousemuir,1,3,A,1,1,D,Craig Thompson,7,14,4,9,13,8,3,8,2,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/10/00,,Arbroath,Berwick,0,2,A,0,1,A,Tom Brown,4,7,2,5,10,19,9,6,4,5,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/10/00,,Queens Park,Forfar,0,0,D,0,0,D,John Gilmore,7,10,3,5,11,17,4,9,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/10/00,,Stenhousemuir,Clydebank,2,1,H,0,1,A,Steve Conroy,14,9,7,5,10,12,3,6,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/10/00,,Stirling,Queen of Sth,0,1,A,0,0,D,Eddie Mack,10,11,4,6,11,6,5,3,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,21/10/00,,Stranraer,Partick,0,3,A,0,1,A,Martin Doran,2,13,1,6,10,16,4,12,2,2,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/09/00,,Clydebank,Partick,2,1,H,0,0,D,Hugh Dallas,18,10,9,5,20,18,5,5,0,2,1,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/09/00,,Queen of Sth,Forfar,0,1,A,0,1,A,Brian Cassidy,9,9,4,3,16,18,3,4,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/09/00,,Queens Park,Arbroath,0,0,D,0,0,D,Brian McGarry,7,7,3,4,16,14,3,6,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/09/00,,Stenhousemuir,Berwick,2,0,H,2,0,H,Ian Frickleton,17,8,10,0,19,16,6,9,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/09/00,,Stirling,Stranraer,2,0,H,2,0,H,John Fleming,11,14,4,4,13,9,7,2,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/12/00,,Clydebank,Arbroath,1,2,A,0,1,A,John Underhill,6,15,3,8,10,14,2,4,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,23/12/00,,Queen of Sth,Queens Park,1,1,D,1,1,D,George Clyde,9,7,5,5,10,9,3,6,3,2,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,24/02/01,,Partick,Stranraer,3,0,H,2,0,H,G P Thompson,12,5,7,3,11,7,6,0,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,24/02/01,,Queen of Sth,Stirling,2,1,H,2,0,H,Charlie Richmond,14,4,8,3,11,11,12,2,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,24/03/01,,Stirling,Queens Park,0,2,A,0,1,A,Bobby Orr,11,8,6,4,9,12,4,4,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,24/04/01,,Forfar,Arbroath,1,1,D,1,1,D,Douglas McDonald,10,7,4,4,14,14,7,6,2,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/03/01,,Berwick,Queen of Sth,2,2,D,1,0,H,Alan Gemmill,17,8,6,4,13,16,4,2,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/03/01,,Stranraer,Arbroath,0,1,A,0,0,D,Dougie Smith,10,9,8,2,9,13,7,4,3,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/11/00,,Arbroath,Stirling,3,2,H,1,2,A,John Rowbotham,9,13,5,5,10,11,3,5,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/11/00,,Berwick,Forfar,1,1,D,1,1,D,Craig Thompson,11,7,3,6,14,18,4,3,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/11/00,,Partick,Queen of Sth,2,1,H,2,1,H,Dougie Smith,19,9,10,5,7,9,4,3,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/11/00,,Queens Park,Clydebank,1,1,D,1,1,D,Craig Thompson,9,9,2,4,7,8,1,3,0,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,25/11/00,,Stranraer,Stenhousemuir,1,4,A,0,1,A,John Gilmore,9,10,2,8,11,10,6,2,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/08/00,,Clydebank,Queen of Sth,1,2,A,1,1,D,Dougie Smith,10,11,6,4,17,23,9,8,0,5,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/08/00,,Forfar,Stenhousemuir,2,2,D,1,2,A,Alan Freeland,9,9,3,4,10,12,8,4,4,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/08/00,,Partick,Berwick,1,1,D,0,1,A,Campell Carson,10,10,3,4,13,14,8,4,1,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/08/00,,Stirling,Queens Park,0,1,A,0,1,A,Craig MacKay,9,11,3,6,12,19,3,9,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/08/00,,Stranraer,Arbroath,2,1,H,1,0,H,George Clyde,7,7,3,4,10,12,1,11,2,2,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,26/12/00,,Partick,Stenhousemuir,3,0,H,0,0,D,Craig MacKay,10,5,6,4,12,18,8,1,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,27/01/01,,Forfar,Clydebank,1,3,A,0,2,A,Brian McGarry,15,18,7,9,11,7,7,8,2,0,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,27/03/01,,Clydebank,Stenhousemuir,1,0,H,1,0,H,Eddie Mack,4,5,3,4,10,10,0,7,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/03/01,,Berwick,Stirling,4,1,H,3,1,H,Cammy Melville,21,4,11,2,11,29,9,2,0,2,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/04/01,,Arbroath,Berwick,2,0,H,0,0,D,Eddie Mack,15,7,9,4,9,14,5,2,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/04/01,,Queens Park,Forfar,0,2,A,0,0,D,John Gilmore,10,14,2,7,11,7,2,9,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/04/01,,Stenhousemuir,Clydebank,0,0,D,0,0,D,Gary Mitchell,10,8,8,2,9,15,6,0,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/04/01,,Stirling,Queen of Sth,1,1,D,0,1,A,John Rowbotham,10,11,5,6,9,7,9,3,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/04/01,,Stranraer,Partick,3,4,A,3,1,H,David Doig,13,18,7,12,13,12,4,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/10/00,,Arbroath,Stranraer,1,1,D,1,0,H,Steven Kaney,5,6,3,3,13,12,8,3,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/10/00,,Berwick,Partick,1,2,A,1,1,D,Brian McGarry,6,12,2,7,12,10,10,4,2,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/10/00,,Queen of Sth,Clydebank,1,1,D,1,0,H,A Roy,13,6,8,3,16,8,3,8,2,2,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/10/00,,Queens Park,Stirling,3,0,H,0,0,D,Gary Mitchell,7,5,5,2,14,11,11,5,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,28/10/00,,Stenhousemuir,Forfar,2,0,H,1,0,H,Mike Ritchie,11,11,6,7,12,10,8,8,1,1,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/09/00,,Arbroath,Queen of Sth,2,0,H,1,0,H,Alan Gemmill,10,6,7,2,9,10,4,2,2,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/09/00,,Berwick,Stirling,2,2,D,2,0,H,Colin Hardie,17,11,10,6,13,8,10,5,0,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/09/00,,Partick,Forfar,1,1,D,0,0,D,Steven Kaney,15,6,7,4,12,11,6,2,1,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/09/00,,Queens Park,Stenhousemuir,2,0,H,0,0,D,Kevin Toner,13,3,6,2,5,11,10,3,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/09/00,,Stranraer,Clydebank,0,2,A,0,1,A,Campell Carson,5,10,4,5,6,17,4,5,1,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,30/12/00,,Partick,Berwick,1,1,D,1,0,H,Eric Martindale,17,12,6,5,14,13,13,1,2,3,0,1,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,31/03/01,,Clydebank,Forfar,2,1,H,1,0,H,Eddie Mack,8,6,3,2,9,12,7,7,2,4,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,31/03/01,,Queen of Sth,Berwick,3,3,D,1,1,D,Bobby Orr,13,13,8,8,12,12,6,7,0,0,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,31/03/01,,Queens Park,Stranraer,1,0,H,0,0,D,W Crombie,8,8,4,3,16,12,5,4,1,1,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,31/03/01,,Stenhousemuir,Arbroath,0,1,A,0,0,D,Brian McGarry,8,14,5,1,20,12,8,10,1,3,0,0,,,,,,,,,,,,,,,,,2000,蘇甲
+SC2,31/03/01,,Stirling,Partick,0,3,A,0,1,A,Cammy Melville,9,7,3,4,20,18,2,5,2,1,1,0,,,,,,,,,,,,,,,,,2000,蘇甲
