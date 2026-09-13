@@ -1,0 +1,39 @@
+{
+  "files": {
+    "2025_E0": {
+      "rows": 380,
+      "div": "E0",
+      "season": 2025,
+      "league_zh": "英超",
+      "last_success": "2026-09-13T07:57:52+00:00"
+    },
+    "2025_D1": {
+      "rows": 306,
+      "div": "D1",
+      "season": 2025,
+      "league_zh": "德甲",
+      "last_success": "2026-09-13T07:57:52+00:00"
+    },
+    "2026_E0": {
+      "rows": 30,
+      "div": "E0",
+      "season": 2026,
+      "league_zh": "英超",
+      "last_success": "2026-09-13T07:57:52+00:00"
+    },
+    "2026_D1": {
+      "rows": 18,
+      "div": "D1",
+      "season": 2026,
+      "league_zh": "德甲",
+      "last_success": "2026-09-13T07:57:53+00:00"
+    }
+  },
+  "source": "football-data.co.uk (official CSV)",
+  "market_beta": 0,
+  "note": "賠率欄只入 with_odds 對照軌，永不進入排名主軌",
+  "last_run": "2026-09-13T07:57:53+00:00",
+  "last_run_ok": 4,
+  "last_run_fail": 0,
+  "last_run_rows": 734
+}
