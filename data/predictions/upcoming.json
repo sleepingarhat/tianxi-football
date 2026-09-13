@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-13T18:13:53+00:00",
+  "generated_at": "2026-09-13T23:11:51+00:00",
   "engine": "TX-Football S3+S2 在線混合（S4 LGB／S5 集成推論未接入）",
-  "fingerprint": "03bf463c9301-4a1f8e37873a-197871",
+  "fingerprint": "03bf463c9301-7aa7fc4308c7-197871",
   "history_matches": 197871,
   "history_last_date": "2026-09-10",
   "fixtures_count": 190,
@@ -11858,7 +11858,7 @@
    "time_uk": "19:45",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.393,
     0.257,
@@ -11926,7 +11926,7 @@
    "time_uk": "19:45",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3783,
     0.2796,
@@ -11994,7 +11994,7 @@
    "time_uk": "20:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4189,
     0.2691,
@@ -12062,7 +12062,7 @@
    "time_uk": "20:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4107,
     0.2912,
@@ -12130,7 +12130,7 @@
    "time_uk": "20:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3094,
     0.267,
