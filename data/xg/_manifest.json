@@ -1,0 +1,464 @@
+{
+ "fail": [],
+ "files": {
+  "2014_Bundesliga": {
+   "fetched_at": "2026-09-13T11:49:52+00:00",
+   "first": "2014-08-22",
+   "last": "2015-05-23",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2014_EPL": {
+   "fetched_at": "2026-09-13T11:49:00+00:00",
+   "first": "2014-08-16",
+   "last": "2015-05-24",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2014_La_liga": {
+   "fetched_at": "2026-09-13T11:49:26+00:00",
+   "first": "2014-08-23",
+   "last": "2015-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2014_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:41+00:00",
+   "first": "2014-08-08",
+   "last": "2015-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2014_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:16+00:00",
+   "first": "2014-08-30",
+   "last": "2015-05-31",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2015_Bundesliga": {
+   "fetched_at": "2026-09-13T11:49:54+00:00",
+   "first": "2015-08-14",
+   "last": "2016-05-14",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2015_EPL": {
+   "fetched_at": "2026-09-13T11:49:02+00:00",
+   "first": "2015-08-08",
+   "last": "2016-05-17",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2015_La_liga": {
+   "fetched_at": "2026-09-13T11:49:28+00:00",
+   "first": "2015-08-21",
+   "last": "2016-05-15",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2015_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:43+00:00",
+   "first": "2015-08-07",
+   "last": "2016-05-14",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2015_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:18+00:00",
+   "first": "2015-08-22",
+   "last": "2016-05-15",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2016_Bundesliga": {
+   "fetched_at": "2026-09-13T11:49:56+00:00",
+   "first": "2016-08-26",
+   "last": "2017-05-20",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2016_EPL": {
+   "fetched_at": "2026-09-13T11:49:04+00:00",
+   "first": "2016-08-13",
+   "last": "2017-05-21",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2016_La_liga": {
+   "fetched_at": "2026-09-13T11:49:30+00:00",
+   "first": "2016-08-19",
+   "last": "2017-05-21",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2016_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:45+00:00",
+   "first": "2016-08-12",
+   "last": "2017-05-20",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2016_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:20+00:00",
+   "first": "2016-08-20",
+   "last": "2017-05-28",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2017_Bundesliga": {
+   "fetched_at": "2026-09-13T11:49:58+00:00",
+   "first": "2017-08-18",
+   "last": "2018-05-12",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2017_EPL": {
+   "fetched_at": "2026-09-13T11:49:06+00:00",
+   "first": "2017-08-11",
+   "last": "2018-05-13",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2017_La_liga": {
+   "fetched_at": "2026-09-13T11:49:32+00:00",
+   "first": "2017-08-18",
+   "last": "2018-05-20",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2017_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:46+00:00",
+   "first": "2017-08-04",
+   "last": "2018-05-19",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2017_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:22+00:00",
+   "first": "2017-08-19",
+   "last": "2018-05-20",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2018_Bundesliga": {
+   "fetched_at": "2026-09-13T11:49:59+00:00",
+   "first": "2018-08-24",
+   "last": "2019-05-18",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2018_EPL": {
+   "fetched_at": "2026-09-13T11:49:08+00:00",
+   "first": "2018-08-10",
+   "last": "2019-05-12",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2018_La_liga": {
+   "fetched_at": "2026-09-13T11:49:34+00:00",
+   "first": "2018-08-17",
+   "last": "2019-05-19",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2018_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:48+00:00",
+   "first": "2018-08-10",
+   "last": "2019-05-24",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2018_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:23+00:00",
+   "first": "2018-08-18",
+   "last": "2019-05-26",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2019_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:01+00:00",
+   "first": "2019-08-16",
+   "last": "2020-06-27",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2019_EPL": {
+   "fetched_at": "2026-09-13T11:49:10+00:00",
+   "first": "2019-08-09",
+   "last": "2020-07-26",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2019_La_liga": {
+   "fetched_at": "2026-09-13T11:49:36+00:00",
+   "first": "2019-08-16",
+   "last": "2020-07-19",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2019_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:50+00:00",
+   "first": "2019-08-09",
+   "last": "2020-03-08",
+   "rows": 279,
+   "unmapped_rows": 0
+  },
+  "2019_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:25+00:00",
+   "first": "2019-08-24",
+   "last": "2020-08-02",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2020_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:03+00:00",
+   "first": "2020-09-18",
+   "last": "2021-05-22",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2020_EPL": {
+   "fetched_at": "2026-09-13T11:49:12+00:00",
+   "first": "2020-09-12",
+   "last": "2021-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2020_La_liga": {
+   "fetched_at": "2026-09-13T11:49:38+00:00",
+   "first": "2020-09-12",
+   "last": "2021-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2020_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:52+00:00",
+   "first": "2020-08-21",
+   "last": "2021-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2020_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:27+00:00",
+   "first": "2020-09-19",
+   "last": "2021-05-23",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2021_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:05+00:00",
+   "first": "2021-08-13",
+   "last": "2022-05-14",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2021_EPL": {
+   "fetched_at": "2026-09-13T11:49:14+00:00",
+   "first": "2021-08-13",
+   "last": "2022-05-22",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2021_La_liga": {
+   "fetched_at": "2026-09-13T11:49:41+00:00",
+   "first": "2021-08-13",
+   "last": "2022-05-22",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2021_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:54+00:00",
+   "first": "2021-08-06",
+   "last": "2022-05-21",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2021_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:29+00:00",
+   "first": "2021-08-21",
+   "last": "2022-05-22",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2022_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:07+00:00",
+   "first": "2022-08-05",
+   "last": "2023-05-27",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2022_EPL": {
+   "fetched_at": "2026-09-13T11:49:16+00:00",
+   "first": "2022-08-05",
+   "last": "2023-05-28",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2022_La_liga": {
+   "fetched_at": "2026-09-13T11:49:43+00:00",
+   "first": "2022-08-12",
+   "last": "2023-06-04",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2022_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:56+00:00",
+   "first": "2022-08-05",
+   "last": "2023-06-03",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2022_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:31+00:00",
+   "first": "2022-08-13",
+   "last": "2023-06-04",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2023_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:09+00:00",
+   "first": "2023-08-18",
+   "last": "2024-05-18",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2023_EPL": {
+   "fetched_at": "2026-09-13T11:49:18+00:00",
+   "first": "2023-08-11",
+   "last": "2024-05-19",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2023_La_liga": {
+   "fetched_at": "2026-09-13T11:49:45+00:00",
+   "first": "2023-08-11",
+   "last": "2024-05-26",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2023_Ligue_1": {
+   "fetched_at": "2026-09-13T11:50:58+00:00",
+   "first": "2023-08-12",
+   "last": "2024-05-19",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2023_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:33+00:00",
+   "first": "2023-08-19",
+   "last": "2024-06-02",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2024_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:10+00:00",
+   "first": "2024-08-23",
+   "last": "2025-05-17",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2024_EPL": {
+   "fetched_at": "2026-09-13T11:49:20+00:00",
+   "first": "2024-08-16",
+   "last": "2025-05-25",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2024_La_liga": {
+   "fetched_at": "2026-09-13T11:49:47+00:00",
+   "first": "2024-08-15",
+   "last": "2025-05-25",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2024_Ligue_1": {
+   "fetched_at": "2026-09-13T11:51:00+00:00",
+   "first": "2024-08-16",
+   "last": "2025-05-17",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2024_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:34+00:00",
+   "first": "2024-08-17",
+   "last": "2025-05-25",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2025_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:12+00:00",
+   "first": "2025-08-22",
+   "last": "2026-05-16",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2025_EPL": {
+   "fetched_at": "2026-09-13T11:49:22+00:00",
+   "first": "2025-08-15",
+   "last": "2026-05-24",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2025_La_liga": {
+   "fetched_at": "2026-09-13T11:49:49+00:00",
+   "first": "2025-08-15",
+   "last": "2026-05-24",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2025_Ligue_1": {
+   "fetched_at": "2026-09-13T11:51:02+00:00",
+   "first": "2025-08-15",
+   "last": "2026-05-17",
+   "rows": 306,
+   "unmapped_rows": 0
+  },
+  "2025_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:37+00:00",
+   "first": "2025-08-23",
+   "last": "2026-05-24",
+   "rows": 380,
+   "unmapped_rows": 0
+  },
+  "2026_Bundesliga": {
+   "fetched_at": "2026-09-13T11:50:14+00:00",
+   "first": "2026-08-28",
+   "last": "2026-09-12",
+   "rows": 25,
+   "unmapped_rows": 0
+  },
+  "2026_EPL": {
+   "fetched_at": "2026-09-13T11:49:24+00:00",
+   "first": "2026-08-21",
+   "last": "2026-09-12",
+   "rows": 37,
+   "unmapped_rows": 0
+  },
+  "2026_La_liga": {
+   "fetched_at": "2026-09-13T11:49:50+00:00",
+   "first": "2026-08-15",
+   "last": "2026-09-12",
+   "rows": 46,
+   "unmapped_rows": 0
+  },
+  "2026_Ligue_1": {
+   "fetched_at": "2026-09-13T11:51:03+00:00",
+   "first": "2026-08-21",
+   "last": "2026-09-12",
+   "rows": 33,
+   "unmapped_rows": 0
+  },
+  "2026_Serie_A": {
+   "fetched_at": "2026-09-13T11:50:39+00:00",
+   "first": "2026-08-22",
+   "last": "2026-09-12",
+   "rows": 33,
+   "unmapped_rows": 0
+  }
+ },
+ "last_run_at": "2026-09-13T11:51:05+00:00",
+ "last_run_ok": true,
+ "rows_this_run": 21763,
+ "unmapped": []
+}
