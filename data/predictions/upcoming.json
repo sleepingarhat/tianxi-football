@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-13T11:32:36+00:00",
+  "generated_at": "2026-09-13T13:49:16+00:00",
   "engine": "TX-Football S3+S2 在線混合（S4 LGB／S5 集成推論未接入）",
-  "fingerprint": "03bf463c9301-663c3c6aadbc-197871",
+  "fingerprint": "03bf463c9301-726d8e27de57-197871",
   "history_matches": 197871,
   "history_last_date": "2026-09-10",
   "fixtures_count": 190,
@@ -9818,7 +9818,7 @@
    "time_uk": "13:30",
    "track": "s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4461,
     0.2623,
@@ -9886,7 +9886,7 @@
    "time_uk": "14:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.439,
     0.2543,
@@ -9954,7 +9954,7 @@
    "time_uk": "14:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4997,
     0.247,
@@ -10022,7 +10022,7 @@
    "time_uk": "14:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3904,
     0.2733,
@@ -10090,7 +10090,7 @@
    "time_uk": "14:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.574,
     0.2151,
@@ -10158,7 +10158,7 @@
    "time_uk": "15:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4461,
     0.2567,
@@ -10226,7 +10226,7 @@
    "time_uk": "15:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3898,
     0.2718,
@@ -10294,7 +10294,7 @@
    "time_uk": "15:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3029,
     0.2523,
@@ -10362,7 +10362,7 @@
    "time_uk": "15:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4135,
     0.2932,
