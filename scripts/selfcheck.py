@@ -13,9 +13,11 @@ import os
 
 RESULTS_MANIFEST = "data/results/_manifest.json"
 FIXTURES_JSON = "data/fixtures/upcoming.json"
+PREDICTIONS_JSON = "data/predictions/upcoming.json"
 SNAP_DIR = "snapshots"
 FIXTURES_MAX_AGE_H = 12
 RESULTS_MAX_AGE_H = 30
+PREDICTIONS_MAX_AGE_H = 12
 
 
 def age_hours(iso: str) -> float | None:
@@ -43,6 +45,7 @@ def main() -> int:
         "capabilities": {
             "results": "football-data.co.uk 官方 CSV，2000 起 22 個聯賽，逐季一檔",
             "fixtures": "football-data.co.uk fixtures.csv，未來約一週賽程＋賽前平均賠率（odds-track）",
+            "predictions": "predict_fixtures.py：逐場賽前凍結機率＋版本指紋（S3+S2 在線混合，LGB／集成推論待接）",
             "models": ["S2 天喜足球ELO", "S3 Dixon-Coles 入球模型", "S4 天喜足球LGB", "S5 三軌集成＋校準"],
             "labels": "只用 90 分鐘賽果，加時／點球唔入標籤",
         },
@@ -80,6 +83,23 @@ def main() -> int:
             problems.append("賽程為零場")
     else:
         problems.append("賽程檔唔存在（採集器未跑過）")
+
+    # 賽前預測層
+    if os.path.exists(PREDICTIONS_JSON):
+        pr = json.load(open(PREDICTIONS_JSON, encoding="utf-8"))
+        meta = pr.get("meta", {})
+        a = age_hours(meta.get("generated_at", ""))
+        rep["predictions"] = dict(count=meta.get("fixtures_count"), engine=meta.get("engine"),
+                                  fingerprint=meta.get("fingerprint"),
+                                  history_matches=meta.get("history_matches"),
+                                  generated_at=meta.get("generated_at"),
+                                  age_hours=round(a, 1) if a is not None else None)
+        if a is not None and a > PREDICTIONS_MAX_AGE_H:
+            problems.append(f"賽前預測已 {a:.1f} 小時未重算（上限 {PREDICTIONS_MAX_AGE_H}）")
+        if not meta.get("fixtures_count"):
+            problems.append("賽前預測為零場")
+    else:
+        problems.append("賽前預測檔唔存在（predict_fixtures.py 未跑過）")
 
     # 凍結快照
     snaps = sorted(os.path.basename(p) for p in glob.glob(os.path.join(SNAP_DIR, "*.json")))
