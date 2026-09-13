@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-13T13:49:16+00:00",
+  "generated_at": "2026-09-13T18:13:53+00:00",
   "engine": "TX-Football S3+S2 在線混合（S4 LGB／S5 集成推論未接入）",
-  "fingerprint": "03bf463c9301-726d8e27de57-197871",
+  "fingerprint": "03bf463c9301-4a1f8e37873a-197871",
   "history_matches": 197871,
   "history_last_date": "2026-09-10",
   "fixtures_count": 190,
@@ -10430,7 +10430,7 @@
    "time_uk": "15:45",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3299,
     0.2393,
@@ -10498,7 +10498,7 @@
    "time_uk": "16:00",
    "track": "s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.5037,
     0.2411,
@@ -10566,7 +10566,7 @@
    "time_uk": "16:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4022,
     0.2713,
@@ -10634,7 +10634,7 @@
    "time_uk": "16:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4008,
     0.2816,
@@ -10702,7 +10702,7 @@
    "time_uk": "16:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.5098,
     0.2471,
@@ -10770,7 +10770,7 @@
    "time_uk": "16:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3723,
     0.2461,
@@ -10838,7 +10838,7 @@
    "time_uk": "16:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4037,
     0.2655,
@@ -10906,7 +10906,7 @@
    "time_uk": "17:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.2813,
     0.2653,
@@ -10974,7 +10974,7 @@
    "time_uk": "17:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4578,
     0.2607,
@@ -11042,7 +11042,7 @@
    "time_uk": "17:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4211,
     0.2698,
@@ -11110,7 +11110,7 @@
    "time_uk": "17:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3578,
     0.2782,
@@ -11178,7 +11178,7 @@
    "time_uk": "17:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4805,
     0.2624,
@@ -11246,7 +11246,7 @@
    "time_uk": "18:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4138,
     0.2749,
@@ -11314,7 +11314,7 @@
    "time_uk": "18:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.579,
     0.229,
@@ -11382,7 +11382,7 @@
    "time_uk": "18:00",
    "track": "s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.3867,
     0.2852,
@@ -11450,7 +11450,7 @@
    "time_uk": "18:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.561,
     0.2221,
@@ -11518,7 +11518,7 @@
    "time_uk": "18:15",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4491,
     0.2595,
@@ -11586,7 +11586,7 @@
    "time_uk": "19:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4292,
     0.2825,
@@ -11654,7 +11654,7 @@
    "time_uk": "19:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.5441,
     0.2313,
@@ -11722,7 +11722,7 @@
    "time_uk": "19:00",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.6366,
     0.1884,
@@ -11790,7 +11790,7 @@
    "time_uk": "19:30",
    "track": "s3+s2",
    "status": "fallback",
-   "locked": false,
+   "locked": true,
    "p": [
     0.4834,
     0.2542,
