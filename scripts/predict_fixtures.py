@@ -164,11 +164,15 @@ class Engine:
         la = min(max(math.exp(self.base[div] - GAMMA + self.atk[away] - self.dfn[home]), 0.15), 6.0)
         M = build_matrix(lh, la)
         ph, pd_, pa, over, btts = derive(M)
-        top = max(
+        cells = sorted(
             ((i, j, M[i][j]) for i in range(6) for j in range(6)),
             key=lambda x: x[2],
+            reverse=True,
         )
-        return (ph, pd_, pa), lh, la, over, btts, {"score": f"{top[0]}-{top[1]}", "p": top[2]}
+        scores = [{"score": f"{c[0]}-{c[1]}", "p": round(c[2], 4),
+                   "res": "home" if c[0] > c[1] else ("draw" if c[0] == c[1] else "away")}
+                  for c in cells[:2]]
+        return (ph, pd_, pa), lh, la, over, btts, scores
 
 
 def blend(p_dc, p_elo):
@@ -204,7 +208,7 @@ def main():
         home, away, div = f["home"], f["away"], f["div"]
         ready = eng.seen[home] >= WARM and eng.seen[away] >= WARM
         p_elo, elo_diff = eng.elo_probs(home, away)
-        p_dc, lh, la, over, btts, top_score = eng.dc_probs(div, home, away)
+        p_dc, lh, la, over, btts, scores = eng.dc_probs(div, home, away)
         p = blend(p_dc, p_elo) if ready else list(p_elo)
         market = devig(f.get("odds_h"), f.get("odds_d"), f.get("odds_a"))
         edges = None
@@ -234,7 +238,8 @@ def main():
             "lambda": [round(lh, 3), round(la, 3)],
             "over25": round(over, 4),
             "btts": round(btts, 4),
-            "top_score": {"score": top_score["score"], "p": round(top_score["p"], 4)},
+            "top_score": {"score": scores[0]["score"], "p": scores[0]["p"]},
+            "scores": scores,
             "elo_diff": round(elo_diff, 1),
             "market": [round(v, 4) for v in market] if market else None,
             "edge": edges,
