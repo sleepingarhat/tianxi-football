@@ -44,6 +44,25 @@ jobs:
         if: github.event.inputs.full_results == 'true'
         run: python3 scripts/ingest_results.py --seasons 2000:$(date -u +%Y)
 
+      - name: 預期入球 xG（增量：本季 + 上季）
+        if: github.event.inputs.full_results != 'true'
+        run: |
+          Y=$(date -u +%Y)
+          M=$(date -u +%m)
+          if [ "$M" -lt 08 ]; then START=$((Y-2)); END=$((Y-1)); else START=$((Y-1)); END=$Y; fi
+          python3 scripts/ingest_xg.py --seasons ${START}:${END}
+
+      - name: 預期入球 xG（全量重抓 2014 起）
+        if: github.event.inputs.full_results == 'true'
+        run: python3 scripts/ingest_xg.py --seasons 2014:$(date -u +%Y)
+
+      - name: xG 對接核對（隊名 + ±1 日容差）
+        id: xgcov
+        run: |
+          set +e
+          python3 scripts/xg_coverage.py --min 0.985
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
       - name: 賽前預測凍結（S6）
         run: python3 scripts/predict_fixtures.py
 
@@ -59,7 +78,7 @@ jobs:
         run: |
           git config user.name "tianxi-bot"
           git config user.email "bot@tianxi.racing"
-          git add -A data
+          git add -A data snapshots
           if git diff --cached --quiet; then
             echo "no change"
           else
@@ -68,7 +87,7 @@ jobs:
           fi
 
       - name: 自檢失敗開 issue
-        if: steps.selfcheck.outputs.code != '0'
+        if: steps.selfcheck.outputs.code != '0' || steps.xgcov.outputs.code != '0'
         uses: actions/github-script@v7
         with:
           script: |
