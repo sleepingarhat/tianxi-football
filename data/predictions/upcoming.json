@@ -1,0 +1,10660 @@
+{
+ "meta": {
+  "generated_at": "2026-09-13T10:34:04+00:00",
+  "engine": "TX-Football S3+S2 在線混合（S4 LGB／S5 集成推論未接入）",
+  "fingerprint": "73923cf9061c-663c3c6aadbc-197871",
+  "history_matches": 197871,
+  "history_last_date": "2026-09-10",
+  "fixtures_count": 190,
+  "fixtures_stale": false,
+  "market_beta": 0,
+  "weights": {
+   "dc": 0.55,
+   "elo": 0.45
+  },
+  "lock_minutes": 30,
+  "status_note": "S4 天喜LGB 同 S5 集成校準嘅推論未接入本管線，所有場次一律標「紅燈 · 退回基準」，唔當最終預測。"
+ },
+ "matches": [
+  {
+   "match_key": "D2|11/09/2026|Darmstadt|Bielefeld",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Darmstadt",
+   "away": "Bielefeld",
+   "kickoff_utc": "2026-09-11T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4782,
+    0.242,
+    0.2798
+   ],
+   "p_dc": [
+    0.4315,
+    0.2496,
+    0.319
+   ],
+   "p_elo": [
+    0.5349,
+    0.2299,
+    0.2352
+   ],
+   "lambda": [
+    1.654,
+    1.396
+   ],
+   "over25": 0.5878,
+   "btts": 0.6138,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1148
+   },
+   "elo_diff": 142.8,
+   "market": [
+    0.3238,
+    0.2572,
+    0.419
+   ],
+   "edge": [
+    0.1544,
+    -0.0152,
+    -0.1392
+   ],
+   "warm": {
+    "home": 412,
+    "away": 718
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "D2|11/09/2026|Nurnberg|Hannover",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Nurnberg",
+   "away": "Hannover",
+   "kickoff_utc": "2026-09-11T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4453,
+    0.2604,
+    0.2943
+   ],
+   "p_dc": [
+    0.5002,
+    0.2367,
+    0.2631
+   ],
+   "p_elo": [
+    0.38,
+    0.2879,
+    0.3321
+   ],
+   "lambda": [
+    1.86,
+    1.302
+   ],
+   "over25": 0.6121,
+   "btts": 0.6198,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1077
+   },
+   "elo_diff": 23.4,
+   "market": [
+    0.3693,
+    0.2492,
+    0.3815
+   ],
+   "edge": [
+    0.0759,
+    0.0112,
+    -0.0871
+   ],
+   "warm": {
+    "home": 888,
+    "away": 888
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "I2|11/09/2026|Empoli|Arezzo",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Empoli",
+   "away": "Arezzo",
+   "kickoff_utc": "2026-09-11T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4615,
+    0.2647,
+    0.2739
+   ],
+   "p_dc": [
+    0.5138,
+    0.2489,
+    0.2373
+   ],
+   "p_elo": [
+    0.3982,
+    0.2807,
+    0.3211
+   ],
+   "lambda": [
+    1.728,
+    1.105
+   ],
+   "over25": 0.5383,
+   "btts": 0.5555,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.118
+   },
+   "elo_diff": 37.4,
+   "market": [
+    0.4621,
+    0.2861,
+    0.2518
+   ],
+   "edge": [
+    -0.0006,
+    -0.0214,
+    0.0221
+   ],
+   "warm": {
+    "home": 1015,
+    "away": 129
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "T1|11/09/2026|Besiktas|Erzurumspor",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Besiktas",
+   "away": "Erzurumspor",
+   "kickoff_utc": "2026-09-11T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.6189,
+    0.2011,
+    0.18
+   ],
+   "p_dc": [
+    0.5301,
+    0.2382,
+    0.2316
+   ],
+   "p_elo": [
+    0.6189,
+    0.2011,
+    0.18
+   ],
+   "lambda": [
+    1.846,
+    1.155
+   ],
+   "over25": 0.577,
+   "btts": 0.5821,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1113
+   },
+   "elo_diff": 214.6,
+   "market": [
+    0.7458,
+    0.1618,
+    0.0925
+   ],
+   "edge": [
+    -0.1268,
+    0.0393,
+    0.0875
+   ],
+   "warm": {
+    "home": 904,
+    "away": 38
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F2|11/09/2026|Clermont|Boulogne",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Clermont",
+   "away": "Boulogne",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.41,
+    0.2885,
+    0.3016
+   ],
+   "p_dc": [
+    0.4212,
+    0.2938,
+    0.285
+   ],
+   "p_elo": [
+    0.3959,
+    0.2816,
+    0.3225
+   ],
+   "lambda": [
+    1.285,
+    1.009
+   ],
+   "over25": 0.4022,
+   "btts": 0.466,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1373
+   },
+   "elo_diff": 35.6,
+   "market": [
+    0.3919,
+    0.297,
+    0.3111
+   ],
+   "edge": [
+    0.0181,
+    -0.0086,
+    -0.0095
+   ],
+   "warm": {
+    "home": 857,
+    "away": 229
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "F2|11/09/2026|Dijon|Laval",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Dijon",
+   "away": "Laval",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4429,
+    0.2714,
+    0.2857
+   ],
+   "p_dc": [
+    0.4822,
+    0.2612,
+    0.2566
+   ],
+   "p_elo": [
+    0.3954,
+    0.2818,
+    0.3228
+   ],
+   "lambda": [
+    1.595,
+    1.101
+   ],
+   "over25": 0.5053,
+   "btts": 0.5379,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1244
+   },
+   "elo_diff": 35.2,
+   "market": [
+    0.4742,
+    0.2659,
+    0.2599
+   ],
+   "edge": [
+    -0.0314,
+    0.0055,
+    0.0258
+   ],
+   "warm": {
+    "home": 717,
+    "away": 681
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "F2|11/09/2026|Montpellier|Pau FC",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Montpellier",
+   "away": "Pau FC",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4077,
+    0.2816,
+    0.3107
+   ],
+   "p_dc": [
+    0.4195,
+    0.2805,
+    0.3
+   ],
+   "p_elo": [
+    0.3934,
+    0.2826,
+    0.324
+   ],
+   "lambda": [
+    1.373,
+    1.122
+   ],
+   "over25": 0.4549,
+   "btts": 0.5099,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1334
+   },
+   "elo_diff": 33.7,
+   "market": [
+    0.4973,
+    0.2722,
+    0.2306
+   ],
+   "edge": [
+    -0.0896,
+    0.0094,
+    0.0802
+   ],
+   "warm": {
+    "home": 967,
+    "away": 225
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "F2|11/09/2026|Nancy|Reims",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Nancy",
+   "away": "Reims",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3404,
+    0.2665,
+    0.3931
+   ],
+   "p_dc": [
+    0.3966,
+    0.2727,
+    0.3307
+   ],
+   "p_elo": [
+    0.2749,
+    0.2524,
+    0.4727
+   ],
+   "lambda": [
+    1.395,
+    1.253
+   ],
+   "over25": 0.4937,
+   "btts": 0.5436,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1299
+   },
+   "elo_diff": -94.1,
+   "market": [
+    0.2936,
+    0.2836,
+    0.4228
+   ],
+   "edge": [
+    0.0468,
+    -0.0171,
+    -0.0298
+   ],
+   "warm": {
+    "home": 865,
+    "away": 819
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F2|11/09/2026|Rodez|Grenoble",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Rodez",
+   "away": "Grenoble",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4816,
+    0.2452,
+    0.2732
+   ],
+   "p_dc": [
+    0.455,
+    0.2509,
+    0.294
+   ],
+   "p_elo": [
+    0.514,
+    0.2374,
+    0.2486
+   ],
+   "lambda": [
+    1.67,
+    1.303
+   ],
+   "over25": 0.5708,
+   "btts": 0.5968,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1169
+   },
+   "elo_diff": 126.2,
+   "market": [
+    0.5452,
+    0.2531,
+    0.2016
+   ],
+   "edge": [
+    -0.0636,
+    -0.0079,
+    0.0715
+   ],
+   "warm": {
+    "home": 253,
+    "away": 671
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "N1|11/09/2026|AZ Alkmaar|Willem II",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "AZ Alkmaar",
+   "away": "Willem II",
+   "kickoff_utc": "2026-09-11T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.6228,
+    0.195,
+    0.1823
+   ],
+   "p_dc": [
+    0.629,
+    0.189,
+    0.182
+   ],
+   "p_elo": [
+    0.6151,
+    0.2024,
+    0.1825
+   ],
+   "lambda": [
+    2.482,
+    1.3
+   ],
+   "over25": 0.7282,
+   "btts": 0.6703,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0912
+   },
+   "elo_diff": 211.0,
+   "market": [
+    0.8151,
+    0.117,
+    0.0679
+   ],
+   "edge": [
+    -0.1923,
+    0.0779,
+    0.1144
+   ],
+   "warm": {
+    "home": 880,
+    "away": 710
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D1|11/09/2026|Union Berlin|Schalke 04",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Union Berlin",
+   "away": "Schalke 04",
+   "kickoff_utc": "2026-09-11T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4244,
+    0.2584,
+    0.3171
+   ],
+   "p_dc": [
+    0.4399,
+    0.2432,
+    0.317
+   ],
+   "p_elo": [
+    0.4055,
+    0.2779,
+    0.3167
+   ],
+   "lambda": [
+    1.732,
+    1.445
+   ],
+   "over25": 0.6153,
+   "btts": 0.6343,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1096
+   },
+   "elo_diff": 42.9,
+   "market": [
+    0.3994,
+    0.2655,
+    0.335
+   ],
+   "edge": [
+    0.025,
+    -0.0071,
+    -0.0179
+   ],
+   "warm": {
+    "home": 682,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC1|11/09/2026|Morton|Livingston",
+   "div": "SC1",
+   "league_zh": "蘇冠",
+   "home": "Morton",
+   "away": "Livingston",
+   "kickoff_utc": "2026-09-11T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4359,
+    0.2733,
+    0.2908
+   ],
+   "p_dc": [
+    0.4272,
+    0.2826,
+    0.2902
+   ],
+   "p_elo": [
+    0.4466,
+    0.2621,
+    0.2913
+   ],
+   "lambda": [
+    1.368,
+    1.082
+   ],
+   "over25": 0.4432,
+   "btts": 0.4991,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1341
+   },
+   "elo_diff": 74.2,
+   "market": [
+    0.1833,
+    0.2235,
+    0.5931
+   ],
+   "edge": [
+    0.2526,
+    0.0498,
+    -0.3023
+   ],
+   "warm": {
+    "home": 924,
+    "away": 957
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "SP2|11/09/2026|Burgos|Ceuta",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Burgos",
+   "away": "Ceuta",
+   "kickoff_utc": "2026-09-11T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5223,
+    0.251,
+    0.2266
+   ],
+   "p_dc": [
+    0.5135,
+    0.2683,
+    0.2182
+   ],
+   "p_elo": [
+    0.5322,
+    0.2309,
+    0.2369
+   ],
+   "lambda": [
+    1.545,
+    0.918
+   ],
+   "over25": 0.4467,
+   "btts": 0.4787,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1269
+   },
+   "elo_diff": 140.6,
+   "market": [
+    0.5555,
+    0.2499,
+    0.1946
+   ],
+   "edge": [
+    -0.0332,
+    0.0011,
+    0.0321
+   ],
+   "warm": {
+    "home": 256,
+    "away": 46
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "B1|11/09/2026|Mechelen|Anderlecht",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Mechelen",
+   "away": "Anderlecht",
+   "kickoff_utc": "2026-09-11T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4029,
+    0.2734,
+    0.3237
+   ],
+   "p_dc": [
+    0.4014,
+    0.2695,
+    0.3292
+   ],
+   "p_elo": [
+    0.4046,
+    0.2782,
+    0.3172
+   ],
+   "lambda": [
+    1.429,
+    1.272
+   ],
+   "over25": 0.5064,
+   "btts": 0.5533,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1282
+   },
+   "elo_diff": 42.3,
+   "market": [
+    0.2384,
+    0.252,
+    0.5096
+   ],
+   "edge": [
+    0.1645,
+    0.0213,
+    -0.1859
+   ],
+   "warm": {
+    "home": 658,
+    "away": 858
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "EC|11/09/2026|Kidderminster|Hartlepool",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Kidderminster",
+   "away": "Hartlepool",
+   "kickoff_utc": "2026-09-11T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4473,
+    0.2757,
+    0.277
+   ],
+   "p_dc": [
+    0.5194,
+    0.254,
+    0.2266
+   ],
+   "p_elo": [
+    0.3613,
+    0.2954,
+    0.3433
+   ],
+   "lambda": [
+    1.677,
+    1.03
+   ],
+   "over25": 0.508,
+   "btts": 0.5285,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.121
+   },
+   "elo_diff": 8.9,
+   "market": [
+    0.4057,
+    0.2697,
+    0.3246
+   ],
+   "edge": [
+    0.0416,
+    0.006,
+    -0.0476
+   ],
+   "warm": {
+    "home": 782,
+    "away": 1191
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F1|11/09/2026|Rennes|Marseille",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Rennes",
+   "away": "Marseille",
+   "kickoff_utc": "2026-09-11T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4955,
+    0.2413,
+    0.2633
+   ],
+   "p_dc": [
+    0.5027,
+    0.2364,
+    0.2609
+   ],
+   "p_elo": [
+    0.4865,
+    0.2473,
+    0.2662
+   ],
+   "lambda": [
+    1.865,
+    1.295
+   ],
+   "over25": 0.6117,
+   "btts": 0.6188,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1076
+   },
+   "elo_diff": 104.8,
+   "market": [
+    0.4486,
+    0.2461,
+    0.3054
+   ],
+   "edge": [
+    0.0469,
+    -0.0048,
+    -0.0421
+   ],
+   "warm": {
+    "home": 961,
+    "away": 961
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I1|11/09/2026|Venezia|Fiorentina",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Venezia",
+   "away": "Fiorentina",
+   "kickoff_utc": "2026-09-11T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4909,
+    0.2483,
+    0.2609
+   ],
+   "p_dc": [
+    0.4979,
+    0.2477,
+    0.2544
+   ],
+   "p_elo": [
+    0.4822,
+    0.2489,
+    0.2689
+   ],
+   "lambda": [
+    1.736,
+    1.182
+   ],
+   "over25": 0.5583,
+   "btts": 0.5768,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1164
+   },
+   "elo_diff": 101.5,
+   "market": [
+    0.3366,
+    0.2772,
+    0.3862
+   ],
+   "edge": [
+    0.1543,
+    -0.0289,
+    -0.1254
+   ],
+   "warm": {
+    "home": 545,
+    "away": 953
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|11/09/2026|West Ham|Wrexham",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "West Ham",
+   "away": "Wrexham",
+   "kickoff_utc": "2026-09-11T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4226,
+    0.2761,
+    0.3013
+   ],
+   "p_dc": [
+    0.4878,
+    0.2548,
+    0.2575
+   ],
+   "p_elo": [
+    0.3462,
+    0.2974,
+    0.3564
+   ],
+   "lambda": [
+    1.659,
+    1.146
+   ],
+   "over25": 0.5316,
+   "btts": 0.5579,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1208
+   },
+   "elo_diff": -5.1,
+   "market": [
+    0.6003,
+    0.2239,
+    0.1758
+   ],
+   "edge": [
+    -0.1777,
+    0.0522,
+    0.1255
+   ],
+   "warm": {
+    "home": 1018,
+    "away": 1186
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "I2|11/09/2026|Benevento|Verona",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Benevento",
+   "away": "Verona",
+   "kickoff_utc": "2026-09-11T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.369,
+    0.2831,
+    0.3479
+   ],
+   "p_dc": [
+    0.363,
+    0.2779,
+    0.3591
+   ],
+   "p_elo": [
+    0.3761,
+    0.2894,
+    0.3344
+   ],
+   "lambda": [
+    1.293,
+    1.285
+   ],
+   "over25": 0.4759,
+   "btts": 0.531,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1325
+   },
+   "elo_diff": 20.4,
+   "market": [
+    0.33,
+    0.2942,
+    0.3758
+   ],
+   "edge": [
+    0.039,
+    -0.0111,
+    -0.0279
+   ],
+   "warm": {
+    "home": 271,
+    "away": 861
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I2|11/09/2026|Pisa|Virtus Entella",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Pisa",
+   "away": "Virtus Entella",
+   "kickoff_utc": "2026-09-11T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4991,
+    0.2532,
+    0.2477
+   ],
+   "p_dc": [
+    0.5022,
+    0.2605,
+    0.2372
+   ],
+   "p_elo": [
+    0.4948,
+    0.2443,
+    0.2609
+   ],
+   "lambda": [
+    1.611,
+    1.033
+   ],
+   "over25": 0.4925,
+   "btts": 0.5213,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1242
+   },
+   "elo_diff": 111.2,
+   "market": [
+    0.5324,
+    0.28,
+    0.1876
+   ],
+   "edge": [
+    -0.0333,
+    -0.0268,
+    0.0601
+   ],
+   "warm": {
+    "home": 395,
+    "away": 285
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP1|11/09/2026|Sevilla|Valencia",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Sevilla",
+   "away": "Valencia",
+   "kickoff_utc": "2026-09-11T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4751,
+    0.2624,
+    0.2625
+   ],
+   "p_dc": [
+    0.535,
+    0.2451,
+    0.2199
+   ],
+   "p_elo": [
+    0.4021,
+    0.2792,
+    0.3187
+   ],
+   "lambda": [
+    1.769,
+    1.057
+   ],
+   "over25": 0.5366,
+   "btts": 0.5467,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1163
+   },
+   "elo_diff": 40.4,
+   "market": [
+    0.4808,
+    0.2847,
+    0.2344
+   ],
+   "edge": [
+    -0.0057,
+    -0.0223,
+    0.028
+   ],
+   "warm": {
+    "home": 996,
+    "away": 992
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "D2|12/09/2026|Bochum|Greuther Furth",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Bochum",
+   "away": "Greuther Furth",
+   "kickoff_utc": "2026-09-12T11:00+00:00",
+   "time_uk": "12:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4544,
+    0.2549,
+    0.2907
+   ],
+   "p_dc": [
+    0.4632,
+    0.2482,
+    0.2885
+   ],
+   "p_elo": [
+    0.4436,
+    0.2632,
+    0.2931
+   ],
+   "lambda": [
+    1.706,
+    1.306
+   ],
+   "over25": 0.5794,
+   "btts": 0.6021,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1151
+   },
+   "elo_diff": 72.0,
+   "market": [
+    0.4887,
+    0.2489,
+    0.2624
+   ],
+   "edge": [
+    -0.0343,
+    0.006,
+    0.0283
+   ],
+   "warm": {
+    "home": 888,
+    "away": 888
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "D2|12/09/2026|Braunschweig|Dresden",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Braunschweig",
+   "away": "Dresden",
+   "kickoff_utc": "2026-09-12T11:00+00:00",
+   "time_uk": "12:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.453,
+    0.2427,
+    0.3043
+   ],
+   "p_dc": [
+    0.4718,
+    0.2227,
+    0.3055
+   ],
+   "p_elo": [
+    0.4296,
+    0.2686,
+    0.3018
+   ],
+   "lambda": [
+    2.021,
+    1.606
+   ],
+   "over25": 0.702,
+   "btts": 0.6977,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0906
+   },
+   "elo_diff": 61.3,
+   "market": [
+    0.348,
+    0.2612,
+    0.3908
+   ],
+   "edge": [
+    0.105,
+    -0.0186,
+    -0.0864
+   ],
+   "warm": {
+    "home": 514,
+    "away": 378
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D2|12/09/2026|Magdeburg|Kaiserslautern",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Magdeburg",
+   "away": "Kaiserslautern",
+   "kickoff_utc": "2026-09-12T11:00+00:00",
+   "time_uk": "12:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3999,
+    0.2711,
+    0.329
+   ],
+   "p_dc": [
+    0.4163,
+    0.2577,
+    0.326
+   ],
+   "p_elo": [
+    0.3801,
+    0.2879,
+    0.3321
+   ],
+   "lambda": [
+    1.552,
+    1.35
+   ],
+   "over25": 0.5546,
+   "btts": 0.5896,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1208
+   },
+   "elo_diff": 23.5,
+   "market": [
+    0.4334,
+    0.2515,
+    0.3151
+   ],
+   "edge": [
+    -0.0335,
+    0.0196,
+    0.0139
+   ],
+   "warm": {
+    "home": 174,
+    "away": 752
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Bolton|Cardiff",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Bolton",
+   "away": "Cardiff",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4151,
+    0.2641,
+    0.3209
+   ],
+   "p_dc": [
+    0.3982,
+    0.2617,
+    0.34
+   ],
+   "p_elo": [
+    0.4355,
+    0.2663,
+    0.2982
+   ],
+   "lambda": [
+    1.486,
+    1.357
+   ],
+   "over25": 0.5408,
+   "btts": 0.5805,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1233
+   },
+   "elo_diff": 65.8,
+   "market": [
+    0.3708,
+    0.2584,
+    0.3708
+   ],
+   "edge": [
+    0.0443,
+    0.0056,
+    -0.0499
+   ],
+   "warm": {
+    "home": 1102,
+    "away": 1186
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Derby|Birmingham",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Derby",
+   "away": "Birmingham",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3848,
+    0.2781,
+    0.3371
+   ],
+   "p_dc": [
+    0.3773,
+    0.2745,
+    0.3482
+   ],
+   "p_elo": [
+    0.394,
+    0.2823,
+    0.3236
+   ],
+   "lambda": [
+    1.346,
+    1.283
+   ],
+   "over25": 0.4888,
+   "btts": 0.5409,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1308
+   },
+   "elo_diff": 34.2,
+   "market": [
+    0.2817,
+    0.286,
+    0.4323
+   ],
+   "edge": [
+    0.1031,
+    -0.0079,
+    -0.0952
+   ],
+   "warm": {
+    "home": 1178,
+    "away": 1146
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-09"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|West Brom|QPR",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "West Brom",
+   "away": "QPR",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4357,
+    0.277,
+    0.2874
+   ],
+   "p_dc": [
+    0.4283,
+    0.2888,
+    0.283
+   ],
+   "p_elo": [
+    0.4445,
+    0.2629,
+    0.2926
+   ],
+   "lambda": [
+    1.326,
+    1.028
+   ],
+   "over25": 0.4184,
+   "btts": 0.4783,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1359
+   },
+   "elo_diff": 72.6,
+   "market": [
+    0.4557,
+    0.2713,
+    0.2729
+   ],
+   "edge": [
+    -0.0201,
+    0.0056,
+    0.0145
+   ],
+   "warm": {
+    "home": 1098,
+    "away": 1178
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-09"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Leyton Orient|Wycombe",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Leyton Orient",
+   "away": "Wycombe",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4802,
+    0.2556,
+    0.2642
+   ],
+   "p_dc": [
+    0.5849,
+    0.2142,
+    0.2008
+   ],
+   "p_elo": [
+    0.3547,
+    0.2981,
+    0.3472
+   ],
+   "lambda": [
+    2.129,
+    1.186
+   ],
+   "over25": 0.6436,
+   "btts": 0.6165,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0977
+   },
+   "elo_diff": 3.7,
+   "market": [
+    0.3747,
+    0.2705,
+    0.3548
+   ],
+   "edge": [
+    0.1055,
+    -0.0149,
+    -0.0906
+   ],
+   "warm": {
+    "home": 1191,
+    "away": 1189
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Notts County|Bradford",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Notts County",
+   "away": "Bradford",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4785,
+    0.26,
+    0.2615
+   ],
+   "p_dc": [
+    0.4764,
+    0.2689,
+    0.2548
+   ],
+   "p_elo": [
+    0.4808,
+    0.2494,
+    0.2698
+   ],
+   "lambda": [
+    1.524,
+    1.048
+   ],
+   "over25": 0.4746,
+   "btts": 0.5141,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1281
+   },
+   "elo_diff": 100.4,
+   "market": [
+    0.3184,
+    0.2879,
+    0.3936
+   ],
+   "edge": [
+    0.1601,
+    -0.0279,
+    -0.1321
+   ],
+   "warm": {
+    "home": 1188,
+    "away": 1184
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Crawley Town|Cheltenham",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Crawley Town",
+   "away": "Cheltenham",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3999,
+    0.2688,
+    0.3313
+   ],
+   "p_dc": [
+    0.4155,
+    0.2539,
+    0.3305
+   ],
+   "p_elo": [
+    0.3808,
+    0.2876,
+    0.3316
+   ],
+   "lambda": [
+    1.586,
+    1.393
+   ],
+   "over25": 0.5723,
+   "btts": 0.6036,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1179
+   },
+   "elo_diff": 24.0,
+   "market": [
+    0.3958,
+    0.2635,
+    0.3407
+   ],
+   "edge": [
+    0.0041,
+    0.0053,
+    -0.0094
+   ],
+   "warm": {
+    "home": 956,
+    "away": 1191
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Grimsby|Bristol Rvs",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Grimsby",
+   "away": "Bristol Rvs",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4342,
+    0.2582,
+    0.3076
+   ],
+   "p_dc": [
+    0.3872,
+    0.2664,
+    0.3465
+   ],
+   "p_elo": [
+    0.4925,
+    0.2451,
+    0.2623
+   ],
+   "lambda": [
+    1.427,
+    1.338
+   ],
+   "over25": 0.5223,
+   "btts": 0.5667,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1262
+   },
+   "elo_diff": 109.4,
+   "market": [
+    0.3993,
+    0.2636,
+    0.3371
+   ],
+   "edge": [
+    0.0348,
+    -0.0054,
+    -0.0295
+   ],
+   "warm": {
+    "home": 1190,
+    "away": 1190
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Harrogate|Tamworth",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Harrogate",
+   "away": "Tamworth",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4656,
+    0.2503,
+    0.2841
+   ],
+   "p_dc": [
+    0.5128,
+    0.2284,
+    0.2588
+   ],
+   "p_elo": [
+    0.4088,
+    0.2766,
+    0.3146
+   ],
+   "lambda": [
+    1.967,
+    1.354
+   ],
+   "over25": 0.6449,
+   "btts": 0.643,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.101
+   },
+   "elo_diff": 45.5,
+   "market": [
+    0.5223,
+    0.2354,
+    0.2423
+   ],
+   "edge": [
+    -0.0567,
+    0.0149,
+    0.0418
+   ],
+   "warm": {
+    "home": 365,
+    "away": 414
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Worthing|Barrow",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Worthing",
+   "away": "Barrow",
+   "kickoff_utc": "2026-09-12T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5006,
+    0.2422,
+    0.2572
+   ],
+   "p_dc": [
+    0.4177,
+    0.2485,
+    0.3338
+   ],
+   "p_elo": [
+    0.5006,
+    0.2422,
+    0.2572
+   ],
+   "lambda": [
+    1.643,
+    1.449
+   ],
+   "over25": 0.5972,
+   "btts": 0.6227,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1135
+   },
+   "elo_diff": 115.7,
+   "market": [
+    0.354,
+    0.2653,
+    0.3807
+   ],
+   "edge": [
+    0.1466,
+    -0.0231,
+    -0.1235
+   ],
+   "warm": {
+    "home": 6,
+    "away": 731
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F2|12/09/2026|Guingamp|Annecy",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Guingamp",
+   "away": "Annecy",
+   "kickoff_utc": "2026-09-12T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.412,
+    0.2742,
+    0.3138
+   ],
+   "p_dc": [
+    0.4457,
+    0.2598,
+    0.2945
+   ],
+   "p_elo": [
+    0.3719,
+    0.2911,
+    0.337
+   ],
+   "lambda": [
+    1.575,
+    1.239
+   ],
+   "over25": 0.5338,
+   "btts": 0.5691,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1229
+   },
+   "elo_diff": 17.1,
+   "market": [
+    0.4244,
+    0.2851,
+    0.2905
+   ],
+   "edge": [
+    -0.0124,
+    -0.0109,
+    0.0233
+   ],
+   "warm": {
+    "home": 929,
+    "away": 149
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "F2|12/09/2026|Sochaux|Nantes",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Sochaux",
+   "away": "Nantes",
+   "kickoff_utc": "2026-09-12T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4555,
+    0.2643,
+    0.2802
+   ],
+   "p_dc": [
+    0.4513,
+    0.2705,
+    0.2782
+   ],
+   "p_elo": [
+    0.4605,
+    0.2569,
+    0.2826
+   ],
+   "lambda": [
+    1.489,
+    1.117
+   ],
+   "over25": 0.483,
+   "btts": 0.5271,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1289
+   },
+   "elo_diff": 84.8,
+   "market": [
+    0.2902,
+    0.2779,
+    0.4319
+   ],
+   "edge": [
+    0.1653,
+    -0.0136,
+    -0.1517
+   ],
+   "warm": {
+    "home": 865,
+    "away": 963
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "SP1|12/09/2026|Santander|Alaves",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Santander",
+   "away": "Alaves",
+   "kickoff_utc": "2026-09-12T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4507,
+    0.2471,
+    0.3022
+   ],
+   "p_dc": [
+    0.3839,
+    0.2554,
+    0.3607
+   ],
+   "p_elo": [
+    0.5328,
+    0.2307,
+    0.2365
+   ],
+   "lambda": [
+    1.513,
+    1.461
+   ],
+   "over25": 0.571,
+   "btts": 0.6045,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1186
+   },
+   "elo_diff": 141.1,
+   "market": [
+    0.3894,
+    0.2692,
+    0.3414
+   ],
+   "edge": [
+    0.0613,
+    -0.0221,
+    -0.0392
+   ],
+   "warm": {
+    "home": 758,
+    "away": 876
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP2|12/09/2026|Andorra|Sociedad B",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Andorra",
+   "away": "Sociedad B",
+   "kickoff_utc": "2026-09-12T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4042,
+    0.2767,
+    0.3191
+   ],
+   "p_dc": [
+    0.393,
+    0.2795,
+    0.3275
+   ],
+   "p_elo": [
+    0.418,
+    0.273,
+    0.309
+   ],
+   "lambda": [
+    1.339,
+    1.2
+   ],
+   "over25": 0.4662,
+   "btts": 0.522,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1332
+   },
+   "elo_diff": 52.5,
+   "market": [
+    0.5991,
+    0.2269,
+    0.1739
+   ],
+   "edge": [
+    -0.1949,
+    0.0497,
+    0.1452
+   ],
+   "warm": {
+    "home": 130,
+    "away": 88
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I1|12/09/2026|Genoa|Frosinone",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Genoa",
+   "away": "Frosinone",
+   "kickoff_utc": "2026-09-12T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3126,
+    0.2607,
+    0.4266
+   ],
+   "p_dc": [
+    0.3402,
+    0.2637,
+    0.3961
+   ],
+   "p_elo": [
+    0.2802,
+    0.2555,
+    0.4643
+   ],
+   "lambda": [
+    1.342,
+    1.466
+   ],
+   "over25": 0.5324,
+   "btts": 0.574,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1246
+   },
+   "elo_diff": -87.7,
+   "market": [
+    0.4484,
+    0.2794,
+    0.2722
+   ],
+   "edge": [
+    -0.1358,
+    -0.0187,
+    0.1545
+   ],
+   "warm": {
+    "home": 969,
+    "away": 681
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I2|12/09/2026|Padova|Ascoli",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Padova",
+   "away": "Ascoli",
+   "kickoff_utc": "2026-09-12T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3855,
+    0.2877,
+    0.3268
+   ],
+   "p_dc": [
+    0.3987,
+    0.284,
+    0.3173
+   ],
+   "p_elo": [
+    0.3694,
+    0.2921,
+    0.3385
+   ],
+   "lambda": [
+    1.317,
+    1.147
+   ],
+   "over25": 0.4471,
+   "btts": 0.5061,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.135
+   },
+   "elo_diff": 15.2,
+   "market": [
+    0.4278,
+    0.283,
+    0.2892
+   ],
+   "edge": [
+    -0.0423,
+    0.0047,
+    0.0376
+   ],
+   "warm": {
+    "home": 287,
+    "away": 809
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I2|12/09/2026|Sudtirol|Modena",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Sudtirol",
+   "away": "Modena",
+   "kickoff_utc": "2026-09-12T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3865,
+    0.2915,
+    0.322
+   ],
+   "p_dc": [
+    0.4211,
+    0.2854,
+    0.2936
+   ],
+   "p_elo": [
+    0.3454,
+    0.2968,
+    0.3578
+   ],
+   "lambda": [
+    1.341,
+    1.076
+   ],
+   "over25": 0.4347,
+   "btts": 0.4931,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1351
+   },
+   "elo_diff": -6.1,
+   "market": [
+    0.3007,
+    0.313,
+    0.3863
+   ],
+   "edge": [
+    0.0858,
+    -0.0215,
+    -0.0643
+   ],
+   "warm": {
+    "home": 155,
+    "away": 765
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I2|12/09/2026|Vicenza|Juve Stabia",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Vicenza",
+   "away": "Juve Stabia",
+   "kickoff_utc": "2026-09-12T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4288,
+    0.2708,
+    0.3004
+   ],
+   "p_dc": [
+    0.4462,
+    0.2654,
+    0.2884
+   ],
+   "p_elo": [
+    0.4078,
+    0.2769,
+    0.3152
+   ],
+   "lambda": [
+    1.526,
+    1.181
+   ],
+   "over25": 0.508,
+   "btts": 0.5484,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1263
+   },
+   "elo_diff": 44.8,
+   "market": [
+    0.467,
+    0.2921,
+    0.2409
+   ],
+   "edge": [
+    -0.0382,
+    -0.0213,
+    0.0596
+   ],
+   "warm": {
+    "home": 739,
+    "away": 243
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|Augsburg|Leverkusen",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Augsburg",
+   "away": "Leverkusen",
+   "kickoff_utc": "2026-09-12T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4306,
+    0.255,
+    0.3144
+   ],
+   "p_dc": [
+    0.512,
+    0.2226,
+    0.2654
+   ],
+   "p_elo": [
+    0.3363,
+    0.2907,
+    0.3731
+   ],
+   "lambda": [
+    2.047,
+    1.439
+   ],
+   "over25": 0.6764,
+   "btts": 0.6687,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0948
+   },
+   "elo_diff": -18.0,
+   "market": [
+    0.2397,
+    0.2291,
+    0.5312
+   ],
+   "edge": [
+    0.1909,
+    0.0259,
+    -0.2168
+   ],
+   "warm": {
+    "home": 682,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|Dortmund|Paderborn",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Dortmund",
+   "away": "Paderborn",
+   "kickoff_utc": "2026-09-12T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5116,
+    0.2403,
+    0.2481
+   ],
+   "p_dc": [
+    0.502,
+    0.2454,
+    0.2526
+   ],
+   "p_elo": [
+    0.5232,
+    0.2341,
+    0.2427
+   ],
+   "lambda": [
+    1.762,
+    1.191
+   ],
+   "over25": 0.5663,
+   "btts": 0.5821,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.115
+   },
+   "elo_diff": 133.4,
+   "market": [
+    0.761,
+    0.1458,
+    0.0932
+   ],
+   "edge": [
+    -0.2494,
+    0.0945,
+    0.1549
+   ],
+   "warm": {
+    "home": 886,
+    "away": 614
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|Freiburg|M'gladbach",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Freiburg",
+   "away": "M'gladbach",
+   "kickoff_utc": "2026-09-12T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5674,
+    0.2156,
+    0.217
+   ],
+   "p_dc": [
+    0.5818,
+    0.2082,
+    0.21
+   ],
+   "p_elo": [
+    0.5496,
+    0.2248,
+    0.2256
+   ],
+   "lambda": [
+    2.228,
+    1.291
+   ],
+   "over25": 0.6827,
+   "btts": 0.6512,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0949
+   },
+   "elo_diff": 154.6,
+   "market": [
+    0.5559,
+    0.2323,
+    0.2118
+   ],
+   "edge": [
+    0.0115,
+    -0.0167,
+    0.0052
+   ],
+   "warm": {
+    "home": 886,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|Hoffenheim|Stuttgart",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Hoffenheim",
+   "away": "Stuttgart",
+   "kickoff_utc": "2026-09-12T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4234,
+    0.2495,
+    0.3271
+   ],
+   "p_dc": [
+    0.4613,
+    0.2195,
+    0.3192
+   ],
+   "p_elo": [
+    0.3774,
+    0.2889,
+    0.3337
+   ],
+   "lambda": [
+    2.056,
+    1.696
+   ],
+   "over25": 0.7232,
+   "btts": 0.7162,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0859
+   },
+   "elo_diff": 21.4,
+   "market": [
+    0.4068,
+    0.2375,
+    0.3557
+   ],
+   "edge": [
+    0.0166,
+    0.012,
+    -0.0286
+   ],
+   "warm": {
+    "home": 648,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|Mainz|Ein Frankfurt",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Mainz",
+   "away": "Ein Frankfurt",
+   "kickoff_utc": "2026-09-12T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4884,
+    0.247,
+    0.2646
+   ],
+   "p_dc": [
+    0.5844,
+    0.2072,
+    0.2084
+   ],
+   "p_elo": [
+    0.3725,
+    0.2909,
+    0.3366
+   ],
+   "lambda": [
+    2.241,
+    1.291
+   ],
+   "over25": 0.6851,
+   "btts": 0.6522,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0948
+   },
+   "elo_diff": 17.6,
+   "market": [
+    0.475,
+    0.2431,
+    0.2819
+   ],
+   "edge": [
+    0.0134,
+    0.0039,
+    -0.0173
+   ],
+   "warm": {
+    "home": 886,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|12/09/2026|Beveren|St Truiden",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Beveren",
+   "away": "St Truiden",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3579,
+    0.2673,
+    0.3748
+   ],
+   "p_dc": [
+    0.375,
+    0.2487,
+    0.3763
+   ],
+   "p_elo": [
+    0.337,
+    0.2911,
+    0.3719
+   ],
+   "lambda": [
+    1.555,
+    1.558
+   ],
+   "over25": 0.6016,
+   "btts": 0.6281,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1131
+   },
+   "elo_diff": -17.1,
+   "market": [
+    0.3103,
+    0.2611,
+    0.4286
+   ],
+   "edge": [
+    0.0476,
+    0.0063,
+    -0.0538
+   ],
+   "warm": {
+    "home": 241,
+    "away": 730
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Aston Villa|Nott'm Forest",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Aston Villa",
+   "away": "Nott'm Forest",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4152,
+    0.2746,
+    0.3102
+   ],
+   "p_dc": [
+    0.4008,
+    0.2805,
+    0.3187
+   ],
+   "p_elo": [
+    0.4331,
+    0.2672,
+    0.2997
+   ],
+   "lambda": [
+    1.345,
+    1.172
+   ],
+   "over25": 0.4603,
+   "btts": 0.5166,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1336
+   },
+   "elo_diff": 63.9,
+   "market": [
+    0.4246,
+    0.2781,
+    0.2974
+   ],
+   "edge": [
+    -0.0094,
+    -0.0034,
+    0.0128
+   ],
+   "warm": {
+    "home": 1015,
+    "away": 1167
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Bournemouth|Brentford",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Bournemouth",
+   "away": "Brentford",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4309,
+    0.2638,
+    0.3054
+   ],
+   "p_dc": [
+    0.4258,
+    0.2621,
+    0.3121
+   ],
+   "p_elo": [
+    0.4371,
+    0.2657,
+    0.2972
+   ],
+   "lambda": [
+    1.528,
+    1.276
+   ],
+   "over25": 0.5316,
+   "btts": 0.5704,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.124
+   },
+   "elo_diff": 67.0,
+   "market": [
+    0.3848,
+    0.2634,
+    0.3518
+   ],
+   "edge": [
+    0.046,
+    0.0004,
+    -0.0464
+   ],
+   "warm": {
+    "home": 1127,
+    "away": 1159
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Chelsea|Hull",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Chelsea",
+   "away": "Hull",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4317,
+    0.2639,
+    0.3045
+   ],
+   "p_dc": [
+    0.447,
+    0.2549,
+    0.2981
+   ],
+   "p_elo": [
+    0.4131,
+    0.2749,
+    0.312
+   ],
+   "lambda": [
+    1.622,
+    1.287
+   ],
+   "over25": 0.5561,
+   "btts": 0.5866,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1195
+   },
+   "elo_diff": 48.7,
+   "market": [
+    0.7766,
+    0.1446,
+    0.0788
+   ],
+   "edge": [
+    -0.3449,
+    0.1193,
+    0.2256
+   ],
+   "warm": {
+    "home": 991,
+    "away": 1159
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Crystal Palace|Ipswich",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Crystal Palace",
+   "away": "Ipswich",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4268,
+    0.2631,
+    0.3101
+   ],
+   "p_dc": [
+    0.4918,
+    0.2321,
+    0.276
+   ],
+   "p_elo": [
+    0.3508,
+    0.2997,
+    0.3495
+   ],
+   "lambda": [
+    1.912,
+    1.394
+   ],
+   "over25": 0.6417,
+   "btts": 0.6457,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1026
+   },
+   "elo_diff": 0.7,
+   "market": [
+    0.5117,
+    0.2517,
+    0.2366
+   ],
+   "edge": [
+    -0.0849,
+    0.0113,
+    0.0735
+   ],
+   "warm": {
+    "home": 1087,
+    "away": 1165
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Liverpool|Fulham",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Liverpool",
+   "away": "Fulham",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5423,
+    0.2291,
+    0.2286
+   ],
+   "p_dc": [
+    0.5289,
+    0.2352,
+    0.2359
+   ],
+   "p_elo": [
+    0.5587,
+    0.2216,
+    0.2197
+   ],
+   "lambda": [
+    1.883,
+    1.197
+   ],
+   "over25": 0.5943,
+   "btts": 0.5968,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1088
+   },
+   "elo_diff": 162.1,
+   "market": [
+    0.6566,
+    0.195,
+    0.1484
+   ],
+   "edge": [
+    -0.1143,
+    0.0341,
+    0.0801
+   ],
+   "warm": {
+    "home": 991,
+    "away": 1047
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Blackburn|Millwall",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Blackburn",
+   "away": "Millwall",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3665,
+    0.265,
+    0.3685
+   ],
+   "p_dc": [
+    0.4278,
+    0.2598,
+    0.3124
+   ],
+   "p_elo": [
+    0.2957,
+    0.2648,
+    0.4396
+   ],
+   "lambda": [
+    1.552,
+    1.295
+   ],
+   "over25": 0.5415,
+   "btts": 0.578,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1225
+   },
+   "elo_diff": -68.9,
+   "market": [
+    0.3468,
+    0.2788,
+    0.3744
+   ],
+   "edge": [
+    0.0197,
+    -0.0138,
+    -0.0059
+   ],
+   "warm": {
+    "home": 1114,
+    "away": 1201
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Charlton|Portsmouth",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Charlton",
+   "away": "Portsmouth",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4185,
+    0.2764,
+    0.3051
+   ],
+   "p_dc": [
+    0.4093,
+    0.2829,
+    0.3078
+   ],
+   "p_elo": [
+    0.4298,
+    0.2685,
+    0.3017
+   ],
+   "lambda": [
+    1.341,
+    1.129
+   ],
+   "over25": 0.4485,
+   "btts": 0.506,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1345
+   },
+   "elo_diff": 61.4,
+   "market": [
+    0.345,
+    0.2941,
+    0.3609
+   ],
+   "edge": [
+    0.0735,
+    -0.0178,
+    -0.0558
+   ],
+   "warm": {
+    "home": 1146,
+    "away": 1134
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Middlesbrough|Norwich",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Middlesbrough",
+   "away": "Norwich",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4452,
+    0.2632,
+    0.2917
+   ],
+   "p_dc": [
+    0.4395,
+    0.2657,
+    0.2948
+   ],
+   "p_elo": [
+    0.4521,
+    0.26,
+    0.2878
+   ],
+   "lambda": [
+    1.515,
+    1.199
+   ],
+   "over25": 0.5098,
+   "btts": 0.551,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1264
+   },
+   "elo_diff": 78.4,
+   "market": [
+    0.5075,
+    0.2401,
+    0.2524
+   ],
+   "edge": [
+    -0.0623,
+    0.0231,
+    0.0393
+   ],
+   "warm": {
+    "home": 1121,
+    "away": 1146
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-09"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Preston|Lincoln",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Preston",
+   "away": "Lincoln",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3276,
+    0.2676,
+    0.4048
+   ],
+   "p_dc": [
+    0.3876,
+    0.2819,
+    0.3305
+   ],
+   "p_elo": [
+    0.2574,
+    0.2423,
+    0.5003
+   ],
+   "lambda": [
+    1.312,
+    1.192
+   ],
+   "over25": 0.4574,
+   "btts": 0.5154,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1342
+   },
+   "elo_diff": -115.5,
+   "market": [
+    0.4085,
+    0.2708,
+    0.3207
+   ],
+   "edge": [
+    -0.0809,
+    -0.0032,
+    0.0841
+   ],
+   "warm": {
+    "home": 1202,
+    "away": 1190
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Southampton|Bristol City",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Southampton",
+   "away": "Bristol City",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4815,
+    0.2479,
+    0.2706
+   ],
+   "p_dc": [
+    0.4941,
+    0.2422,
+    0.2637
+   ],
+   "p_elo": [
+    0.4662,
+    0.2548,
+    0.279
+   ],
+   "lambda": [
+    1.794,
+    1.26
+   ],
+   "over25": 0.5887,
+   "btts": 0.6025,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.112
+   },
+   "elo_diff": 89.2,
+   "market": [
+    0.5648,
+    0.2332,
+    0.202
+   ],
+   "edge": [
+    -0.0832,
+    0.0147,
+    0.0685
+   ],
+   "warm": {
+    "home": 1066,
+    "away": 1201
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Swansea|Burnley",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Swansea",
+   "away": "Burnley",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.523,
+    0.2455,
+    0.2314
+   ],
+   "p_dc": [
+    0.5318,
+    0.2513,
+    0.2169
+   ],
+   "p_elo": [
+    0.5116,
+    0.2382,
+    0.2501
+   ],
+   "lambda": [
+    1.703,
+    1.005
+   ],
+   "over25": 0.5085,
+   "btts": 0.5243,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1198
+   },
+   "elo_diff": 124.3,
+   "market": [
+    0.4387,
+    0.2706,
+    0.2907
+   ],
+   "edge": [
+    0.0843,
+    -0.0251,
+    -0.0592
+   ],
+   "warm": {
+    "home": 1146,
+    "away": 1122
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "E1|12/09/2026|Watford|Stoke",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Watford",
+   "away": "Stoke",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4536,
+    0.2587,
+    0.2877
+   ],
+   "p_dc": [
+    0.4005,
+    0.2757,
+    0.3238
+   ],
+   "p_elo": [
+    0.5196,
+    0.2354,
+    0.245
+   ],
+   "lambda": [
+    1.379,
+    1.215
+   ],
+   "over25": 0.4801,
+   "btts": 0.5324,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1315
+   },
+   "elo_diff": 130.6,
+   "market": [
+    0.4019,
+    0.2782,
+    0.3199
+   ],
+   "edge": [
+    0.0517,
+    -0.0196,
+    -0.0322
+   ],
+   "warm": {
+    "home": 1146,
+    "away": 1122
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|AFC Wimbledon|Doncaster",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "AFC Wimbledon",
+   "away": "Doncaster",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4116,
+    0.2777,
+    0.3108
+   ],
+   "p_dc": [
+    0.4525,
+    0.2625,
+    0.285
+   ],
+   "p_elo": [
+    0.3631,
+    0.2947,
+    0.3422
+   ],
+   "lambda": [
+    1.558,
+    1.19
+   ],
+   "over25": 0.5181,
+   "btts": 0.5552,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1247
+   },
+   "elo_diff": 10.3,
+   "market": [
+    0.3589,
+    0.2766,
+    0.3645
+   ],
+   "edge": [
+    0.0527,
+    0.001,
+    -0.0537
+   ],
+   "warm": {
+    "home": 774,
+    "away": 1051
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Blackpool|Bromley",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Blackpool",
+   "away": "Bromley",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.567,
+    0.2234,
+    0.2096
+   ],
+   "p_dc": [
+    0.6591,
+    0.1876,
+    0.1532
+   ],
+   "p_elo": [
+    0.4468,
+    0.262,
+    0.2912
+   ],
+   "lambda": [
+    2.415,
+    1.103
+   ],
+   "over25": 0.6825,
+   "btts": 0.6123,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0954
+   },
+   "elo_diff": 74.4,
+   "market": [
+    0.5329,
+    0.2527,
+    0.2144
+   ],
+   "edge": [
+    0.0341,
+    -0.0293,
+    -0.0048
+   ],
+   "warm": {
+    "home": 1182,
+    "away": 498
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Cambridge|Reading",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Cambridge",
+   "away": "Reading",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4227,
+    0.2553,
+    0.322
+   ],
+   "p_dc": [
+    0.3799,
+    0.2557,
+    0.3643
+   ],
+   "p_elo": [
+    0.4753,
+    0.2514,
+    0.2733
+   ],
+   "lambda": [
+    1.502,
+    1.467
+   ],
+   "over25": 0.5698,
+   "btts": 0.6037,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1188
+   },
+   "elo_diff": 96.1,
+   "market": [
+    0.3611,
+    0.282,
+    0.3569
+   ],
+   "edge": [
+    0.0616,
+    -0.0268,
+    -0.0349
+   ],
+   "warm": {
+    "home": 1186,
+    "away": 1176
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Mansfield|Huddersfield",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Mansfield",
+   "away": "Huddersfield",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4056,
+    0.2586,
+    0.3358
+   ],
+   "p_dc": [
+    0.3721,
+    0.2538,
+    0.3742
+   ],
+   "p_elo": [
+    0.4464,
+    0.2622,
+    0.2914
+   ],
+   "lambda": [
+    1.502,
+    1.507
+   ],
+   "over25": 0.5788,
+   "btts": 0.6106,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1173
+   },
+   "elo_diff": 74.1,
+   "market": [
+    0.2764,
+    0.2638,
+    0.4598
+   ],
+   "edge": [
+    0.1292,
+    -0.0052,
+    -0.124
+   ],
+   "warm": {
+    "home": 1189,
+    "away": 1185
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Milton Keynes Dons|Peterboro",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Milton Keynes Dons",
+   "away": "Peterboro",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5036,
+    0.2449,
+    0.2514
+   ],
+   "p_dc": [
+    0.48,
+    0.2565,
+    0.2635
+   ],
+   "p_elo": [
+    0.5325,
+    0.2308,
+    0.2367
+   ],
+   "lambda": [
+    1.637,
+    1.156
+   ],
+   "over25": 0.5289,
+   "btts": 0.5577,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1217
+   },
+   "elo_diff": 140.8,
+   "market": [
+    0.4663,
+    0.2494,
+    0.2843
+   ],
+   "edge": [
+    0.0373,
+    -0.0044,
+    -0.0329
+   ],
+   "warm": {
+    "home": 1006,
+    "away": 1190
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Oxford|Burton",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Oxford",
+   "away": "Burton",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.449,
+    0.2557,
+    0.2953
+   ],
+   "p_dc": [
+    0.4779,
+    0.2404,
+    0.2817
+   ],
+   "p_elo": [
+    0.4141,
+    0.2745,
+    0.3114
+   ],
+   "lambda": [
+    1.804,
+    1.345
+   ],
+   "over25": 0.6094,
+   "btts": 0.623,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1093
+   },
+   "elo_diff": 49.5,
+   "market": [
+    0.506,
+    0.2601,
+    0.2339
+   ],
+   "edge": [
+    -0.057,
+    -0.0044,
+    0.0614
+   ],
+   "warm": {
+    "home": 1187,
+    "away": 956
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Plymouth|Barnsley",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Plymouth",
+   "away": "Barnsley",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4354,
+    0.2662,
+    0.2984
+   ],
+   "p_dc": [
+    0.4888,
+    0.2444,
+    0.2668
+   ],
+   "p_elo": [
+    0.3721,
+    0.2911,
+    0.3369
+   ],
+   "lambda": [
+    1.767,
+    1.255
+   ],
+   "over25": 0.5818,
+   "btts": 0.5983,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1134
+   },
+   "elo_diff": 17.3,
+   "market": [
+    0.5682,
+    0.2256,
+    0.2062
+   ],
+   "edge": [
+    -0.1328,
+    0.0406,
+    0.0922
+   ],
+   "warm": {
+    "home": 1192,
+    "away": 1201
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Sheffield Weds|Wigan",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Sheffield Weds",
+   "away": "Wigan",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.489,
+    0.2531,
+    0.2579
+   ],
+   "p_dc": [
+    0.6103,
+    0.2082,
+    0.1815
+   ],
+   "p_elo": [
+    0.3421,
+    0.2946,
+    0.3633
+   ],
+   "lambda": [
+    2.181,
+    1.121
+   ],
+   "over25": 0.641,
+   "btts": 0.6024,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0981
+   },
+   "elo_diff": -10.5,
+   "market": [
+    0.5619,
+    0.2362,
+    0.2019
+   ],
+   "edge": [
+    -0.0729,
+    0.0169,
+    0.056
+   ],
+   "warm": {
+    "home": 1201,
+    "away": 1137
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E2|12/09/2026|Stockport|Leicester",
+   "div": "E2",
+   "league_zh": "英甲",
+   "home": "Stockport",
+   "away": "Leicester",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5428,
+    0.2352,
+    0.222
+   ],
+   "p_dc": [
+    0.5653,
+    0.2328,
+    0.2019
+   ],
+   "p_elo": [
+    0.5145,
+    0.2372,
+    0.2483
+   ],
+   "lambda": [
+    1.896,
+    1.053
+   ],
+   "over25": 0.5654,
+   "btts": 0.5586,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1098
+   },
+   "elo_diff": 126.5,
+   "market": [
+    0.5003,
+    0.2482,
+    0.2515
+   ],
+   "edge": [
+    0.0425,
+    -0.013,
+    -0.0295
+   ],
+   "warm": {
+    "home": 913,
+    "away": 1097
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Barnet|Accrington",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Barnet",
+   "away": "Accrington",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5398,
+    0.2228,
+    0.2374
+   ],
+   "p_dc": [
+    0.5059,
+    0.2287,
+    0.2654
+   ],
+   "p_elo": [
+    0.58,
+    0.2142,
+    0.2057
+   ],
+   "lambda": [
+    1.962,
+    1.381
+   ],
+   "over25": 0.6491,
+   "btts": 0.6482,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1005
+   },
+   "elo_diff": 180.1,
+   "market": [
+    0.5928,
+    0.2254,
+    0.1818
+   ],
+   "edge": [
+    -0.0531,
+    -0.0026,
+    0.0556
+   ],
+   "warm": {
+    "home": 1001,
+    "away": 956
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Colchester|Crewe",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Colchester",
+   "away": "Crewe",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4268,
+    0.2716,
+    0.3016
+   ],
+   "p_dc": [
+    0.401,
+    0.2828,
+    0.3163
+   ],
+   "p_elo": [
+    0.4589,
+    0.2575,
+    0.2836
+   ],
+   "lambda": [
+    1.329,
+    1.152
+   ],
+   "over25": 0.4513,
+   "btts": 0.5093,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1345
+   },
+   "elo_diff": 83.6,
+   "market": [
+    0.4451,
+    0.265,
+    0.2898
+   ],
+   "edge": [
+    -0.0183,
+    0.0065,
+    0.0118
+   ],
+   "warm": {
+    "home": 1192,
+    "away": 1192
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Gillingham|Tranmere",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Gillingham",
+   "away": "Tranmere",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4248,
+    0.2716,
+    0.3035
+   ],
+   "p_dc": [
+    0.4526,
+    0.2615,
+    0.2859
+   ],
+   "p_elo": [
+    0.3916,
+    0.2833,
+    0.3251
+   ],
+   "lambda": [
+    1.567,
+    1.199
+   ],
+   "over25": 0.5225,
+   "btts": 0.5587,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1241
+   },
+   "elo_diff": 32.3,
+   "market": [
+    0.3576,
+    0.2835,
+    0.359
+   ],
+   "edge": [
+    0.0673,
+    -0.0118,
+    -0.0554
+   ],
+   "warm": {
+    "home": 1190,
+    "away": 1189
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Newport County|Fleetwood Town",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Newport County",
+   "away": "Fleetwood Town",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3691,
+    0.2797,
+    0.3512
+   ],
+   "p_dc": [
+    0.3946,
+    0.2688,
+    0.3366
+   ],
+   "p_elo": [
+    0.3389,
+    0.2924,
+    0.3687
+   ],
+   "lambda": [
+    1.422,
+    1.295
+   ],
+   "over25": 0.5105,
+   "btts": 0.557,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1278
+   },
+   "elo_diff": -14.6,
+   "market": [
+    0.2862,
+    0.2688,
+    0.445
+   ],
+   "edge": [
+    0.0829,
+    0.0109,
+    -0.0938
+   ],
+   "warm": {
+    "home": 731,
+    "away": 730
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Oldham|Chesterfield",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Oldham",
+   "away": "Chesterfield",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4515,
+    0.264,
+    0.2845
+   ],
+   "p_dc": [
+    0.4683,
+    0.2604,
+    0.2712
+   ],
+   "p_elo": [
+    0.431,
+    0.268,
+    0.301
+   ],
+   "lambda": [
+    1.592,
+    1.157
+   ],
+   "over25": 0.5183,
+   "btts": 0.552,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1238
+   },
+   "elo_diff": 62.3,
+   "market": [
+    0.4287,
+    0.276,
+    0.2953
+   ],
+   "edge": [
+    0.0228,
+    -0.012,
+    -0.0108
+   ],
+   "warm": {
+    "home": 1192,
+    "away": 1187
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Port Vale|Exeter",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Port Vale",
+   "away": "Exeter",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4004,
+    0.2856,
+    0.314
+   ],
+   "p_dc": [
+    0.391,
+    0.2941,
+    0.3149
+   ],
+   "p_elo": [
+    0.4119,
+    0.2753,
+    0.3127
+   ],
+   "lambda": [
+    1.239,
+    1.084
+   ],
+   "over25": 0.4099,
+   "btts": 0.4766,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1382
+   },
+   "elo_diff": 47.9,
+   "market": [
+    0.4658,
+    0.274,
+    0.2602
+   ],
+   "edge": [
+    -0.0654,
+    0.0116,
+    0.0538
+   ],
+   "warm": {
+    "home": 1192,
+    "away": 1096
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Rotherham|Salford",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Rotherham",
+   "away": "Salford",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4029,
+    0.2876,
+    0.3095
+   ],
+   "p_dc": [
+    0.4376,
+    0.2798,
+    0.2826
+   ],
+   "p_elo": [
+    0.3615,
+    0.2953,
+    0.3432
+   ],
+   "lambda": [
+    1.401,
+    1.076
+   ],
+   "over25": 0.4504,
+   "btts": 0.5031,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1329
+   },
+   "elo_diff": 9.1,
+   "market": [
+    0.3325,
+    0.2645,
+    0.403
+   ],
+   "edge": [
+    0.0704,
+    0.0231,
+    -0.0936
+   ],
+   "warm": {
+    "home": 1190,
+    "away": 364
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Shrewsbury|Northampton",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Shrewsbury",
+   "away": "Northampton",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4032,
+    0.2777,
+    0.3191
+   ],
+   "p_dc": [
+    0.3653,
+    0.2906,
+    0.3441
+   ],
+   "p_elo": [
+    0.4511,
+    0.2604,
+    0.2885
+   ],
+   "lambda": [
+    1.215,
+    1.171
+   ],
+   "over25": 0.4266,
+   "btts": 0.4918,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1374
+   },
+   "elo_diff": 77.6,
+   "market": [
+    0.3604,
+    0.2952,
+    0.3444
+   ],
+   "edge": [
+    0.0428,
+    -0.0175,
+    -0.0253
+   ],
+   "warm": {
+    "home": 1143,
+    "away": 1192
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|Walsall|Rochdale",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "Walsall",
+   "away": "Rochdale",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4124,
+    0.2694,
+    0.3182
+   ],
+   "p_dc": [
+    0.4962,
+    0.2541,
+    0.2496
+   ],
+   "p_elo": [
+    0.3144,
+    0.2764,
+    0.4092
+   ],
+   "lambda": [
+    1.67,
+    1.12
+   ],
+   "over25": 0.5281,
+   "btts": 0.5526,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1206
+   },
+   "elo_diff": -45.8,
+   "market": [
+    0.5392,
+    0.2474,
+    0.2134
+   ],
+   "edge": [
+    -0.1267,
+    0.0219,
+    0.1048
+   ],
+   "warm": {
+    "home": 1191,
+    "away": 1189
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E3|12/09/2026|York|Swindon",
+   "div": "E3",
+   "league_zh": "英乙",
+   "home": "York",
+   "away": "Swindon",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5103,
+    0.236,
+    0.2537
+   ],
+   "p_dc": [
+    0.446,
+    0.2528,
+    0.3012
+   ],
+   "p_elo": [
+    0.5874,
+    0.2117,
+    0.2008
+   ],
+   "lambda": [
+    1.641,
+    1.313
+   ],
+   "over25": 0.5663,
+   "btts": 0.5949,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.118
+   },
+   "elo_diff": 186.5,
+   "market": [
+    0.5797,
+    0.2279,
+    0.1924
+   ],
+   "edge": [
+    -0.0693,
+    0.0081,
+    0.0613
+   ],
+   "warm": {
+    "home": 919,
+    "away": 1191
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Boston Utd|Wealdstone",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Boston Utd",
+   "away": "Wealdstone",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4483,
+    0.2587,
+    0.2931
+   ],
+   "p_dc": [
+    0.4685,
+    0.2487,
+    0.2828
+   ],
+   "p_elo": [
+    0.4238,
+    0.2708,
+    0.3054
+   ],
+   "lambda": [
+    1.706,
+    1.282
+   ],
+   "over25": 0.574,
+   "btts": 0.5967,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1157
+   },
+   "elo_diff": 56.9,
+   "market": [
+    0.4472,
+    0.2585,
+    0.2943
+   ],
+   "edge": [
+    0.001,
+    0.0002,
+    -0.0012
+   ],
+   "warm": {
+    "home": 98,
+    "away": 276
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Eastleigh|Boreham Wood",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Eastleigh",
+   "away": "Boreham Wood",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3472,
+    0.2622,
+    0.3907
+   ],
+   "p_dc": [
+    0.3971,
+    0.2594,
+    0.3435
+   ],
+   "p_elo": [
+    0.2896,
+    0.2611,
+    0.4493
+   ],
+   "lambda": [
+    1.505,
+    1.385
+   ],
+   "over25": 0.5515,
+   "btts": 0.5889,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1217
+   },
+   "elo_diff": -76.3,
+   "market": [
+    0.1775,
+    0.2164,
+    0.606
+   ],
+   "edge": [
+    0.1696,
+    0.0457,
+    -0.2154
+   ],
+   "warm": {
+    "home": 544,
+    "away": 452
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Forest Green|Gateshead",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Forest Green",
+   "away": "Gateshead",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4916,
+    0.2517,
+    0.2567
+   ],
+   "p_dc": [
+    0.4484,
+    0.2721,
+    0.2795
+   ],
+   "p_elo": [
+    0.5445,
+    0.2266,
+    0.2289
+   ],
+   "lambda": [
+    1.473,
+    1.111
+   ],
+   "over25": 0.4775,
+   "btts": 0.5232,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1297
+   },
+   "elo_diff": 150.5,
+   "market": [
+    0.6308,
+    0.2055,
+    0.1637
+   ],
+   "edge": [
+    -0.1392,
+    0.0462,
+    0.093
+   ],
+   "warm": {
+    "home": 956,
+    "away": 648
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Halifax|Hornchurch",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Halifax",
+   "away": "Hornchurch",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4004,
+    0.2798,
+    0.3198
+   ],
+   "p_dc": [
+    0.4502,
+    0.2644,
+    0.2854
+   ],
+   "p_elo": [
+    0.4004,
+    0.2798,
+    0.3198
+   ],
+   "lambda": [
+    1.539,
+    1.178
+   ],
+   "over25": 0.5104,
+   "btts": 0.5495,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1258
+   },
+   "elo_diff": 39.1,
+   "market": [
+    0.4462,
+    0.2631,
+    0.2908
+   ],
+   "edge": [
+    -0.0458,
+    0.0168,
+    0.029
+   ],
+   "warm": {
+    "home": 769,
+    "away": 6
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Solihull|Aldershot",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Solihull",
+   "away": "Aldershot",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3385,
+    0.2726,
+    0.3889
+   ],
+   "p_dc": [
+    0.3495,
+    0.2639,
+    0.3865
+   ],
+   "p_elo": [
+    0.3251,
+    0.2833,
+    0.3915
+   ],
+   "lambda": [
+    1.364,
+    1.446
+   ],
+   "over25": 0.5329,
+   "btts": 0.5749,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1247
+   },
+   "elo_diff": -32.3,
+   "market": [
+    0.4325,
+    0.2488,
+    0.3187
+   ],
+   "edge": [
+    -0.094,
+    0.0238,
+    0.0703
+   ],
+   "warm": {
+    "home": 453,
+    "away": 956
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Sutton|Scunthorpe",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Sutton",
+   "away": "Scunthorpe",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4025,
+    0.2749,
+    0.3225
+   ],
+   "p_dc": [
+    0.4449,
+    0.2547,
+    0.3003
+   ],
+   "p_elo": [
+    0.3527,
+    0.2989,
+    0.3484
+   ],
+   "lambda": [
+    1.621,
+    1.295
+   ],
+   "over25": 0.5578,
+   "btts": 0.5883,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1193
+   },
+   "elo_diff": 2.1,
+   "market": [
+    0.4156,
+    0.2638,
+    0.3205
+   ],
+   "edge": [
+    -0.0131,
+    0.0111,
+    0.002
+   ],
+   "warm": {
+    "home": 454,
+    "away": 1101
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Woking|Altrincham",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Woking",
+   "away": "Altrincham",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4251,
+    0.2658,
+    0.3092
+   ],
+   "p_dc": [
+    0.3883,
+    0.2748,
+    0.3369
+   ],
+   "p_elo": [
+    0.4708,
+    0.2531,
+    0.2761
+   ],
+   "lambda": [
+    1.365,
+    1.255
+   ],
+   "over25": 0.4865,
+   "btts": 0.5385,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.131
+   },
+   "elo_diff": 92.7,
+   "market": [
+    0.461,
+    0.2703,
+    0.2687
+   ],
+   "edge": [
+    -0.036,
+    -0.0045,
+    0.0405
+   ],
+   "warm": {
+    "home": 771,
+    "away": 639
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Yeovil|Fylde",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Yeovil",
+   "away": "Fylde",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.462,
+    0.2457,
+    0.2924
+   ],
+   "p_dc": [
+    0.4517,
+    0.2404,
+    0.3079
+   ],
+   "p_elo": [
+    0.4741,
+    0.2519,
+    0.274
+   ],
+   "lambda": [
+    1.778,
+    1.439
+   ],
+   "over25": 0.6236,
+   "btts": 0.6391,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1077
+   },
+   "elo_diff": 95.3,
+   "market": [
+    0.384,
+    0.2563,
+    0.3597
+   ],
+   "edge": [
+    0.078,
+    -0.0107,
+    -0.0673
+   ],
+   "warm": {
+    "home": 1004,
+    "away": 227
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC1|12/09/2026|Ayr|Inverness C",
+   "div": "SC1",
+   "league_zh": "蘇冠",
+   "home": "Ayr",
+   "away": "Inverness C",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4025,
+    0.2842,
+    0.3133
+   ],
+   "p_dc": [
+    0.4575,
+    0.2739,
+    0.2686
+   ],
+   "p_elo": [
+    0.3375,
+    0.2915,
+    0.3709
+   ],
+   "lambda": [
+    1.467,
+    1.066
+   ],
+   "over25": 0.4647,
+   "btts": 0.5106,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1304
+   },
+   "elo_diff": -16.4,
+   "market": [
+    0.3377,
+    0.2839,
+    0.3785
+   ],
+   "edge": [
+    0.0648,
+    0.0003,
+    -0.0651
+   ],
+   "warm": {
+    "home": 923,
+    "away": 947
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC1|12/09/2026|Dunfermline|Queens Park",
+   "div": "SC1",
+   "league_zh": "蘇冠",
+   "home": "Dunfermline",
+   "away": "Queens Park",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4385,
+    0.2752,
+    0.2863
+   ],
+   "p_dc": [
+    0.4312,
+    0.2864,
+    0.2824
+   ],
+   "p_elo": [
+    0.4472,
+    0.2619,
+    0.2909
+   ],
+   "lambda": [
+    1.346,
+    1.039
+   ],
+   "over25": 0.4264,
+   "btts": 0.4844,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1352
+   },
+   "elo_diff": 74.7,
+   "market": [
+    0.627,
+    0.2223,
+    0.1508
+   ],
+   "edge": [
+    -0.1885,
+    0.0529,
+    0.1355
+   ],
+   "warm": {
+    "home": 940,
+    "away": 919
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC1|12/09/2026|Raith Rvs|Arbroath",
+   "div": "SC1",
+   "league_zh": "蘇冠",
+   "home": "Raith Rvs",
+   "away": "Arbroath",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4656,
+    0.266,
+    0.2685
+   ],
+   "p_dc": [
+    0.4433,
+    0.2837,
+    0.273
+   ],
+   "p_elo": [
+    0.4927,
+    0.245,
+    0.2622
+   ],
+   "lambda": [
+    1.379,
+    1.026
+   ],
+   "over25": 0.4316,
+   "btts": 0.4864,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1341
+   },
+   "elo_diff": 109.6,
+   "market": [
+    0.5036,
+    0.2714,
+    0.2249
+   ],
+   "edge": [
+    -0.0381,
+    -0.0055,
+    0.0435
+   ],
+   "warm": {
+    "home": 923,
+    "away": 922
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC2|12/09/2026|Airdrie Utd|Alloa",
+   "div": "SC2",
+   "league_zh": "蘇甲",
+   "home": "Airdrie Utd",
+   "away": "Alloa",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3532,
+    0.2771,
+    0.3697
+   ],
+   "p_dc": [
+    0.3837,
+    0.2747,
+    0.3416
+   ],
+   "p_elo": [
+    0.3172,
+    0.2782,
+    0.4046
+   ],
+   "lambda": [
+    1.357,
+    1.266
+   ],
+   "over25": 0.4873,
+   "btts": 0.5394,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1309
+   },
+   "elo_diff": -42.3,
+   "market": [
+    0.381,
+    0.2821,
+    0.3369
+   ],
+   "edge": [
+    -0.0277,
+    -0.0051,
+    0.0328
+   ],
+   "warm": {
+    "home": 848,
+    "away": 925
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC2|12/09/2026|East Kilbride|Peterhead",
+   "div": "SC2",
+   "league_zh": "蘇甲",
+   "home": "East Kilbride",
+   "away": "Peterhead",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4797,
+    0.248,
+    0.2723
+   ],
+   "p_dc": [
+    0.4276,
+    0.2632,
+    0.3092
+   ],
+   "p_elo": [
+    0.5435,
+    0.2269,
+    0.2296
+   ],
+   "lambda": [
+    1.521,
+    1.26
+   ],
+   "over25": 0.5259,
+   "btts": 0.5657,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1247
+   },
+   "elo_diff": 149.7,
+   "market": [
+    0.5805,
+    0.2146,
+    0.2049
+   ],
+   "edge": [
+    -0.1008,
+    0.0334,
+    0.0674
+   ],
+   "warm": {
+    "home": 42,
+    "away": 919
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC2|12/09/2026|Montrose|Cove Rangers",
+   "div": "SC2",
+   "league_zh": "蘇甲",
+   "home": "Montrose",
+   "away": "Cove Rangers",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4534,
+    0.268,
+    0.2787
+   ],
+   "p_dc": [
+    0.5045,
+    0.2528,
+    0.2426
+   ],
+   "p_elo": [
+    0.3917,
+    0.2833,
+    0.325
+   ],
+   "lambda": [
+    1.685,
+    1.101
+   ],
+   "over25": 0.5274,
+   "btts": 0.5495,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1201
+   },
+   "elo_diff": 32.4,
+   "market": [
+    0.5215,
+    0.2465,
+    0.2319
+   ],
+   "edge": [
+    -0.0682,
+    0.0214,
+    0.0467
+   ],
+   "warm": {
+    "home": 920,
+    "away": 236
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC2|12/09/2026|Queen of Sth|East Fife",
+   "div": "SC2",
+   "league_zh": "蘇甲",
+   "home": "Queen of Sth",
+   "away": "East Fife",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4583,
+    0.2578,
+    0.284
+   ],
+   "p_dc": [
+    0.4261,
+    0.2691,
+    0.3048
+   ],
+   "p_elo": [
+    0.498,
+    0.2431,
+    0.2589
+   ],
+   "lambda": [
+    1.47,
+    1.207
+   ],
+   "over25": 0.5007,
+   "btts": 0.5458,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1281
+   },
+   "elo_diff": 113.7,
+   "market": [
+    0.3416,
+    0.2829,
+    0.3756
+   ],
+   "edge": [
+    0.1167,
+    -0.0251,
+    -0.0916
+   ],
+   "warm": {
+    "home": 924,
+    "away": 920
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC3|12/09/2026|Annan Athletic|Elgin",
+   "div": "SC3",
+   "league_zh": "蘇乙",
+   "home": "Annan Athletic",
+   "away": "Elgin",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4126,
+    0.2662,
+    0.3212
+   ],
+   "p_dc": [
+    0.4086,
+    0.2604,
+    0.331
+   ],
+   "p_elo": [
+    0.4172,
+    0.2733,
+    0.3095
+   ],
+   "lambda": [
+    1.516,
+    1.343
+   ],
+   "over25": 0.5446,
+   "btts": 0.5826,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1225
+   },
+   "elo_diff": 51.9,
+   "market": [
+    0.3465,
+    0.2569,
+    0.3966
+   ],
+   "edge": [
+    0.0661,
+    0.0093,
+    -0.0754
+   ],
+   "warm": {
+    "home": 631,
+    "away": 920
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC3|12/09/2026|Clyde|Kelty Hearts",
+   "div": "SC3",
+   "league_zh": "蘇乙",
+   "home": "Clyde",
+   "away": "Kelty Hearts",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5221,
+    0.2322,
+    0.2457
+   ],
+   "p_dc": [
+    0.5016,
+    0.2371,
+    0.2613
+   ],
+   "p_elo": [
+    0.5468,
+    0.2257,
+    0.2274
+   ],
+   "lambda": [
+    1.856,
+    1.291
+   ],
+   "over25": 0.609,
+   "btts": 0.6169,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1081
+   },
+   "elo_diff": 152.4,
+   "market": [
+    0.5141,
+    0.2394,
+    0.2465
+   ],
+   "edge": [
+    0.008,
+    -0.0072,
+    -0.0008
+   ],
+   "warm": {
+    "home": 920,
+    "away": 186
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC3|12/09/2026|Edinburgh City|Stirling",
+   "div": "SC3",
+   "league_zh": "蘇乙",
+   "home": "Edinburgh City",
+   "away": "Stirling",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4652,
+    0.2639,
+    0.2709
+   ],
+   "p_dc": [
+    0.5324,
+    0.2417,
+    0.2258
+   ],
+   "p_elo": [
+    0.3843,
+    0.2862,
+    0.3295
+   ],
+   "lambda": [
+    1.806,
+    1.105
+   ],
+   "over25": 0.5564,
+   "btts": 0.5642,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1141
+   },
+   "elo_diff": 26.7,
+   "market": [
+    0.5046,
+    0.2595,
+    0.2359
+   ],
+   "edge": [
+    -0.0394,
+    0.0044,
+    0.035
+   ],
+   "warm": {
+    "home": 307,
+    "away": 920
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC3|12/09/2026|Spartans|Forfar",
+   "div": "SC3",
+   "league_zh": "蘇乙",
+   "home": "Spartans",
+   "away": "Forfar",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4932,
+    0.2487,
+    0.2581
+   ],
+   "p_dc": [
+    0.5234,
+    0.2398,
+    0.2368
+   ],
+   "p_elo": [
+    0.4563,
+    0.2585,
+    0.2853
+   ],
+   "lambda": [
+    1.828,
+    1.166
+   ],
+   "over25": 0.5755,
+   "btts": 0.5831,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1121
+   },
+   "elo_diff": 81.6,
+   "market": [
+    0.5554,
+    0.2421,
+    0.2025
+   ],
+   "edge": [
+    -0.0622,
+    0.0066,
+    0.0556
+   ],
+   "warm": {
+    "home": 114,
+    "away": 920
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SC3|12/09/2026|Stranraer|Dumbarton",
+   "div": "SC3",
+   "league_zh": "蘇乙",
+   "home": "Stranraer",
+   "away": "Dumbarton",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5347,
+    0.2389,
+    0.2264
+   ],
+   "p_dc": [
+    0.5381,
+    0.2449,
+    0.217
+   ],
+   "p_elo": [
+    0.5301,
+    0.2316,
+    0.2383
+   ],
+   "lambda": [
+    1.77,
+    1.045
+   ],
+   "over25": 0.534,
+   "btts": 0.5433,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1164
+   },
+   "elo_diff": 138.9,
+   "market": [
+    0.5976,
+    0.2223,
+    0.1801
+   ],
+   "edge": [
+    -0.0629,
+    0.0167,
+    0.0463
+   ],
+   "warm": {
+    "home": 919,
+    "away": 920
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "T1|12/09/2026|Eyupspor|Rizespor",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Eyupspor",
+   "away": "Rizespor",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4107,
+    0.2728,
+    0.3165
+   ],
+   "p_dc": [
+    0.408,
+    0.2713,
+    0.3207
+   ],
+   "p_elo": [
+    0.4139,
+    0.2746,
+    0.3115
+   ],
+   "lambda": [
+    1.425,
+    1.237
+   ],
+   "over25": 0.4969,
+   "btts": 0.5451,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1292
+   },
+   "elo_diff": 49.3,
+   "market": [
+    0.2412,
+    0.2648,
+    0.494
+   ],
+   "edge": [
+    0.1695,
+    0.008,
+    -0.1775
+   ],
+   "warm": {
+    "home": 74,
+    "away": 632
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "T1|12/09/2026|Samsunspor|Corum",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Samsunspor",
+   "away": "Corum",
+   "kickoff_utc": "2026-09-12T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4673,
+    0.2544,
+    0.2783
+   ],
+   "p_dc": [
+    0.4506,
+    0.2497,
+    0.2998
+   ],
+   "p_elo": [
+    0.4673,
+    0.2544,
+    0.2783
+   ],
+   "lambda": [
+    1.678,
+    1.333
+   ],
+   "over25": 0.5792,
+   "btts": 0.6043,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1157
+   },
+   "elo_diff": 90.0,
+   "market": [
+    0.4305,
+    0.2826,
+    0.287
+   ],
+   "edge": [
+    0.0368,
+    -0.0282,
+    -0.0086
+   ],
+   "warm": {
+    "home": 350,
+    "away": 4
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP1|12/09/2026|Osasuna|Espanol",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Osasuna",
+   "away": "Espanol",
+   "kickoff_utc": "2026-09-12T14:15+00:00",
+   "time_uk": "15:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4661,
+    0.2557,
+    0.2782
+   ],
+   "p_dc": [
+    0.4451,
+    0.264,
+    0.2909
+   ],
+   "p_elo": [
+    0.4918,
+    0.2454,
+    0.2628
+   ],
+   "lambda": [
+    1.537,
+    1.199
+   ],
+   "over25": 0.5151,
+   "btts": 0.5542,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1255
+   },
+   "elo_diff": 108.9,
+   "market": [
+    0.4467,
+    0.29,
+    0.2633
+   ],
+   "edge": [
+    0.0194,
+    -0.0343,
+    0.0149
+   ],
+   "warm": {
+    "home": 1008,
+    "away": 1000
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP2|12/09/2026|Cadiz|Las Palmas",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Cadiz",
+   "away": "Las Palmas",
+   "kickoff_utc": "2026-09-12T14:15+00:00",
+   "time_uk": "15:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3904,
+    0.2777,
+    0.3319
+   ],
+   "p_dc": [
+    0.4405,
+    0.2665,
+    0.293
+   ],
+   "p_elo": [
+    0.3317,
+    0.2876,
+    0.3807
+   ],
+   "lambda": [
+    1.51,
+    1.188
+   ],
+   "over25": 0.5059,
+   "btts": 0.5477,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1268
+   },
+   "elo_diff": -24.0,
+   "market": [
+    0.3499,
+    0.2849,
+    0.3652
+   ],
+   "edge": [
+    0.0405,
+    -0.0072,
+    -0.0333
+   ],
+   "warm": {
+    "home": 656,
+    "away": 984
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "N1|12/09/2026|Twente|Den Haag",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Twente",
+   "away": "Den Haag",
+   "kickoff_utc": "2026-09-12T14:30+00:00",
+   "time_uk": "15:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5872,
+    0.209,
+    0.2039
+   ],
+   "p_dc": [
+    0.5601,
+    0.2149,
+    0.225
+   ],
+   "p_elo": [
+    0.6191,
+    0.2011,
+    0.1799
+   ],
+   "lambda": [
+    2.146,
+    1.313
+   ],
+   "over25": 0.6714,
+   "btts": 0.6499,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0951
+   },
+   "elo_diff": 214.7,
+   "market": [
+    0.7616,
+    0.1452,
+    0.0932
+   ],
+   "edge": [
+    -0.1745,
+    0.0638,
+    0.1107
+   ],
+   "warm": {
+    "home": 847,
+    "away": 575
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "P1|12/09/2026|Nacional|Alverca",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Nacional",
+   "away": "Alverca",
+   "kickoff_utc": "2026-09-12T14:30+00:00",
+   "time_uk": "15:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4474,
+    0.2641,
+    0.2885
+   ],
+   "p_dc": [
+    0.4421,
+    0.2679,
+    0.2899
+   ],
+   "p_elo": [
+    0.4539,
+    0.2594,
+    0.2867
+   ],
+   "lambda": [
+    1.5,
+    1.17
+   ],
+   "over25": 0.4988,
+   "btts": 0.5417,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1276
+   },
+   "elo_diff": 79.8,
+   "market": [
+    0.3623,
+    0.2837,
+    0.354
+   ],
+   "edge": [
+    0.0851,
+    -0.0196,
+    -0.0655
+   ],
+   "warm": {
+    "home": 619,
+    "away": 141
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F1|12/09/2026|Strasbourg|Monaco",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Strasbourg",
+   "away": "Monaco",
+   "kickoff_utc": "2026-09-12T15:15+00:00",
+   "time_uk": "16:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4333,
+    0.2602,
+    0.3065
+   ],
+   "p_dc": [
+    0.4523,
+    0.2475,
+    0.3002
+   ],
+   "p_elo": [
+    0.4103,
+    0.276,
+    0.3137
+   ],
+   "lambda": [
+    1.702,
+    1.352
+   ],
+   "over25": 0.5887,
+   "btts": 0.6114,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.114
+   },
+   "elo_diff": 46.6,
+   "market": [
+    0.3114,
+    0.2526,
+    0.436
+   ],
+   "edge": [
+    0.1219,
+    0.0076,
+    -0.1295
+   ],
+   "warm": {
+    "home": 736,
+    "away": 961
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "I2|12/09/2026|Catanzaro|Carrarese",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Catanzaro",
+   "away": "Carrarese",
+   "kickoff_utc": "2026-09-12T15:15+00:00",
+   "time_uk": "16:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.472,
+    0.2577,
+    0.2703
+   ],
+   "p_dc": [
+    0.4254,
+    0.2782,
+    0.2964
+   ],
+   "p_elo": [
+    0.5296,
+    0.2318,
+    0.2386
+   ],
+   "lambda": [
+    1.398,
+    1.125
+   ],
+   "over25": 0.462,
+   "btts": 0.5147,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1325
+   },
+   "elo_diff": 138.6,
+   "market": [
+    0.4685,
+    0.2772,
+    0.2543
+   ],
+   "edge": [
+    0.0035,
+    -0.0195,
+    0.016
+   ],
+   "warm": {
+    "home": 201,
+    "away": 79
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "G1|12/09/2026|Olympiakos|OFI Crete",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Olympiakos",
+   "away": "OFI Crete",
+   "kickoff_utc": "2026-09-12T16:00+00:00",
+   "time_uk": "17:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5096,
+    0.253,
+    0.2374
+   ],
+   "p_dc": [
+    0.4167,
+    0.2946,
+    0.2887
+   ],
+   "p_elo": [
+    0.6216,
+    0.2002,
+    0.1782
+   ],
+   "lambda": [
+    1.273,
+    1.014
+   ],
+   "over25": 0.4007,
+   "btts": 0.4655,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1377
+   },
+   "elo_diff": 217.0,
+   "market": [
+    0.7627,
+    0.1541,
+    0.0832
+   ],
+   "edge": [
+    -0.2531,
+    0.0989,
+    0.1542
+   ],
+   "warm": {
+    "home": 674,
+    "away": 265
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I1|12/09/2026|Lazio|Milan",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Lazio",
+   "away": "Milan",
+   "kickoff_utc": "2026-09-12T16:00+00:00",
+   "time_uk": "17:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3854,
+    0.2828,
+    0.3318
+   ],
+   "p_dc": [
+    0.4327,
+    0.2765,
+    0.2908
+   ],
+   "p_elo": [
+    0.3296,
+    0.2863,
+    0.3841
+   ],
+   "lambda": [
+    1.42,
+    1.119
+   ],
+   "over25": 0.4661,
+   "btts": 0.5169,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1317
+   },
+   "elo_diff": -26.6,
+   "market": [
+    0.2879,
+    0.2942,
+    0.4179
+   ],
+   "edge": [
+    0.0975,
+    -0.0114,
+    -0.086
+   ],
+   "warm": {
+    "home": 975,
+    "away": 975
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|12/09/2026|Westerlo|Standard",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Westerlo",
+   "away": "Standard",
+   "kickoff_utc": "2026-09-12T16:15+00:00",
+   "time_uk": "17:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3775,
+    0.2634,
+    0.3591
+   ],
+   "p_dc": [
+    0.4397,
+    0.2523,
+    0.308
+   ],
+   "p_elo": [
+    0.306,
+    0.2711,
+    0.4229
+   ],
+   "lambda": [
+    1.638,
+    1.339
+   ],
+   "over25": 0.5717,
+   "btts": 0.6001,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1173
+   },
+   "elo_diff": -56.2,
+   "market": [
+    0.384,
+    0.2574,
+    0.3586
+   ],
+   "edge": [
+    -0.0065,
+    0.006,
+    0.0005
+   ],
+   "warm": {
+    "home": 640,
+    "away": 857
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D1|12/09/2026|FC Koln|Werder Bremen",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "FC Koln",
+   "away": "Werder Bremen",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4405,
+    0.245,
+    0.3146
+   ],
+   "p_dc": [
+    0.451,
+    0.2259,
+    0.3231
+   ],
+   "p_elo": [
+    0.4267,
+    0.2697,
+    0.3036
+   ],
+   "lambda": [
+    1.953,
+    1.636
+   ],
+   "over25": 0.6954,
+   "btts": 0.6955,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0927
+   },
+   "elo_diff": 59.1,
+   "market": [
+    0.4533,
+    0.2516,
+    0.2951
+   ],
+   "edge": [
+    -0.0129,
+    -0.0066,
+    0.0195
+   ],
+   "warm": {
+    "home": 886,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Tottenham|Everton",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Tottenham",
+   "away": "Everton",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3531,
+    0.2752,
+    0.3717
+   ],
+   "p_dc": [
+    0.3883,
+    0.2737,
+    0.338
+   ],
+   "p_elo": [
+    0.3116,
+    0.2746,
+    0.4138
+   ],
+   "lambda": [
+    1.373,
+    1.264
+   ],
+   "over25": 0.4908,
+   "btts": 0.5419,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1304
+   },
+   "elo_diff": -49.3,
+   "market": [
+    0.467,
+    0.2672,
+    0.2657
+   ],
+   "edge": [
+    -0.1139,
+    0.008,
+    0.1059
+   ],
+   "warm": {
+    "home": 991,
+    "away": 991
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "EC|12/09/2026|Carlisle|Southend",
+   "div": "EC",
+   "league_zh": "英足協全國聯賽",
+   "home": "Carlisle",
+   "away": "Southend",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4471,
+    0.2576,
+    0.2953
+   ],
+   "p_dc": [
+    0.4962,
+    0.2349,
+    0.2689
+   ],
+   "p_elo": [
+    0.3886,
+    0.2845,
+    0.3269
+   ],
+   "lambda": [
+    1.88,
+    1.34
+   ],
+   "over25": 0.6243,
+   "btts": 0.6306,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1057
+   },
+   "elo_diff": 30.0,
+   "market": [
+    0.4092,
+    0.2581,
+    0.3327
+   ],
+   "edge": [
+    0.0379,
+    -0.0005,
+    -0.0374
+   ],
+   "warm": {
+    "home": 1147,
+    "away": 1189
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP1|12/09/2026|Ath Bilbao|Elche",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Ath Bilbao",
+   "away": "Elche",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5555,
+    0.228,
+    0.2165
+   ],
+   "p_dc": [
+    0.5726,
+    0.2258,
+    0.2016
+   ],
+   "p_elo": [
+    0.5342,
+    0.2302,
+    0.2356
+   ],
+   "lambda": [
+    1.98,
+    1.101
+   ],
+   "over25": 0.5945,
+   "btts": 0.5802,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1051
+   },
+   "elo_diff": 142.2,
+   "market": [
+    0.6712,
+    0.2001,
+    0.1288
+   ],
+   "edge": [
+    -0.1157,
+    0.0279,
+    0.0877
+   ],
+   "warm": {
+    "home": 992,
+    "away": 1030
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "SP2|12/09/2026|Girona|Castellon",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Girona",
+   "away": "Castellon",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4217,
+    0.2798,
+    0.2986
+   ],
+   "p_dc": [
+    0.4578,
+    0.271,
+    0.2712
+   ],
+   "p_elo": [
+    0.3783,
+    0.2886,
+    0.3331
+   ],
+   "lambda": [
+    1.491,
+    1.091
+   ],
+   "over25": 0.4771,
+   "btts": 0.5208,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1292
+   },
+   "elo_diff": 22.1,
+   "market": [
+    0.4304,
+    0.2616,
+    0.308
+   ],
+   "edge": [
+    -0.0087,
+    0.0181,
+    -0.0094
+   ],
+   "warm": {
+    "home": 736,
+    "away": 340
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP2|12/09/2026|Granada|Albacete",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Granada",
+   "away": "Albacete",
+   "kickoff_utc": "2026-09-12T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4595,
+    0.272,
+    0.2685
+   ],
+   "p_dc": [
+    0.4903,
+    0.2705,
+    0.2392
+   ],
+   "p_elo": [
+    0.4214,
+    0.2717,
+    0.3069
+   ],
+   "lambda": [
+    1.518,
+    0.985
+   ],
+   "over25": 0.4569,
+   "btts": 0.4953,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1285
+   },
+   "elo_diff": 55.0,
+   "market": [
+    0.4488,
+    0.2822,
+    0.269
+   ],
+   "edge": [
+    0.0107,
+    -0.0102,
+    -0.0005
+   ],
+   "warm": {
+    "home": 636,
+    "away": 878
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "N1|12/09/2026|Go Ahead Eagles|Groningen",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Go Ahead Eagles",
+   "away": "Groningen",
+   "kickoff_utc": "2026-09-12T16:45+00:00",
+   "time_uk": "17:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5028,
+    0.2236,
+    0.2736
+   ],
+   "p_dc": [
+    0.5191,
+    0.2042,
+    0.2767
+   ],
+   "p_elo": [
+    0.4819,
+    0.249,
+    0.2691
+   ],
+   "lambda": [
+    2.336,
+    1.697
+   ],
+   "over25": 0.7666,
+   "btts": 0.7412,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0821
+   },
+   "elo_diff": 101.2,
+   "market": [
+    0.4126,
+    0.2424,
+    0.3451
+   ],
+   "edge": [
+    0.0902,
+    -0.0187,
+    -0.0715
+   ],
+   "warm": {
+    "home": 277,
+    "away": 847
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "P1|12/09/2026|Casa Pia|Porto",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Casa Pia",
+   "away": "Porto",
+   "kickoff_utc": "2026-09-12T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.2653,
+    0.2568,
+    0.4779
+   ],
+   "p_dc": [
+    0.3125,
+    0.2872,
+    0.4003
+   ],
+   "p_elo": [
+    0.2099,
+    0.2164,
+    0.5737
+   ],
+   "lambda": [
+    1.116,
+    1.298
+   ],
+   "over25": 0.4338,
+   "btts": 0.4952,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1361
+   },
+   "elo_diff": -174.7,
+   "market": [
+    0.0829,
+    0.169,
+    0.7481
+   ],
+   "edge": [
+    0.1824,
+    0.0878,
+    -0.2702
+   ],
+   "warm": {
+    "home": 141,
+    "away": 857
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "T1|12/09/2026|Alanyaspor|Goztep",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Alanyaspor",
+   "away": "Goztep",
+   "kickoff_utc": "2026-09-12T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4808,
+    0.2526,
+    0.2666
+   ],
+   "p_dc": [
+    0.5218,
+    0.2387,
+    0.2395
+   ],
+   "p_elo": [
+    0.4308,
+    0.2681,
+    0.3011
+   ],
+   "lambda": [
+    1.841,
+    1.186
+   ],
+   "over25": 0.5829,
+   "btts": 0.5897,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1111
+   },
+   "elo_diff": 62.2,
+   "market": [
+    0.429,
+    0.2749,
+    0.2961
+   ],
+   "edge": [
+    0.0518,
+    -0.0223,
+    -0.0295
+   ],
+   "warm": {
+    "home": 362,
+    "away": 322
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "T1|12/09/2026|Konyaspor|Trabzonspor",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Konyaspor",
+   "away": "Trabzonspor",
+   "kickoff_utc": "2026-09-12T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3366,
+    0.2655,
+    0.398
+   ],
+   "p_dc": [
+    0.3471,
+    0.2521,
+    0.4008
+   ],
+   "p_elo": [
+    0.3237,
+    0.2824,
+    0.3939
+   ],
+   "lambda": [
+    1.455,
+    1.578
+   ],
+   "over25": 0.5842,
+   "btts": 0.6139,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1161
+   },
+   "elo_diff": -34.1,
+   "market": [
+    0.2731,
+    0.2549,
+    0.472
+   ],
+   "edge": [
+    0.0635,
+    0.0105,
+    -0.074
+   ],
+   "warm": {
+    "home": 702,
+    "away": 904
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I2|12/09/2026|Cesena|Cremonese",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Cesena",
+   "away": "Cremonese",
+   "kickoff_utc": "2026-09-12T17:30+00:00",
+   "time_uk": "18:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.427,
+    0.2788,
+    0.2942
+   ],
+   "p_dc": [
+    0.4705,
+    0.2675,
+    0.262
+   ],
+   "p_elo": [
+    0.3749,
+    0.2899,
+    0.3352
+   ],
+   "lambda": [
+    1.531,
+    1.081
+   ],
+   "over25": 0.4846,
+   "btts": 0.5239,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1275
+   },
+   "elo_diff": 19.5,
+   "market": [
+    0.2949,
+    0.2912,
+    0.4139
+   ],
+   "edge": [
+    0.1321,
+    -0.0124,
+    -0.1197
+   ],
+   "warm": {
+    "home": 613,
+    "away": 389
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "F2|12/09/2026|Dunkerque|St Etienne",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Dunkerque",
+   "away": "St Etienne",
+   "kickoff_utc": "2026-09-12T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3524,
+    0.2789,
+    0.3687
+   ],
+   "p_dc": [
+    0.3453,
+    0.2651,
+    0.3895
+   ],
+   "p_elo": [
+    0.3603,
+    0.2958,
+    0.3439
+   ],
+   "lambda": [
+    1.344,
+    1.442
+   ],
+   "over25": 0.5273,
+   "btts": 0.5704,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1255
+   },
+   "elo_diff": 8.1,
+   "market": [
+    0.2231,
+    0.2457,
+    0.5312
+   ],
+   "edge": [
+    0.1293,
+    0.0331,
+    -0.1625
+   ],
+   "warm": {
+    "home": 187,
+    "away": 971
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "G1|12/09/2026|Iraklis|Atromitos",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Iraklis",
+   "away": "Atromitos",
+   "kickoff_utc": "2026-09-12T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4102,
+    0.2887,
+    0.3011
+   ],
+   "p_dc": [
+    0.4473,
+    0.2826,
+    0.2701
+   ],
+   "p_elo": [
+    0.3658,
+    0.2936,
+    0.3406
+   ],
+   "lambda": [
+    1.391,
+    1.023
+   ],
+   "over25": 0.4338,
+   "btts": 0.4874,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1337
+   },
+   "elo_diff": 12.4,
+   "market": [
+    0.3331,
+    0.2974,
+    0.3694
+   ],
+   "edge": [
+    0.0771,
+    -0.0088,
+    -0.0683
+   ],
+   "warm": {
+    "home": 243,
+    "away": 634
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "N1|12/09/2026|For Sittard|Ajax",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "For Sittard",
+   "away": "Ajax",
+   "kickoff_utc": "2026-09-12T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3715,
+    0.2449,
+    0.3836
+   ],
+   "p_dc": [
+    0.4583,
+    0.2303,
+    0.3114
+   ],
+   "p_elo": [
+    0.2747,
+    0.2522,
+    0.4731
+   ],
+   "lambda": [
+    1.906,
+    1.548
+   ],
+   "over25": 0.6705,
+   "btts": 0.6749,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.098
+   },
+   "elo_diff": -94.4,
+   "market": [
+    0.1549,
+    0.1895,
+    0.6557
+   ],
+   "edge": [
+    0.2167,
+    0.0554,
+    -0.2721
+   ],
+   "warm": {
+    "home": 337,
+    "away": 879
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D2|12/09/2026|St Pauli|Wolfsburg",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "St Pauli",
+   "away": "Wolfsburg",
+   "kickoff_utc": "2026-09-12T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.359,
+    0.2459,
+    0.3951
+   ],
+   "p_dc": [
+    0.4158,
+    0.2285,
+    0.3557
+   ],
+   "p_elo": [
+    0.2947,
+    0.2642,
+    0.4412
+   ],
+   "lambda": [
+    1.863,
+    1.714
+   ],
+   "over25": 0.6931,
+   "btts": 0.6971,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0938
+   },
+   "elo_diff": -70.1,
+   "market": [
+    0.3604,
+    0.2487,
+    0.3909
+   ],
+   "edge": [
+    -0.0014,
+    -0.0028,
+    0.0041
+   ],
+   "warm": {
+    "home": 752,
+    "away": 888
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "B1|12/09/2026|Oud-Heverlee Leuven|Cercle Brugge",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Oud-Heverlee Leuven",
+   "away": "Cercle Brugge",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3821,
+    0.2783,
+    0.3396
+   ],
+   "p_dc": [
+    0.4293,
+    0.2702,
+    0.3004
+   ],
+   "p_elo": [
+    0.3267,
+    0.2843,
+    0.389
+   ],
+   "lambda": [
+    1.465,
+    1.186
+   ],
+   "over25": 0.4943,
+   "btts": 0.5402,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1288
+   },
+   "elo_diff": -30.3,
+   "market": [
+    0.3687,
+    0.2611,
+    0.3702
+   ],
+   "edge": [
+    0.0134,
+    0.0172,
+    -0.0306
+   ],
+   "warm": {
+    "home": 347,
+    "away": 660
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|12/09/2026|St. Gilloise|Lommel SK",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "St. Gilloise",
+   "away": "Lommel SK",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.6116,
+    0.2036,
+    0.1849
+   ],
+   "p_dc": [
+    0.5151,
+    0.2478,
+    0.2371
+   ],
+   "p_elo": [
+    0.6116,
+    0.2036,
+    0.1849
+   ],
+   "lambda": [
+    1.739,
+    1.111
+   ],
+   "over25": 0.5425,
+   "btts": 0.5586,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1173
+   },
+   "elo_diff": 207.9,
+   "market": [
+    0.766,
+    0.1492,
+    0.0847
+   ],
+   "edge": [
+    -0.1545,
+    0.0543,
+    0.1001
+   ],
+   "warm": {
+    "home": 193,
+    "away": 5
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "F1|12/09/2026|Auxerre|Nice",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Auxerre",
+   "away": "Nice",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4292,
+    0.2615,
+    0.3093
+   ],
+   "p_dc": [
+    0.4247,
+    0.2572,
+    0.3181
+   ],
+   "p_elo": [
+    0.4346,
+    0.2667,
+    0.2987
+   ],
+   "lambda": [
+    1.571,
+    1.331
+   ],
+   "over25": 0.5545,
+   "btts": 0.5886,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1206
+   },
+   "elo_diff": 65.1,
+   "market": [
+    0.3701,
+    0.2831,
+    0.3468
+   ],
+   "edge": [
+    0.0592,
+    -0.0217,
+    -0.0375
+   ],
+   "warm": {
+    "home": 965,
+    "away": 969
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F1|12/09/2026|Le Havre|Angers",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Le Havre",
+   "away": "Angers",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3963,
+    0.2802,
+    0.3234
+   ],
+   "p_dc": [
+    0.4293,
+    0.2659,
+    0.3048
+   ],
+   "p_elo": [
+    0.3574,
+    0.297,
+    0.3456
+   ],
+   "lambda": [
+    1.5,
+    1.228
+   ],
+   "over25": 0.5133,
+   "btts": 0.5555,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1264
+   },
+   "elo_diff": 5.8,
+   "market": [
+    0.3807,
+    0.2918,
+    0.3275
+   ],
+   "edge": [
+    0.0156,
+    -0.0115,
+    -0.0041
+   ],
+   "warm": {
+    "home": 969,
+    "away": 821
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "F1|12/09/2026|Lorient|Toulouse",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Lorient",
+   "away": "Toulouse",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4475,
+    0.2715,
+    0.281
+   ],
+   "p_dc": [
+    0.472,
+    0.2692,
+    0.2588
+   ],
+   "p_elo": [
+    0.4174,
+    0.2732,
+    0.3093
+   ],
+   "lambda": [
+    1.518,
+    1.06
+   ],
+   "over25": 0.476,
+   "btts": 0.5164,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1283
+   },
+   "elo_diff": 52.1,
+   "market": [
+    0.3662,
+    0.2841,
+    0.3498
+   ],
+   "edge": [
+    0.0813,
+    -0.0125,
+    -0.0688
+   ],
+   "warm": {
+    "home": 965,
+    "away": 927
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-03"
+   }
+  },
+  {
+   "match_key": "F1|12/09/2026|Paris FC|Lyon",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Paris FC",
+   "away": "Lyon",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4346,
+    0.2675,
+    0.2979
+   ],
+   "p_dc": [
+    0.4651,
+    0.256,
+    0.279
+   ],
+   "p_elo": [
+    0.3981,
+    0.2808,
+    0.3212
+   ],
+   "lambda": [
+    1.63,
+    1.214
+   ],
+   "over25": 0.5412,
+   "btts": 0.5712,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1209
+   },
+   "elo_diff": 37.3,
+   "market": [
+    0.3581,
+    0.2621,
+    0.3798
+   ],
+   "edge": [
+    0.0765,
+    0.0054,
+    -0.0819
+   ],
+   "warm": {
+    "home": 365,
+    "away": 961
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "I1|12/09/2026|Atalanta|Cagliari",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Atalanta",
+   "away": "Cagliari",
+   "kickoff_utc": "2026-09-12T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4837,
+    0.2576,
+    0.2587
+   ],
+   "p_dc": [
+    0.4345,
+    0.2829,
+    0.2825
+   ],
+   "p_elo": [
+    0.5442,
+    0.2267,
+    0.2292
+   ],
+   "lambda": [
+    1.375,
+    1.058
+   ],
+   "over25": 0.4388,
+   "btts": 0.4942,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1341
+   },
+   "elo_diff": 150.2,
+   "market": [
+    0.6,
+    0.2373,
+    0.1627
+   ],
+   "edge": [
+    -0.1163,
+    0.0203,
+    0.096
+   ],
+   "warm": {
+    "home": 995,
+    "away": 1003
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "E0|12/09/2026|Sunderland|Arsenal",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Sunderland",
+   "away": "Arsenal",
+   "kickoff_utc": "2026-09-12T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.3536,
+    0.2721,
+    0.3743
+   ],
+   "p_dc": [
+    0.4051,
+    0.2747,
+    0.3202
+   ],
+   "p_elo": [
+    0.2932,
+    0.2633,
+    0.4435
+   ],
+   "lambda": [
+    1.394,
+    1.213
+   ],
+   "over25": 0.4832,
+   "btts": 0.5345,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.131
+   },
+   "elo_diff": -71.9,
+   "market": [
+    0.1278,
+    0.2282,
+    0.644
+   ],
+   "edge": [
+    0.2258,
+    0.0439,
+    -0.2697
+   ],
+   "warm": {
+    "home": 1069,
+    "away": 991
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "N1|12/09/2026|Cambuur|Nijmegen",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Cambuur",
+   "away": "Nijmegen",
+   "kickoff_utc": "2026-09-12T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.2938,
+    0.2238,
+    0.4824
+   ],
+   "p_dc": [
+    0.3853,
+    0.2242,
+    0.3906
+   ],
+   "p_elo": [
+    0.1993,
+    0.2109,
+    0.5898
+   ],
+   "lambda": [
+    1.848,
+    1.862
+   ],
+   "over25": 0.7162,
+   "btts": 0.7157,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0884
+   },
+   "elo_diff": -188.5,
+   "market": [
+    0.1871,
+    0.1983,
+    0.6146
+   ],
+   "edge": [
+    0.1067,
+    0.0255,
+    -0.1322
+   ],
+   "warm": {
+    "home": 175,
+    "away": 719
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "SP1|12/09/2026|Real Madrid|Vallecano",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Real Madrid",
+   "away": "Vallecano",
+   "kickoff_utc": "2026-09-12T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.5979,
+    0.2106,
+    0.1915
+   ],
+   "p_dc": [
+    0.5621,
+    0.2238,
+    0.2141
+   ],
+   "p_elo": [
+    0.6401,
+    0.1941,
+    0.1658
+   ],
+   "lambda": [
+    2.015,
+    1.18
+   ],
+   "over25": 0.619,
+   "btts": 0.6051,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1023
+   },
+   "elo_diff": 234.6,
+   "market": [
+    0.8454,
+    0.1036,
+    0.0511
+   ],
+   "edge": [
+    -0.2474,
+    0.107,
+    0.1404
+   ],
+   "warm": {
+    "home": 992,
+    "away": 872
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP2|12/09/2026|Cordoba|Almeria",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Cordoba",
+   "away": "Almeria",
+   "kickoff_utc": "2026-09-12T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4068,
+    0.2718,
+    0.3214
+   ],
+   "p_dc": [
+    0.4059,
+    0.2676,
+    0.3265
+   ],
+   "p_elo": [
+    0.4079,
+    0.2769,
+    0.3152
+   ],
+   "lambda": [
+    1.451,
+    1.277
+   ],
+   "over25": 0.5132,
+   "btts": 0.5582,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1272
+   },
+   "elo_diff": 44.8,
+   "market": [
+    0.393,
+    0.2651,
+    0.3419
+   ],
+   "edge": [
+    0.0138,
+    0.0067,
+    -0.0205
+   ],
+   "warm": {
+    "home": 798,
+    "away": 980
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "P1|12/09/2026|Academico Viseu|Guimaraes",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Academico Viseu",
+   "away": "Guimaraes",
+   "kickoff_utc": "2026-09-12T19:30+00:00",
+   "time_uk": "20:30",
+   "track": "s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4483,
+    0.2615,
+    0.2902
+   ],
+   "p_dc": [
+    0.4111,
+    0.2932,
+    0.2957
+   ],
+   "p_elo": [
+    0.4483,
+    0.2615,
+    0.2902
+   ],
+   "lambda": [
+    1.275,
+    1.04
+   ],
+   "over25": 0.4078,
+   "btts": 0.4723,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1375
+   },
+   "elo_diff": 75.6,
+   "market": [
+    0.26,
+    0.2796,
+    0.4604
+   ],
+   "edge": [
+    0.1884,
+    -0.0181,
+    -0.1702
+   ],
+   "warm": {
+    "home": 5,
+    "away": 827
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "N1|13/09/2026|Excelsior|Utrecht",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Excelsior",
+   "away": "Utrecht",
+   "kickoff_utc": "2026-09-13T10:15+00:00",
+   "time_uk": "11:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4935,
+    0.2378,
+    0.2687
+   ],
+   "p_dc": [
+    0.6255,
+    0.1867,
+    0.1878
+   ],
+   "p_elo": [
+    0.3342,
+    0.2893,
+    0.3766
+   ],
+   "lambda": [
+    2.54,
+    1.366
+   ],
+   "over25": 0.7478,
+   "btts": 0.6897,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0887
+   },
+   "elo_diff": -20.8,
+   "market": [
+    0.419,
+    0.2572,
+    0.3238
+   ],
+   "edge": [
+    0.0745,
+    -0.0194,
+    -0.0551
+   ],
+   "warm": {
+    "home": 447,
+    "away": 880
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-08"
+   }
+  },
+  {
+   "match_key": "E1|13/09/2026|Sheffield United|Wolves",
+   "div": "E1",
+   "league_zh": "英冠",
+   "home": "Sheffield United",
+   "away": "Wolves",
+   "kickoff_utc": "2026-09-13T11:00+00:00",
+   "time_uk": "12:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": true,
+   "p": [
+    0.4473,
+    0.2468,
+    0.306
+   ],
+   "p_dc": [
+    0.4358,
+    0.2383,
+    0.3259
+   ],
+   "p_elo": [
+    0.4605,
+    0.2569,
+    0.2826
+   ],
+   "lambda": [
+    1.78,
+    1.518
+   ],
+   "over25": 0.6402,
+   "btts": 0.6542,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1048
+   },
+   "elo_diff": 84.8,
+   "market": [
+    0.2951,
+    0.2649,
+    0.4399
+   ],
+   "edge": [
+    0.1521,
+    -0.0182,
+    -0.134
+   ],
+   "warm": {
+    "home": 1170,
+    "away": 1105
+   },
+   "last_match": {
+    "home": "2026-09-08",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|13/09/2026|Club Brugge|Antwerp",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Club Brugge",
+   "away": "Antwerp",
+   "kickoff_utc": "2026-09-13T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5601,
+    0.2254,
+    0.2145
+   ],
+   "p_dc": [
+    0.5272,
+    0.2399,
+    0.2329
+   ],
+   "p_elo": [
+    0.5994,
+    0.2076,
+    0.1929
+   ],
+   "lambda": [
+    1.827,
+    1.148
+   ],
+   "over25": 0.5712,
+   "btts": 0.5783,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1124
+   },
+   "elo_diff": 197.0,
+   "market": [
+    0.7436,
+    0.1576,
+    0.0988
+   ],
+   "edge": [
+    -0.1835,
+    0.0678,
+    0.1157
+   ],
+   "warm": {
+    "home": 858,
+    "away": 450
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D2|13/09/2026|Heidenheim|Holstein Kiel",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Heidenheim",
+   "away": "Holstein Kiel",
+   "kickoff_utc": "2026-09-13T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4656,
+    0.2539,
+    0.2805
+   ],
+   "p_dc": [
+    0.5248,
+    0.2293,
+    0.2458
+   ],
+   "p_elo": [
+    0.3946,
+    0.2821,
+    0.3233
+   ],
+   "lambda": [
+    1.956,
+    1.288
+   ],
+   "over25": 0.6293,
+   "btts": 0.6268,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1032
+   },
+   "elo_diff": 34.6,
+   "market": [
+    0.4424,
+    0.2487,
+    0.3088
+   ],
+   "edge": [
+    0.0232,
+    0.0052,
+    -0.0283
+   ],
+   "warm": {
+    "home": 412,
+    "away": 310
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D2|13/09/2026|Karlsruhe|Cottbus",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Karlsruhe",
+   "away": "Cottbus",
+   "kickoff_utc": "2026-09-13T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.499,
+    0.2216,
+    0.2794
+   ],
+   "p_dc": [
+    0.4604,
+    0.215,
+    0.3246
+   ],
+   "p_elo": [
+    0.5435,
+    0.2269,
+    0.2296
+   ],
+   "lambda": [
+    2.12,
+    1.771
+   ],
+   "over25": 0.7454,
+   "btts": 0.734,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0813
+   },
+   "elo_diff": 149.7,
+   "market": [
+    0.5564,
+    0.2194,
+    0.2242
+   ],
+   "edge": [
+    -0.0574,
+    0.0022,
+    0.0552
+   ],
+   "warm": {
+    "home": 752,
+    "away": 480
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "D2|13/09/2026|Osnabruck|Hertha",
+   "div": "D2",
+   "league_zh": "德乙",
+   "home": "Osnabruck",
+   "away": "Hertha",
+   "kickoff_utc": "2026-09-13T11:30+00:00",
+   "time_uk": "12:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3626,
+    0.2481,
+    0.3893
+   ],
+   "p_dc": [
+    0.4517,
+    0.2399,
+    0.3084
+   ],
+   "p_elo": [
+    0.2631,
+    0.2455,
+    0.4914
+   ],
+   "lambda": [
+    1.784,
+    1.446
+   ],
+   "over25": 0.6262,
+   "btts": 0.6411,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1072
+   },
+   "elo_diff": -108.5,
+   "market": [
+    0.3052,
+    0.2539,
+    0.441
+   ],
+   "edge": [
+    0.0574,
+    -0.0057,
+    -0.0516
+   ],
+   "warm": {
+    "home": 276,
+    "away": 888
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP1|13/09/2026|Celta|Malaga",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Celta",
+   "away": "Malaga",
+   "kickoff_utc": "2026-09-13T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4064,
+    0.2929,
+    0.3006
+   ],
+   "p_dc": [
+    0.4405,
+    0.2901,
+    0.2693
+   ],
+   "p_elo": [
+    0.3652,
+    0.2938,
+    0.341
+   ],
+   "lambda": [
+    1.331,
+    0.982
+   ],
+   "over25": 0.4075,
+   "btts": 0.4667,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1358
+   },
+   "elo_diff": 11.9,
+   "market": [
+    0.5503,
+    0.2584,
+    0.1913
+   ],
+   "edge": [
+    -0.1438,
+    0.0345,
+    0.1093
+   ],
+   "warm": {
+    "home": 1017,
+    "away": 990
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP2|13/09/2026|Sp Gijon|Eldense",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Sp Gijon",
+   "away": "Eldense",
+   "kickoff_utc": "2026-09-13T12:00+00:00",
+   "time_uk": "13:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4602,
+    0.2742,
+    0.2655
+   ],
+   "p_dc": [
+    0.428,
+    0.3016,
+    0.2704
+   ],
+   "p_elo": [
+    0.4996,
+    0.2425,
+    0.2578
+   ],
+   "lambda": [
+    1.245,
+    0.932
+   ],
+   "over25": 0.3711,
+   "btts": 0.4382,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1381
+   },
+   "elo_diff": 114.9,
+   "market": [
+    0.541,
+    0.265,
+    0.194
+   ],
+   "edge": [
+    -0.0807,
+    0.0092,
+    0.0715
+   ],
+   "warm": {
+    "home": 1072,
+    "away": 88
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "N1|13/09/2026|Heerenveen|Telstar",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Heerenveen",
+   "away": "Telstar",
+   "kickoff_utc": "2026-09-13T12:30+00:00",
+   "time_uk": "13:30",
+   "track": "s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4461,
+    0.2623,
+    0.2916
+   ],
+   "p_dc": [
+    0.5,
+    0.2335,
+    0.2666
+   ],
+   "p_elo": [
+    0.4461,
+    0.2623,
+    0.2916
+   ],
+   "lambda": [
+    1.899,
+    1.343
+   ],
+   "over25": 0.6289,
+   "btts": 0.6334,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1046
+   },
+   "elo_diff": 73.9,
+   "market": [
+    0.5757,
+    0.2165,
+    0.2078
+   ],
+   "edge": [
+    -0.1295,
+    0.0457,
+    0.0838
+   ],
+   "warm": {
+    "home": 881,
+    "away": 39
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-09"
+   }
+  },
+  {
+   "match_key": "E0|13/09/2026|Coventry|Brighton",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Coventry",
+   "away": "Brighton",
+   "kickoff_utc": "2026-09-13T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.439,
+    0.2543,
+    0.3067
+   ],
+   "p_dc": [
+    0.3895,
+    0.2611,
+    0.3494
+   ],
+   "p_elo": [
+    0.5002,
+    0.2423,
+    0.2574
+   ],
+   "lambda": [
+    1.475,
+    1.386
+   ],
+   "over25": 0.5448,
+   "btts": 0.5841,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1228
+   },
+   "elo_diff": 115.4,
+   "market": [
+    0.2403,
+    0.2519,
+    0.5078
+   ],
+   "edge": [
+    0.1987,
+    0.0024,
+    -0.2012
+   ],
+   "warm": {
+    "home": 1179,
+    "away": 1127
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F1|13/09/2026|Lille|Troyes",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Lille",
+   "away": "Troyes",
+   "kickoff_utc": "2026-09-13T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4997,
+    0.247,
+    0.2533
+   ],
+   "p_dc": [
+    0.5331,
+    0.2374,
+    0.2295
+   ],
+   "p_elo": [
+    0.4587,
+    0.2576,
+    0.2837
+   ],
+   "lambda": [
+    1.856,
+    1.151
+   ],
+   "over25": 0.5784,
+   "btts": 0.5822,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1109
+   },
+   "elo_diff": 83.5,
+   "market": [
+    0.6733,
+    0.1995,
+    0.1272
+   ],
+   "edge": [
+    -0.1736,
+    0.0475,
+    0.1261
+   ],
+   "warm": {
+    "home": 961,
+    "away": 926
+   },
+   "last_match": {
+    "home": "2026-09-03",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I1|13/09/2026|Lecce|Monza",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Lecce",
+   "away": "Monza",
+   "kickoff_utc": "2026-09-13T13:00+00:00",
+   "time_uk": "14:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3904,
+    0.2733,
+    0.3362
+   ],
+   "p_dc": [
+    0.4404,
+    0.2588,
+    0.3008
+   ],
+   "p_elo": [
+    0.3322,
+    0.288,
+    0.3798
+   ],
+   "lambda": [
+    1.577,
+    1.266
+   ],
+   "over25": 0.5408,
+   "btts": 0.5756,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1221
+   },
+   "elo_diff": -23.2,
+   "market": [
+    0.3601,
+    0.303,
+    0.3368
+   ],
+   "edge": [
+    0.0303,
+    -0.0297,
+    -0.0006
+   ],
+   "warm": {
+    "home": 761,
+    "away": 269
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "D1|13/09/2026|RB Leipzig|Hamburg",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "RB Leipzig",
+   "away": "Hamburg",
+   "kickoff_utc": "2026-09-13T13:30+00:00",
+   "time_uk": "14:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.574,
+    0.2151,
+    0.2108
+   ],
+   "p_dc": [
+    0.5756,
+    0.2136,
+    0.2108
+   ],
+   "p_elo": [
+    0.5721,
+    0.217,
+    0.2109
+   ],
+   "lambda": [
+    2.15,
+    1.247
+   ],
+   "over25": 0.6596,
+   "btts": 0.6341,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0965
+   },
+   "elo_diff": 173.4,
+   "market": [
+    0.6975,
+    0.1784,
+    0.1241
+   ],
+   "edge": [
+    -0.1235,
+    0.0367,
+    0.0867
+   ],
+   "warm": {
+    "home": 410,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|13/09/2026|Genk|Gent",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Genk",
+   "away": "Gent",
+   "kickoff_utc": "2026-09-13T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4461,
+    0.2567,
+    0.2972
+   ],
+   "p_dc": [
+    0.4397,
+    0.2544,
+    0.3059
+   ],
+   "p_elo": [
+    0.4538,
+    0.2594,
+    0.2868
+   ],
+   "lambda": [
+    1.618,
+    1.315
+   ],
+   "over25": 0.5616,
+   "btts": 0.5922,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1189
+   },
+   "elo_diff": 79.7,
+   "market": [
+    0.4648,
+    0.2707,
+    0.2645
+   ],
+   "edge": [
+    -0.0187,
+    -0.014,
+    0.0327
+   ],
+   "warm": {
+    "home": 859,
+    "away": 859
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "T1|13/09/2026|Genclerbirligi|Kasimpasa",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Genclerbirligi",
+   "away": "Kasimpasa",
+   "kickoff_utc": "2026-09-13T14:00+00:00",
+   "time_uk": "15:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3898,
+    0.2718,
+    0.3384
+   ],
+   "p_dc": [
+    0.3875,
+    0.2628,
+    0.3497
+   ],
+   "p_elo": [
+    0.3923,
+    0.283,
+    0.3247
+   ],
+   "lambda": [
+    1.457,
+    1.374
+   ],
+   "over25": 0.5379,
+   "btts": 0.5788,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1239
+   },
+   "elo_diff": 32.8,
+   "market": [
+    0.4133,
+    0.2858,
+    0.3008
+   ],
+   "edge": [
+    -0.0235,
+    -0.014,
+    0.0375
+   ],
+   "warm": {
+    "home": 722,
+    "away": 598
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP1|13/09/2026|Levante|Barcelona",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Levante",
+   "away": "Barcelona",
+   "kickoff_utc": "2026-09-13T14:15+00:00",
+   "time_uk": "15:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3029,
+    0.2523,
+    0.4448
+   ],
+   "p_dc": [
+    0.3204,
+    0.2484,
+    0.4312
+   ],
+   "p_elo": [
+    0.2822,
+    0.2567,
+    0.4611
+   ],
+   "lambda": [
+    1.41,
+    1.665
+   ],
+   "over25": 0.5934,
+   "btts": 0.6182,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1139
+   },
+   "elo_diff": -85.3,
+   "market": [
+    0.0649,
+    0.119,
+    0.8161
+   ],
+   "edge": [
+    0.238,
+    0.1334,
+    -0.3713
+   ],
+   "warm": {
+    "home": 1036,
+    "away": 992
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP2|13/09/2026|Valladolid|Oviedo",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Valladolid",
+   "away": "Oviedo",
+   "kickoff_utc": "2026-09-13T14:15+00:00",
+   "time_uk": "15:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4135,
+    0.2932,
+    0.2933
+   ],
+   "p_dc": [
+    0.4059,
+    0.3117,
+    0.2824
+   ],
+   "p_elo": [
+    0.422,
+    0.2715,
+    0.3065
+   ],
+   "lambda": [
+    1.16,
+    0.919
+   ],
+   "over25": 0.3448,
+   "btts": 0.4194,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.14
+   },
+   "elo_diff": 55.5,
+   "market": [
+    0.3927,
+    0.3137,
+    0.2936
+   ],
+   "edge": [
+    0.0207,
+    -0.0204,
+    -0.0003
+   ],
+   "warm": {
+    "home": 1040,
+    "away": 584
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "N1|13/09/2026|Zwolle|Feyenoord",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "Zwolle",
+   "away": "Feyenoord",
+   "kickoff_utc": "2026-09-13T14:45+00:00",
+   "time_uk": "15:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3299,
+    0.2393,
+    0.4308
+   ],
+   "p_dc": [
+    0.396,
+    0.2319,
+    0.3722
+   ],
+   "p_elo": [
+    0.2569,
+    0.242,
+    0.5012
+   ],
+   "lambda": [
+    1.78,
+    1.722
+   ],
+   "over25": 0.6796,
+   "btts": 0.6875,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.097
+   },
+   "elo_diff": -116.1,
+   "market": [
+    0.1555,
+    0.1894,
+    0.655
+   ],
+   "edge": [
+    0.1744,
+    0.0499,
+    -0.2243
+   ],
+   "warm": {
+    "home": 507,
+    "away": 880
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "G1|13/09/2026|Kalamata|Volos NFC",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Kalamata",
+   "away": "Volos NFC",
+   "kickoff_utc": "2026-09-13T15:00+00:00",
+   "time_uk": "16:00",
+   "track": "s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5037,
+    0.2411,
+    0.2553
+   ],
+   "p_dc": [
+    0.4242,
+    0.2842,
+    0.2917
+   ],
+   "p_elo": [
+    0.5037,
+    0.2411,
+    0.2553
+   ],
+   "lambda": [
+    1.353,
+    1.077
+   ],
+   "over25": 0.4382,
+   "btts": 0.4955,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1347
+   },
+   "elo_diff": 118.1,
+   "market": [
+    0.3727,
+    0.3024,
+    0.3249
+   ],
+   "edge": [
+    0.131,
+    -0.0613,
+    -0.0697
+   ],
+   "warm": {
+    "home": 3,
+    "away": 238
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "F1|13/09/2026|Le Mans|Lens",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Le Mans",
+   "away": "Lens",
+   "kickoff_utc": "2026-09-13T15:15+00:00",
+   "time_uk": "16:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4022,
+    0.2713,
+    0.3265
+   ],
+   "p_dc": [
+    0.4548,
+    0.251,
+    0.2942
+   ],
+   "p_elo": [
+    0.341,
+    0.2938,
+    0.3652
+   ],
+   "lambda": [
+    1.669,
+    1.304
+   ],
+   "over25": 0.5708,
+   "btts": 0.5968,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1169
+   },
+   "elo_diff": -11.9,
+   "market": [
+    0.1963,
+    0.2329,
+    0.5708
+   ],
+   "edge": [
+    0.206,
+    0.0384,
+    -0.2443
+   ],
+   "warm": {
+    "home": 559,
+    "away": 961
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I2|13/09/2026|Avellino|Palermo",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Avellino",
+   "away": "Palermo",
+   "kickoff_utc": "2026-09-13T15:15+00:00",
+   "time_uk": "16:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4008,
+    0.2816,
+    0.3176
+   ],
+   "p_dc": [
+    0.4349,
+    0.2691,
+    0.296
+   ],
+   "p_elo": [
+    0.3603,
+    0.2958,
+    0.3439
+   ],
+   "lambda": [
+    1.481,
+    1.181
+   ],
+   "over25": 0.4971,
+   "btts": 0.5415,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1282
+   },
+   "elo_diff": 8.1,
+   "market": [
+    0.2527,
+    0.2874,
+    0.4599
+   ],
+   "edge": [
+    0.1481,
+    -0.0058,
+    -0.1423
+   ],
+   "warm": {
+    "home": 423,
+    "away": 853
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "I2|13/09/2026|Mantova|Sampdoria",
+   "div": "I2",
+   "league_zh": "意乙",
+   "home": "Mantova",
+   "away": "Sampdoria",
+   "kickoff_utc": "2026-09-13T15:15+00:00",
+   "time_uk": "16:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5098,
+    0.2471,
+    0.243
+   ],
+   "p_dc": [
+    0.5154,
+    0.2518,
+    0.2328
+   ],
+   "p_elo": [
+    0.5027,
+    0.2414,
+    0.2559
+   ],
+   "lambda": [
+    1.699,
+    1.069
+   ],
+   "over25": 0.5228,
+   "btts": 0.5422,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1197
+   },
+   "elo_diff": 117.3,
+   "market": [
+    0.4576,
+    0.2883,
+    0.2541
+   ],
+   "edge": [
+    0.0523,
+    -0.0412,
+    -0.0111
+   ],
+   "warm": {
+    "home": 289,
+    "away": 991
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "D1|13/09/2026|Elversberg|Bayern Munich",
+   "div": "D1",
+   "league_zh": "德甲",
+   "home": "Elversberg",
+   "away": "Bayern Munich",
+   "kickoff_utc": "2026-09-13T15:30+00:00",
+   "time_uk": "16:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3723,
+    0.2461,
+    0.3815
+   ],
+   "p_dc": [
+    0.4449,
+    0.2283,
+    0.3268
+   ],
+   "p_elo": [
+    0.2907,
+    0.2618,
+    0.4475
+   ],
+   "lambda": [
+    1.913,
+    1.623
+   ],
+   "over25": 0.6859,
+   "btts": 0.6888,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.0949
+   },
+   "elo_diff": -74.9,
+   "market": [
+    0.0733,
+    0.1122,
+    0.8145
+   ],
+   "edge": [
+    0.299,
+    0.1339,
+    -0.4329
+   ],
+   "warm": {
+    "home": 104,
+    "away": 886
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "E0|13/09/2026|Man United|Man City",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Man United",
+   "away": "Man City",
+   "kickoff_utc": "2026-09-13T15:30+00:00",
+   "time_uk": "16:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4037,
+    0.2655,
+    0.3308
+   ],
+   "p_dc": [
+    0.4334,
+    0.2441,
+    0.3225
+   ],
+   "p_elo": [
+    0.3682,
+    0.2926,
+    0.3392
+   ],
+   "lambda": [
+    1.713,
+    1.454
+   ],
+   "over25": 0.6133,
+   "btts": 0.6336,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1101
+   },
+   "elo_diff": 14.2,
+   "market": [
+    0.3047,
+    0.2483,
+    0.447
+   ],
+   "edge": [
+    0.099,
+    0.0172,
+    -0.1162
+   ],
+   "warm": {
+    "home": 991,
+    "away": 999
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "G1|13/09/2026|Asteras Tripolis|AEK",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Asteras Tripolis",
+   "away": "AEK",
+   "kickoff_utc": "2026-09-13T16:00+00:00",
+   "time_uk": "17:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.2813,
+    0.2653,
+    0.4534
+   ],
+   "p_dc": [
+    0.2822,
+    0.2735,
+    0.4443
+   ],
+   "p_elo": [
+    0.28,
+    0.2554,
+    0.4646
+   ],
+   "lambda": [
+    1.111,
+    1.457
+   ],
+   "over25": 0.4734,
+   "btts": 0.5207,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1304
+   },
+   "elo_diff": -88.0,
+   "market": [
+    0.119,
+    0.2133,
+    0.6678
+   ],
+   "edge": [
+    0.1623,
+    0.052,
+    -0.2144
+   ],
+   "warm": {
+    "home": 607,
+    "away": 607
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I1|13/09/2026|Napoli|Bologna",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Napoli",
+   "away": "Bologna",
+   "kickoff_utc": "2026-09-13T16:00+00:00",
+   "time_uk": "17:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4578,
+    0.2607,
+    0.2814
+   ],
+   "p_dc": [
+    0.4683,
+    0.259,
+    0.2727
+   ],
+   "p_elo": [
+    0.4451,
+    0.2627,
+    0.2922
+   ],
+   "lambda": [
+    1.605,
+    1.172
+   ],
+   "over25": 0.525,
+   "btts": 0.5574,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1229
+   },
+   "elo_diff": 73.1,
+   "market": [
+    0.5358,
+    0.2656,
+    0.1986
+   ],
+   "edge": [
+    -0.0779,
+    -0.0049,
+    0.0828
+   ],
+   "warm": {
+    "home": 923,
+    "away": 991
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|13/09/2026|Waregem|Charleroi",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "Waregem",
+   "away": "Charleroi",
+   "kickoff_utc": "2026-09-13T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4211,
+    0.2698,
+    0.3091
+   ],
+   "p_dc": [
+    0.4796,
+    0.2444,
+    0.276
+   ],
+   "p_elo": [
+    0.3526,
+    0.2989,
+    0.3484
+   ],
+   "lambda": [
+    1.761,
+    1.291
+   ],
+   "over25": 0.5882,
+   "btts": 0.6057,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1128
+   },
+   "elo_diff": 2.1,
+   "market": [
+    0.3685,
+    0.2702,
+    0.3613
+   ],
+   "edge": [
+    0.0526,
+    -0.0004,
+    -0.0522
+   ],
+   "warm": {
+    "home": 606,
+    "away": 824
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP1|13/09/2026|Getafe|La Coruna",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Getafe",
+   "away": "La Coruna",
+   "kickoff_utc": "2026-09-13T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3578,
+    0.2782,
+    0.3639
+   ],
+   "p_dc": [
+    0.3856,
+    0.2731,
+    0.3413
+   ],
+   "p_elo": [
+    0.3251,
+    0.2833,
+    0.3916
+   ],
+   "lambda": [
+    1.372,
+    1.277
+   ],
+   "over25": 0.4938,
+   "btts": 0.5444,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1301
+   },
+   "elo_diff": -32.3,
+   "market": [
+    0.3891,
+    0.3347,
+    0.2763
+   ],
+   "edge": [
+    -0.0312,
+    -0.0564,
+    0.0877
+   ],
+   "warm": {
+    "home": 970,
+    "away": 864
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP2|13/09/2026|Mallorca|Sabadell",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Mallorca",
+   "away": "Sabadell",
+   "kickoff_utc": "2026-09-13T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4805,
+    0.2624,
+    0.2571
+   ],
+   "p_dc": [
+    0.4226,
+    0.2942,
+    0.2832
+   ],
+   "p_elo": [
+    0.5518,
+    0.224,
+    0.2242
+   ],
+   "lambda": [
+    1.284,
+    1.002
+   ],
+   "over25": 0.4001,
+   "btts": 0.464,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1374
+   },
+   "elo_diff": 156.5,
+   "market": [
+    0.5417,
+    0.27,
+    0.1883
+   ],
+   "edge": [
+    -0.0612,
+    -0.0076,
+    0.0688
+   ],
+   "warm": {
+    "home": 978,
+    "away": 214
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "P1|13/09/2026|Arouca|Santa Clara",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Arouca",
+   "away": "Santa Clara",
+   "kickoff_utc": "2026-09-13T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4138,
+    0.2749,
+    0.3113
+   ],
+   "p_dc": [
+    0.3807,
+    0.2873,
+    0.332
+   ],
+   "p_elo": [
+    0.4553,
+    0.2588,
+    0.2859
+   ],
+   "lambda": [
+    1.264,
+    1.164
+   ],
+   "over25": 0.4376,
+   "btts": 0.4999,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1363
+   },
+   "elo_diff": 80.9,
+   "market": [
+    0.3607,
+    0.2998,
+    0.3395
+   ],
+   "edge": [
+    0.0531,
+    -0.0249,
+    -0.0282
+   ],
+   "warm": {
+    "home": 307,
+    "away": 311
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "P1|13/09/2026|Benfica|Gil Vicente",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Benfica",
+   "away": "Gil Vicente",
+   "kickoff_utc": "2026-09-13T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.579,
+    0.229,
+    0.192
+   ],
+   "p_dc": [
+    0.5571,
+    0.2493,
+    0.1936
+   ],
+   "p_elo": [
+    0.6049,
+    0.2058,
+    0.1893
+   ],
+   "lambda": [
+    1.716,
+    0.915
+   ],
+   "over25": 0.4894,
+   "btts": 0.4975,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1187
+   },
+   "elo_diff": 201.9,
+   "market": [
+    0.822,
+    0.1248,
+    0.0532
+   ],
+   "edge": [
+    -0.2429,
+    0.1042,
+    0.1388
+   ],
+   "warm": {
+    "home": 857,
+    "away": 570
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "T1|13/09/2026|Amedspor|Buyuksehyr",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Amedspor",
+   "away": "Buyuksehyr",
+   "kickoff_utc": "2026-09-13T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3867,
+    0.2852,
+    0.3281
+   ],
+   "p_dc": [
+    0.4813,
+    0.2452,
+    0.2736
+   ],
+   "p_elo": [
+    0.3867,
+    0.2852,
+    0.3281
+   ],
+   "lambda": [
+    1.754,
+    1.275
+   ],
+   "over25": 0.5832,
+   "btts": 0.6012,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1136
+   },
+   "elo_diff": 28.6,
+   "market": [
+    0.3686,
+    0.2715,
+    0.3599
+   ],
+   "edge": [
+    0.0181,
+    0.0137,
+    -0.0318
+   ],
+   "warm": {
+    "home": 4,
+    "away": 632
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "T1|13/09/2026|Galatasaray|Kocaelispor",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Galatasaray",
+   "away": "Kocaelispor",
+   "kickoff_utc": "2026-09-13T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.561,
+    0.2221,
+    0.2169
+   ],
+   "p_dc": [
+    0.4622,
+    0.2481,
+    0.2897
+   ],
+   "p_elo": [
+    0.6724,
+    0.1835,
+    0.1441
+   ],
+   "lambda": [
+    1.706,
+    1.311
+   ],
+   "over25": 0.5807,
+   "btts": 0.6033,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1149
+   },
+   "elo_diff": 267.6,
+   "market": [
+    0.7061,
+    0.1786,
+    0.1153
+   ],
+   "edge": [
+    -0.1451,
+    0.0435,
+    0.1016
+   ],
+   "warm": {
+    "home": 904,
+    "away": 174
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "B1|13/09/2026|RAAL La Louviere|Kortrijk",
+   "div": "B1",
+   "league_zh": "比甲",
+   "home": "RAAL La Louviere",
+   "away": "Kortrijk",
+   "kickoff_utc": "2026-09-13T17:15+00:00",
+   "time_uk": "18:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4491,
+    0.2595,
+    0.2914
+   ],
+   "p_dc": [
+    0.4598,
+    0.2541,
+    0.286
+   ],
+   "p_elo": [
+    0.436,
+    0.2661,
+    0.2979
+   ],
+   "lambda": [
+    1.643,
+    1.252
+   ],
+   "over25": 0.5529,
+   "btts": 0.5817,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1194
+   },
+   "elo_diff": 66.2,
+   "market": [
+    0.3883,
+    0.2806,
+    0.3311
+   ],
+   "edge": [
+    0.0607,
+    -0.0211,
+    -0.0397
+   ],
+   "warm": {
+    "home": 40,
+    "away": 540
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "G1|13/09/2026|Kifisia|Levadeiakos",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Kifisia",
+   "away": "Levadeiakos",
+   "kickoff_utc": "2026-09-13T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4292,
+    0.2825,
+    0.2883
+   ],
+   "p_dc": [
+    0.4774,
+    0.2721,
+    0.2505
+   ],
+   "p_elo": [
+    0.3714,
+    0.2913,
+    0.3373
+   ],
+   "lambda": [
+    1.498,
+    1.016
+   ],
+   "over25": 0.4596,
+   "btts": 0.5013,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1294
+   },
+   "elo_diff": 16.7,
+   "market": [
+    0.3942,
+    0.2894,
+    0.3164
+   ],
+   "edge": [
+    0.0351,
+    -0.0069,
+    -0.0281
+   ],
+   "warm": {
+    "home": 72,
+    "away": 471
+   },
+   "last_match": {
+    "home": "2026-09-10",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "G1|13/09/2026|PAOK|Aris",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "PAOK",
+   "away": "Aris",
+   "kickoff_utc": "2026-09-13T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5441,
+    0.2313,
+    0.2246
+   ],
+   "p_dc": [
+    0.5197,
+    0.2436,
+    0.2367
+   ],
+   "p_elo": [
+    0.5735,
+    0.2165,
+    0.21
+   ],
+   "lambda": [
+    1.786,
+    1.139
+   ],
+   "over25": 0.5598,
+   "btts": 0.5713,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1146
+   },
+   "elo_diff": 174.5,
+   "market": [
+    0.616,
+    0.2224,
+    0.1616
+   ],
+   "edge": [
+    -0.0719,
+    0.009,
+    0.063
+   ],
+   "warm": {
+    "home": 675,
+    "away": 521
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "N1|13/09/2026|PSV Eindhoven|Sparta Rotterdam",
+   "div": "N1",
+   "league_zh": "荷甲",
+   "home": "PSV Eindhoven",
+   "away": "Sparta Rotterdam",
+   "kickoff_utc": "2026-09-13T18:00+00:00",
+   "time_uk": "19:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.6366,
+    0.1884,
+    0.175
+   ],
+   "p_dc": [
+    0.6638,
+    0.174,
+    0.1623
+   ],
+   "p_elo": [
+    0.6022,
+    0.2067,
+    0.1911
+   ],
+   "lambda": [
+    2.693,
+    1.311
+   ],
+   "over25": 0.7624,
+   "btts": 0.6843,
+   "top_score": {
+    "score": "2-1",
+    "p": 0.0867
+   },
+   "elo_diff": 199.4,
+   "market": [
+    0.7986,
+    0.1214,
+    0.08
+   ],
+   "edge": [
+    -0.162,
+    0.067,
+    0.095
+   ],
+   "warm": {
+    "home": 881,
+    "away": 303
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "G1|13/09/2026|Panathinaikos|Panetolikos",
+   "div": "G1",
+   "league_zh": "希超",
+   "home": "Panathinaikos",
+   "away": "Panetolikos",
+   "kickoff_utc": "2026-09-13T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4834,
+    0.2542,
+    0.2624
+   ],
+   "p_dc": [
+    0.4433,
+    0.2732,
+    0.2834
+   ],
+   "p_elo": [
+    0.5326,
+    0.2307,
+    0.2367
+   ],
+   "lambda": [
+    1.458,
+    1.116
+   ],
+   "over25": 0.4751,
+   "btts": 0.5223,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1302
+   },
+   "elo_diff": 140.9,
+   "market": [
+    0.7085,
+    0.1916,
+    0.0999
+   ],
+   "edge": [
+    -0.2251,
+    0.0626,
+    0.1625
+   ],
+   "warm": {
+    "home": 674,
+    "away": 457
+   },
+   "last_match": {
+    "home": "2026-09-10",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "F1|13/09/2026|Brest|Paris SG",
+   "div": "F1",
+   "league_zh": "法甲",
+   "home": "Brest",
+   "away": "Paris SG",
+   "kickoff_utc": "2026-09-13T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.393,
+    0.257,
+    0.3501
+   ],
+   "p_dc": [
+    0.4784,
+    0.2419,
+    0.2797
+   ],
+   "p_elo": [
+    0.2953,
+    0.2645,
+    0.4402
+   ],
+   "lambda": [
+    1.788,
+    1.325
+   ],
+   "over25": 0.6015,
+   "btts": 0.6165,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1106
+   },
+   "elo_diff": -69.4,
+   "market": [
+    0.0947,
+    0.1587,
+    0.7466
+   ],
+   "edge": [
+    0.2982,
+    0.0983,
+    -0.3965
+   ],
+   "warm": {
+    "home": 817,
+    "away": 960
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "I1|13/09/2026|Sassuolo|Juventus",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Sassuolo",
+   "away": "Juventus",
+   "kickoff_utc": "2026-09-13T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3783,
+    0.2796,
+    0.3421
+   ],
+   "p_dc": [
+    0.4138,
+    0.2691,
+    0.317
+   ],
+   "p_elo": [
+    0.3366,
+    0.2909,
+    0.3726
+   ],
+   "lambda": [
+    1.451,
+    1.241
+   ],
+   "over25": 0.5045,
+   "btts": 0.5505,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1281
+   },
+   "elo_diff": -17.7,
+   "market": [
+    0.1832,
+    0.238,
+    0.5788
+   ],
+   "edge": [
+    0.1952,
+    0.0416,
+    -0.2368
+   ],
+   "warm": {
+    "home": 707,
+    "away": 979
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "SP1|13/09/2026|Sociedad|Ath Madrid",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Sociedad",
+   "away": "Ath Madrid",
+   "kickoff_utc": "2026-09-13T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4189,
+    0.2691,
+    0.3119
+   ],
+   "p_dc": [
+    0.4393,
+    0.2584,
+    0.3023
+   ],
+   "p_elo": [
+    0.3944,
+    0.2822,
+    0.3234
+   ],
+   "lambda": [
+    1.58,
+    1.274
+   ],
+   "over25": 0.5432,
+   "btts": 0.5776,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1218
+   },
+   "elo_diff": 34.5,
+   "market": [
+    0.333,
+    0.2689,
+    0.3982
+   ],
+   "edge": [
+    0.0859,
+    0.0003,
+    -0.0862
+   ],
+   "warm": {
+    "home": 1005,
+    "away": 1000
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP2|13/09/2026|Tenerife|Leganes",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Tenerife",
+   "away": "Leganes",
+   "kickoff_utc": "2026-09-13T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4107,
+    0.2912,
+    0.2981
+   ],
+   "p_dc": [
+    0.3956,
+    0.3102,
+    0.2942
+   ],
+   "p_elo": [
+    0.4288,
+    0.2689,
+    0.3023
+   ],
+   "lambda": [
+    1.153,
+    0.955
+   ],
+   "over25": 0.3527,
+   "btts": 0.4278,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1404
+   },
+   "elo_diff": 60.7,
+   "market": [
+    0.4044,
+    0.306,
+    0.2896
+   ],
+   "edge": [
+    0.0063,
+    -0.0148,
+    0.0085
+   ],
+   "warm": {
+    "home": 962,
+    "away": 656
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "P1|13/09/2026|Famalicao|Sp Lisbon",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Famalicao",
+   "away": "Sp Lisbon",
+   "kickoff_utc": "2026-09-13T19:30+00:00",
+   "time_uk": "20:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3094,
+    0.267,
+    0.4236
+   ],
+   "p_dc": [
+    0.3402,
+    0.2784,
+    0.3815
+   ],
+   "p_elo": [
+    0.2726,
+    0.251,
+    0.4764
+   ],
+   "lambda": [
+    1.239,
+    1.326
+   ],
+   "over25": 0.4727,
+   "btts": 0.528,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1327
+   },
+   "elo_diff": -97.0,
+   "market": [
+    0.1688,
+    0.2236,
+    0.6076
+   ],
+   "edge": [
+    0.1405,
+    0.0434,
+    -0.1839
+   ],
+   "warm": {
+    "home": 243,
+    "away": 857
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I1|14/09/2026|Como|Parma",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Como",
+   "away": "Parma",
+   "kickoff_utc": "2026-09-14T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5293,
+    0.2423,
+    0.2284
+   ],
+   "p_dc": [
+    0.5455,
+    0.2442,
+    0.2103
+   ],
+   "p_elo": [
+    0.5087,
+    0.2393,
+    0.252
+   ],
+   "lambda": [
+    1.775,
+    1.019
+   ],
+   "over25": 0.5291,
+   "btts": 0.5363,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1162
+   },
+   "elo_diff": 122.0,
+   "market": [
+    0.7687,
+    0.16,
+    0.0713
+   ],
+   "edge": [
+    -0.2394,
+    0.0823,
+    0.1571
+   ],
+   "warm": {
+    "home": 353,
+    "away": 907
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "I1|14/09/2026|Torino|Roma",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Torino",
+   "away": "Roma",
+   "kickoff_utc": "2026-09-14T16:30+00:00",
+   "time_uk": "17:30",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3369,
+    0.2713,
+    0.3918
+   ],
+   "p_dc": [
+    0.3412,
+    0.2585,
+    0.4003
+   ],
+   "p_elo": [
+    0.3313,
+    0.2874,
+    0.3813
+   ],
+   "lambda": [
+    1.386,
+    1.518
+   ],
+   "over25": 0.5549,
+   "btts": 0.5913,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1211
+   },
+   "elo_diff": -24.4,
+   "market": [
+    0.1641,
+    0.2354,
+    0.6005
+   ],
+   "edge": [
+    0.1728,
+    0.0359,
+    -0.2087
+   ],
+   "warm": {
+    "home": 1011,
+    "away": 975
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "T1|14/09/2026|Gaziantep|Fenerbahce",
+   "div": "T1",
+   "league_zh": "土超",
+   "home": "Gaziantep",
+   "away": "Fenerbahce",
+   "kickoff_utc": "2026-09-14T17:00+00:00",
+   "time_uk": "18:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3533,
+    0.2489,
+    0.3978
+   ],
+   "p_dc": [
+    0.4508,
+    0.2464,
+    0.3028
+   ],
+   "p_elo": [
+    0.2453,
+    0.2355,
+    0.5192
+   ],
+   "lambda": [
+    1.712,
+    1.37
+   ],
+   "over25": 0.5947,
+   "btts": 0.6165,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.113
+   },
+   "elo_diff": -130.3,
+   "market": [
+    0.1728,
+    0.2297,
+    0.5975
+   ],
+   "edge": [
+    0.1805,
+    0.0192,
+    -0.1997
+   ],
+   "warm": {
+    "home": 260,
+    "away": 904
+   },
+   "last_match": {
+    "home": "2026-09-07",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "P1|14/09/2026|Rio Ave|Estrela",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Rio Ave",
+   "away": "Estrela",
+   "kickoff_utc": "2026-09-14T17:45+00:00",
+   "time_uk": "18:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3612,
+    0.2704,
+    0.3685
+   ],
+   "p_dc": [
+    0.3427,
+    0.2564,
+    0.4009
+   ],
+   "p_elo": [
+    0.3828,
+    0.2868,
+    0.3304
+   ],
+   "lambda": [
+    1.407,
+    1.538
+   ],
+   "over25": 0.5644,
+   "btts": 0.5987,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1195
+   },
+   "elo_diff": 25.6,
+   "market": [
+    0.341,
+    0.2877,
+    0.3713
+   ],
+   "edge": [
+    0.0202,
+    -0.0174,
+    -0.0028
+   ],
+   "warm": {
+    "home": 661,
+    "away": 107
+   },
+   "last_match": {
+    "home": "2026-09-06",
+    "away": "2026-09-10"
+   }
+  },
+  {
+   "match_key": "SP2|14/09/2026|Celta B|Eibar",
+   "div": "SP2",
+   "league_zh": "西乙",
+   "home": "Celta B",
+   "away": "Eibar",
+   "kickoff_utc": "2026-09-14T18:30+00:00",
+   "time_uk": "19:30",
+   "track": "s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4314,
+    0.2679,
+    0.3007
+   ],
+   "p_dc": [
+    0.4054,
+    0.2834,
+    0.3112
+   ],
+   "p_elo": [
+    0.4314,
+    0.2679,
+    0.3007
+   ],
+   "lambda": [
+    1.332,
+    1.135
+   ],
+   "over25": 0.4477,
+   "btts": 0.5059,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1347
+   },
+   "elo_diff": 62.7,
+   "market": [
+    0.2844,
+    0.2993,
+    0.4163
+   ],
+   "edge": [
+    0.147,
+    -0.0314,
+    -0.1156
+   ],
+   "warm": {
+    "home": 4,
+    "away": 858
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-06"
+   }
+  },
+  {
+   "match_key": "F2|14/09/2026|Red Star|Metz",
+   "div": "F2",
+   "league_zh": "法乙",
+   "home": "Red Star",
+   "away": "Metz",
+   "kickoff_utc": "2026-09-14T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.3854,
+    0.2757,
+    0.3389
+   ],
+   "p_dc": [
+    0.3836,
+    0.2683,
+    0.3482
+   ],
+   "p_elo": [
+    0.3873,
+    0.285,
+    0.3277
+   ],
+   "lambda": [
+    1.405,
+    1.328
+   ],
+   "over25": 0.5145,
+   "btts": 0.5608,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1274
+   },
+   "elo_diff": 29.0,
+   "market": [
+    0.3578,
+    0.2844,
+    0.3578
+   ],
+   "edge": [
+    0.0276,
+    -0.0087,
+    -0.0189
+   ],
+   "warm": {
+    "home": 186,
+    "away": 925
+   },
+   "last_match": {
+    "home": "2026-09-04",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "I1|14/09/2026|Inter|Udinese",
+   "div": "I1",
+   "league_zh": "意甲",
+   "home": "Inter",
+   "away": "Udinese",
+   "kickoff_utc": "2026-09-14T18:45+00:00",
+   "time_uk": "19:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5333,
+    0.2318,
+    0.2349
+   ],
+   "p_dc": [
+    0.5067,
+    0.2418,
+    0.2515
+   ],
+   "p_elo": [
+    0.5655,
+    0.2193,
+    0.2153
+   ],
+   "lambda": [
+    1.803,
+    1.214
+   ],
+   "over25": 0.5806,
+   "btts": 0.5925,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1125
+   },
+   "elo_diff": 167.8,
+   "market": [
+    0.7543,
+    0.1612,
+    0.0846
+   ],
+   "edge": [
+    -0.221,
+    0.0706,
+    0.1504
+   ],
+   "warm": {
+    "home": 975,
+    "away": 975
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-07"
+   }
+  },
+  {
+   "match_key": "E0|14/09/2026|Leeds|Newcastle",
+   "div": "E0",
+   "league_zh": "英超",
+   "home": "Leeds",
+   "away": "Newcastle",
+   "kickoff_utc": "2026-09-14T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4599,
+    0.2556,
+    0.2845
+   ],
+   "p_dc": [
+    0.4357,
+    0.2628,
+    0.3014
+   ],
+   "p_elo": [
+    0.4896,
+    0.2462,
+    0.2642
+   ],
+   "lambda": [
+    1.535,
+    1.239
+   ],
+   "over25": 0.5244,
+   "btts": 0.5633,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1246
+   },
+   "elo_diff": 107.1,
+   "market": [
+    0.3942,
+    0.2719,
+    0.3339
+   ],
+   "edge": [
+    0.0657,
+    -0.0163,
+    -0.0494
+   ],
+   "warm": {
+    "home": 1135,
+    "away": 1007
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "SP1|14/09/2026|Villarreal|Betis",
+   "div": "SP1",
+   "league_zh": "西甲",
+   "home": "Villarreal",
+   "away": "Betis",
+   "kickoff_utc": "2026-09-14T19:00+00:00",
+   "time_uk": "20:00",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4596,
+    0.2541,
+    0.2863
+   ],
+   "p_dc": [
+    0.4304,
+    0.2616,
+    0.308
+   ],
+   "p_elo": [
+    0.4955,
+    0.244,
+    0.2605
+   ],
+   "lambda": [
+    1.539,
+    1.268
+   ],
+   "over25": 0.5321,
+   "btts": 0.5702,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1237
+   },
+   "elo_diff": 111.7,
+   "market": [
+    0.4962,
+    0.2461,
+    0.2577
+   ],
+   "edge": [
+    -0.0366,
+    0.008,
+    0.0286
+   ],
+   "warm": {
+    "home": 996,
+    "away": 1008
+   },
+   "last_match": {
+    "home": "2026-09-05",
+    "away": "2026-09-04"
+   }
+  },
+  {
+   "match_key": "P1|14/09/2026|Moreirense|Maritimo",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Moreirense",
+   "away": "Maritimo",
+   "kickoff_utc": "2026-09-14T19:15+00:00",
+   "time_uk": "20:15",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.4613,
+    0.2569,
+    0.2817
+   ],
+   "p_dc": [
+    0.4333,
+    0.2672,
+    0.2996
+   ],
+   "p_elo": [
+    0.4959,
+    0.2439,
+    0.2602
+   ],
+   "lambda": [
+    1.495,
+    1.204
+   ],
+   "over25": 0.5062,
+   "btts": 0.5492,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1271
+   },
+   "elo_diff": 112.0,
+   "market": [
+    0.3842,
+    0.2956,
+    0.3202
+   ],
+   "edge": [
+    0.0771,
+    -0.0386,
+    -0.0385
+   ],
+   "warm": {
+    "home": 511,
+    "away": 755
+   },
+   "last_match": {
+    "home": "2026-09-09",
+    "away": "2026-09-05"
+   }
+  },
+  {
+   "match_key": "P1|14/09/2026|Sp Braga|Estoril",
+   "div": "P1",
+   "league_zh": "葡超",
+   "home": "Sp Braga",
+   "away": "Estoril",
+   "kickoff_utc": "2026-09-14T19:45+00:00",
+   "time_uk": "20:45",
+   "track": "s3+s2",
+   "status": "fallback",
+   "locked": false,
+   "p": [
+    0.5117,
+    0.2519,
+    0.2364
+   ],
+   "p_dc": [
+    0.4791,
+    0.2756,
+    0.2453
+   ],
+   "p_elo": [
+    0.5511,
+    0.2243,
+    0.2246
+   ],
+   "lambda": [
+    1.471,
+    0.979
+   ],
+   "over25": 0.4433,
+   "btts": 0.4872,
+   "top_score": {
+    "score": "1-1",
+    "p": 0.1305
+   },
+   "elo_diff": 155.9,
+   "market": [
+    0.6412,
+    0.2147,
+    0.144
+   ],
+   "edge": [
+    -0.1295,
+    0.0371,
+    0.0924
+   ],
+   "warm": {
+    "home": 856,
+    "away": 405
+   },
+   "last_match": {
+    "home": "2026-09-10",
+    "away": "2026-09-07"
+   }
+  }
+ ]
+}
