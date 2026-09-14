@@ -44,6 +44,17 @@ jobs:
         if: github.event.inputs.full_results == 'true'
         run: python3 scripts/ingest_results.py --seasons 2000:$(date -u +%Y)
 
+      # ClubElo 只係外部對帳尺：掛咗只告警，唔准擋住 S6 凍結寫入
+      - name: ClubElo 快照（bronze）
+        id: clubelo
+        continue-on-error: true
+        run: python3 scripts/ingest_clubelo.py
+
+      - name: ClubElo 對帳（silver，只出快照）
+        id: reconcile
+        continue-on-error: true
+        run: python3 scripts/reconcile_elo.py
+
       - name: 賽前預測凍結（S6）
         run: python3 scripts/predict_fixtures.py
 
@@ -76,6 +87,37 @@ jobs:
             const rep = JSON.parse(fs.readFileSync('/tmp/selfcheck.json', 'utf8'));
             const title = '[watchdog] 足球資料管線異常';
             const body = '```json\n' + JSON.stringify(rep, null, 2) + '\n```';
+            const { data: issues } = await github.rest.issues.listForRepo({
+              ...context.repo, state: 'open', labels: 'watchdog',
+            });
+            const found = issues.find(i => i.title === title);
+            if (found) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: found.number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title, body, labels: ['watchdog'] });
+            }
+
+      - name: ClubElo 對帳異常開 issue（唔影響凍結預測）
+        if: steps.clubelo.outcome != 'success' || steps.reconcile.outcome != 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let snap = '（今日未有對帳快照）';
+            try {
+              const files = fs.readdirSync('snapshots').filter(f => f.startsWith('clubelo_reconcile_')).sort();
+              if (files.length) {
+                const rep = JSON.parse(fs.readFileSync('snapshots/' + files[files.length - 1], 'utf8'));
+                delete rep.matches;
+                snap = '```json\n' + JSON.stringify(rep, null, 2) + '\n```';
+              }
+            } catch (e) { snap = '讀取對帳快照失敗：' + e.message; }
+            const title = '[watchdog] ClubElo 對帳層異常';
+            const body = [
+              'ClubElo 只作外部對帳尺，凍結預測（S6）唔受影響，已照常寫入。',
+              `ingest: ${{ steps.clubelo.outcome }}｜reconcile: ${{ steps.reconcile.outcome }}`,
+              snap,
+            ].join('\n\n');
             const { data: issues } = await github.rest.issues.listForRepo({
               ...context.repo, state: 'open', labels: 'watchdog',
             });
