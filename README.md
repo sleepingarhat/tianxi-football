@@ -55,3 +55,15 @@ FOOTYSTATS_KEY=xxx python3 scripts/footystats_acceptance.py --league-id 12325 --
 
 授權提醒：上游 football-data.co.uk 免費條款屬非商業，收費前需書面確認。
 Understat 明文禁止程式存取，未獲書面授權前零排程抓取。
+
+
+## 凍結帳（prediction_log，S13）
+
+- `data/predictions/upcoming.json`：**只係未開窗口**，每日覆寫，唔係歷史 SSOT。
+- `data/predictions/log/YYYY-MM.json`：逐場凍結帳，一場一行（key = `div|DD/MM/YYYY|home|away`）。
+  一經鎖定（`locked_at` 已寫）預測欄永不覆寫；上游有新數只會記入 `log/audit.jsonl` 並拒絕改帳。
+- 逐場鎖定＝**開賽前 60 分鐘**（`predict_fixtures.py` LOCK_MINUTES = 60）。黃燈可刷新、綠燈已鎖。
+- `scripts/settle_predictions.py`：賽果 CSV 入庫後按同一 key join，只寫 `result`
+  （ft_h／ft_a／ftr／rps／argmax_hit／p_actual／波膽格排名），預測欄一分不改；對唔上名入 unmatched。
+- `data/predictions/hit_rate.json`：公開讀口。頁頂戰績只收五大聯賽、綠燈場；紅燈退回基準軌只作診斷。
+- 完場一律讀本帳，禁止用最新模型重打已完場。
