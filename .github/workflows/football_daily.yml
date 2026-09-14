@@ -28,6 +28,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: 安裝 S5 推論套件
+        run: pip install --quiet lightgbm numpy pandas scikit-learn
+
       - name: 賽程（每次都跑）
         run: python3 scripts/ingest_fixtures.py
 
@@ -76,7 +79,7 @@ jobs:
         run: |
           git config user.name "tianxi-bot"
           git config user.email "bot@tianxi.racing"
-          git add -A data snapshots
+          git add -A data snapshots models
           if git diff --cached --quiet; then
             echo "no change"
           else
