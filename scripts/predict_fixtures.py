@@ -30,7 +30,7 @@ DRAW0, DRAW1 = 0.30, 0.18
 LR, RHO, GAMMA, REGRESS, WARM, MAXG = 0.04, -0.05, 0.12, 0.80, 40, 10
 # --- 混合權重（只有兩軌可用，按回測 RPS 反比取整） ---
 W_DC, W_ELO = 0.55, 0.45
-LOCK_MINUTES = 30  # 開賽前幾分鐘鎖定
+LOCK_MINUTES = 60  # 逐場開賽前幾分鐘鎖定（三份文件統一：黃燈可刷新／綠燈已鎖）
 
 
 def season_of(y, m):
@@ -164,15 +164,44 @@ class Engine:
         la = min(max(math.exp(self.base[div] - GAMMA + self.atk[away] - self.dfn[home]), 0.15), 6.0)
         M = build_matrix(lh, la)
         ph, pd_, pa, over, btts = derive(M)
-        cells = sorted(
-            ((i, j, M[i][j]) for i in range(6) for j in range(6)),
-            key=lambda x: x[2],
-            reverse=True,
-        )
-        scores = [{"score": f"{c[0]}-{c[1]}", "p": round(c[2], 4),
-                   "res": "home" if c[0] > c[1] else ("draw" if c[0] == c[1] else "away")}
-                  for c in cells[:2]]
-        return (ph, pd_, pa), lh, la, over, btts, scores
+        cells = []
+        exp_h = exp_a = 0.0
+        win3 = h4 = az = 0.0
+        for i in range(MAXG + 1):
+            for j in range(MAXG + 1):
+                pij = M[i][j]
+                exp_h += i * pij
+                exp_a += j * pij
+                if i - j >= 3:
+                    win3 += pij
+                if i >= 4:
+                    h4 += pij
+                if j == 0:
+                    az += pij
+                if i <= 6 and j <= 6:
+                    cells.append((i, j, pij))
+        cells.sort(key=lambda x: x[2], reverse=True)
+
+        def fmt(c):
+            return {"score": f"{c[0]}-{c[1]}", "p": round(c[2], 4),
+                    "res": "home" if c[0] > c[1] else ("draw" if c[0] == c[1] else "away")}
+
+        top8 = [fmt(c) for c in cells[:8]]
+        cond = {}
+        for res, pres in (("home", ph), ("draw", pd_), ("away", pa)):
+            best = next((c for c in cells if (c[0] > c[1] if res == "home" else
+                                              (c[0] == c[1] if res == "draw" else c[0] < c[1]))), None)
+            if best:
+                cond[res] = {"score": f"{best[0]}-{best[1]}", "p": round(best[2], 4),
+                             "p_cond": round(best[2] / max(pres, 1e-9), 4)}
+        cs = {
+            "top8": top8,
+            "cond": cond,
+            "exp": [round(exp_h, 2), round(exp_a, 2)],
+            "tails": {"win_by_3plus": round(win3, 4), "home_4plus": round(h4, 4),
+                      "away_clean_sheet": round(az, 4)},
+        }
+        return (ph, pd_, pa), lh, la, over, btts, top8, cs
 
 
 def blend(p_dc, p_elo):
@@ -208,7 +237,7 @@ def main():
         home, away, div = f["home"], f["away"], f["div"]
         ready = eng.seen[home] >= WARM and eng.seen[away] >= WARM
         p_elo, elo_diff = eng.elo_probs(home, away)
-        p_dc, lh, la, over, btts, scores = eng.dc_probs(div, home, away)
+        p_dc, lh, la, over, btts, scores, cs = eng.dc_probs(div, home, away)
         p = blend(p_dc, p_elo) if ready else list(p_elo)
         market = devig(f.get("odds_h"), f.get("odds_d"), f.get("odds_a"))
         edges = None
@@ -239,7 +268,8 @@ def main():
             "over25": round(over, 4),
             "btts": round(btts, 4),
             "top_score": {"score": scores[0]["score"], "p": scores[0]["p"]},
-            "scores": scores,
+            "scores": scores[:2],
+            "cs": cs,
             "elo_diff": round(elo_diff, 1),
             "market": [round(v, 4) for v in market] if market else None,
             "edge": edges,
