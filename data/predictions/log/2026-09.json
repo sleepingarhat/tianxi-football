@@ -104,7 +104,26 @@
     0.2734,
     0.3237
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.53452,
+    "cs_p_actual": 0.0793,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3237,
+    "rps": 0.30986,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1282,
@@ -230,7 +249,26 @@
     0.2673,
     0.3748
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.92248,
+    "cs_p_actual": 0.0538,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.3579,
+    "rps": 0.27638,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1131,
@@ -356,7 +394,26 @@
     0.2783,
     0.3396
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.04949,
+    "cs_p_actual": 0.1288,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2783,
+    "rps": 0.13066,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1288,
@@ -482,7 +539,26 @@
     0.2036,
     0.1849
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.57021,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.6116,
+    "rps": 0.0925,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1173,
@@ -608,7 +684,26 @@
     0.2634,
     0.3591
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.56666,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.3775,
+    "rps": 0.25823,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1173,
@@ -734,7 +829,26 @@
     0.2254,
     0.2145
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.8201,
+    "cs_p_actual": 0.0596,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.5601,
+    "rps": 0.11976,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1124,
@@ -860,7 +974,26 @@
     0.2567,
     0.2972
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.12947,
+    "cs_p_actual": 0.1189,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2567,
+    "rps": 0.14367,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1189,
@@ -986,7 +1119,26 @@
     0.2595,
     0.2914
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.53188,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4491,
+    "rps": 0.1942,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1194,
@@ -1112,7 +1264,26 @@
     0.2698,
     0.3091
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.88778,
+    "cs_p_actual": 0.0557,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3091,
+    "rps": 0.32733,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1128,
@@ -1238,7 +1409,26 @@
     0.2584,
     0.3171
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.64582,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3171,
+    "rps": 0.32317,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1096,
@@ -1364,7 +1554,26 @@
     0.255,
     0.3144
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.71206,
+    "cs_p_actual": 0.0664,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.255,
+    "rps": 0.14213,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0948,
@@ -1490,7 +1699,26 @@
     0.2403,
     0.2481
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.56313,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.5116,
+    "rps": 0.15004,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.115,
@@ -1616,7 +1844,26 @@
     0.245,
     0.3146
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.37839,
+    "cs_p_actual": 0.0927,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.245,
+    "rps": 0.14648,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0927,
@@ -1742,7 +1989,26 @@
     0.2156,
     0.217
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.60087,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.5674,
+    "rps": 0.11712,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.0949,
@@ -1868,7 +2134,26 @@
     0.2495,
     0.3271
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.47575,
+    "cs_p_actual": 0.0841,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4234,
+    "rps": 0.21973,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0859,
@@ -1994,7 +2279,26 @@
     0.247,
     0.2646
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.60087,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2646,
+    "rps": 0.38967,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0948,
@@ -2120,7 +2424,26 @@
     0.2461,
     0.3815
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.61183,
+    "cs_p_actual": 0.0734,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3815,
+    "rps": 0.26051,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0949,
@@ -2246,7 +2569,26 @@
     0.2151,
     0.2108
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.58452,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.574,
+    "rps": 0.11298,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.0965,
@@ -2372,7 +2714,26 @@
     0.242,
     0.2798
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.40351,
+    "cs_p_actual": 0.0904,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4782,
+    "rps": 0.17528,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1148,
@@ -2498,7 +2859,26 @@
     0.2604,
     0.2943
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.34968,
+    "cs_p_actual": 0.0954,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4453,
+    "rps": 0.19715,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1077,
@@ -2624,7 +3004,26 @@
     0.2549,
     0.2907
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.16195,
+    "cs_p_actual": 0.1151,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2549,
+    "rps": 0.14549,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1151,
@@ -2750,7 +3149,26 @@
     0.2427,
     0.3043
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.65783,
+    "cs_p_actual": 0.0701,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2427,
+    "rps": 0.1489,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0906,
@@ -2876,7 +3294,26 @@
     0.2711,
     0.329
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.50157,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.3999,
+    "rps": 0.23418,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1208,
@@ -3002,7 +3439,26 @@
     0.2459,
     0.3951
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.04492,
+    "cs_p_actual": 0.0476,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.359,
+    "rps": 0.28349,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0938,
@@ -3128,7 +3584,26 @@
     0.2539,
     0.2805
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.64086,
+    "cs_p_actual": 0.0713,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4656,
+    "rps": 0.18213,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1032,
@@ -3254,7 +3729,26 @@
     0.2216,
     0.2794
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.8514,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2794,
+    "rps": 0.38413,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0813,
@@ -3380,7 +3874,26 @@
     0.2481,
     0.3893
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.64774,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3893,
+    "rps": 0.25222,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1072,
@@ -3506,7 +4019,26 @@
     0.2746,
     0.3102
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.59696,
+    "cs_p_actual": 0.0745,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3102,
+    "rps": 0.32411,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1336,
@@ -3632,7 +4164,26 @@
     0.2638,
     0.3054
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.85423,
+    "cs_p_actual": 0.0576,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2638,
+    "rps": 0.13944,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.124,
@@ -3758,7 +4309,26 @@
     0.2639,
     0.3045
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.82346,
+    "cs_p_actual": 0.0594,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2639,
+    "rps": 0.13951,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1195,
@@ -3884,7 +4454,26 @@
     0.2631,
     0.3101
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.76792,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 2,
+    "ftr": "away",
+    "p_actual": 0.3101,
+    "rps": 0.32906,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1026,
@@ -4010,7 +4599,26 @@
     0.2291,
     0.2286
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.97202,
+    "cs_p_actual": 0.0512,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2291,
+    "rps": 0.17317,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1088,
@@ -4136,7 +4744,26 @@
     0.2721,
     0.3743
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.91507,
+    "cs_p_actual": 0.0542,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3743,
+    "rps": 0.25827,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.131,
@@ -4262,7 +4889,26 @@
     0.2752,
     0.3717
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.55361,
+    "cs_p_actual": 0.0778,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2752,
+    "rps": 0.13142,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1304,
@@ -4388,7 +5034,26 @@
     0.2543,
     0.3067
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.5099,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 5,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3067,
+    "rps": 0.33669,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1228,
@@ -4514,7 +5179,26 @@
     0.2655,
     0.3308
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.8824,
+    "cs_p_actual": 0.056,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3308,
+    "rps": 0.3054,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1101,
@@ -4538,47 +5222,47 @@
   },
   "E0|14/09/2026|Leeds|Newcastle": {
    "away": "Newcastle",
-   "btts": 0.5679,
+   "btts": 0.6092,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0631,
-      "p_cond": 0.244,
+      "p": 0.0583,
+      "p_cond": 0.2608,
       "score": "1-2"
      },
      "draw": {
-      "p": 0.135,
-      "p_cond": 0.4741,
+      "p": 0.1263,
+      "p_cond": 0.4616,
       "score": "1-1"
      },
      "home": {
-      "p": 0.0954,
-      "p_cond": 0.2091,
+      "p": 0.0936,
+      "p_cond": 0.1862,
       "score": "2-1"
      }
     },
     "exp": [
-     1.58,
-     1.18
+     1.85,
+     1.2
     ],
     "tails": {
-     "away_clean_sheet": 0.3058,
-     "home_4plus": 0.0734,
-     "win_by_3plus": 0.0923
+     "away_clean_sheet": 0.2954,
+     "home_4plus": 0.1164,
+     "win_by_3plus": 0.1341
     },
     "top8": [
      {
-      "p": 0.135,
+      "p": 0.1263,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.0954,
+      "p": 0.0936,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.0941,
+      "p": 0.0773,
       "res": "home",
       "score": "1-0"
      },
@@ -4588,67 +5272,86 @@
       "score": "2-0"
      },
      {
-      "p": 0.074,
+      "p": 0.0684,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0589,
       "res": "draw",
       "score": "0-0"
      },
      {
-      "p": 0.0631,
+      "p": 0.0584,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0583,
       "res": "away",
       "score": "1-2"
-     },
-     {
-      "p": 0.0613,
-      "res": "away",
-      "score": "0-1"
-     },
-     {
-      "p": 0.0611,
-      "res": "draw",
-      "score": "2-2"
      }
     ]
    },
    "div": "E0",
    "edge": [
-    0.0623,
-    0.0128,
-    -0.0751
+    0.1085,
+    0.0017,
+    -0.1102
    ],
-   "elo_diff": 107.1,
+   "elo_diff": 134.1,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Leeds",
    "kickoff_utc": "2026-09-14T19:00+00:00",
    "lambda": [
-    1.535,
-    1.239
+    1.871,
+    1.216
    ],
    "league_zh": "英超",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.3942,
     0.2719,
     0.3339
    ],
    "match_key": "E0|14/09/2026|Leeds|Newcastle",
-   "over25": 0.5175,
+   "over25": 0.5829,
    "p": [
-    0.4565,
-    0.2847,
-    0.2588
+    0.5027,
+    0.2736,
+    0.2237
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.5353,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.5027,
+    "rps": 0.14867,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
-     "p": 0.135,
+     "p": 0.1263,
      "res": "draw",
      "score": "1-1"
     },
     {
-     "p": 0.0954,
+     "p": 0.0936,
      "res": "home",
      "score": "2-1"
     }
@@ -4656,11 +5359,11 @@
    "status": "final",
    "time_uk": "20:00",
    "top_score": {
-    "p": 0.135,
+    "p": 0.1263,
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "E1|11/09/2026|West Ham|Wrexham": {
    "away": "Wrexham",
@@ -4766,7 +5469,26 @@
     0.2761,
     0.3013
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59904,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 6,
+    "ftr": "home",
+    "p_actual": 0.4226,
+    "rps": 0.21209,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1208,
@@ -4892,7 +5614,26 @@
     0.265,
     0.3685
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.53017,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.3665,
+    "rps": 0.26856,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1225,
@@ -5018,7 +5759,26 @@
     0.2641,
     0.3209
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.51702,
+    "cs_p_actual": 0.0807,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4151,
+    "rps": 0.22251,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1233,
@@ -5144,7 +5904,26 @@
     0.2764,
     0.3051
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.3969,
+    "cs_p_actual": 0.091,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2764,
+    "rps": 0.13411,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1345,
@@ -5270,7 +6049,26 @@
     0.2781,
     0.3371
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.52573,
+    "cs_p_actual": 0.08,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3371,
+    "rps": 0.29375,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1308,
@@ -5396,7 +6194,26 @@
     0.2632,
     0.2917
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59904,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.4452,
+    "rps": 0.19642,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1264,
@@ -5522,7 +6339,26 @@
     0.2676,
     0.4048
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.3969,
+    "cs_p_actual": 0.091,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.4048,
+    "rps": 0.23079,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1342,
@@ -5648,7 +6484,26 @@
     0.2479,
     0.2706
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.61007,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.4815,
+    "rps": 0.17103,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.112,
@@ -5774,7 +6629,26 @@
     0.2455,
     0.2314
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.89679,
+    "cs_p_actual": 0.0552,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.523,
+    "rps": 0.14056,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1198,
@@ -5900,7 +6774,26 @@
     0.2587,
     0.2877
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.57571,
+    "cs_p_actual": 0.0761,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2877,
+    "rps": 0.35656,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1315,
@@ -6026,7 +6919,26 @@
     0.277,
     0.2874
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 1.99584,
+    "cs_p_actual": 0.1359,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.277,
+    "rps": 0.13619,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1359,
@@ -6152,7 +7064,26 @@
     0.2468,
     0.306
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.97397,
+    "cs_p_actual": 0.0511,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.306,
+    "rps": 0.34093,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1048,
@@ -6278,7 +7209,26 @@
     0.2777,
     0.3108
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.36552,
+    "cs_p_actual": 0.0939,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4116,
+    "rps": 0.22137,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1247,
@@ -6404,7 +7354,26 @@
     0.2234,
     0.2096
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.94504,
+    "cs_p_actual": 0.0526,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2234,
+    "rps": 0.18271,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0954,
@@ -6530,7 +7499,26 @@
     0.2553,
     0.322
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.4651,
+    "cs_p_actual": 0.085,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4227,
+    "rps": 0.21848,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1188,
@@ -6656,7 +7644,26 @@
     0.2556,
     0.2642
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.60454,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 2,
+    "ftr": "away",
+    "p_actual": 0.2642,
+    "rps": 0.386,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0977,
@@ -6782,7 +7789,26 @@
     0.2586,
     0.3358
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.58092,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2586,
+    "rps": 0.13864,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1173,
@@ -6908,7 +7934,26 @@
     0.2449,
     0.2514
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.1062,
+    "cs_p_actual": 0.1217,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2449,
+    "rps": 0.15843,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1217,
@@ -7034,7 +8079,26 @@
     0.26,
     0.2615
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.60369,
+    "cs_p_actual": 0.074,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2615,
+    "rps": 0.38717,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1281,
@@ -7160,7 +8224,26 @@
     0.2557,
     0.2953
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.64009,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.449,
+    "rps": 0.1954,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1093,
@@ -7286,7 +8369,26 @@
     0.2662,
     0.2984
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.58092,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4354,
+    "rps": 0.20391,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1134,
@@ -7412,7 +8514,26 @@
     0.2531,
     0.2579
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.68091,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2531,
+    "rps": 0.15282,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0981,
@@ -7538,7 +8659,26 @@
     0.2352,
     0.222
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.59175,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 3,
+    "ftr": "away",
+    "p_actual": 0.222,
+    "rps": 0.44996,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1098,
@@ -7664,7 +8804,26 @@
     0.2228,
     0.2374
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.36552,
+    "cs_p_actual": 0.0939,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.5398,
+    "rps": 0.13407,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1005,
@@ -7790,7 +8949,26 @@
     0.2716,
     0.3016
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.00619,
+    "cs_p_actual": 0.1345,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2716,
+    "rps": 0.13656,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1345,
@@ -7916,7 +9094,26 @@
     0.2688,
     0.3313
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.56843,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3313,
+    "rps": 0.30354,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1179,
@@ -8042,7 +9239,26 @@
     0.2716,
     0.3035
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.56136,
+    "cs_p_actual": 0.0772,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4248,
+    "rps": 0.21151,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1241,
@@ -8168,7 +9384,26 @@
     0.2582,
     0.3076
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.74731,
+    "cs_p_actual": 0.0641,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4342,
+    "rps": 0.20737,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1262,
@@ -8294,7 +9529,26 @@
     0.2797,
     0.3512
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.05729,
+    "cs_p_actual": 0.1278,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2797,
+    "rps": 0.12979,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1278,
@@ -8420,7 +9674,26 @@
     0.264,
     0.2845
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.68531,
+    "cs_p_actual": 0.0682,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2845,
+    "rps": 0.3579,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1238,
@@ -8546,7 +9819,26 @@
     0.2856,
     0.314
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.16456,
+    "cs_p_actual": 0.1148,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4004,
+    "rps": 0.22906,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1382,
@@ -8672,7 +9964,26 @@
     0.2876,
     0.3095
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.71728,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 3,
+    "ftr": "draw",
+    "p_actual": 0.2876,
+    "rps": 0.12906,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1329,
@@ -8798,7 +10109,26 @@
     0.2777,
     0.3191
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.68972,
+    "cs_p_actual": 0.0679,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4032,
+    "rps": 0.229,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1374,
@@ -8924,7 +10254,26 @@
     0.2694,
     0.3182
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.70008,
+    "cs_p_actual": 0.0672,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2694,
+    "rps": 0.13566,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1206,
@@ -9050,7 +10399,26 @@
     0.236,
     0.2537
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.54391,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.5103,
+    "rps": 0.15208,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.118,
@@ -9176,7 +10544,26 @@
     0.2757,
     0.277
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.36552,
+    "cs_p_actual": 0.0939,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4473,
+    "rps": 0.1911,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.121,
@@ -9302,7 +10689,26 @@
     0.2587,
     0.2931
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.57734,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2931,
+    "rps": 0.35041,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1157,
@@ -9428,7 +10834,26 @@
     0.2576,
     0.2953
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.75829,
+    "cs_p_actual": 0.0634,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2576,
+    "rps": 0.14355,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1057,
@@ -9554,7 +10979,26 @@
     0.2622,
     0.3907
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.1062,
+    "cs_p_actual": 0.1217,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2622,
+    "rps": 0.13656,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1217,
@@ -9680,7 +11124,26 @@
     0.2517,
     0.2567
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.67893,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.4916,
+    "rps": 0.16218,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1297,
@@ -9806,7 +11269,26 @@
     0.2798,
     0.3198
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.60638,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4004,
+    "rps": 0.2309,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1258,
@@ -9932,7 +11414,26 @@
     0.2503,
     0.2841
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.78062,
+    "cs_p_actual": 0.062,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4656,
+    "rps": 0.18315,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.101,
@@ -10058,7 +11559,26 @@
     0.2726,
     0.3889
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.45574,
+    "cs_p_actual": 0.0858,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3889,
+    "rps": 0.24401,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1247,
@@ -10184,7 +11704,26 @@
     0.2749,
     0.3225
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.51157,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3225,
+    "rps": 0.31044,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1193,
@@ -10310,7 +11849,26 @@
     0.2658,
     0.3092
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.5526,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.4251,
+    "rps": 0.21303,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.131,
@@ -10436,7 +11994,26 @@
     0.2422,
     0.2572
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.74264,
+    "cs_p_actual": 0.0644,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2422,
+    "rps": 0.15838,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1135,
@@ -10562,7 +12139,26 @@
     0.2457,
     0.2924
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.64009,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2924,
+    "rps": 0.35714,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1077,
@@ -10688,7 +12284,26 @@
     0.2413,
     0.2633
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.60369,
+    "cs_p_actual": 0.074,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4955,
+    "rps": 0.1619,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1076,
@@ -10814,7 +12429,26 @@
     0.2615,
     0.3093
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.5195,
+    "cs_p_actual": 0.0805,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4292,
+    "rps": 0.21074,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1206,
@@ -10940,7 +12574,26 @@
     0.2802,
     0.3234
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.64086,
+    "cs_p_actual": 0.0713,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2802,
+    "rps": 0.13085,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1264,
@@ -11066,7 +12719,26 @@
     0.2715,
     0.281
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.0139,
+    "cs_p_actual": 0.0491,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2715,
+    "rps": 0.13961,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1283,
@@ -11192,7 +12864,26 @@
     0.2675,
     0.2979
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.75044,
+    "cs_p_actual": 0.0639,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2675,
+    "rps": 0.13881,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1209,
@@ -11318,7 +13009,26 @@
     0.2602,
     0.3065
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.17156,
+    "cs_p_actual": 0.114,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2602,
+    "rps": 0.14085,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.114,
@@ -11444,7 +13154,26 @@
     0.257,
     0.3501
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.92434,
+    "cs_p_actual": 0.0537,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3501,
+    "rps": 0.28847,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1106,
@@ -11570,7 +13299,26 @@
     0.2713,
     0.3265
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.80346,
+    "cs_p_actual": 0.0606,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2713,
+    "rps": 0.13418,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1169,
@@ -11696,7 +13444,26 @@
     0.247,
     0.2533
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.46393,
+    "cs_p_actual": 0.0851,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4997,
+    "rps": 0.15723,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1109,
@@ -11822,7 +13589,26 @@
     0.2885,
     0.3016
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.23026,
+    "cs_p_actual": 0.1075,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2885,
+    "rps": 0.1295,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1373,
@@ -11948,7 +13734,26 @@
     0.2714,
     0.2857
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.64966,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4429,
+    "rps": 0.19599,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1244,
@@ -12074,7 +13879,26 @@
     0.2816,
     0.3107
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.23586,
+    "cs_p_actual": 0.1069,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4077,
+    "rps": 0.22368,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1334,
@@ -12200,7 +14024,26 @@
     0.2665,
     0.3931
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.55748,
+    "cs_p_actual": 0.0775,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3931,
+    "rps": 0.2421,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1299,
@@ -12326,7 +14169,26 @@
     0.2452,
     0.2732
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.79524,
+    "cs_p_actual": 0.0611,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2732,
+    "rps": 0.38009,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1169,
@@ -12452,7 +14314,26 @@
     0.2789,
     0.3687
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.52199,
+    "cs_p_actual": 0.0803,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.3524,
+    "rps": 0.27766,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1255,
@@ -12578,7 +14459,26 @@
     0.2742,
     0.3138
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.38488,
+    "cs_p_actual": 0.0921,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.412,
+    "rps": 0.22211,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1229,
@@ -12704,7 +14604,26 @@
     0.2643,
     0.2802
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.26529,
+    "cs_p_actual": 0.1038,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4555,
+    "rps": 0.1875,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1289,
@@ -12728,33 +14647,33 @@
   },
   "F2|14/09/2026|Red Star|Metz": {
    "away": "Metz",
-   "btts": 0.564,
+   "btts": 0.5224,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0668,
-      "p_cond": 0.2314,
-      "score": "1-2"
+      "p": 0.0704,
+      "p_cond": 0.271,
+      "score": "0-1"
      },
      "draw": {
       "p": 0.1343,
-      "p_cond": 0.4748,
+      "p_cond": 0.4765,
       "score": "1-1"
      },
      "home": {
-      "p": 0.0952,
-      "p_cond": 0.2223,
+      "p": 0.1149,
+      "p_cond": 0.2505,
       "score": "1-0"
      }
     },
     "exp": [
-     1.49,
-     1.23
+     1.46,
+     1.09
     ],
     "tails": {
-     "away_clean_sheet": 0.2915,
-     "home_4plus": 0.0604,
-     "win_by_3plus": 0.0752
+     "away_clean_sheet": 0.3378,
+     "home_4plus": 0.0557,
+     "win_by_3plus": 0.078
     },
     "top8": [
      {
@@ -12763,37 +14682,37 @@
       "score": "1-1"
      },
      {
-      "p": 0.0952,
+      "p": 0.1149,
       "res": "home",
       "score": "1-0"
      },
      {
-      "p": 0.0952,
+      "p": 0.0983,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.0749,
+      "p": 0.0858,
       "res": "draw",
       "score": "0-0"
      },
      {
-      "p": 0.0717,
+      "p": 0.0827,
       "res": "home",
       "score": "2-0"
      },
      {
-      "p": 0.0668,
-      "res": "away",
-      "score": "1-2"
-     },
-     {
-      "p": 0.0666,
+      "p": 0.0704,
       "res": "away",
       "score": "0-1"
      },
      {
-      "p": 0.0597,
+      "p": 0.0608,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0515,
       "res": "draw",
       "score": "2-2"
      }
@@ -12801,36 +14720,55 @@
    },
    "div": "F2",
    "edge": [
-    0.0705,
-    -0.0016,
-    -0.0689
+    0.1007,
+    -0.0026,
+    -0.0981
    ],
-   "elo_diff": 29.0,
+   "elo_diff": 49.2,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Red Star",
    "kickoff_utc": "2026-09-14T18:45+00:00",
    "lambda": [
-    1.405,
-    1.328
+    1.355,
+    1.189
    ],
    "league_zh": "法乙",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.3578,
     0.2844,
     0.3578
    ],
    "match_key": "F2|14/09/2026|Red Star|Metz",
-   "over25": 0.5097,
+   "over25": 0.467,
    "p": [
-    0.4283,
-    0.2829,
-    0.2889
+    0.4585,
+    0.2819,
+    0.2597
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.16369,
+    "cs_p_actual": 0.1149,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4585,
+    "rps": 0.18031,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1343,
@@ -12838,7 +14776,7 @@
      "score": "1-1"
     },
     {
-     "p": 0.0952,
+     "p": 0.1149,
      "res": "home",
      "score": "1-0"
     }
@@ -12850,7 +14788,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "G1|12/09/2026|Iraklis|Atromitos": {
    "away": "Atromitos",
@@ -12956,7 +14894,26 @@
     0.2887,
     0.3011
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.01216,
+    "cs_p_actual": 0.1337,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2887,
+    "rps": 0.12946,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1337,
@@ -13082,7 +15039,26 @@
     0.253,
     0.2374
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.33925,
+    "cs_p_actual": 0.0964,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2374,
+    "rps": 0.42063,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1377,
@@ -13208,7 +15184,26 @@
     0.2653,
     0.4534
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.03715,
+    "cs_p_actual": 0.1304,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2653,
+    "rps": 0.14235,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1304,
@@ -13334,7 +15329,26 @@
     0.2411,
     0.2553
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.66712,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.5037,
+    "rps": 0.15572,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1347,
@@ -13460,7 +15474,26 @@
     0.2825,
     0.2883
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.43955,
+    "cs_p_actual": 0.0872,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2825,
+    "rps": 0.13366,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1294,
@@ -13586,7 +15619,26 @@
     0.2313,
     0.2246
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.45807,
+    "cs_p_actual": 0.0856,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.5441,
+    "rps": 0.12914,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1146,
@@ -13712,7 +15764,26 @@
     0.2542,
     0.2624
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.67893,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4834,
+    "rps": 0.16786,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1302,
@@ -13838,7 +15909,26 @@
     0.2483,
     0.2609
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.55961,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 2,
+    "ftr": "away",
+    "p_actual": 0.2609,
+    "rps": 0.3937,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1164,
@@ -13964,7 +16054,26 @@
     0.2576,
     0.2587
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.69415,
+    "cs_p_actual": 0.0676,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2587,
+    "rps": 0.39175,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1341,
@@ -14090,7 +16199,26 @@
     0.2607,
     0.4266
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.08265,
+    "cs_p_actual": 0.1246,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2607,
+    "rps": 0.1399,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1246,
@@ -14216,7 +16344,26 @@
     0.2828,
     0.3318
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.99974,
+    "cs_p_actual": 0.0498,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2828,
+    "rps": 0.12931,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1317,
@@ -14342,7 +16489,26 @@
     0.2733,
     0.3362
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.53874,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.3904,
+    "rps": 0.24235,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1221,
@@ -14468,7 +16634,26 @@
     0.2607,
     0.2814
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.36446,
+    "cs_p_actual": 0.094,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4578,
+    "rps": 0.18661,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1229,
@@ -14594,7 +16779,26 @@
     0.2796,
     0.3421
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59539,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.3783,
+    "rps": 0.25177,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1281,
@@ -14720,7 +16924,26 @@
     0.1943,
     0.1025
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.06672,
+    "cs_p_actual": 0.1266,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.7032,
+    "rps": 0.0493,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1328,
@@ -14744,129 +16967,148 @@
   },
   "I1|14/09/2026|Inter|Udinese": {
    "away": "Udinese",
-   "btts": 0.5708,
+   "btts": 0.6681,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0245,
-      "p_cond": 0.2585,
+      "p": 0.0195,
+      "p_cond": 0.2491,
       "score": "1-2"
      },
      "draw": {
-      "p": 0.0843,
-      "p_cond": 0.4652,
+      "p": 0.063,
+      "p_cond": 0.403,
       "score": "1-1"
      },
      "home": {
-      "p": 0.138,
-      "p_cond": 0.1906,
+      "p": 0.1198,
+      "p_cond": 0.1565,
       "score": "2-1"
      }
     },
     "exp": [
-     2.19,
-     0.93
+     2.72,
+     1.14
     ],
     "tails": {
-     "away_clean_sheet": 0.3876,
-     "home_4plus": 0.154,
-     "win_by_3plus": 0.1839
+     "away_clean_sheet": 0.3073,
+     "home_4plus": 0.2723,
+     "win_by_3plus": 0.2635
     },
     "top8": [
      {
-      "p": 0.138,
+      "p": 0.1198,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.1185,
-      "res": "home",
-      "score": "1-0"
-     },
-     {
-      "p": 0.1137,
-      "res": "home",
-      "score": "2-0"
-     },
-     {
-      "p": 0.0843,
-      "res": "draw",
-      "score": "1-1"
-     },
-     {
-      "p": 0.083,
+      "p": 0.0936,
       "res": "home",
       "score": "3-1"
      },
      {
-      "p": 0.0684,
+      "p": 0.0849,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0673,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0664,
       "res": "home",
       "score": "3-0"
      },
      {
-      "p": 0.0504,
+      "p": 0.066,
       "res": "home",
       "score": "3-2"
      },
      {
-      "p": 0.044,
+      "p": 0.063,
       "res": "draw",
-      "score": "2-2"
+      "score": "1-1"
+     },
+     {
+      "p": 0.0549,
+      "res": "home",
+      "score": "4-1"
      }
     ]
    },
    "div": "I1",
    "edge": [
-    -0.0302,
-    0.0201,
-    0.0101
+    0.011,
+    -0.0048,
+    -0.0062
    ],
-   "elo_diff": 167.8,
+   "elo_diff": 186.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Inter",
    "kickoff_utc": "2026-09-14T18:45+00:00",
    "lambda": [
-    1.803,
-    1.214
+    2.346,
+    1.411
    ],
    "league_zh": "意甲",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.7543,
     0.1612,
     0.0846
    ],
    "match_key": "I1|14/09/2026|Inter|Udinese",
-   "over25": 0.6089,
+   "over25": 0.7449,
    "p": [
-    0.7241,
-    0.1813,
-    0.0947
+    0.7653,
+    0.1563,
+    0.0784
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59539,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.7653,
+    "rps": 0.03062,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.138,
+     "p": 0.1198,
      "res": "home",
      "score": "2-1"
     },
     {
-     "p": 0.1185,
+     "p": 0.0936,
      "res": "home",
-     "score": "1-0"
+     "score": "3-1"
     }
    ],
    "status": "final",
    "time_uk": "19:45",
    "top_score": {
-    "p": 0.138,
+    "p": 0.1198,
     "score": "2-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "I1|14/09/2026|Torino|Roma": {
    "away": "Roma",
@@ -14972,7 +17214,26 @@
     0.2602,
     0.5284
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.48411,
+    "cs_p_actual": 0.0834,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.5284,
+    "rps": 0.13355,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1219,
@@ -15098,7 +17359,26 @@
     0.2831,
     0.3479
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.46254,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.369,
+    "rps": 0.2596,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1325,
@@ -15224,7 +17504,26 @@
     0.2647,
     0.2739
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.82346,
+    "cs_p_actual": 0.0594,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2739,
+    "rps": 0.37017,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.118,
@@ -15350,7 +17649,26 @@
     0.2532,
     0.2477
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.66516,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2477,
+    "rps": 0.40753,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1242,
@@ -15476,7 +17794,26 @@
     0.2577,
     0.2703
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.2462,
+    "cs_p_actual": 0.1058,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.472,
+    "rps": 0.17592,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1325,
@@ -15602,7 +17939,26 @@
     0.2788,
     0.2942
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.98975,
+    "cs_p_actual": 0.0503,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2788,
+    "rps": 0.13444,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1275,
@@ -15728,7 +18084,26 @@
     0.2877,
     0.3268
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.2481,
+    "cs_p_actual": 0.1056,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.3855,
+    "rps": 0.2422,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.135,
@@ -15854,7 +18229,26 @@
     0.2915,
     0.322
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.00174,
+    "cs_p_actual": 0.1351,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2915,
+    "rps": 0.12653,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1351,
@@ -15980,7 +18374,26 @@
     0.2708,
     0.3004
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.0691,
+    "cs_p_actual": 0.1263,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2708,
+    "rps": 0.13705,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1263,
@@ -16106,7 +18519,26 @@
     0.2816,
     0.3176
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.05416,
+    "cs_p_actual": 0.1282,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2816,
+    "rps": 0.13076,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1282,
@@ -16232,7 +18664,26 @@
     0.2471,
     0.243
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.4013,
+    "cs_p_actual": 0.0906,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.5098,
+    "rps": 0.1497,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1197,
@@ -16358,7 +18809,26 @@
     0.195,
     0.1823
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.56136,
+    "cs_p_actual": 0.0772,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.195,
+    "rps": 0.21054,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0912,
@@ -16484,7 +18954,26 @@
     0.2238,
     0.4824
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.80317,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.2938,
+    "rps": 0.36571,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.0884,
@@ -16610,7 +19099,26 @@
     0.2449,
     0.3836
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.80992,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 5,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3836,
+    "rps": 0.25898,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.098,
@@ -16736,7 +19244,26 @@
     0.2236,
     0.2736
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.6064,
+    "cs_p_actual": 0.0738,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2236,
+    "rps": 0.16383,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0821,
@@ -16862,7 +19389,26 @@
     0.209,
     0.2039
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.62417,
+    "cs_p_actual": 0.0725,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.5872,
+    "rps": 0.10597,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0951,
@@ -16988,7 +19534,26 @@
     0.2378,
     0.2687
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.04282,
+    "cs_p_actual": 0.0477,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2687,
+    "rps": 0.38917,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.0887,
@@ -17114,7 +19679,26 @@
     0.2623,
     0.2916
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.74017,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2623,
+    "rps": 0.14202,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1046,
@@ -17240,7 +19824,26 @@
     0.1884,
     0.175
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.94885,
+    "cs_p_actual": 0.0524,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.6366,
+    "rps": 0.08134,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.0867,
@@ -17366,7 +19969,26 @@
     0.2393,
     0.4308
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.74439,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 7,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.4308,
+    "rps": 0.21641,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.097,
@@ -17492,7 +20114,26 @@
     0.2615,
     0.2902
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.48291,
+    "cs_p_actual": 0.0835,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4483,
+    "rps": 0.19429,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1375,
@@ -17618,7 +20259,26 @@
     0.2568,
     0.4779
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.58092,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.4779,
+    "rps": 0.17149,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1361,
@@ -17744,7 +20404,26 @@
     0.2641,
     0.2885
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.62497,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2885,
+    "rps": 0.3532,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1276,
@@ -17870,7 +20549,26 @@
     0.2749,
     0.3113
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.58362,
+    "cs_p_actual": 0.0755,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3113,
+    "rps": 0.32277,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1363,
@@ -17996,7 +20694,26 @@
     0.229,
     0.192
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.89137,
+    "cs_p_actual": 0.0555,
+    "cs_rank": 8,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.579,
+    "rps": 0.10705,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1187,
@@ -18122,7 +20839,26 @@
     0.267,
     0.4236
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.01966,
+    "cs_p_actual": 0.1327,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.267,
+    "rps": 0.13758,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1327,
@@ -18146,243 +20882,281 @@
   },
   "P1|14/09/2026|Moreirense|Maritimo": {
    "away": "Maritimo",
-   "btts": 0.5603,
+   "btts": 0.5877,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0792,
-      "p_cond": 0.2501,
-      "score": "0-1"
+      "p": 0.0728,
+      "p_cond": 0.2552,
+      "score": "1-2"
      },
      "draw": {
-      "p": 0.1477,
-      "p_cond": 0.4759,
+      "p": 0.1417,
+      "p_cond": 0.471,
       "score": "1-1"
      },
      "home": {
-      "p": 0.0814,
-      "p_cond": 0.2181,
-      "score": "1-0"
+      "p": 0.0813,
+      "p_cond": 0.1964,
+      "score": "2-1"
      }
     },
     "exp": [
-     1.41,
+     1.58,
      1.25
     ],
     "tails": {
-     "away_clean_sheet": 0.2803,
-     "home_4plus": 0.0565,
-     "win_by_3plus": 0.0731
+     "away_clean_sheet": 0.2799,
+     "home_4plus": 0.0796,
+     "win_by_3plus": 0.0971
     },
     "top8": [
      {
-      "p": 0.1477,
+      "p": 0.1417,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.0852,
-      "res": "draw",
-      "score": "0-0"
-     },
-     {
-      "p": 0.0814,
-      "res": "home",
-      "score": "1-0"
-     },
-     {
-      "p": 0.0792,
-      "res": "away",
-      "score": "0-1"
-     },
-     {
-      "p": 0.0779,
+      "p": 0.0813,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.077,
+      "p": 0.0756,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0735,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0728,
       "res": "away",
       "score": "1-2"
      },
      {
-      "p": 0.0647,
+      "p": 0.0682,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0682,
       "res": "home",
       "score": "2-0"
      },
      {
-      "p": 0.0633,
-      "res": "draw",
-      "score": "2-2"
+      "p": 0.0659,
+      "res": "away",
+      "score": "0-1"
      }
     ]
    },
    "div": "P1",
    "edge": [
-    -0.0112,
-    0.0149,
-    -0.0037
+    0.0297,
+    0.0053,
+    -0.0351
    ],
-   "elo_diff": 112.0,
+   "elo_diff": 134.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Moreirense",
    "kickoff_utc": "2026-09-14T19:15+00:00",
    "lambda": [
-    1.495,
-    1.204
+    1.696,
+    1.192
    ],
    "league_zh": "葡超",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.3842,
     0.2956,
     0.3202
    ],
    "match_key": "P1|14/09/2026|Moreirense|Maritimo",
-   "over25": 0.4904,
+   "over25": 0.5321,
    "p": [
-    0.373,
-    0.3104,
-    0.3165
+    0.414,
+    0.3009,
+    0.2851
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.41276,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.414,
+    "rps": 0.21234,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1477,
+     "p": 0.1417,
      "res": "draw",
      "score": "1-1"
     },
     {
-     "p": 0.0852,
-     "res": "draw",
-     "score": "0-0"
+     "p": 0.0813,
+     "res": "home",
+     "score": "2-1"
     }
    ],
    "status": "final",
    "time_uk": "20:15",
    "top_score": {
-    "p": 0.1477,
+    "p": 0.1417,
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "P1|14/09/2026|Rio Ave|Estrela": {
    "away": "Estrela",
-   "btts": 0.61,
+   "btts": 0.6755,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0629,
-      "p_cond": 0.2184,
+      "p": 0.062,
+      "p_cond": 0.2094,
       "score": "1-2"
      },
      "draw": {
-      "p": 0.1405,
-      "p_cond": 0.4662,
+      "p": 0.1243,
+      "p_cond": 0.4345,
       "score": "1-1"
      },
      "home": {
-      "p": 0.0959,
-      "p_cond": 0.2336,
+      "p": 0.0934,
+      "p_cond": 0.2237,
       "score": "2-1"
      }
     },
     "exp": [
-     1.54,
-     1.36
+     1.75,
+     1.55
     ],
     "tails": {
-     "away_clean_sheet": 0.2559,
-     "home_4plus": 0.0648,
-     "win_by_3plus": 0.0698
+     "away_clean_sheet": 0.2083,
+     "home_4plus": 0.0936,
+     "win_by_3plus": 0.083
     },
     "top8": [
      {
-      "p": 0.1405,
+      "p": 0.1243,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.0959,
+      "p": 0.0934,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.0818,
-      "res": "home",
-      "score": "1-0"
-     },
-     {
-      "p": 0.0724,
+      "p": 0.0828,
       "res": "draw",
       "score": "2-2"
      },
      {
-      "p": 0.0685,
-      "res": "draw",
-      "score": "0-0"
-     },
-     {
-      "p": 0.0629,
+      "p": 0.062,
       "res": "away",
       "score": "1-2"
      },
      {
-      "p": 0.0623,
+      "p": 0.061,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0537,
       "res": "home",
       "score": "2-0"
      },
      {
-      "p": 0.0541,
-      "res": "away",
-      "score": "0-1"
+      "p": 0.0501,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0482,
+      "res": "draw",
+      "score": "0-0"
      }
     ]
    },
    "div": "P1",
    "edge": [
-    0.0693,
-    0.0137,
-    -0.083
+    0.0767,
+    -0.0016,
+    -0.075
    ],
-   "elo_diff": 25.6,
+   "elo_diff": 24.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Rio Ave",
    "kickoff_utc": "2026-09-14T17:45+00:00",
    "lambda": [
-    1.407,
-    1.538
+    1.608,
+    1.74
    ],
    "league_zh": "葡超",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.341,
     0.2877,
     0.3713
    ],
    "match_key": "P1|14/09/2026|Rio Ave|Estrela",
-   "over25": 0.5481,
+   "over25": 0.6334,
    "p": [
-    0.4103,
-    0.3014,
-    0.2882
+    0.4177,
+    0.2861,
+    0.2962
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.72554,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 3,
+    "ftr": "draw",
+    "p_actual": 0.2861,
+    "rps": 0.1311,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1405,
+     "p": 0.1243,
      "res": "draw",
      "score": "1-1"
     },
     {
-     "p": 0.0959,
+     "p": 0.0934,
      "res": "home",
      "score": "2-1"
     }
@@ -18390,80 +21164,80 @@
    "status": "final",
    "time_uk": "18:45",
    "top_score": {
-    "p": 0.1405,
+    "p": 0.1243,
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "P1|14/09/2026|Sp Braga|Estoril": {
    "away": "Estoril",
-   "btts": 0.4783,
+   "btts": 0.4515,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0546,
-      "p_cond": 0.3192,
+      "p": 0.0548,
+      "p_cond": 0.3492,
       "score": "0-1"
      },
      "draw": {
-      "p": 0.1184,
-      "p_cond": 0.4735,
+      "p": 0.1203,
+      "p_cond": 0.4675,
       "score": "1-1"
      },
      "home": {
-      "p": 0.1458,
-      "p_cond": 0.2519,
+      "p": 0.1595,
+      "p_cond": 0.2721,
       "score": "1-0"
      }
     },
     "exp": [
-     1.64,
-     0.86
+     1.59,
+     0.79
     ],
     "tails": {
-     "away_clean_sheet": 0.4259,
-     "home_4plus": 0.0746,
-     "win_by_3plus": 0.115
+     "away_clean_sheet": 0.4565,
+     "home_4plus": 0.0683,
+     "win_by_3plus": 0.1124
     },
     "top8": [
      {
-      "p": 0.1458,
+      "p": 0.1595,
       "res": "home",
       "score": "1-0"
      },
      {
-      "p": 0.1184,
+      "p": 0.1203,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.1127,
+      "p": 0.119,
       "res": "home",
       "score": "2-0"
      },
      {
-      "p": 0.1104,
+      "p": 0.1084,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.0839,
+      "p": 0.094,
       "res": "draw",
       "score": "0-0"
      },
      {
-      "p": 0.0553,
+      "p": 0.0565,
       "res": "home",
       "score": "3-0"
      },
      {
-      "p": 0.0546,
+      "p": 0.0548,
       "res": "away",
       "score": "0-1"
      },
      {
-      "p": 0.0541,
+      "p": 0.0515,
       "res": "home",
       "score": "3-1"
      }
@@ -18471,44 +21245,63 @@
    },
    "div": "P1",
    "edge": [
-    -0.0624,
-    0.0354,
-    0.0271
+    -0.0552,
+    0.0425,
+    0.0127
    ],
-   "elo_diff": 155.9,
+   "elo_diff": 168.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Sp Braga",
    "kickoff_utc": "2026-09-14T19:45+00:00",
    "lambda": [
-    1.471,
-    0.979
+    1.424,
+    0.911
    ],
    "league_zh": "葡超",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.6412,
     0.2147,
     0.144
    ],
    "match_key": "P1|14/09/2026|Sp Braga|Estoril",
-   "over25": 0.4556,
+   "over25": 0.4257,
    "p": [
-    0.5788,
-    0.2501,
-    0.1711
+    0.586,
+    0.2572,
+    0.1568
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 1.83571,
+    "cs_p_actual": 0.1595,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.586,
+    "rps": 0.09799,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1458,
+     "p": 0.1595,
      "res": "home",
      "score": "1-0"
     },
     {
-     "p": 0.1184,
+     "p": 0.1203,
      "res": "draw",
      "score": "1-1"
     }
@@ -18516,11 +21309,11 @@
    "status": "final",
    "time_uk": "20:45",
    "top_score": {
-    "p": 0.1458,
+    "p": 0.1595,
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "SC1|11/09/2026|Morton|Livingston": {
    "away": "Livingston",
@@ -18626,7 +21419,26 @@
     0.2733,
     0.2908
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.67893,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2908,
+    "rps": 0.34649,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1341,
@@ -18752,7 +21564,26 @@
     0.2842,
     0.3133
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.71728,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3133,
+    "rps": 0.31678,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1304,
@@ -18878,7 +21709,26 @@
     0.2752,
     0.2863
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.48411,
+    "cs_p_actual": 0.0834,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4385,
+    "rps": 0.19862,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1352,
@@ -19004,7 +21854,26 @@
     0.266,
     0.2685
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.74017,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.4656,
+    "rps": 0.17881,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1341,
@@ -19130,7 +21999,26 @@
     0.2771,
     0.3697
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.38271,
+    "cs_p_actual": 0.0923,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.3532,
+    "rps": 0.27751,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1309,
@@ -19256,7 +22144,26 @@
     0.248,
     0.2723
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.55961,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.4797,
+    "rps": 0.17243,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1247,
@@ -19382,7 +22289,26 @@
     0.268,
     0.2787
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.33925,
+    "cs_p_actual": 0.0964,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4534,
+    "rps": 0.18819,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1201,
@@ -19508,7 +22434,26 @@
     0.2578,
     0.284
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.05494,
+    "cs_p_actual": 0.1281,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2578,
+    "rps": 0.14532,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1281,
@@ -19634,7 +22579,26 @@
     0.2662,
     0.3212
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.71962,
+    "cs_p_actual": 0.0659,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4126,
+    "rps": 0.2241,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1225,
@@ -19760,7 +22724,26 @@
     0.2322,
     0.2457
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.6829,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.5221,
+    "rps": 0.14438,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1081,
@@ -19886,7 +22869,26 @@
     0.2639,
     0.2709
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59904,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 7,
+    "ftr": "home",
+    "p_actual": 0.4652,
+    "rps": 0.1797,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1141,
@@ -20012,7 +23014,26 @@
     0.2487,
     0.2581
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.58632,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.4932,
+    "rps": 0.16173,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1121,
@@ -20138,7 +23159,26 @@
     0.2389,
     0.2264
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.85077,
+    "cs_p_actual": 0.0578,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.5347,
+    "rps": 0.13388,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1164,
@@ -20264,7 +23304,26 @@
     0.2624,
     0.2625
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.30961,
+    "cs_p_actual": 0.0993,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.4751,
+    "rps": 0.17221,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1163,
@@ -20390,7 +23449,26 @@
     0.228,
     0.2165
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.25284,
+    "cs_p_actual": 0.1051,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.228,
+    "rps": 0.17773,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1051,
@@ -20516,7 +23594,26 @@
     0.2557,
     0.2782
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.59357,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2782,
+    "rps": 0.36912,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1255,
@@ -20642,7 +23739,26 @@
     0.2106,
     0.1915
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.57734,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 4,
+    "ftr": "home",
+    "p_actual": 0.5979,
+    "rps": 0.09918,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1023,
@@ -20768,7 +23884,26 @@
     0.2471,
     0.3022
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.45924,
+    "cs_p_actual": 0.0855,
+    "cs_rank": 2,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4507,
+    "rps": 0.19653,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1186,
@@ -20894,7 +24029,26 @@
     0.2929,
     0.3006
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 1.99657,
+    "cs_p_actual": 0.1358,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2929,
+    "rps": 0.12779,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1358,
@@ -21020,7 +24174,26 @@
     0.2782,
     0.3639
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.03945,
+    "cs_p_actual": 0.1301,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.2782,
+    "rps": 0.13026,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1301,
@@ -21146,7 +24319,26 @@
     0.2523,
     0.4448
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.65738,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 2,
+    "ftr": "away",
+    "p_actual": 0.4448,
+    "rps": 0.2,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1139,
@@ -21272,7 +24464,26 @@
     0.2691,
     0.3119
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.53359,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3119,
+    "rps": 0.32441,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1218,
@@ -21296,72 +24507,72 @@
   },
   "SP1|14/09/2026|Villarreal|Betis": {
    "away": "Betis",
-   "btts": 0.5711,
+   "btts": 0.5797,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0603,
-      "p_cond": 0.2426,
+      "p": 0.0646,
+      "p_cond": 0.2345,
       "score": "1-2"
      },
      "draw": {
-      "p": 0.1275,
-      "p_cond": 0.473,
+      "p": 0.1327,
+      "p_cond": 0.4722,
       "score": "1-1"
      },
      "home": {
-      "p": 0.1015,
-      "p_cond": 0.2107,
+      "p": 0.0972,
+      "p_cond": 0.2192,
       "score": "2-1"
      }
     },
     "exp": [
-     1.63,
-     1.17
+     1.56,
+     1.24
     ],
     "tails": {
-     "away_clean_sheet": 0.3093,
-     "home_4plus": 0.0788,
-     "win_by_3plus": 0.0973
+     "away_clean_sheet": 0.2875,
+     "home_4plus": 0.0693,
+     "win_by_3plus": 0.0831
     },
     "top8": [
      {
-      "p": 0.1275,
+      "p": 0.1327,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.1015,
+      "p": 0.0972,
       "res": "home",
       "score": "2-1"
      },
      {
-      "p": 0.0975,
+      "p": 0.0915,
       "res": "home",
       "score": "1-0"
      },
      {
-      "p": 0.0801,
+      "p": 0.0723,
       "res": "home",
       "score": "2-0"
      },
      {
-      "p": 0.0683,
+      "p": 0.0701,
       "res": "draw",
       "score": "0-0"
      },
      {
-      "p": 0.0603,
+      "p": 0.0646,
       "res": "away",
       "score": "1-2"
      },
      {
-      "p": 0.0592,
+      "p": 0.0626,
       "res": "draw",
       "score": "2-2"
      },
      {
-      "p": 0.057,
+      "p": 0.0604,
       "res": "away",
       "score": "0-1"
      }
@@ -21369,44 +24580,63 @@
    },
    "div": "SP1",
    "edge": [
-    -0.0142,
-    0.0235,
-    -0.0093
+    -0.0529,
+    0.035,
+    0.0179
    ],
-   "elo_diff": 111.7,
+   "elo_diff": 82.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Villarreal",
    "kickoff_utc": "2026-09-14T19:00+00:00",
    "lambda": [
-    1.539,
-    1.268
+    1.474,
+    1.344
    ],
    "league_zh": "西甲",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.4962,
     0.2461,
     0.2577
    ],
    "match_key": "SP1|14/09/2026|Villarreal|Betis",
-   "over25": 0.5304,
+   "over25": 0.5291,
    "p": [
-    0.482,
-    0.2696,
-    0.2484
+    0.4433,
+    0.2811,
+    0.2756
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.73954,
+    "cs_p_actual": 0.0646,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2756,
+    "rps": 0.36064,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1275,
+     "p": 0.1327,
      "res": "draw",
      "score": "1-1"
     },
     {
-     "p": 0.1015,
+     "p": 0.0972,
      "res": "home",
      "score": "2-1"
     }
@@ -21414,11 +24644,11 @@
    "status": "final",
    "time_uk": "20:00",
    "top_score": {
-    "p": 0.1275,
+    "p": 0.1327,
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "SP2|11/09/2026|Burgos|Ceuta": {
    "away": "Ceuta",
@@ -21524,7 +24754,26 @@
     0.251,
     0.2266
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.64391,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 1,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.5223,
+    "rps": 0.1398,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1269,
@@ -21650,7 +24899,26 @@
     0.2767,
     0.3191
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.55961,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3191,
+    "rps": 0.3135,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1332,
@@ -21776,7 +25044,26 @@
     0.2777,
     0.3319
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.60369,
+    "cs_p_actual": 0.074,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3319,
+    "rps": 0.29938,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1268,
@@ -21902,7 +25189,26 @@
     0.2718,
     0.3214
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.57377,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3214,
+    "rps": 0.31299,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1272,
@@ -22028,7 +25334,26 @@
     0.2798,
     0.2986
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.70157,
+    "cs_p_actual": 0.0671,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2986,
+    "rps": 0.33497,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1292,
@@ -22154,7 +25479,26 @@
     0.272,
     0.2685
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.05183,
+    "cs_p_actual": 0.1285,
+    "cs_rank": 1,
+    "cs_top1": 1,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 1,
+    "ftr": "draw",
+    "p_actual": 0.272,
+    "rps": 0.14162,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1285,
@@ -22280,7 +25624,26 @@
     0.2624,
     0.2571
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.47932,
+    "cs_p_actual": 0.0838,
+    "cs_rank": 6,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4805,
+    "rps": 0.16799,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1374,
@@ -22406,7 +25769,26 @@
     0.2742,
     0.2655
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.31163,
+    "cs_p_actual": 0.0991,
+    "cs_rank": 4,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 1,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2655,
+    "rps": 0.37556,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1381,
@@ -22532,7 +25914,26 @@
     0.2912,
     0.2981
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.51578,
+    "cs_p_actual": 0.0808,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 2,
+    "ftr": "home",
+    "p_actual": 0.4107,
+    "rps": 0.21807,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1404,
@@ -22658,7 +26059,26 @@
     0.2932,
     0.2933
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.63439,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 3,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.2933,
+    "rps": 0.3352,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.14,
@@ -22682,129 +26102,148 @@
   },
   "SP2|14/09/2026|Celta B|Eibar": {
    "away": "Eibar",
-   "btts": 0.5059,
+   "btts": 0.5373,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.0899,
-      "p_cond": 0.2888,
+      "p": 0.097,
+      "p_cond": 0.2325,
       "score": "0-1"
      },
      "draw": {
-      "p": 0.1347,
-      "p_cond": 0.4753,
+      "p": 0.1299,
+      "p_cond": 0.4766,
       "score": "1-1"
      },
      "home": {
-      "p": 0.1066,
-      "p_cond": 0.2629,
+      "p": 0.0804,
+      "p_cond": 0.2593,
       "score": "1-0"
      }
     },
     "exp": [
-     1.33,
-     1.14
+     1.2,
+     1.43
     ],
     "tails": {
-     "away_clean_sheet": 0.3214,
-     "home_4plus": 0.0463,
-     "win_by_3plus": 0.0679
+     "away_clean_sheet": 0.2395,
+     "home_4plus": 0.0337,
+     "win_by_3plus": 0.0424
     },
     "top8": [
      {
-      "p": 0.1347,
+      "p": 0.1299,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.1066,
-      "res": "home",
-      "score": "1-0"
-     },
-     {
-      "p": 0.0913,
-      "res": "draw",
-      "score": "0-0"
-     },
-     {
-      "p": 0.0899,
+      "p": 0.097,
       "res": "away",
       "score": "0-1"
      },
      {
-      "p": 0.0854,
-      "res": "home",
-      "score": "2-1"
-     },
-     {
-      "p": 0.0753,
-      "res": "home",
-      "score": "2-0"
-     },
-     {
-      "p": 0.0728,
+      "p": 0.0884,
       "res": "away",
       "score": "1-2"
      },
      {
-      "p": 0.0547,
+      "p": 0.0804,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0784,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0742,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0738,
       "res": "away",
       "score": "0-2"
+     },
+     {
+      "p": 0.053,
+      "res": "draw",
+      "score": "2-2"
      }
     ]
    },
    "div": "SP2",
    "edge": [
-    0.147,
-    -0.0314,
-    -0.1156
+    0.0794,
+    -0.0049,
+    -0.0745
    ],
-   "elo_diff": 62.7,
+   "elo_diff": 10.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Celta B",
    "kickoff_utc": "2026-09-14T18:30+00:00",
    "lambda": [
-    1.332,
-    1.135
+    1.199,
+    1.429
    ],
    "league_zh": "西乙",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.2844,
     0.2993,
     0.4163
    ],
    "match_key": "SP2|14/09/2026|Celta B|Eibar",
-   "over25": 0.4477,
+   "over25": 0.4886,
    "p": [
-    0.4314,
-    0.2679,
-    0.3007
+    0.3638,
+    0.2944,
+    0.3418
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.63061,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 4,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3418,
+    "rps": 0.28279,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1347,
+     "p": 0.1299,
      "res": "draw",
      "score": "1-1"
     },
     {
-     "p": 0.1066,
-     "res": "home",
-     "score": "1-0"
+     "p": 0.097,
+     "res": "away",
+     "score": "0-1"
     }
    ],
    "status": "fallback",
    "time_uk": "19:30",
    "top_score": {
-    "p": 0.1347,
+    "p": 0.1299,
     "score": "1-1"
    },
    "track": "s2",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   },
   "T1|11/09/2026|Besiktas|Erzurumspor": {
    "away": "Erzurumspor",
@@ -22910,7 +26349,26 @@
     0.2011,
     0.18
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.59357,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 3,
+    "ftr": "home",
+    "p_actual": 0.6189,
+    "rps": 0.08882,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1113,
@@ -23036,7 +26494,26 @@
     0.2526,
     0.2666
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.85077,
+    "cs_p_actual": 0.0578,
+    "cs_rank": 7,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 2,
+    "ftr": "draw",
+    "p_actual": 0.2526,
+    "rps": 0.15112,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1111,
@@ -23162,7 +26639,26 @@
     0.2728,
     0.3165
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.60822,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 2,
+    "ft_h": 0,
+    "ftr": "away",
+    "p_actual": 0.3165,
+    "rps": 0.31792,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1292,
@@ -23288,7 +26784,26 @@
     0.2655,
     0.398
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.73954,
+    "cs_p_actual": 0.0646,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.3366,
+    "rps": 0.29921,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1161,
@@ -23414,7 +26929,26 @@
     0.2544,
     0.2783
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 3.59721,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 5,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.2783,
+    "rps": 0.36961,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1157,
@@ -23540,7 +27074,26 @@
     0.2852,
     0.3281
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 3.58632,
+    "cs_p_actual": null,
+    "cs_rank": null,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 0,
+    "ft_a": 0,
+    "ft_h": 5,
+    "ftr": "home",
+    "p_actual": 0.3867,
+    "rps": 0.24189,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 1,
+     "win_by_3plus": 1
+    }
+   },
    "scores": [
     {
      "p": 0.1136,
@@ -23666,7 +27219,26 @@
     0.2221,
     0.2169
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 1,
+    "cs_logloss": 2.55105,
+    "cs_p_actual": 0.078,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 1,
+    "ftr": "home",
+    "p_actual": 0.561,
+    "rps": 0.11988,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1149,
@@ -23792,7 +27364,26 @@
     0.2718,
     0.3384
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.51207,
+    "cs_p_actual": 0.0811,
+    "cs_rank": 3,
+    "cs_top1": 0,
+    "cs_top3": 1,
+    "cs_top8": 1,
+    "ft_a": 2,
+    "ft_h": 1,
+    "ftr": "away",
+    "p_actual": 0.3384,
+    "rps": 0.29483,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 0,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
      "p": 0.1239,
@@ -23816,135 +27407,155 @@
   },
   "T1|14/09/2026|Gaziantep|Fenerbahce": {
    "away": "Fenerbahce",
-   "btts": 0.6187,
+   "btts": 0.5521,
    "cs": {
     "cond": {
      "away": {
-      "p": 0.1408,
-      "p_cond": 0.2434,
-      "score": "1-2"
+      "p": 0.134,
+      "p_cond": 0.2451,
+      "score": "0-1"
      },
      "draw": {
-      "p": 0.1051,
-      "p_cond": 0.4585,
+      "p": 0.1161,
+      "p_cond": 0.4755,
       "score": "1-1"
      },
      "home": {
-      "p": 0.0393,
-      "p_cond": 0.2043,
-      "score": "2-1"
+      "p": 0.0453,
+      "p_cond": 0.2165,
+      "score": "1-0"
      }
     },
     "exp": [
-     1.23,
-     1.83
+     1.1,
+     1.61
     ],
     "tails": {
-     "away_clean_sheet": 0.1342,
-     "home_4plus": 0.0432,
-     "win_by_3plus": 0.0442
+     "away_clean_sheet": 0.1745,
+     "home_4plus": 0.0327,
+     "win_by_3plus": 0.0407
     },
     "top8": [
      {
-      "p": 0.1408,
-      "res": "away",
-      "score": "1-2"
-     },
-     {
-      "p": 0.1099,
+      "p": 0.134,
       "res": "away",
       "score": "0-1"
      },
      {
-      "p": 0.1051,
+      "p": 0.1323,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.1161,
       "res": "draw",
       "score": "1-1"
      },
      {
-      "p": 0.0823,
+      "p": 0.0887,
       "res": "away",
       "score": "0-2"
      },
      {
-      "p": 0.0643,
+      "p": 0.066,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.054,
       "res": "away",
       "score": "1-3"
      },
      {
-      "p": 0.0587,
+      "p": 0.0505,
       "res": "draw",
       "score": "2-2"
      },
      {
-      "p": 0.055,
-      "res": "away",
-      "score": "2-3"
-     },
-     {
-      "p": 0.0477,
-      "res": "draw",
-      "score": "0-0"
+      "p": 0.0453,
+      "res": "home",
+      "score": "1-0"
      }
     ]
    },
    "div": "T1",
    "edge": [
-    0.0194,
-    -0.0005,
-    -0.0189
+    0.0365,
+    0.0145,
+    -0.0509
    ],
-   "elo_diff": -130.3,
+   "elo_diff": -122.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-09-14T11:01:33+00:00",
    "home": "Gaziantep",
    "kickoff_utc": "2026-09-14T17:00+00:00",
    "lambda": [
-    1.712,
-    1.37
+    1.491,
+    1.226
    ],
    "league_zh": "土超",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-09-14T23:54:08+00:00",
    "market": [
     0.1728,
     0.2297,
     0.5975
    ],
    "match_key": "T1|14/09/2026|Gaziantep|Fenerbahce",
-   "over25": 0.5952,
+   "over25": 0.5139,
    "p": [
-    0.1922,
-    0.2292,
-    0.5786
+    0.2093,
+    0.2442,
+    0.5466
    ],
-   "result": null,
+   "result": {
+    "argmax_hit": 0,
+    "cs_logloss": 2.7181,
+    "cs_p_actual": 0.066,
+    "cs_rank": 5,
+    "cs_top1": 0,
+    "cs_top3": 0,
+    "cs_top8": 1,
+    "ft_a": 0,
+    "ft_h": 0,
+    "ftr": "draw",
+    "p_actual": 0.2442,
+    "rps": 0.17123,
+    "settled_at": "2026-09-14T23:54:10+00:00",
+    "tails_actual": {
+     "away_clean_sheet": 1,
+     "home_4plus": 0,
+     "win_by_3plus": 0
+    }
+   },
    "scores": [
     {
-     "p": 0.1408,
-     "res": "away",
-     "score": "1-2"
-    },
-    {
-     "p": 0.1099,
+     "p": 0.134,
      "res": "away",
      "score": "0-1"
+    },
+    {
+     "p": 0.1323,
+     "res": "away",
+     "score": "1-2"
     }
    ],
    "status": "final",
    "time_uk": "18:00",
    "top_score": {
-    "p": 0.1408,
-    "score": "1-2"
+    "p": 0.134,
+    "score": "0-1"
    },
    "track": "s5",
-   "updated_at": "2026-09-14T15:55:02+00:00"
+   "updated_at": "2026-09-14T23:54:08+00:00"
   }
  },
  "meta": {
   "count": 190,
   "month": "2026-09",
   "note": "逐場凍結帳，只增不改；賽果欄由結算腳本補",
-  "updated_at": "2026-09-14T15:55:02+00:00"
+  "settled_at": "2026-09-14T23:54:10+00:00",
+  "updated_at": "2026-09-14T23:54:08+00:00"
  }
 }

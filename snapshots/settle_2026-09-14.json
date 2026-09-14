@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T15:55:04+00:00",
+ "generated_at": "2026-09-14T23:54:10+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -40,10 +40,51 @@
   "s5_backtest": 0.2098,
   "s5_production_gate": 0.2083
  },
- "green": null,
- "diagnostic_big5_all_lights": null,
- "diagnostic_all_leagues": null,
- "settled_this_run": 0,
+ "green": {
+  "n": 5,
+  "rps_avg": 0.1446,
+  "argmax_hit_rate": 0.8,
+  "ece": 0.2001,
+  "cs_top1": 0.0,
+  "cs_top3": 0.2,
+  "cs_top8": 0.6,
+  "cs_logloss": 2.8842,
+  "fingerprints": [
+   "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
+  ]
+ },
+ "diagnostic_big5_all_lights": {
+  "n": 48,
+  "rps_avg": 0.2033,
+  "argmax_hit_rate": 0.4167,
+  "ece": 0.0938,
+  "cs_top1": 0.125,
+  "cs_top3": 0.3125,
+  "cs_top8": 0.6667,
+  "cs_logloss": 2.9087,
+  "fingerprints": [
+   "7e5d74215c9e-9509bddba37a-197871",
+   "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
+  ]
+ },
+ "diagnostic_all_leagues": {
+  "n": 190,
+  "rps_avg": 0.2148,
+  "argmax_hit_rate": 0.4632,
+  "ece": 0.0213,
+  "cs_top1": 0.1211,
+  "cs_top3": 0.3,
+  "cs_top8": 0.6316,
+  "cs_logloss": 2.9134,
+  "fingerprints": [
+   "7e5d74215c9e-9509bddba37a-197871",
+   "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
+  ]
+ },
+ "settled_this_run": 190,
  "unmatched_count": 0,
  "unmatched_sample": []
 }
