@@ -1,0 +1,26 @@
+{
+  "id": "xg_blend_s9",
+  "frozen": "2026-09-14",
+  "status": "validated-not-live",
+  "scope": "英超 · 德甲 · 西甲 · 意甲 · 法甲 · 2018/19 → 2026",
+  "matches": 14285,
+  "backtested": 10684,
+  "protocol": "每 14 日滾動重訓，時間半衰期 180 日，只用開賽前已完成場次；賠率零權重",
+  "results": [
+    { "w_goals": 1.00, "rps": 0.20287, "logloss": 0.99720, "acc": 0.51853, "score_hit": 0.12551 },
+    { "w_goals": 0.50, "rps": 0.20048, "logloss": 0.98857, "acc": 0.52546, "score_hit": 0.12692 },
+    { "w_goals": 0.40, "rps": 0.20031, "logloss": 0.98792, "acc": 0.52583, "score_hit": 0.12645 },
+    { "w_goals": 0.35, "rps": 0.20026, "logloss": 0.98773, "acc": 0.52574, "score_hit": 0.12608 },
+    { "w_goals": 0.30, "rps": 0.20024, "logloss": 0.98764, "acc": 0.52537, "score_hit": 0.12654 },
+    { "w_goals": 0.20, "rps": 0.20027, "logloss": 0.98770, "acc": 0.52546, "score_hit": 0.12711 },
+    { "w_goals": 0.00, "rps": 0.20064, "logloss": 0.98886, "acc": 0.52480, "score_hit": 0.12720 }
+  ],
+  "chosen": { "w_goals": 0.35, "w_xg": 0.65 },
+  "market_line_rps": 0.2047,
+  "compliance": "驗證樣本來源 robots.txt 全站禁爬 → 樣本用完即棄、不排程、不入倉；上線須接已授權 xG 供應（FootyStats API / TheSports / Opta）",
+  "gaps": [
+    { "item": "逐場 xG", "source": "FootyStats API → TheSports → Opta", "status": "待接入" },
+    { "item": "賽前先發陣容", "source": "API-Football 免費層 lineups", "status": "待金鑰" },
+    { "item": "傷停名單", "source": "API-Football 免費層 injuries", "status": "待金鑰" }
+  ]
+}
