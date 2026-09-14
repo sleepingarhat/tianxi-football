@@ -1,0 +1,260 @@
+{
+ "version": "s5.1",
+ "ready": true,
+ "trained_at": "2026-09-14T11:16:53+00:00",
+ "fingerprint": "378c283b73a7-bb35e29b0c7b-175995",
+ "market_beta": 0,
+ "feature_cols": [
+  "elo_home",
+  "elo_away",
+  "elo_diff",
+  "elo_exp",
+  "lam_h",
+  "lam_a",
+  "lam_sum",
+  "lam_diff",
+  "dc_ph",
+  "dc_pd",
+  "dc_pa",
+  "dc_o25",
+  "dc_btts",
+  "atk_h",
+  "def_h",
+  "atk_a",
+  "def_a",
+  "seen_h",
+  "seen_a",
+  "form3h",
+  "form5h",
+  "form3a",
+  "form5a",
+  "rest_h",
+  "rest_a",
+  "rest_diff",
+  "n14_h",
+  "n14_a",
+  "h2h_n",
+  "h2h_gd",
+  "month",
+  "dow",
+  "gfd_l10",
+  "div_id",
+  "gf_l10_h",
+  "ga_l10_h",
+  "pts_l10_h",
+  "shots_l10_h",
+  "target_l10_h",
+  "corners_l10_h",
+  "cards_l10_h",
+  "gf_l10_a",
+  "ga_l10_a",
+  "pts_l10_a",
+  "shots_l10_a",
+  "target_l10_a",
+  "corners_l10_a",
+  "cards_l10_a",
+  "gf_venue_h",
+  "ga_venue_h",
+  "pts_venue_h",
+  "gf_venue_a",
+  "ga_venue_a",
+  "pts_venue_a"
+ ],
+ "elo_cols": [
+  "elo_diff",
+  "elo_exp"
+ ],
+ "div_ids": {
+  "B1": 0,
+  "D1": 1,
+  "D2": 2,
+  "E0": 3,
+  "E1": 4,
+  "E2": 5,
+  "E3": 6,
+  "EC": 7,
+  "F1": 8,
+  "F2": 9,
+  "G1": 10,
+  "I1": 11,
+  "I2": 12,
+  "N1": 13,
+  "P1": 14,
+  "SC0": 15,
+  "SC1": 16,
+  "SC2": 17,
+  "SC3": 18,
+  "SP1": 19,
+  "SP2": 20,
+  "T1": 21
+ },
+ "alpha": {
+  "lgb": 0.65,
+  "dc": 0.1,
+  "elo": 0.25
+ },
+ "alpha_fit_seasons": [
+  2023,
+  2024
+ ],
+ "calibrator": {
+  "kind": "vector_scaling",
+  "coef": [
+   [
+    0.6362590793086642,
+    -0.19992019148092746,
+    -0.39990171937810765
+   ],
+   [
+    -0.01563592766777988,
+    0.3655925261133282,
+    -0.040275031000765155
+   ],
+   [
+    -0.6206231516408809,
+    -0.16567233463240305,
+    0.440176750378868
+   ]
+  ],
+  "intercept": [
+   0.06672451797432831,
+   0.26074384551370233,
+   -0.32746836348804415
+  ],
+  "classes": [
+   0,
+   1,
+   2
+  ]
+ },
+ "elo_track": {
+  "coef": [
+   [
+    0.007735438443465205,
+    -3.3689905260782167
+   ],
+   [
+    -0.0030818006775683755,
+    2.3799390010211803
+   ],
+   [
+    -0.004653637766672564,
+    0.9890515250989237
+   ]
+  ],
+  "intercept": [
+   2.2652224811961648,
+   -1.5368622332824744,
+   -0.7283602478756632
+  ],
+  "classes": [
+   0,
+   1,
+   2
+  ]
+ },
+ "train_rows": 175995,
+ "train_span": [
+  2000,
+  2025
+ ],
+ "history_rows": 197871,
+ "history_last_date": "2026-09-10",
+ "warm_min": 40,
+ "report": {
+  "gate_seasons": [
+   2023,
+   2024,
+   2025
+  ],
+  "s5_calibrated": {
+   "n": 22110,
+   "rps": 0.2083,
+   "logloss": 1.0154,
+   "acc": 0.491,
+   "draw_recall": 0.0,
+   "ece": 0.0065
+  },
+  "tracks": {
+   "lgb_s4": {
+    "n": 22110,
+    "rps": 0.2089,
+    "logloss": 1.0191,
+    "acc": 0.4891,
+    "draw_recall": 0.0299,
+    "ece": 0.0119
+   },
+   "dc_s3": {
+    "n": 22110,
+    "rps": 0.2125,
+    "logloss": 1.0282,
+    "acc": 0.4848,
+    "draw_recall": 0.0002,
+    "ece": 0.0365
+   },
+   "elo_s2": {
+    "n": 22110,
+    "rps": 0.2105,
+    "logloss": 1.0226,
+    "acc": 0.4889,
+    "draw_recall": 0.0,
+    "ece": 0.0046
+   }
+  },
+  "per_season": [
+   {
+    "season": 2023,
+    "alpha": [
+     0.6,
+     0.1,
+     0.3
+    ],
+    "n": 7347,
+    "rps": 0.2071,
+    "logloss": 1.0103,
+    "acc": 0.493,
+    "draw_recall": 0.0,
+    "ece": 0.0136
+   },
+   {
+    "season": 2024,
+    "alpha": [
+     0.65,
+     0.1,
+     0.25
+    ],
+    "n": 7403,
+    "rps": 0.2094,
+    "logloss": 1.0176,
+    "acc": 0.4929,
+    "draw_recall": 0.0,
+    "ece": 0.0075
+   },
+   {
+    "season": 2025,
+    "alpha": [
+     0.65,
+     0.1,
+     0.25
+    ],
+    "n": 7360,
+    "rps": 0.2086,
+    "logloss": 1.0184,
+    "acc": 0.487,
+    "draw_recall": 0.0,
+    "ece": 0.0071
+   }
+  ],
+  "gate": {
+   "passed": true,
+   "checks": {
+    "rps": true,
+    "logloss": true,
+    "ece": true
+   },
+   "best_single_track_rps": 0.2089,
+   "best_single_track_logloss": 1.0191,
+   "rule": "RPS 同 log-loss 都要贏最佳單軌，且校準偏差 ECE ≤ 0.03，三項齊過才准入凍結軌"
+  }
+ }
+}
