@@ -58,6 +58,12 @@ jobs:
       - name: 賽前預測凍結（S6）
         run: python3 scripts/predict_fixtures.py
 
+      - name: 逐場凍結帳 upsert（S13，只增不改）
+        run: python3 scripts/log_predictions.py
+
+      - name: 賽果結算（S13，只寫賽果欄）
+        run: python3 scripts/settle_predictions.py
+
       - name: 自檢
         id: selfcheck
         run: |
