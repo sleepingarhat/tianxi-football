@@ -48,6 +48,7 @@ def main() -> int:
             "predictions": "predict_fixtures.py：逐場賽前凍結機率＋版本指紋（S3+S2 在線混合，LGB／集成推論待接）",
             "models": ["S2 天喜足球ELO", "S3 Dixon-Coles 入球模型", "S4 天喜足球LGB", "S5 三軌集成＋校準"],
             "labels": "只用 90 分鐘賽果，加時／點球唔入標籤",
+            "clubelo": "api.clubelo.com 官方免 key CSV，每日快照＋as-of 對帳，只作外部尺（唔入模、唔入凍結預測）",
         },
     }
 
@@ -100,6 +101,20 @@ def main() -> int:
             problems.append("賽前預測為零場")
     else:
         problems.append("賽前預測檔唔存在（predict_fixtures.py 未跑過）")
+
+    # ClubElo 對帳層（只報告，唔當健康門檻：對帳源掛唔可以令公開預測算異常）
+    ce_man = "data/clubelo/_manifest.json"
+    ce_snaps = sorted(glob.glob(os.path.join(SNAP_DIR, "clubelo_reconcile_*.json")))
+    ce = {"role": "外部對帳尺，唔入模型、唔入凍結預測", "reconcile_snapshots": len(ce_snaps)}
+    if os.path.exists(ce_man):
+        m = json.load(open(ce_man, encoding="utf-8"))
+        ce.update(days=len(m.get("days", {})), last_success=m.get("last_success"),
+                  last_success_date=m.get("last_success_date"), last_fail=m.get("last_fail"))
+    if ce_snaps:
+        r = json.load(open(ce_snaps[-1], encoding="utf-8"))
+        ce.update(latest=os.path.basename(ce_snaps[-1]), status=r.get("status"),
+                  coverage=r.get("coverage"), alerts=r.get("alerts"))
+    rep["clubelo"] = ce
 
     # 凍結快照
     snaps = sorted(os.path.basename(p) for p in glob.glob(os.path.join(SNAP_DIR, "*.json")))
