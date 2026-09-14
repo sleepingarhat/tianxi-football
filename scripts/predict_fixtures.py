@@ -10,15 +10,21 @@
 鐵律：
   · 賠率零權重（market_beta = 0）。賠率只做去水對照同價值注判斷，永不入模。
   · 所有輸入只用開賽前已存在嘅資料（歷史賽果），賽後統計永不入模。
-  · 天喜LGB（S4）同集成校準（S5）嘅推論未接入本管線，所以現階段狀態一律
-    標「紅燈 · 退回基準」，唔會當最終預測。接入後才會出黃／綠燈。
+  · S5 集成推論（S4 天喜足球LGB + S3 入球模型 + S2 天喜足球ELO 三軌對數集成 + 向量標度校準）
+    由 models/s5 載入；模型 ready 且該場熱身足夠 → status = "final"（綠燈，入公開帳）。
+    模型缺失／未過閘／該場未熱身 → 退回 S3+S2 在線混合，status = "fallback"（紅燈，只作診斷）。
+  · 波膽同 1X2 必須同一來源：S5 生效時，入球模型比分矩陣按 S5 三個賽果分區重新加權，
+    公開嘅比分同賽果永遠一致。
 """
-import csv, glob, hashlib, json, math, os, sys
+import hashlib, json, math, os, sys
 from collections import defaultdict
 from datetime import datetime, timezone
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RESULTS_DIR = os.path.join(ROOT, "data", "results")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import features_s5 as F
+
+ROOT = F.ROOT
+S5_DIR = os.path.join(ROOT, "models", "s5")
 FIXTURES = os.path.join(ROOT, "data", "fixtures", "upcoming.json")
 OUT_DIR = os.path.join(ROOT, "data", "predictions")
 OUT = os.path.join(OUT_DIR, "upcoming.json")
@@ -70,32 +76,47 @@ def derive(M):
     return ph, pd_, pa, over, btts
 
 
-def load_history():
-    rows = []
-    for path in sorted(glob.glob(os.path.join(RESULTS_DIR, "*.csv"))):
-        with open(path, newline="", encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                d = (r.get("Date") or "").strip()
-                if len(d) < 8:
-                    continue
-                dd, mm, yy = d.split("/")
-                yy = yy if len(yy) == 4 else ("20" + yy if int(yy) < 50 else "19" + yy)
-                try:
-                    gh, ga = int(float(r["FTHG"])), int(float(r["FTAG"]))
-                except (ValueError, TypeError, KeyError):
-                    continue
-                if not r.get("HomeTeam") or not r.get("AwayTeam"):
-                    continue
-                rows.append({
-                    "iso": f"{yy}-{mm.zfill(2)}-{dd.zfill(2)}",
-                    "time": (r.get("Time") or ""),
-                    "div": r.get("Div", ""),
-                    "home": r["HomeTeam"].strip(),
-                    "away": r["AwayTeam"].strip(),
-                    "gh": gh, "ga": ga,
-                })
-    rows.sort(key=lambda x: (x["iso"], x["time"], x["div"]))
-    return rows
+def cs_from_matrix(M):
+    """由比分矩陣派生波膽四層展示：頭八格、三區條件格、期望比分、尾部桶。"""
+    ph, pd_, pa, _, _ = derive(M)
+    cells = []
+    exp_h = exp_a = 0.0
+    win3 = h4 = az = 0.0
+    for i in range(len(M)):
+        for j in range(len(M[i])):
+            pij = M[i][j]
+            exp_h += i * pij
+            exp_a += j * pij
+            if i - j >= 3:
+                win3 += pij
+            if i >= 4:
+                h4 += pij
+            if j == 0:
+                az += pij
+            if i <= 6 and j <= 6:
+                cells.append((i, j, pij))
+    cells.sort(key=lambda x: x[2], reverse=True)
+
+    def fmt(c):
+        return {"score": f"{c[0]}-{c[1]}", "p": round(c[2], 4),
+                "res": "home" if c[0] > c[1] else ("draw" if c[0] == c[1] else "away")}
+
+    top8 = [fmt(c) for c in cells[:8]]
+    cond = {}
+    for res, pres in (("home", ph), ("draw", pd_), ("away", pa)):
+        best = next((c for c in cells if (c[0] > c[1] if res == "home" else
+                                          (c[0] == c[1] if res == "draw" else c[0] < c[1]))), None)
+        if best:
+            cond[res] = {"score": f"{best[0]}-{best[1]}", "p": round(best[2], 4),
+                         "p_cond": round(best[2] / max(pres, 1e-9), 4)}
+    cs = {
+        "top8": top8,
+        "cond": cond,
+        "exp": [round(exp_h, 2), round(exp_a, 2)],
+        "tails": {"win_by_3plus": round(win3, 4), "home_4plus": round(h4, 4),
+                  "away_clean_sheet": round(az, 4)},
+    }
+    return top8, cs
 
 
 class Engine:
@@ -164,44 +185,77 @@ class Engine:
         la = min(max(math.exp(self.base[div] - GAMMA + self.atk[away] - self.dfn[home]), 0.15), 6.0)
         M = build_matrix(lh, la)
         ph, pd_, pa, over, btts = derive(M)
-        cells = []
-        exp_h = exp_a = 0.0
-        win3 = h4 = az = 0.0
-        for i in range(MAXG + 1):
-            for j in range(MAXG + 1):
-                pij = M[i][j]
-                exp_h += i * pij
-                exp_a += j * pij
-                if i - j >= 3:
-                    win3 += pij
-                if i >= 4:
-                    h4 += pij
-                if j == 0:
-                    az += pij
-                if i <= 6 and j <= 6:
-                    cells.append((i, j, pij))
-        cells.sort(key=lambda x: x[2], reverse=True)
+        top8, cs = cs_from_matrix(M)
+        return (ph, pd_, pa), lh, la, over, btts, top8, cs, M
 
-        def fmt(c):
-            return {"score": f"{c[0]}-{c[1]}", "p": round(c[2], 4),
-                    "res": "home" if c[0] > c[1] else ("draw" if c[0] == c[1] else "away")}
 
-        top8 = [fmt(c) for c in cells[:8]]
-        cond = {}
-        for res, pres in (("home", ph), ("draw", pd_), ("away", pa)):
-            best = next((c for c in cells if (c[0] > c[1] if res == "home" else
-                                              (c[0] == c[1] if res == "draw" else c[0] < c[1]))), None)
-            if best:
-                cond[res] = {"score": f"{best[0]}-{best[1]}", "p": round(best[2], 4),
-                             "p_cond": round(best[2] / max(pres, 1e-9), 4)}
-        cs = {
-            "top8": top8,
-            "cond": cond,
-            "exp": [round(exp_h, 2), round(exp_a, 2)],
-            "tails": {"win_by_3plus": round(win3, 4), "home_4plus": round(h4, 4),
-                      "away_clean_sheet": round(az, 4)},
-        }
-        return (ph, pd_, pa), lh, la, over, btts, top8, cs
+class S5Model:
+    """S5 集成推論：LGB + 入球模型 + Elo 三軌對數集成，再做向量標度校準。"""
+
+    def __init__(self):
+        self.ready = False
+        self.meta = None
+        self.booster = None
+        try:
+            self.meta = json.load(open(os.path.join(S5_DIR, "meta.json"), encoding="utf-8"))
+            if not self.meta.get("ready"):
+                self.reason = "模型未過三項閘門"
+                return
+            import lightgbm as lgb  # noqa: WPS433 只喺有模型時才需要
+            self.booster = lgb.Booster(model_file=os.path.join(S5_DIR, "lgb.txt"))
+            self.ready = True
+            self.reason = None
+        except Exception as exc:  # 缺模型、缺套件、檔案壞 → 一律退回基準軌，唔靜靜出錯
+            self.reason = f"{type(exc).__name__}: {exc}"
+
+    @staticmethod
+    def _softmax_lr(params, x):
+        coef, inter = params["coef"], params["intercept"]
+        z = [sum(c * v for c, v in zip(row, x)) + b for row, b in zip(coef, inter)]
+        if len(z) == 1:  # 二元退化（理論上唔會發生，保險）
+            z = [-z[0], z[0]]
+        mx = max(z)
+        e = [math.exp(v - mx) for v in z]
+        t = sum(e)
+        out = [v / t for v in e]
+        order = params.get("classes", list(range(len(out))))
+        p = [0.0, 0.0, 0.0]
+        for cls, v in zip(order, out):
+            p[int(cls)] = v
+        return p
+
+    def predict(self, feat):
+        import numpy as np
+        cols = self.meta["feature_cols"]
+        x = np.array([[feat[c] for c in cols]], dtype=float)
+        p_lgb = [float(v) for v in self.booster.predict(x)[0]]
+        p_elo = self._softmax_lr(self.meta["elo_track"], [feat[c] for c in self.meta["elo_cols"]])
+        p_dc = [feat["dc_ph"], feat["dc_pd"], feat["dc_pa"]]
+        t = sum(p_dc)
+        p_dc = [v / t for v in p_dc]
+        a = self.meta["alpha"]
+        eps = 1e-9
+        z = [a["lgb"] * math.log(max(p_lgb[i], eps)) + a["dc"] * math.log(max(p_dc[i], eps))
+             + a["elo"] * math.log(max(p_elo[i], eps)) for i in range(3)]
+        mx = max(z)
+        e = [math.exp(v - mx) for v in z]
+        t = sum(e)
+        p_ens = [v / t for v in e]
+        p_cal = self._softmax_lr(self.meta["calibrator"], [math.log(max(v, eps)) for v in p_ens])
+        return p_cal, p_lgb, p_ens
+
+
+def rescale_matrix(M, p_target):
+    """按目標主／和／客機率，逐個賽果分區重新縮放比分矩陣（保證波膽同 1X2 同一來源）。"""
+    reg = [0.0, 0.0, 0.0]
+    for i, row in enumerate(M):
+        for j, v in enumerate(row):
+            reg[0 if i > j else (1 if i == j else 2)] += v
+    k = [p_target[t] / max(reg[t], 1e-12) for t in range(3)]
+    out = [[v * k[0 if i > j else (1 if i == j else 2)] for j, v in enumerate(row)]
+           for i, row in enumerate(M)]
+    s = sum(sum(r) for r in out)
+    return [[v / s for v in r] for r in out]
 
 
 def blend(p_dc, p_elo):
@@ -225,10 +279,17 @@ def devig(oh, od, oa):
 
 
 def main():
-    hist = load_history()
+    hist = F.load_history()
     eng = Engine()
+    s5 = S5Model()
+    feng = F.FeatureEngine()
+    div_ids = (s5.meta or {}).get("div_ids", {})
     for m in hist:
         eng.step(m)
+        feng.roll_season(m["iso"], m["home"], m["away"])
+        feng.update(m)
+    today = datetime.now(timezone.utc).date().isoformat()
+    n_green = 0
 
     fx = json.load(open(FIXTURES, encoding="utf-8"))
     now = datetime.now(timezone.utc)
@@ -237,8 +298,35 @@ def main():
         home, away, div = f["home"], f["away"], f["div"]
         ready = eng.seen[home] >= WARM and eng.seen[away] >= WARM
         p_elo, elo_diff = eng.elo_probs(home, away)
-        p_dc, lh, la, over, btts, scores, cs = eng.dc_probs(div, home, away)
+        p_dc, lh, la, over, btts, scores, cs, M = eng.dc_probs(div, home, away)
         p = blend(p_dc, p_elo) if ready else list(p_elo)
+        track = "s3+s2" if ready else "s2"
+        status = "fallback"
+        p_s5 = p_lgb = None
+        s5_warm = (feng.seen[home] >= F.WARM and feng.seen[away] >= F.WARM)
+        if s5.ready and s5_warm:
+            try:
+                feat = feng.features(f.get("date") or today, div, home, away, div_ids)
+                p_s5, p_lgb, _ = s5.predict(feat)
+                p = list(p_s5)
+                track = "s5"
+                status = "final"
+                # 波膽同 1X2 同一來源：按 S5 三個賽果分區重新加權入球模型矩陣
+                M = rescale_matrix(M, p_s5)
+                over_new = btts_new = 0.0
+                for i in range(len(M)):
+                    for j in range(len(M[i])):
+                        if i + j >= 3:
+                            over_new += M[i][j]
+                        if i > 0 and j > 0:
+                            btts_new += M[i][j]
+                over, btts = over_new, btts_new
+                scores, cs = cs_from_matrix(M)
+            except Exception as exc:  # 推論失敗即退回基準軌，唔准出半截綠燈
+                print(f"WARN: S5 推論失敗 {home} vs {away}: {exc}", file=sys.stderr)
+                p_s5 = p_lgb = None
+                track = "s3+s2" if ready else "s2"
+                status = "fallback"
         market = devig(f.get("odds_h"), f.get("odds_d"), f.get("odds_a"))
         edges = None
         if market:
@@ -258,12 +346,15 @@ def main():
             "away": away,
             "kickoff_utc": ko,
             "time_uk": f.get("time_uk", ""),
-            "track": "s3+s2" if ready else "s2",
-            "status": "fallback",  # LGB/集成推論未接入，一律紅燈退回基準
+            "track": track,
+            "status": status,  # final = 綠燈 S5 集成（入公開帳）／fallback = 紅燈退回基準軌
+            "s5_warm": s5_warm,
             "locked": locked,
             "p": [round(v, 4) for v in p],
             "p_dc": [round(v, 4) for v in p_dc],
             "p_elo": [round(v, 4) for v in p_elo],
+            "p_s5": [round(v, 4) for v in p_s5] if p_s5 else None,
+            "p_lgb": [round(v, 4) for v in p_lgb] if p_lgb else None,
             "lambda": [round(lh, 3), round(la, 3)],
             "over25": round(over, 4),
             "btts": round(btts, 4),
@@ -276,14 +367,21 @@ def main():
             "warm": {"home": eng.seen[home], "away": eng.seen[away]},
             "last_match": {"home": eng.last_match.get(home), "away": eng.last_match.get(away)},
         })
+        if status == "final":
+            n_green += 1
 
-    src = open(os.path.abspath(__file__), "rb").read()
+    here = os.path.dirname(os.path.abspath(__file__))
+    src = b"".join(open(os.path.join(here, n), "rb").read()
+                   for n in ("predict_fixtures.py", "features_s5.py"))
     fp_parts = [hashlib.sha256(src).hexdigest()[:12],
                 hashlib.sha256(json.dumps(fx.get("meta", {}), sort_keys=True).encode()).hexdigest()[:12],
                 f"{len(hist)}"]
+    if s5.ready:
+        fp_parts.append("s5:" + str(s5.meta.get("fingerprint", "?")))
     meta = {
         "generated_at": now.isoformat(timespec="seconds"),
-        "engine": "TX-Football S3+S2 在線混合（S4 LGB／S5 集成推論未接入）",
+        "engine": ("TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）"
+                   if s5.ready else "TX-Football S3+S2 在線混合（S5 集成模型未就緒）"),
         "fingerprint": "-".join(fp_parts),
         "history_matches": len(hist),
         "history_last_date": hist[-1]["iso"] if hist else None,
@@ -291,8 +389,23 @@ def main():
         "fixtures_stale": bool(fx.get("meta", {}).get("stale")),
         "market_beta": 0,
         "weights": {"dc": W_DC, "elo": W_ELO},
+        "s5": {
+            "ready": bool(s5.ready),
+            "reason": None if s5.ready else getattr(s5, "reason", "meta.json 缺失"),
+            "fingerprint": (s5.meta or {}).get("fingerprint"),
+            "trained_at": (s5.meta or {}).get("trained_at"),
+            "alpha": (s5.meta or {}).get("alpha"),
+            "gate": ((s5.meta or {}).get("report") or {}).get("gate"),
+            "backtest": ((s5.meta or {}).get("report") or {}).get("s5_calibrated"),
+            "green_matches": n_green,
+        },
         "lock_minutes": LOCK_MINUTES,
-        "status_note": "S4 天喜LGB 同 S5 集成校準嘅推論未接入本管線，所有場次一律標「紅燈 · 退回基準」，唔當最終預測。",
+        "status_note": (
+            f"S5 集成推論已接入：{n_green} 場走綠燈（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO 對數集成，"
+            "再做向量標度校準），波膽由同一張比分矩陣按 S5 分區重新加權，賽果同比分永遠一致；"
+            "熱身不足或推論失敗嘅場次退回 S3+S2 基準軌，標紅燈，只作診斷、唔入公開帳。"
+            if s5.ready else
+            "S5 集成模型未就緒（未過三項閘門或缺模型檔），所有場次退回 S3+S2 基準軌，標紅燈，唔當最終預測。"),
     }
     os.makedirs(OUT_DIR, exist_ok=True)
     json.dump({"meta": meta, "matches": out_matches}, open(OUT, "w", encoding="utf-8"),
