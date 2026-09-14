@@ -1,0 +1,111 @@
+fd_div,fd_name,clubelo_name,country,level
+E0,Arsenal,Arsenal,ENG,1
+E0,Aston Villa,Aston Villa,ENG,1
+E0,Bournemouth,Bournemouth,ENG,1
+E0,Brentford,Brentford,ENG,1
+E0,Brighton,Brighton,ENG,1
+E0,Burnley,Burnley,ENG,1
+E0,Chelsea,Chelsea,ENG,1
+E0,Crystal Palace,Crystal Palace,ENG,1
+E0,Everton,Everton,ENG,1
+E0,Fulham,Fulham,ENG,1
+E0,Leeds,Leeds,ENG,1
+E0,Liverpool,Liverpool,ENG,1
+E0,Man City,Man City,ENG,1
+E0,Man United,Man United,ENG,1
+E0,Newcastle,Newcastle,ENG,1
+E0,Nott'm Forest,Forest,ENG,1
+E0,Sunderland,Sunderland,ENG,1
+E0,Tottenham,Tottenham,ENG,1
+E0,West Ham,West Ham,ENG,1
+E0,Wolves,Wolves,ENG,1
+D1,Augsburg,Augsburg,GER,1
+D1,Bayern Munich,Bayern,GER,1
+D1,Dortmund,Dortmund,GER,1
+D1,Ein Frankfurt,Frankfurt,GER,1
+D1,FC Koln,Koeln,GER,1
+D1,Freiburg,Freiburg,GER,1
+D1,Hamburg,Hamburg,GER,1
+D1,Heidenheim,Heidenheim,GER,1
+D1,Hoffenheim,Hoffenheim,GER,1
+D1,Leverkusen,Leverkusen,GER,1
+D1,M'gladbach,Gladbach,GER,1
+D1,Mainz,Mainz,GER,1
+D1,RB Leipzig,RB Leipzig,GER,1
+D1,St Pauli,St Pauli,GER,1
+D1,Stuttgart,Stuttgart,GER,1
+D1,Union Berlin,Union Berlin,GER,1
+D1,Werder Bremen,Werder,GER,1
+D1,Wolfsburg,Wolfsburg,GER,1
+SP1,Alaves,Alaves,ESP,1
+SP1,Ath Bilbao,Bilbao,ESP,1
+SP1,Ath Madrid,Atletico,ESP,1
+SP1,Barcelona,Barcelona,ESP,1
+SP1,Betis,Betis,ESP,1
+SP1,Celta,Celta,ESP,1
+SP1,Elche,Elche,ESP,1
+SP1,Espanol,Espanyol,ESP,1
+SP1,Getafe,Getafe,ESP,1
+SP1,Girona,Girona,ESP,1
+SP1,Levante,Levante,ESP,1
+SP1,Mallorca,Mallorca,ESP,1
+SP1,Osasuna,Osasuna,ESP,1
+SP1,Oviedo,Oviedo,ESP,1
+SP1,Real Madrid,Real Madrid,ESP,1
+SP1,Sevilla,Sevilla,ESP,1
+SP1,Sociedad,Sociedad,ESP,1
+SP1,Valencia,Valencia,ESP,1
+SP1,Vallecano,Rayo Vallecano,ESP,1
+SP1,Villarreal,Villarreal,ESP,1
+I1,Atalanta,Atalanta,ITA,1
+I1,Bologna,Bologna,ITA,1
+I1,Cagliari,Cagliari,ITA,1
+I1,Como,Como,ITA,1
+I1,Cremonese,Cremonese,ITA,1
+I1,Fiorentina,Fiorentina,ITA,1
+I1,Genoa,Genoa,ITA,1
+I1,Inter,Inter,ITA,1
+I1,Juventus,Juventus,ITA,1
+I1,Lazio,Lazio,ITA,1
+I1,Lecce,Lecce,ITA,1
+I1,Milan,Milan,ITA,1
+I1,Napoli,Napoli,ITA,1
+I1,Parma,Parma,ITA,1
+I1,Pisa,Pisa,ITA,1
+I1,Roma,Roma,ITA,1
+I1,Sassuolo,Sassuolo,ITA,1
+I1,Torino,Torino,ITA,1
+I1,Udinese,Udinese,ITA,1
+I1,Verona,Verona,ITA,1
+F1,Angers,Angers,FRA,1
+F1,Auxerre,Auxerre,FRA,1
+F1,Brest,Brest,FRA,1
+F1,Le Havre,Le Havre,FRA,1
+F1,Lens,Lens,FRA,1
+F1,Lille,Lille,FRA,1
+F1,Lorient,Lorient,FRA,1
+F1,Lyon,Lyon,FRA,1
+F1,Marseille,Marseille,FRA,1
+F1,Metz,Metz,FRA,1
+F1,Monaco,Monaco,FRA,1
+F1,Nantes,Nantes,FRA,1
+F1,Nice,Nice,FRA,1
+F1,Paris FC,Paris FC,FRA,1
+F1,Paris SG,Paris SG,FRA,1
+F1,Rennes,Rennes,FRA,1
+F1,Strasbourg,Strasbourg,FRA,1
+F1,Toulouse,Toulouse,FRA,1
+E0,Coventry,Coventry,ENG,1
+E0,Hull,Hull,ENG,1
+E0,Ipswich,Ipswich,ENG,1
+D1,Elversberg,Elversberg,GER,1
+D1,Paderborn,Paderborn,GER,1
+D1,Schalke 04,Schalke,GER,1
+SP1,La Coruna,La Coruna,ESP,1
+SP1,Malaga,Malaga,ESP,1
+SP1,Santander,Santander,ESP,1
+I1,Frosinone,Frosinone,ITA,1
+I1,Monza,Monza,ITA,1
+I1,Venezia,Venezia,ITA,1
+F1,Le Mans,Le Mans,FRA,1
+F1,Troyes,Troyes,FRA,1
