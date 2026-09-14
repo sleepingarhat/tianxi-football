@@ -1,0 +1,729 @@
+{
+ "note": "S25 試驗 #1 DIBP，研究軌；λ 層鎖死，未升指紋",
+ "baseline": {
+  "label": "生產基準（無 DIBP）",
+  "mode": "baseline",
+  "p": 0,
+  "n": 8603,
+  "rps": 0.20524,
+  "logloss": 1.00289,
+  "ece": 0.01095,
+  "cs_cell_logloss": 2.9456,
+  "ou25_logloss": 0.68787,
+  "cs_top1": 0.1252,
+  "cs_top8": 0.6638,
+  "diag_mass_mean": 0.2482,
+  "draw_freq_actual": 0.2535,
+  "mode_11_share": 0.6735,
+  "mode_draw_share": 0.6916,
+  "per_season_rps": {
+   "2021": 0.20606,
+   "2022": 0.20691,
+   "2023": 0.1989,
+   "2024": 0.20509,
+   "2025": 0.20848,
+   "2026": 0.21435
+  },
+  "per_div": {
+   "D1": {
+    "n": 1466,
+    "rps": 0.20717,
+    "diag": 0.2289,
+    "p": 0.0,
+    "draw_actual": 0.2483
+   },
+   "E0": {
+    "n": 1810,
+    "rps": 0.20427,
+    "diag": 0.2404,
+    "p": 0.0,
+    "draw_actual": 0.2414
+   },
+   "F1": {
+    "n": 1628,
+    "rps": 0.20931,
+    "diag": 0.2494,
+    "p": 0.0,
+    "draw_actual": 0.2451
+   },
+   "I1": {
+    "n": 1760,
+    "rps": 0.20242,
+    "diag": 0.2563,
+    "p": 0.0,
+    "draw_actual": 0.2687
+   },
+   "SP1": {
+    "n": 1939,
+    "rps": 0.20384,
+    "diag": 0.2617,
+    "p": 0.0,
+    "draw_actual": 0.262
+   }
+  }
+ },
+ "trials": [
+  {
+   "label": "DIBP 全局 p=0.01",
+   "mode": "p_grid",
+   "p": 0.01,
+   "n": 8603,
+   "rps": 0.20527,
+   "logloss": 1.00272,
+   "ece": 0.01386,
+   "cs_cell_logloss": 2.9454,
+   "ou25_logloss": 0.68778,
+   "cs_top1": 0.1238,
+   "cs_top8": 0.6636,
+   "diag_mass_mean": 0.2557,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.7279,
+   "mode_draw_share": 0.7496,
+   "per_season_rps": {
+    "2021": 0.20602,
+    "2022": 0.20699,
+    "2023": 0.19892,
+    "2024": 0.20511,
+    "2025": 0.2085,
+    "2026": 0.21449
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20709,
+     "diag": 0.2366,
+     "p": 0.01,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.20432,
+     "diag": 0.248,
+     "p": 0.01,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.20936,
+     "diag": 0.2569,
+     "p": 0.01,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20243,
+     "diag": 0.2637,
+     "p": 0.01,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20392,
+     "diag": 0.2691,
+     "p": 0.01,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": true,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": true,
+    "diag_vs_actual": true,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 全局 p=0.02",
+   "mode": "p_grid",
+   "p": 0.02,
+   "n": 8603,
+   "rps": 0.20533,
+   "logloss": 1.00287,
+   "ece": 0.01629,
+   "cs_cell_logloss": 2.9455,
+   "ou25_logloss": 0.68774,
+   "cs_top1": 0.1253,
+   "cs_top8": 0.6628,
+   "diag_mass_mean": 0.2632,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.7728,
+   "mode_draw_share": 0.7974,
+   "per_season_rps": {
+    "2021": 0.20602,
+    "2022": 0.20711,
+    "2023": 0.19897,
+    "2024": 0.20517,
+    "2025": 0.20856,
+    "2026": 0.21465
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20705,
+     "diag": 0.2443,
+     "p": 0.02,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.2044,
+     "diag": 0.2556,
+     "p": 0.02,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.20943,
+     "diag": 0.2644,
+     "p": 0.02,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20248,
+     "diag": 0.2712,
+     "p": 0.02,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20403,
+     "diag": 0.2765,
+     "p": 0.02,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": true,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": true,
+    "diag_vs_actual": false,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 全局 p=0.03",
+   "mode": "p_grid",
+   "p": 0.03,
+   "n": 8603,
+   "rps": 0.20542,
+   "logloss": 1.00333,
+   "ece": 0.01782,
+   "cs_cell_logloss": 2.946,
+   "ou25_logloss": 0.68774,
+   "cs_top1": 0.124,
+   "cs_top8": 0.6635,
+   "diag_mass_mean": 0.2708,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.8097,
+   "mode_draw_share": 0.8377,
+   "per_season_rps": {
+    "2021": 0.20605,
+    "2022": 0.20726,
+    "2023": 0.19906,
+    "2024": 0.20526,
+    "2025": 0.20866,
+    "2026": 0.21485
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20704,
+     "diag": 0.252,
+     "p": 0.03,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.20451,
+     "diag": 0.2632,
+     "p": 0.03,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.20954,
+     "diag": 0.2719,
+     "p": 0.03,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20256,
+     "diag": 0.2786,
+     "p": 0.03,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20418,
+     "diag": 0.2839,
+     "p": 0.03,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": false,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": true,
+    "diag_vs_actual": false,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 全局 p=0.05",
+   "mode": "p_grid",
+   "p": 0.05,
+   "n": 8603,
+   "rps": 0.2057,
+   "logloss": 1.00511,
+   "ece": 0.02099,
+   "cs_cell_logloss": 2.9478,
+   "ou25_logloss": 0.68787,
+   "cs_top1": 0.1225,
+   "cs_top8": 0.6636,
+   "diag_mass_mean": 0.2858,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.8699,
+   "mode_draw_share": 0.9034,
+   "per_season_rps": {
+    "2021": 0.20621,
+    "2022": 0.20765,
+    "2023": 0.19933,
+    "2024": 0.20554,
+    "2025": 0.20894,
+    "2026": 0.21533
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20714,
+     "diag": 0.2675,
+     "p": 0.05,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.20484,
+     "diag": 0.2784,
+     "p": 0.05,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.20986,
+     "diag": 0.2869,
+     "p": 0.05,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20281,
+     "diag": 0.2935,
+     "p": 0.05,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20456,
+     "diag": 0.2987,
+     "p": 0.05,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": false,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": true,
+    "diag_vs_actual": false,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 全局 p=0.08",
+   "mode": "p_grid",
+   "p": 0.08,
+   "n": 8603,
+   "rps": 0.20638,
+   "logloss": 1.00979,
+   "ece": 0.02716,
+   "cs_cell_logloss": 2.9527,
+   "ou25_logloss": 0.6884,
+   "cs_top1": 0.1218,
+   "cs_top8": 0.6657,
+   "diag_mass_mean": 0.3084,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.916,
+   "mode_draw_share": 0.9556,
+   "per_season_rps": {
+    "2021": 0.20671,
+    "2022": 0.2085,
+    "2023": 0.2,
+    "2024": 0.20622,
+    "2025": 0.20961,
+    "2026": 0.21627
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20755,
+     "diag": 0.2906,
+     "p": 0.08,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.2056,
+     "diag": 0.3012,
+     "p": 0.08,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.21059,
+     "diag": 0.3094,
+     "p": 0.08,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20344,
+     "diag": 0.3158,
+     "p": 0.08,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20537,
+     "diag": 0.3208,
+     "p": 0.08,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": false,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": false,
+    "diag_vs_actual": false,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 全局 p=0.12",
+   "mode": "p_grid",
+   "p": 0.12,
+   "n": 8603,
+   "rps": 0.20775,
+   "logloss": 1.01944,
+   "ece": 0.03309,
+   "cs_cell_logloss": 2.9628,
+   "ou25_logloss": 0.68971,
+   "cs_top1": 0.1195,
+   "cs_top8": 0.6663,
+   "diag_mass_mean": 0.3384,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.9471,
+   "mode_draw_share": 0.9909,
+   "per_season_rps": {
+    "2021": 0.20785,
+    "2022": 0.2101,
+    "2023": 0.20136,
+    "2024": 0.2076,
+    "2025": 0.21097,
+    "2026": 0.21794
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20859,
+     "diag": 0.3214,
+     "p": 0.12,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.20709,
+     "diag": 0.3316,
+     "p": 0.12,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.21202,
+     "diag": 0.3395,
+     "p": 0.12,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20473,
+     "diag": 0.3456,
+     "p": 0.12,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.2069,
+     "diag": 0.3503,
+     "p": 0.12,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": false,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": false,
+    "diag_vs_actual": false,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  },
+  {
+   "label": "DIBP 逐聯賽 p（展開窗）",
+   "mode": "p_league",
+   "p": {
+    "D1": 0.0068,
+    "E0": 0.0,
+    "F1": 0.0059,
+    "I1": 0.0188,
+    "SP1": 0.0
+   },
+   "n": 8603,
+   "rps": 0.20526,
+   "logloss": 1.00274,
+   "ece": 0.01253,
+   "cs_cell_logloss": 2.9454,
+   "ou25_logloss": 0.6878,
+   "cs_top1": 0.1247,
+   "cs_top8": 0.6636,
+   "diag_mass_mean": 0.2527,
+   "draw_freq_actual": 0.2535,
+   "mode_11_share": 0.705,
+   "mode_draw_share": 0.7247,
+   "per_season_rps": {
+    "2021": 0.20602,
+    "2022": 0.20696,
+    "2023": 0.19887,
+    "2024": 0.2051,
+    "2025": 0.2085,
+    "2026": 0.21465
+   },
+   "per_div": {
+    "D1": {
+     "n": 1466,
+     "rps": 0.20714,
+     "diag": 0.2318,
+     "p": 0.0038,
+     "draw_actual": 0.2483
+    },
+    "E0": {
+     "n": 1810,
+     "rps": 0.20427,
+     "diag": 0.2404,
+     "p": 0.0,
+     "draw_actual": 0.2414
+    },
+    "F1": {
+     "n": 1628,
+     "rps": 0.20935,
+     "diag": 0.2554,
+     "p": 0.008,
+     "draw_actual": 0.2451
+    },
+    "I1": {
+     "n": 1760,
+     "rps": 0.20247,
+     "diag": 0.2701,
+     "p": 0.0185,
+     "draw_actual": 0.2687
+    },
+    "SP1": {
+     "n": 1939,
+     "rps": 0.20384,
+     "diag": 0.2617,
+     "p": 0.0,
+     "draw_actual": 0.262
+    }
+   },
+   "gate_main": {
+    "rps": false,
+    "cs_cell_logloss": true,
+    "ece": false
+   },
+   "gate_sub": {
+    "ou25_logloss": true,
+    "diag_vs_actual": true,
+    "cs_top8": true
+   },
+   "gate_season": false,
+   "gate_pass": false
+  }
+ ],
+ "kappa_reference": {
+  "baseline": {
+   "rps": 0.21369,
+   "ece": 0.0445,
+   "cs_cell_logloss": 2.9838,
+   "params": {
+    "kappa": 0.0,
+    "psi": 0.0,
+    "rho0": -0.05,
+    "lr": 0.04,
+    "gamma": 0.26,
+    "per_league_mu": true,
+    "eval_from": 2021
+   }
+  },
+  "kappa_rows": [
+   {
+    "kappa": 0.0,
+    "psi": 0.0,
+    "rps": 0.21366,
+    "ece": 0.04173,
+    "cs_cell_logloss": 2.9847,
+    "mode_11": 0.587
+   },
+   {
+    "kappa": 0.0,
+    "psi": 0.6,
+    "rps": 0.21368,
+    "ece": 0.04256,
+    "cs_cell_logloss": 2.9843,
+    "mode_11": 0.5738
+   },
+   {
+    "kappa": 0.0,
+    "psi": 1.2,
+    "rps": 0.2137,
+    "ece": 0.04314,
+    "cs_cell_logloss": 2.9842,
+    "mode_11": 0.5646
+   },
+   {
+    "kappa": 0.15,
+    "psi": 0.0,
+    "rps": 0.21502,
+    "ece": 0.05011,
+    "cs_cell_logloss": 2.9935,
+    "mode_11": 0.5448
+   },
+   {
+    "kappa": 0.15,
+    "psi": 0.6,
+    "rps": 0.21505,
+    "ece": 0.05085,
+    "cs_cell_logloss": 2.9931,
+    "mode_11": 0.5324
+   },
+   {
+    "kappa": 0.15,
+    "psi": 1.2,
+    "rps": 0.21507,
+    "ece": 0.05136,
+    "cs_cell_logloss": 2.993,
+    "mode_11": 0.5225
+   },
+   {
+    "kappa": 0.3,
+    "psi": 0.0,
+    "rps": 0.21671,
+    "ece": 0.05817,
+    "cs_cell_logloss": 3.0047,
+    "mode_11": 0.5032
+   },
+   {
+    "kappa": 0.3,
+    "psi": 0.6,
+    "rps": 0.21675,
+    "ece": 0.05917,
+    "cs_cell_logloss": 3.0044,
+    "mode_11": 0.4924
+   },
+   {
+    "kappa": 0.3,
+    "psi": 1.2,
+    "rps": 0.21677,
+    "ece": 0.05978,
+    "cs_cell_logloss": 3.0043,
+    "mode_11": 0.4845
+   },
+   {
+    "kappa": 0.45,
+    "psi": 0.0,
+    "rps": 0.21868,
+    "ece": 0.06566,
+    "cs_cell_logloss": 3.0184,
+    "mode_11": 0.4638
+   },
+   {
+    "kappa": 0.45,
+    "psi": 0.6,
+    "rps": 0.21872,
+    "ece": 0.0666,
+    "cs_cell_logloss": 3.018,
+    "mode_11": 0.4522
+   },
+   {
+    "kappa": 0.45,
+    "psi": 1.2,
+    "rps": 0.21875,
+    "ece": 0.06701,
+    "cs_cell_logloss": 3.0179,
+    "mode_11": 0.4452
+   },
+   {
+    "kappa": 0.6,
+    "psi": 0.0,
+    "rps": 0.22088,
+    "ece": 0.07499,
+    "cs_cell_logloss": 3.0343,
+    "mode_11": 0.4274
+   },
+   {
+    "kappa": 0.6,
+    "psi": 0.6,
+    "rps": 0.22092,
+    "ece": 0.07525,
+    "cs_cell_logloss": 3.0339,
+    "mode_11": 0.4194
+   },
+   {
+    "kappa": 0.6,
+    "psi": 1.2,
+    "rps": 0.22095,
+    "ece": 0.07556,
+    "cs_cell_logloss": 3.0338,
+    "mode_11": 0.4128
+   }
+  ]
+ }
+}
