@@ -1,0 +1,61 @@
+name: football S5 retrain
+
+# S5 集成模型每兩週重訓一次（逐季前推＋三項閘門）。閘門唔過就唔會寫 ready=true，
+# 凍結器會照舊退回 S3+S2 基準軌，唔會偷偷用未過閘嘅模型。
+on:
+  schedule:
+    - cron: "40 2 1,15 * *"
+  workflow_dispatch:
+
+concurrency:
+  group: football-train-s5
+  cancel-in-progress: false
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 安裝套件
+        run: pip install --quiet lightgbm numpy pandas scikit-learn
+      - name: 訓練 S5（逐季前推 + 三項閘門）
+        run: python3 scripts/train_s5.py | tee /tmp/train_s5.log
+      - name: 閘門報告
+        id: gate
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          m = json.load(open("models/s5/meta.json"))
+          print("ready=%s" % str(m["ready"]).lower())
+          PY
+      - name: 入倉
+        run: |
+          git config user.name "tianxi-bot"
+          git config user.email "bot@tianxi.racing"
+          git add -A models
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore(models): S5 集成重訓 $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+      - name: 閘門唔過就開 issue
+        if: steps.gate.outputs.ready != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const m = JSON.parse(fs.readFileSync('models/s5/meta.json', 'utf8'));
+            const title = '[watchdog] S5 重訓未過閘門';
+            const body = ['S5 新模型未過三項閘門（RPS／log-loss／ECE），凍結器會退回 S3+S2 基準軌，公開帳暫停入綠燈。',
+              '```json', JSON.stringify(m.report.gate, null, 2), '```'].join('\n');
+            const { data: issues } = await github.rest.issues.listForRepo({ ...context.repo, state: 'open', labels: 'watchdog' });
+            const found = issues.find(i => i.title === title);
+            if (found) await github.rest.issues.createComment({ ...context.repo, issue_number: found.number, body });
+            else await github.rest.issues.create({ ...context.repo, title, body, labels: ['watchdog'] });
