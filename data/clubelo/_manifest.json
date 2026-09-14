@@ -1,0 +1,11 @@
+{
+ "source": "api.clubelo.com（官方免 key CSV）",
+ "role": "對帳尺，唔入模型",
+ "days": {},
+ "clubs": {},
+ "last_fail": {
+  "at": "2026-09-14T15:54:38+00:00",
+  "date": "2026-09-14",
+  "error": "http://api.clubelo.com/2026-09-14 連續 4 次失敗：HTTP Error 502: Bad Gateway"
+ }
+}
