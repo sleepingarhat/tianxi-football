@@ -22,6 +22,14 @@ AUDIT = os.path.join(LOG_DIR, "audit.jsonl")
 PRED_FIELDS = ("p", "lambda", "over25", "btts", "cs", "scores", "top_score",
                "elo_diff", "track", "status", "fingerprint", "engine")
 
+# 鎖定政策（三份文件唯一口徑）：開賽前 60 分鐘由黃燈（可刷新）轉綠燈（已鎖）。
+# 已鎖場次永遠跟當時指紋：重訓／升版只可影響之後未鎖嘅場次。
+LOCK_POLICY = {
+    "lock_minutes": 60,
+    "rule": "開賽前 60 分鐘鎖定；已鎖場次永遠跟當時指紋，重訓只影響之後未鎖場次",
+    "on_new_model": "拒絕改帳，只寫 log/audit.jsonl（action=refuse_locked / fingerprint_drift）",
+}
+
 
 def month_of(rec):
     ko = rec.get("kickoff_utc") or ""
@@ -50,7 +58,7 @@ def main():
     meta = src.get("meta", {})
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     months, logs = {}, []
-    added = refreshed = locked_now = refused = 0
+    added = refreshed = locked_now = refused = drifted = 0
 
     for m in src.get("matches", []):
         month = month_of(m)
@@ -94,7 +102,16 @@ def main():
             if changed:
                 refused += 1
                 logs.append({"ts": now, "action": "refuse_locked", "match_key": key,
-                             "fields": changed, "fingerprint": pred["fingerprint"]})
+                             "fields": changed,
+                             "kept_fingerprint": cur.get("fingerprint"),
+                             "rejected_fingerprint": pred["fingerprint"]})
+            if pred["fingerprint"] and cur.get("fingerprint") \
+                    and pred["fingerprint"] != cur.get("fingerprint"):
+                drifted += 1
+                logs.append({"ts": now, "action": "fingerprint_drift", "match_key": key,
+                             "kept_fingerprint": cur.get("fingerprint"),
+                             "rejected_fingerprint": pred["fingerprint"],
+                             "note": "已鎖場次拒絕升指紋（重訓只影響之後未鎖場次）"})
             continue
 
         # 黃燈：可以刷新
@@ -121,9 +138,18 @@ def main():
 
     report = {"generated_at": now, "months": sorted(months),
               "inserted": added, "refreshed": refreshed, "locked": locked_now,
-              "refused_locked": refused,
+              "refused_locked": refused, "refused_fingerprint_drift": drifted,
               "fingerprint": meta.get("fingerprint"),
-              "lock_minutes": meta.get("lock_minutes")}
+              "lock_minutes": meta.get("lock_minutes"),
+              "lock_policy": LOCK_POLICY}
+    if meta.get("lock_minutes") not in (None, LOCK_POLICY["lock_minutes"]):
+        print(f"WARN: upcoming.json lock_minutes={meta.get('lock_minutes')} "
+              f"同鎖定政策 {LOCK_POLICY['lock_minutes']} 唔一致", file=sys.stderr)
+        report["lock_minutes_mismatch"] = True
+    snap_dir = os.path.join(ROOT, "snapshots")
+    os.makedirs(snap_dir, exist_ok=True)
+    json.dump(report, open(os.path.join(snap_dir, f"lock_{now[:10]}.json"), "w",
+                           encoding="utf-8"), ensure_ascii=False, indent=1)
     print(json.dumps(report, ensure_ascii=False, indent=1))
     if not src.get("matches"):
         print("WARN: upcoming.json 冇場次，凍結帳今日無新增", file=sys.stderr)

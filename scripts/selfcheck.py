@@ -18,6 +18,7 @@ SNAP_DIR = "snapshots"
 FIXTURES_MAX_AGE_H = 12
 RESULTS_MAX_AGE_H = 30
 PREDICTIONS_MAX_AGE_H = 12
+LOCK_MINUTES_EXPECTED = 60  # 三份文件唯一口徑：開賽前 60 分鐘轉綠燈
 
 
 def age_hours(iso: str) -> float | None:
@@ -101,6 +102,45 @@ def main() -> int:
             problems.append("賽前預測為零場")
     else:
         problems.append("賽前預測檔唔存在（predict_fixtures.py 未跑過）")
+
+    # 逐場凍結帳層（S13）：只增不改＋鎖定政策口徑一致
+    log_files = sorted(glob.glob("data/predictions/log/[0-9]*.json"))
+    if log_files:
+        total = locked = settled = 0
+        for lp in log_files:
+            book = json.load(open(lp, encoding="utf-8"))
+            for rec in book.get("matches", {}).values():
+                total += 1
+                locked += bool(rec.get("locked_at"))
+                settled += bool(rec.get("result"))
+        ledger = {"months": len(log_files), "matches": total, "locked": locked,
+                  "settled": settled, "lock_minutes": LOCK_MINUTES_EXPECTED,
+                  "lock_rule": "開賽前 60 分鐘轉綠燈；已鎖場次永遠跟當時指紋"}
+        lock_snaps = sorted(glob.glob(os.path.join(SNAP_DIR, "lock_*.json")))
+        if lock_snaps:
+            r = json.load(open(lock_snaps[-1], encoding="utf-8"))
+            ledger.update(latest_lock_run=os.path.basename(lock_snaps[-1]),
+                          refused_locked=r.get("refused_locked"),
+                          refused_fingerprint_drift=r.get("refused_fingerprint_drift"))
+            if r.get("lock_minutes_mismatch"):
+                problems.append("凍結器同凍結帳鎖定分鐘唔一致")
+        if os.path.exists(PREDICTIONS_JSON):
+            lm = json.load(open(PREDICTIONS_JSON, encoding="utf-8")).get("meta", {}).get("lock_minutes")
+            ledger["predictor_lock_minutes"] = lm
+            if lm not in (None, LOCK_MINUTES_EXPECTED):
+                problems.append(f"predict_fixtures lock_minutes={lm}，應為 {LOCK_MINUTES_EXPECTED}")
+        hit_path = "data/predictions/hit_rate.json"
+        if os.path.exists(hit_path):
+            hr = json.load(open(hit_path, encoding="utf-8"))
+            ledger["hit_rate_metrics_defined"] = bool(hr.get("metrics"))
+            ledger["hit_rate_green_open"] = bool(hr.get("green"))
+            if not hr.get("metrics"):
+                problems.append("hit_rate.json 缺對帳指標定義（metrics）")
+        else:
+            problems.append("hit_rate.json 唔存在（結算器未跑過）")
+        rep["ledger"] = ledger
+    else:
+        problems.append("逐場凍結帳唔存在（log_predictions.py 未跑過）")
 
     # ClubElo 對帳層（只報告，唔當健康門檻：對帳源掛唔可以令公開預測算異常）
     ce_man = "data/clubelo/_manifest.json"

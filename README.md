@@ -67,3 +67,23 @@ Understat 明文禁止程式存取，未獲書面授權前零排程抓取。
   （ft_h／ft_a／ftr／rps／argmax_hit／p_actual／波膽格排名），預測欄一分不改；對唔上名入 unmatched。
 - `data/predictions/hit_rate.json`：公開讀口。頁頂戰績只收五大聯賽、綠燈場；紅燈退回基準軌只作診斷。
 - 完場一律讀本帳，禁止用最新模型重打已完場。
+
+### 鎖定政策（唯一口徑）
+
+- 逐場鎖定＝**開賽前 60 分鐘**：之前係黃燈（可刷新），之後係綠燈（已鎖）。
+- **已鎖場次永遠跟當時指紋**：重訓／升版只影響之後未鎖嘅場次。
+- 已鎖場次遇上新模型：`log_predictions.py` 拒絕改帳，寫 `log/audit.jsonl`
+  （`refuse_locked` ＋ `fingerprint_drift`），並出 `snapshots/lock_YYYY-MM-DD.json`。
+- `selfcheck.py` 核對 `predict_fixtures` 同凍結帳鎖定分鐘一致，唔一致即列為問題（看門狗開 issue）。
+
+### 對帳指標定義（開帳前寫死，唔事後改）
+
+| 層級 | 指標 |
+| --- | --- |
+| 主數字 | 平均 RPS（↓）、1X2 校準誤差 ECE、樣本數＋指紋 |
+| 1X2 次指標 | argmax 首選命中率 |
+| 波膽 | 實際比分落頭八格比例 `cs_top8`、實際格 log-loss `cs_logloss`（↓） |
+| 不採用 | 波膽命中率做主數字、紅燈場入樣本、價值注 yield 上第一屏、回測數字填實戰三格 |
+
+`cs_logloss` 罰分底：實際比分跌出頭八格時，用頭八格最細機率的一半（下限 1e-4）。
+定義同時寫入 `hit_rate.json.metrics`，公開頁只讀呢份定義。

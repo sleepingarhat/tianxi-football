@@ -12,7 +12,7 @@
 
 鐵律：完場對帳只准 join 凍結列，禁止用最新模型重打已完場。
 """
-import csv, glob, json, os, sys
+import csv, glob, json, math, os, sys
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
@@ -23,6 +23,20 @@ HIT = os.path.join(ROOT, "data", "predictions", "hit_rate.json")
 SNAP_DIR = os.path.join(ROOT, "snapshots")
 
 BIG5 = ("E0", "D1", "SP1", "I1", "F1")
+
+# 對帳指標定義（開帳前寫死，唔事後改）
+METRICS = {
+    "primary": ["rps_avg（平均 RPS，越低越好）", "ece（1X2 校準誤差）", "n + fingerprints（樣本＋指紋）"],
+    "secondary_1x2": ["argmax_hit_rate（首選中，只作次指標）"],
+    "correct_score": ["cs_top8（實際比分落頭八格比例）", "cs_logloss（實際格 log-loss，越低越好）"],
+    "excluded": [
+        "波膽命中率唔做戰績主數字",
+        "紅燈（熱身不足）場次唔入樣本，只作診斷",
+        "價值注 yield 唔入第一屏",
+        "回測數字唔填入實戰三格",
+    ],
+    "cs_logloss_floor": "實際比分跌出頭八格時，以頭八格最細機率的一半（下限 1e-4）作罰分底",
+}
 GREEN = ("final",)  # 綠燈＝已鎖且模型身分為對外公開軌；現時凍結軌仍為 fallback（紅燈）
 IDX = {"home": 0, "draw": 1, "away": 2}
 
@@ -78,6 +92,11 @@ def settle_one(rec, gh, ga):
     res["cs_top3"] = int(rank is not None and rank <= 3)
     res["cs_top8"] = int(rank is not None)
     res["cs_p_actual"] = next((c.get("p") for c in top8 if c.get("score") == label), None)
+    # 實際格 log-loss：跌出頭八格用「最細格機率／2」做罰分底，唔用 0（避免無限大）
+    if top8:
+        floor = max(min((c.get("p") or 0.0) for c in top8) / 2.0, 1e-4)
+        pc = res["cs_p_actual"] if res["cs_p_actual"] else floor
+        res["cs_logloss"] = round(-math.log(max(pc, 1e-4)), 5)
     tails = cs.get("tails") or {}
     if tails:
         res["tails_actual"] = {"win_by_3plus": int(gh - ga >= 3), "home_4plus": int(gh >= 4),
@@ -119,6 +138,8 @@ def aggregate(records):
         "cs_top1": round(sum(r["result"].get("cs_top1", 0) for r in records) / n, 4),
         "cs_top3": round(sum(r["result"].get("cs_top3", 0) for r in records) / n, 4),
         "cs_top8": round(sum(r["result"].get("cs_top8", 0) for r in records) / n, 4),
+        "cs_logloss": (lambda xs: round(sum(xs) / len(xs), 4) if xs else None)(
+            [r["result"]["cs_logloss"] for r in records if "cs_logloss" in r["result"]]),
         "fingerprints": sorted({r.get("fingerprint") for r in records if r.get("fingerprint")}),
     }
 
@@ -160,6 +181,7 @@ def main():
         "generated_at": now,
         "scope": {"big5": list(BIG5), "green_status": list(GREEN),
                   "note": "頁頂戰績只收五大聯賽、綠燈（對外公開軌）且已鎖場次；紅燈退回基準軌只作診斷"},
+        "metrics": METRICS,
         "baselines": {"prior_asof": 0.2261, "market_devig": 0.2047,
                       "s5_backtest": 0.2098, "s5_production_gate": 0.2083},
         "green": aggregate(green),

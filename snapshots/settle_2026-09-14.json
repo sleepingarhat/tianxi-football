@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T11:18:53+00:00",
+ "generated_at": "2026-09-14T13:19:33+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -13,10 +13,32 @@
   ],
   "note": "頁頂戰績只收五大聯賽、綠燈（對外公開軌）且已鎖場次；紅燈退回基準軌只作診斷"
  },
+ "metrics": {
+  "primary": [
+   "rps_avg（平均 RPS，越低越好）",
+   "ece（1X2 校準誤差）",
+   "n + fingerprints（樣本＋指紋）"
+  ],
+  "secondary_1x2": [
+   "argmax_hit_rate（首選中，只作次指標）"
+  ],
+  "correct_score": [
+   "cs_top8（實際比分落頭八格比例）",
+   "cs_logloss（實際格 log-loss，越低越好）"
+  ],
+  "excluded": [
+   "波膽命中率唔做戰績主數字",
+   "紅燈（熱身不足）場次唔入樣本，只作診斷",
+   "價值注 yield 唔入第一屏",
+   "回測數字唔填入實戰三格"
+  ],
+  "cs_logloss_floor": "實際比分跌出頭八格時，以頭八格最細機率的一半（下限 1e-4）作罰分底"
+ },
  "baselines": {
   "prior_asof": 0.2261,
   "market_devig": 0.2047,
-  "s5_backtest": 0.2098
+  "s5_backtest": 0.2098,
+  "s5_production_gate": 0.2083
  },
  "green": null,
  "diagnostic_big5_all_lights": null,
