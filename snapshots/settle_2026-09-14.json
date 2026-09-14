@@ -1,0 +1,27 @@
+{
+ "generated_at": "2026-09-14T11:01:46+00:00",
+ "scope": {
+  "big5": [
+   "E0",
+   "D1",
+   "SP1",
+   "I1",
+   "F1"
+  ],
+  "green_status": [
+   "final"
+  ],
+  "note": "頁頂戰績只收五大聯賽、綠燈（對外公開軌）且已鎖場次；紅燈退回基準軌只作診斷"
+ },
+ "baselines": {
+  "prior_asof": 0.2261,
+  "market_devig": 0.2047,
+  "s5_backtest": 0.2098
+ },
+ "green": null,
+ "diagnostic_big5_all_lights": null,
+ "diagnostic_all_leagues": null,
+ "settled_this_run": 0,
+ "unmatched_count": 0,
+ "unmatched_sample": []
+}
