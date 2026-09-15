@@ -176,7 +176,19 @@ def main():
 
     done = [r for r in all_recs if r.get("result") and r.get("p")]
     big5 = [r for r in done if r.get("div") in BIG5]
-    green = [r for r in big5 if r.get("status") in GREEN and r.get("locked_at")]
+    def genuine_lock(r):
+        """真凍結：first_seen 早過開賽 − lock_minutes，賽後入帳／遲鎖一律唔入綠燈。"""
+        if r.get("late_ingest"):
+            return False
+        try:
+            from datetime import datetime, timezone, timedelta
+            fs = datetime.fromisoformat(r["first_seen"].replace("+00:00", "")).replace(tzinfo=timezone.utc)
+            kt = datetime.fromisoformat(r["kickoff_utc"].replace("+00:00", "")).replace(tzinfo=timezone.utc)
+            return fs <= kt - timedelta(minutes=int(r.get("lock_minutes") or 60))
+        except (KeyError, ValueError):
+            return False
+
+    green = [r for r in big5 if r.get("status") in GREEN and r.get("locked_at") and genuine_lock(r)]
     report = {
         "generated_at": now,
         "scope": {"big5": list(BIG5), "green_status": list(GREEN),
