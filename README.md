@@ -87,3 +87,17 @@ Understat 明文禁止程式存取，未獲書面授權前零排程抓取。
 
 `cs_logloss` 罰分底：實際比分跌出頭八格時，用頭八格最細機率的一半（下限 1e-4）。
 定義同時寫入 `hit_rate.json.metrics`，公開頁只讀呢份定義。
+
+## S24 倉庫分家（2026-09-15）
+
+本倉 = **生產軌（唯讀給產品站）**：凍結預測 `data/predictions/`、prediction_log、
+版本指紋、模型 `models/`、快照 `snapshots/`、每日凍結 workflow。
+
+研究軌已遷出至 **`sleepingarhat/tianxi-football-research`**：
+`scripts/research/`、`data/research/`、試驗 1–5 產物、禁止列筆記。
+
+權限邊界：
+
+- 產品站只讀本倉凍結檔，永不讀研究倉。
+- 研究倉唔准寫本倉任何指紋、模型或凍結檔；升級指紋要人手在本倉開新版本。
+- 條件層 Δλ（`data/delta/`）只附加，永不 UPDATE 凍結列 —— 見 `docs/delta-schema.md`。
