@@ -85,7 +85,17 @@ def main():
             rec.update(pred)
             rec["first_seen"] = now
             rec["updated_at"] = now
-            rec["locked_at"] = now if m.get("locked") else None
+            ko = m.get("kickoff_utc") or ""
+            late = False
+            try:
+                from datetime import datetime, timezone
+                kt = datetime.fromisoformat(ko.replace("+00:00", "")).replace(tzinfo=timezone.utc)
+                nw = datetime.fromisoformat(now.replace("+00:00", "")).replace(tzinfo=timezone.utc)
+                late = kt <= nw  # 開賽後先至入帳：從未賽前公開，永唔入綠燈
+            except ValueError:
+                pass
+            rec["late_ingest"] = late
+            rec["locked_at"] = now if (m.get("locked") and not late) else None
             rec["lock_minutes"] = meta.get("lock_minutes")
             rec["result"] = None
             book[key] = rec
@@ -119,7 +129,7 @@ def main():
         cur.update(pred)
         cur["updated_at"] = now
         refreshed += 1
-        if m.get("locked"):
+        if m.get("locked") and not cur.get("late_ingest"):
             cur["locked_at"] = now
             locked_now += 1
             logs.append({"ts": now, "action": "lock", "match_key": key,
