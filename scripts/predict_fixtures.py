@@ -335,7 +335,8 @@ def main():
         locked = False
         try:
             kt = datetime.fromisoformat(ko.replace("+00:00", "")).replace(tzinfo=timezone.utc)
-            locked = (kt - now).total_seconds() <= LOCK_MINUTES * 60
+            delta = (kt - now).total_seconds()
+            locked = 0 <= delta <= LOCK_MINUTES * 60  # 已開賽（delta<0）永不鎖，防止賽後入帳冒充賽前凍結
         except ValueError:
             kt = None
         out_matches.append({
