@@ -88,7 +88,6 @@ def main():
             ko = m.get("kickoff_utc") or ""
             late = False
             try:
-                from datetime import datetime, timezone
                 kt = datetime.fromisoformat(ko.replace("+00:00", "")).replace(tzinfo=timezone.utc)
                 nw = datetime.fromisoformat(now.replace("+00:00", "")).replace(tzinfo=timezone.utc)
                 late = kt <= nw  # 開賽後先至入帳：從未賽前公開，永唔入綠燈
