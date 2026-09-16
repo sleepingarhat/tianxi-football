@@ -60,3 +60,36 @@
 - `data/context/projected_xg.jsonl`
 - `data/context/gk_saves.jsonl`
 - `data/context/_schema_version` — 目前 `1`（結構版本，唔係模型指紋）
+
+## 球員資料層（S35，schema_version 2）
+
+再加兩張只附加表，同上面四張同一套硬規則（只 append、缺資料＝missing、
+唔生成 δ、唔准觸碰 `data/predictions/`、`models/`、`snapshots/`）。
+
+### `players.jsonl` — 球員檔案＋相片連結
+欄位：`player_id`、`player_name`、`player_name_zh`、`team`、`team_id`、
+`shirt_number`、`position`、`nationality`、`birthdate`、`age`、`height_cm`、
+`weight_kg`、`photo_url`、`photo_license`、`as_of`（＋共用欄）。
+
+- 來源：API-SPORTS `/players/squads`（免費層當季名單可讀）。
+- `photo_url` **只存連結**，唔下載、唔重新託管。`photo_license` 記明條款狀態；
+  預設 `api-sports:media-link-unverified` ＝授權未確認，**唔准上前台展示**。
+  要公開展示，先逐源確認（API-SPORTS 條款／Wikimedia Commons／官方媒體授權）。
+- 配額：免費層 100 請求／日，每隊一個請求 → 每日只跑滾動一批（建議 ≤20 隊），
+  五大 96 隊約五日跑完一輪；抓唔到就寫 missing，唔用舊值假裝新鮮。
+
+### `injuries.jsonl` — 傷停
+欄位：`player_id`、`player_name`、`team`、`team_id`、`reason`、`injury_type`、
+`expected_return`、`as_of`、`season`（＋共用欄）。
+
+- 來源：API-SPORTS `/injuries`，免費層**只包 2022–2024 季**。
+- 歷史季：入庫做將來 δ_名單 嘅回測材料。
+- 當季：上游一律回 plan 錯誤 → 只寫 `status=missing` 佔位行，
+  **唔准用上季／平均／上仗值頂替**（等於偷近況）。
+- 合格閘：`as_of` 要早過開賽前 60 分鐘（鎖定線），否則 `status=late`、`eligible=false`。
+
+### 當季名單時間戳
+API-SPORTS 免費層唔包當季，`ingest_lineups.py --source current` 改用
+apifootball.com `get_events` 嘅 `lineup` 物件。上游一律**冇公布時間戳**，
+所以只記 `lineup_observed_ts`＝我哋首次見到先發齊 11 人嘅時間（保守上界）；
+未公布寫 missing 佔位並繼續輪詢。無時間戳一律 Δλ=0。
