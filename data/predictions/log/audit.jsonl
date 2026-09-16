@@ -1547,3 +1547,33 @@
 {"ts": "2026-09-16T08:38:16+00:00", "action": "refresh", "match_key": "SP1|17/09/2026|Betis|Getafe", "fingerprint": "4ceb54eaf1ed-6651c5805ceb-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-09-16T08:38:16+00:00", "action": "refresh", "match_key": "E2|17/09/2026|AFC Wimbledon|Milton Keynes Dons", "fingerprint": "4ceb54eaf1ed-6651c5805ceb-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-09-16T08:38:16+00:00", "action": "refresh", "match_key": "SP1|17/09/2026|Malaga|Villarreal", "fingerprint": "4ceb54eaf1ed-6651c5805ceb-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|15/09/2026|Vallecano|Espanol", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "N1|15/09/2026|Ajax|Willem II", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|15/09/2026|Alaves|Valencia", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "E1|15/09/2026|Bristol City|Lincoln", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "E1|15/09/2026|Middlesbrough|Millwall", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Aldershot|Yeovil", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Boston Utd|Woking", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Carlisle|Forest Green", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Harrogate|Fylde", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Solihull|Barrow", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Southend|Tamworth", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Sutton|Eastleigh", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Wealdstone|Halifax", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|15/09/2026|Worthing|Hornchurch", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SC0|15/09/2026|Falkirk|Hearts", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SC0|15/09/2026|Hibernian|Kilmarnock", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SC0|15/09/2026|Motherwell|Aberdeen", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SC1|15/09/2026|Stenhousemuir|Partick", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SC2|15/09/2026|Ross County|Queen of Sth", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|15/09/2026|Elche|Real Madrid", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|16/09/2026|Ath Madrid|Osasuna", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|16/09/2026|La Coruna|Sevilla", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|16/09/2026|Altrincham|Hartlepool", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|16/09/2026|Kidderminster|Gateshead", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "EC|16/09/2026|Scunthorpe|Boreham Wood", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|16/09/2026|Barcelona|Santander", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|16/09/2026|Levante|Ath Bilbao", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|17/09/2026|Betis|Getafe", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "E2|17/09/2026|AFC Wimbledon|Milton Keynes Dons", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-09-16T14:14:20+00:00", "action": "refresh", "match_key": "SP1|17/09/2026|Malaga|Villarreal", "fingerprint": "4ceb54eaf1ed-33a08ba84b2f-198061-s5:378c283b73a7-bb35e29b0c7b-175995"}
