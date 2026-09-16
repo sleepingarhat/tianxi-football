@@ -17,8 +17,9 @@ import os
 import uuid
 from datetime import datetime, timezone
 
-TABLES = ("lineups", "player_minutes", "projected_xg", "gk_saves")
-SCHEMA_VERSION = 1
+TABLES = ("lineups", "player_minutes", "projected_xg", "gk_saves",
+          "players", "injuries")
+SCHEMA_VERSION = 2
 LOCK_MINUTES = 60
 MIN_WINDOW_MATCHES = 5
 FORBIDDEN_PREFIXES = ("data/predictions", "models", "snapshots")
@@ -44,6 +45,18 @@ EXTRA = {
     "gk_saves": {
         "player_id", "player_name", "team",
         "window_matches", "shots_faced", "saves", "save_rate", "window_end",
+    },
+    # 球員檔案（S35）：只記事實，唔入凍結、唔生成 δ。
+    # photo_url 只存連結，唔重新託管；公開展示前要逐源確認授權。
+    "players": {
+        "player_id", "player_name", "player_name_zh", "team", "team_id",
+        "shirt_number", "position", "nationality", "birthdate", "age",
+        "height_cm", "weight_kg", "photo_url", "photo_license", "as_of",
+    },
+    # 傷停（S35）：as_of 早過鎖定線先算合格；免費層當季拿唔到 → status=missing。
+    "injuries": {
+        "player_id", "player_name", "team", "team_id",
+        "reason", "injury_type", "expected_return", "as_of", "season",
     },
 }
 
@@ -114,6 +127,22 @@ def _decide_xg(row: dict) -> dict:
     return row
 
 
+def _decide_asof(row: dict) -> dict:
+    """球員檔案／傷停：要有 as_of，且（如有開賽時間）早過鎖定線先算合格。"""
+    ko = _parse(row.get("kickoff_utc"))
+    asof = _parse(row.get("as_of")) or _parse(row.get("source_ts"))
+    if asof is None:
+        row["status"] = row.get("status") or "missing"
+        row["eligible"] = False
+        return row
+    if ko is not None and (ko - asof).total_seconds() / 60.0 < LOCK_MINUTES:
+        row["status"], row["eligible"] = "late", False
+        return row
+    row["status"] = row.get("status") or "ok"
+    row["eligible"] = row["status"] == "ok"
+    return row
+
+
 def build(table: str, payload: dict) -> dict:
     if table not in TABLES:
         raise SystemExit(f"未知表：{table}")
@@ -135,6 +164,8 @@ def build(table: str, payload: dict) -> dict:
         row = _decide_lineup(row)
     elif table == "projected_xg":
         row = _decide_xg(row)
+    elif table in ("players", "injuries"):
+        row = _decide_asof(row)
     else:
         row = _decide_window(row)
 
