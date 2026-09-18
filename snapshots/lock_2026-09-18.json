@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-09-18T18:31:17+00:00",
+ "generated_at": "2026-09-18T23:20:36+00:00",
  "months": [
   "2026-09"
  ],
  "inserted": 0,
- "refreshed": 198,
- "locked": 7,
- "refused_locked": 0,
- "refused_fingerprint_drift": 0,
- "fingerprint": "4ceb54eaf1ed-e9c91f2d2a6d-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
+ "refreshed": 191,
+ "locked": 0,
+ "refused_locked": 7,
+ "refused_fingerprint_drift": 7,
+ "fingerprint": "4ceb54eaf1ed-19f5850aeee7-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
  "lock_minutes": 60,
  "lock_policy": {
   "lock_minutes": 60,
