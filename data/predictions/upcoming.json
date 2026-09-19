@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-19T13:12:42+00:00",
+  "generated_at": "2026-09-19T18:05:58+00:00",
   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-  "fingerprint": "4ceb54eaf1ed-635252fc581c-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
+  "fingerprint": "4ceb54eaf1ed-5674a73d35ef-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
   "history_matches": 198090,
   "history_last_date": "2026-09-17",
   "fixtures_count": 198,
@@ -6457,7 +6457,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4021,
     0.289,
@@ -6606,7 +6606,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3881,
     0.277,
@@ -6755,7 +6755,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3509,
     0.2641,
@@ -6904,7 +6904,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3676,
     0.2806,
@@ -7053,7 +7053,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.454,
     0.2702,
@@ -7202,7 +7202,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2947,
     0.279,
@@ -7351,7 +7351,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4103,
     0.2803,
@@ -7500,7 +7500,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4595,
     0.2733,
@@ -7649,7 +7649,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3902,
     0.2862,
@@ -7798,7 +7798,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4044,
     0.282,
@@ -7947,7 +7947,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5705,
     0.2401,
@@ -8096,7 +8096,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4281,
     0.2809,
@@ -8245,7 +8245,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5282,
     0.2539,
@@ -8394,7 +8394,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3645,
     0.2719,
@@ -8543,7 +8543,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4133,
     0.2675,
@@ -8692,7 +8692,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3576,
     0.2733,
@@ -8841,7 +8841,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3614,
     0.2875,
@@ -8990,7 +8990,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.444,
     0.2677,
@@ -9139,7 +9139,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3637,
     0.2842,
@@ -9288,7 +9288,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4384,
     0.2662,
@@ -9437,7 +9437,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4533,
     0.2676,
@@ -9586,7 +9586,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2859,
     0.2652,
@@ -9735,7 +9735,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3756,
     0.2771,
@@ -9884,7 +9884,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3965,
     0.281,
@@ -10033,7 +10033,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5848,
     0.2435,
@@ -10182,7 +10182,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2781,
     0.2699,
@@ -10331,7 +10331,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4742,
     0.2677,
@@ -10480,7 +10480,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4907,
     0.288,
@@ -10629,7 +10629,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4476,
     0.2741,
@@ -10778,7 +10778,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3289,
     0.289,
@@ -10927,7 +10927,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.6111,
     0.2363,
@@ -11076,7 +11076,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3894,
     0.2791,
@@ -11225,7 +11225,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4964,
     0.2726,
@@ -11374,7 +11374,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4212,
     0.2766,
@@ -11523,7 +11523,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.637,
     0.2341,
@@ -11672,7 +11672,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2393,
     0.2566,
@@ -11821,7 +11821,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5593,
     0.2462,
@@ -11970,7 +11970,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.418,
     0.2765,
@@ -12119,7 +12119,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.1267,
     0.2225,
@@ -12268,7 +12268,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5259,
     0.2634,
@@ -12417,7 +12417,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.464,
     0.2869,
@@ -12566,7 +12566,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3327,
     0.2772,
@@ -12715,7 +12715,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5349,
     0.2564,
@@ -12864,7 +12864,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5092,
     0.2585,
@@ -13013,7 +13013,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4291,
     0.2915,
@@ -13162,7 +13162,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3565,
     0.2787,
@@ -13311,7 +13311,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3272,
     0.2936,
@@ -13460,7 +13460,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5135,
     0.2667,
@@ -13609,7 +13609,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5942,
     0.2378,
@@ -13758,7 +13758,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4463,
     0.2673,
@@ -13907,7 +13907,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.278,
     0.2667,
@@ -14056,7 +14056,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.445,
     0.2792,
@@ -14205,7 +14205,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.5644,
     0.2411,
@@ -14354,7 +14354,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.394,
     0.2769,
@@ -14503,7 +14503,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2249,
     0.2637,
@@ -14652,7 +14652,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.3958,
     0.2791,
@@ -14801,7 +14801,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4389,
     0.2723,
@@ -14950,7 +14950,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4401,
     0.2596,
@@ -15099,7 +15099,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.2361,
     0.2503,
@@ -15248,7 +15248,7 @@
    "track": "s2",
    "status": "fallback",
    "s5_warm": false,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4424,
     0.2637,
@@ -15389,7 +15389,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": true,
+   "locked": false,
    "p": [
     0.4231,
     0.2916,
@@ -19255,7 +19255,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3171,
     0.2863,
@@ -19404,7 +19404,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4529,
     0.2821,
@@ -19553,7 +19553,7 @@
    "track": "s2",
    "status": "fallback",
    "s5_warm": false,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4656,
     0.255,
@@ -19694,7 +19694,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3341,
     0.2879,
@@ -19843,7 +19843,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4272,
     0.2802,
@@ -19992,7 +19992,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4648,
     0.2683,
@@ -20141,7 +20141,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4569,
     0.2848,
@@ -20290,7 +20290,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3969,
     0.2944,
@@ -20439,7 +20439,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3599,
     0.2769,
@@ -20588,7 +20588,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.1244,
     0.164,
@@ -20737,7 +20737,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.2858,
     0.2772,
