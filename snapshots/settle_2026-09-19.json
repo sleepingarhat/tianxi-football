@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T18:06:00+00:00",
+ "generated_at": "2026-09-19T23:08:54+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -93,6 +93,8 @@
   ]
  },
  "settled_this_run": 0,
- "unmatched_count": 0,
- "unmatched_sample": []
+ "unmatched_count": 1,
+ "unmatched_sample": [
+  "SP1|16/09/2026|Levante|Ath Bilbao"
+ ]
 }
