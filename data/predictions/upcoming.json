@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-20T08:37:59+00:00",
+  "generated_at": "2026-09-20T13:36:53+00:00",
   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-  "fingerprint": "4ceb54eaf1ed-dc8cc6e94348-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
+  "fingerprint": "4ceb54eaf1ed-f13dd97ada1f-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
   "history_matches": 198090,
   "history_last_date": "2026-09-17",
   "fixtures_count": 198,
@@ -24313,7 +24313,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4928,
     0.2699,
@@ -24462,7 +24462,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.1795,
     0.2364,
@@ -24611,7 +24611,7 @@
    "track": "s2",
    "status": "fallback",
    "s5_warm": false,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3307,
     0.287,
@@ -24752,7 +24752,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.7994,
     0.1303,
@@ -24901,7 +24901,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3691,
     0.2764,
@@ -25050,7 +25050,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.4086,
     0.298,
@@ -25199,7 +25199,7 @@
    "track": "s2",
    "status": "fallback",
    "s5_warm": false,
-   "locked": false,
+   "locked": true,
    "p": [
     0.3613,
     0.2954,
@@ -25340,7 +25340,7 @@
    "track": "s5",
    "status": "final",
    "s5_warm": true,
-   "locked": false,
+   "locked": true,
    "p": [
     0.5468,
     0.2643,

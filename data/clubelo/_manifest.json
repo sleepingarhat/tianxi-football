@@ -4,7 +4,7 @@
  "days": {},
  "clubs": {},
  "last_fail": {
-  "at": "2026-09-20T08:37:34+00:00",
+  "at": "2026-09-20T13:36:28+00:00",
   "date": "2026-09-20",
   "error": "http://api.clubelo.com/2026-09-20 連續 4 次失敗：HTTP Error 502: Bad Gateway"
  }
