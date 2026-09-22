@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T00:09:27+00:00",
+ "generated_at": "2026-09-22T08:35:17+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -71,11 +71,11 @@
   "cs_top8": 0.6731,
   "cs_logloss": 2.8604,
   "fingerprints": [
-   "4ceb54eaf1ed-398bf44cf7aa-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-5674a73d35ef-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-58c6b3cf3616-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-635252fc581c-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-7d89e7e1e9e4-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "4ceb54eaf1ed-867641e290b4-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-b277dcc85303-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-c45462b55608-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-e9c91f2d2a6d-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
@@ -95,11 +95,11 @@
   "cs_top8": 0.6811,
   "cs_logloss": 2.8348,
   "fingerprints": [
-   "4ceb54eaf1ed-398bf44cf7aa-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-5674a73d35ef-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-58c6b3cf3616-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-635252fc581c-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-7d89e7e1e9e4-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "4ceb54eaf1ed-867641e290b4-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-b277dcc85303-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-c45462b55608-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-e9c91f2d2a6d-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
@@ -109,7 +109,7 @@
    "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
   ]
  },
- "settled_this_run": 198,
+ "settled_this_run": 0,
  "unmatched_count": 1,
  "unmatched_sample": [
   "SP1|16/09/2026|Levante|Ath Bilbao"
