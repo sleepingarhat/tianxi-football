@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated_at": "2026-09-22T14:03:55+00:00",
+  "generated_at": "2026-09-22T18:57:19+00:00",
   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-  "fingerprint": "4ceb54eaf1ed-f0dac056b102-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
+  "fingerprint": "4ceb54eaf1ed-84fbfffc8f80-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
   "history_matches": 198288,
   "history_last_date": "2026-09-20",
   "fixtures_count": 198,
