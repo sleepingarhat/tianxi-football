@@ -1,14 +1,13 @@
-"""［已停用 — 合規封存，切勿排程執行］預期入球（xG）採集器 — Understat 五大聯賽 + 俄超，2014/15 至今。
+"""預期入球（xG）採集器 — Understat 五大聯賽，2014/15 至今。［2026-09-26 倉主決定解封，正式列入引擎資料庫］
 
 輸出：
-  data/xg/{season}_{LEAGUE}.csv   逐場 xG / npxG / PPDA / deep completions
+  data/xg/{season}_{LEAGUE}.csv   逐場 xG / npxG / PPDA / deep completions / xPts
   data/xg/_manifest.json          每個聯賽賽季嘅場數、最後成功時間、失敗紀錄
 
-合規狀態（2026-09-13）：
-  understat.com/robots.txt 明文 `User-agent: * / Disallow: /`，全站禁止自動抓取。
-  本腳本只作技術封存（證明資料結構與對名可行），**不得排程執行**，
-  未取得書面授權前唔會接入每日流程，亦唔會把抓回嘅資料入倉。
-  合規替代次序：StatsBomb open data → FootyStats API（付費）→ TheSports（付費）。
+來源狀態：
+  understat.com/robots.txt 寫明 Disallow: /。2026-09-26 倉主知悉風險後決定照用（見研究倉 DECISION.md），
+  風險由倉主承擔。唔偽裝身份、唔轉 IP、唔繞過任何限制；被拒（4xx/5xx）即停，唔重試轟炸。
+  排程：每星期一次，只抓當季（.github/workflows/xg_weekly.yml）。
 
 紀律：
   - 只落賽後統計，供「賽前滾動特徵」用（嚴格向前推一場，特徵引擎負責對齊）。
@@ -31,7 +30,7 @@ import urllib.request
 BASE = "https://understat.com/getLeagueData"
 UA = "tianxi-football-database/1.0 (+https://tianxi.racing)"
 OUT_DIR = "data/xg"
-SLEEP = 1.5
+SLEEP = 3.0
 
 # Understat 聯賽代號 → football-data.co.uk Div 代號
 LEAGUES = {
