@@ -1,12 +1,13 @@
 name: xg_weekly
-# Understat 當季 xG 每週補料（2026-09-26 倉主決定解封）。只寫 data/xg/，唔郁凍結預測、指紋、模型。
+# Understat 當季 xG 每週補料（2026-09-26 倉主決定解封）。自 2026-09-26 起降為後備：
+# 寫入 data/xg_understat/，再由 merge_xg.py 合併；2021/22 季起以 PitchAPI 為正選。唔郁凍結預測、指紋、模型。
 on:
   schedule:
     - cron: "17 4 * * 2"   # 逢星期二 04:17 UTC（週末賽果齊後）
   workflow_dispatch: {}
 permissions:
   contents: write
-concurrency: { group: xg-weekly, cancel-in-progress: false }
+concurrency: { group: xg-data, cancel-in-progress: false }
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -14,14 +15,16 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: 抓當季 xG
+      - name: 抓當季 xG（後備）
         run: |
           Y=$(date -u +%Y); M=$(date -u +%m)
           S=$([ "$M" -ge 7 ] && echo $Y || echo $((Y-1)))
-          python scripts/ingest_xg.py --out data/xg --seasons "$S:$S"
+          python scripts/ingest_xg.py --out data/xg_understat --seasons "$S:$S"
+      - name: 合併正式 xG 檔
+        run: python scripts/merge_xg.py
       - name: 提交
         run: |
           git config user.name "tianxi-bot"; git config user.email "bot@tianxi.racing"
-          git add data/xg
-          git diff --cached --quiet || git commit -m "xg: weekly Understat $(date -u +%F)"
-          git push
+          git add data/xg_understat data/xg
+          git diff --cached --quiet || git commit -m "xg: weekly Understat backup $(date -u +%F)"
+          git pull --rebase && git push

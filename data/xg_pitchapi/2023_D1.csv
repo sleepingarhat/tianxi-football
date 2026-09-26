@@ -1,0 +1,307 @@
+match_key,div,season,date,kickoff_utc,home,away,hg,ag,home_xg,away_xg,home_npxg,away_npxg,home_xgot,away_xgot,home_shots,away_shots,pitch_id,pitch_home,pitch_away,mapped
+D1|2023-08-18|Werder Bremen|Bayern Munich,D1,2023,2023-08-18,2023-08-18T18:30:00Z,Werder Bremen,Bayern Munich,0,4,0.55168,2.85151,0.55168,2.85151,0.2624,2.9188,6,25,m_2SkNYq,Werder Bremen,Bayern München,1
+D1|2023-08-19|Augsburg|M'gladbach,D1,2023,2023-08-19,2023-08-19T13:30:00Z,Augsburg,M'gladbach,4,4,2.27709,1.7238,1.48869,0.9354,2.7285,2.7428,20,10,m_0de639,Augsburg,Borussia Mönchengladbach,1
+D1|2023-08-19|Dortmund|FC Koln,D1,2023,2023-08-19,2023-08-19T16:30:00Z,Dortmund,FC Koln,1,0,2.06093,1.2539,2.06093,1.2539,0.6865,1.54,13,11,m_4FzMaU,Borussia Dortmund,1. FC Köln,1
+D1|2023-08-19|Hoffenheim|Freiburg,D1,2023,2023-08-19,2023-08-19T13:30:00Z,Hoffenheim,Freiburg,1,2,1.42864,2.75214,1.42864,2.75214,0.6255,1.867,23,18,m_2KGv7Q,Hoffenheim,Freiburg,1
+D1|2023-08-19|Leverkusen|RB Leipzig,D1,2023,2023-08-19,2023-08-19T13:30:00Z,Leverkusen,RB Leipzig,3,2,1.42994,1.58384,1.42994,1.58384,2.7789,1.5416,11,14,m_2FXxdn,Bayer Leverkusen,RB Leipzig,1
+D1|2023-08-19|Stuttgart|Bochum,D1,2023,2023-08-19,2023-08-19T13:30:00Z,Stuttgart,Bochum,5,0,3.13239,0.84262,3.13239,0.84262,4.469,0.6816,21,4,m_2LsaQR,VfB Stuttgart,Bochum,1
+D1|2023-08-19|Wolfsburg|Heidenheim,D1,2023,2023-08-19,2023-08-19T13:30:00Z,Wolfsburg,Heidenheim,2,0,2.17939,1.18018,2.17939,1.18018,2.4324,0.1212,18,14,m_2t4ORj,Wolfsburg,FC Heidenheim,1
+D1|2023-08-20|Ein Frankfurt|Darmstadt,D1,2023,2023-08-20,2023-08-20T15:30:00Z,Ein Frankfurt,Darmstadt,1,0,1.50659,0.55327,1.50659,0.55327,1.0902,0.6177,9,10,m_2QL7PM,Eintracht Frankfurt,Darmstadt,1
+D1|2023-08-20|Union Berlin|Mainz,D1,2023,2023-08-20,2023-08-20T13:30:00Z,Union Berlin,Mainz,4,1,1.91412,2.30005,1.91412,0.72325,2.3738,2.5241,11,10,m_1oQNAI,Union Berlin,Mainz 05,1
+D1|2023-08-25|RB Leipzig|Stuttgart,D1,2023,2023-08-25,2023-08-25T18:30:00Z,RB Leipzig,Stuttgart,5,1,1.78052,1.13019,1.78052,1.13019,2.6119,1.5539,20,9,m_3vu7wn,RB Leipzig,VfB Stuttgart,1
+D1|2023-08-26|Bochum|Dortmund,D1,2023,2023-08-26,2023-08-26T13:30:00Z,Bochum,Dortmund,1,1,0.98581,1.26843,0.98581,1.26843,1.4759,0.4537,20,14,m_2XmWGj,Bochum,Borussia Dortmund,1
+D1|2023-08-26|Darmstadt|Union Berlin,D1,2023,2023-08-26,2023-08-26T13:30:00Z,Darmstadt,Union Berlin,1,4,2.27057,1.74477,2.27057,1.74477,1.7601,2.6986,21,13,m_44mfTK,Darmstadt,Union Berlin,1
+D1|2023-08-26|FC Koln|Wolfsburg,D1,2023,2023-08-26,2023-08-26T13:30:00Z,FC Koln,Wolfsburg,1,2,0.86024,2.01119,0.86024,2.01119,0.4833,3.1762,13,9,m_1B43DW,1. FC Köln,Wolfsburg,1
+D1|2023-08-26|Freiburg|Werder Bremen,D1,2023,2023-08-26,2023-08-26T13:30:00Z,Freiburg,Werder Bremen,1,0,2.8179,1.06214,2.8179,1.06214,2.0901,0.0186,23,15,m_1UEUkC,Freiburg,Werder Bremen,1
+D1|2023-08-26|Heidenheim|Hoffenheim,D1,2023,2023-08-26,2023-08-26T13:30:00Z,Heidenheim,Hoffenheim,2,3,2.48733,3.01118,1.69893,2.22278,2.8891,2.2968,20,16,m_270KWg,FC Heidenheim,Hoffenheim,1
+D1|2023-08-26|M'gladbach|Leverkusen,D1,2023,2023-08-26,2023-08-26T16:30:00Z,M'gladbach,Leverkusen,0,3,0.92887,2.75853,0.92887,2.75853,0.1976,3.2814,12,24,m_2VbFpV,Borussia Mönchengladbach,Bayer Leverkusen,1
+D1|2023-08-27|Bayern Munich|Augsburg,D1,2023,2023-08-27,2023-08-27T15:30:00Z,Bayern Munich,Augsburg,3,1,2.89995,0.66275,2.11155,0.66275,1.7355,1.0039,19,11,m_30svAw,Bayern München,Augsburg,1
+D1|2023-08-27|Mainz|Ein Frankfurt,D1,2023,2023-08-27,2023-08-27T13:30:00Z,Mainz,Ein Frankfurt,1,1,1.17432,1.13766,1.17432,1.13766,0.7141,0.8248,12,7,m_3vf3Ll,Mainz 05,Eintracht Frankfurt,1
+D1|2023-09-01|Dortmund|Heidenheim,D1,2023,2023-09-01,2023-09-01T18:30:00Z,Dortmund,Heidenheim,2,2,3.36354,2.38905,2.57514,1.60065,2.4235,1.4553,19,14,m_3Iv88y,Borussia Dortmund,FC Heidenheim,1
+D1|2023-09-02|Augsburg|Bochum,D1,2023,2023-09-02,2023-09-02T13:30:00Z,Augsburg,Bochum,2,2,2.24896,1.70789,2.24896,1.70789,1.5376,3.3502,11,21,m_2xSQDi,Augsburg,Bochum,1
+D1|2023-09-02|Hoffenheim|Wolfsburg,D1,2023,2023-09-02,2023-09-02T13:30:00Z,Hoffenheim,Wolfsburg,3,1,2.02104,1.21642,2.02104,1.21642,2.3273,1.6541,10,13,m_1KpMlV,Hoffenheim,Wolfsburg,1
+D1|2023-09-02|Leverkusen|Darmstadt,D1,2023,2023-09-02,2023-09-02T13:30:00Z,Leverkusen,Darmstadt,5,1,2.8443,0.35804,2.8443,0.35804,4.4997,0.3103,25,5,m_2vO9Ig,Bayer Leverkusen,Darmstadt,1
+D1|2023-09-02|M'gladbach|Bayern Munich,D1,2023,2023-09-02,2023-09-02T16:30:00Z,M'gladbach,Bayern Munich,1,2,0.34545,2.37298,0.34545,2.37298,1.2342,1.5481,7,25,m_2AI6Sh,Borussia Mönchengladbach,Bayern München,1
+D1|2023-09-02|Stuttgart|Freiburg,D1,2023,2023-09-02,2023-09-02T13:30:00Z,Stuttgart,Freiburg,5,0,1.73756,1.09146,1.73756,1.09146,3.2254,1.5854,13,13,m_10Q7k7,VfB Stuttgart,Freiburg,1
+D1|2023-09-02|Werder Bremen|Mainz,D1,2023,2023-09-02,2023-09-02T13:30:00Z,Werder Bremen,Mainz,4,0,2.74288,0.54539,1.95448,0.54539,3.855,0.6656,13,13,m_0H1FcU,Werder Bremen,Mainz 05,1
+D1|2023-09-03|Ein Frankfurt|FC Koln,D1,2023,2023-09-03,2023-09-03T13:30:00Z,Ein Frankfurt,FC Koln,1,1,1.36201,0.90957,1.36201,0.12117,0.771,1.1177,13,7,m_1vhFuv,Eintracht Frankfurt,1. FC Köln,1
+D1|2023-09-03|Union Berlin|RB Leipzig,D1,2023,2023-09-03,2023-09-03T15:30:00Z,Union Berlin,RB Leipzig,0,3,0.31724,1.1618,0.31724,1.1618,0.0838,1.8816,3,14,m_0cZjFu,Union Berlin,RB Leipzig,1
+D1|2023-09-15|Bayern Munich|Leverkusen,D1,2023,2023-09-15,2023-09-15T18:30:00Z,Bayern Munich,Leverkusen,2,2,2.13818,2.07877,2.13818,1.29037,3.0707,2.1313,16,13,m_0aulYt,Bayern München,Bayer Leverkusen,1
+D1|2023-09-16|Bochum|Ein Frankfurt,D1,2023,2023-09-16,2023-09-16T16:30:00Z,Bochum,Ein Frankfurt,1,1,2.04509,0.61913,1.25669,0.61913,1.7957,1.2526,22,8,m_24EO2d,Bochum,Eintracht Frankfurt,1
+D1|2023-09-16|FC Koln|Hoffenheim,D1,2023,2023-09-16,2023-09-16T13:30:00Z,FC Koln,Hoffenheim,1,3,0.997,1.04047,0.997,1.04047,0.873,1.9315,18,13,m_3ZQUEm,1. FC Köln,Hoffenheim,1
+D1|2023-09-16|Freiburg|Dortmund,D1,2023,2023-09-16,2023-09-16T13:30:00Z,Freiburg,Dortmund,2,4,1.05425,2.79226,1.05425,2.79226,1.2026,4.4676,15,15,m_3Orr82,Freiburg,Borussia Dortmund,1
+D1|2023-09-16|Mainz|Stuttgart,D1,2023,2023-09-16,2023-09-16T13:30:00Z,Mainz,Stuttgart,1,3,0.97398,1.56384,0.97398,1.56384,1.3128,2.3206,15,15,m_1b421K,Mainz 05,VfB Stuttgart,1
+D1|2023-09-16|RB Leipzig|Augsburg,D1,2023,2023-09-16,2023-09-16T13:30:00Z,RB Leipzig,Augsburg,3,0,1.07805,1.68543,1.07805,1.68543,1.5952,0.8955,9,16,m_0vUk5y,RB Leipzig,Augsburg,1
+D1|2023-09-16|Wolfsburg|Union Berlin,D1,2023,2023-09-16,2023-09-16T13:30:00Z,Wolfsburg,Union Berlin,2,1,0.3617,1.14565,0.3617,1.14565,0.9593,1.2981,8,19,m_4WzDav,Wolfsburg,Union Berlin,1
+D1|2023-09-17|Darmstadt|M'gladbach,D1,2023,2023-09-17,2023-09-17T15:30:00Z,Darmstadt,M'gladbach,3,3,1.16009,3.87143,1.16009,3.08303,2.4737,3.2767,15,22,m_2Sua4I,Darmstadt,Borussia Mönchengladbach,1
+D1|2023-09-17|Heidenheim|Werder Bremen,D1,2023,2023-09-17,2023-09-17T13:30:00Z,Heidenheim,Werder Bremen,4,2,2.24169,3.48001,1.45329,2.69161,2.2285,1.9975,18,11,m_3rDkLe,FC Heidenheim,Werder Bremen,1
+D1|2023-09-22|Stuttgart|Darmstadt,D1,2023,2023-09-22,2023-09-22T18:30:00Z,Stuttgart,Darmstadt,3,1,2.28728,0.16332,2.28728,0.16332,2.6814,0.0,19,4,m_0oXMSn,VfB Stuttgart,Darmstadt,1
+D1|2023-09-23|Augsburg|Mainz,D1,2023,2023-09-23,2023-09-23T13:30:00Z,Augsburg,Mainz,2,1,0.82006,0.55569,0.82006,0.55569,1.8428,0.3193,5,12,m_0TjVYg,Augsburg,Mainz 05,1
+D1|2023-09-23|Bayern Munich|Bochum,D1,2023,2023-09-23,2023-09-23T13:30:00Z,Bayern Munich,Bochum,7,0,5.05123,0.13519,4.26283,0.13519,5.7247,0.2593,26,4,m_2wlli8,Bayern München,Bochum,1
+D1|2023-09-23|Dortmund|Wolfsburg,D1,2023,2023-09-23,2023-09-23T13:30:00Z,Dortmund,Wolfsburg,1,0,1.67444,0.53066,1.67444,0.53066,1.5637,0.249,18,7,m_2gvfGb,Borussia Dortmund,Wolfsburg,1
+D1|2023-09-23|M'gladbach|RB Leipzig,D1,2023,2023-09-23,2023-09-23T13:30:00Z,M'gladbach,RB Leipzig,0,1,0.79809,0.72024,0.79809,0.72024,0.2914,0.5609,14,8,m_3BFlVW,Borussia Mönchengladbach,RB Leipzig,1
+D1|2023-09-23|Union Berlin|Hoffenheim,D1,2023,2023-09-23,2023-09-23T13:30:00Z,Union Berlin,Hoffenheim,0,2,1.61563,1.96711,1.61563,1.17871,0.8245,2.0676,22,11,m_00iWEx,Union Berlin,Hoffenheim,1
+D1|2023-09-23|Werder Bremen|FC Koln,D1,2023,2023-09-23,2023-09-23T16:30:00Z,Werder Bremen,FC Koln,2,1,2.1425,1.48945,2.1425,1.48945,2.0276,1.2218,17,14,m_2GXkOC,Werder Bremen,1. FC Köln,1
+D1|2023-09-24|Ein Frankfurt|Freiburg,D1,2023,2023-09-24,2023-09-24T15:30:00Z,Ein Frankfurt,Freiburg,0,0,0.64958,0.55982,0.64958,0.55982,0.6449,0.2328,12,7,m_3nyb56,Eintracht Frankfurt,Freiburg,1
+D1|2023-09-24|Leverkusen|Heidenheim,D1,2023,2023-09-24,2023-09-24T13:30:00Z,Leverkusen,Heidenheim,4,1,3.63822,0.51693,2.84982,0.51693,3.9631,1.2316,21,2,m_4601Oz,Bayer Leverkusen,FC Heidenheim,1
+D1|2023-09-29|Hoffenheim|Dortmund,D1,2023,2023-09-29,2023-09-29T18:30:00Z,Hoffenheim,Dortmund,1,3,1.96946,1.63593,1.18106,1.63593,1.3592,2.8009,15,6,m_0fI511,Hoffenheim,Borussia Dortmund,1
+D1|2023-09-30|Bochum|M'gladbach,D1,2023,2023-09-30,2023-09-30T13:40:00Z,Bochum,M'gladbach,1,3,1.73673,3.15117,1.73673,3.15117,0.9777,2.8609,24,27,m_3DMheu,Bochum,Borussia Mönchengladbach,1
+D1|2023-09-30|FC Koln|Stuttgart,D1,2023,2023-09-30,2023-09-30T13:30:00Z,FC Koln,Stuttgart,0,2,0.74332,2.71588,0.74332,2.71588,0.4919,2.0726,14,18,m_3xcAXq,1. FC Köln,VfB Stuttgart,1
+D1|2023-09-30|Heidenheim|Union Berlin,D1,2023,2023-09-30,2023-09-30T13:30:00Z,Heidenheim,Union Berlin,1,0,0.77223,2.23211,0.77223,2.23211,0.7812,1.6269,10,20,m_3oLk5o,FC Heidenheim,Union Berlin,1
+D1|2023-09-30|Mainz|Leverkusen,D1,2023,2023-09-30,2023-09-30T13:30:00Z,Mainz,Leverkusen,0,3,0.46569,1.13405,0.46569,1.13405,0.5177,2.1848,11,6,m_2hDSLI,Mainz 05,Bayer Leverkusen,1
+D1|2023-09-30|RB Leipzig|Bayern Munich,D1,2023,2023-09-30,2023-09-30T16:30:00Z,RB Leipzig,Bayern Munich,2,2,0.72536,2.36162,0.72536,1.57322,0.8689,2.2812,6,11,m_455r1w,RB Leipzig,Bayern München,1
+D1|2023-09-30|Wolfsburg|Ein Frankfurt,D1,2023,2023-09-30,2023-09-30T13:30:00Z,Wolfsburg,Ein Frankfurt,2,0,3.89499,1.38679,3.10659,1.38679,3.6295,1.6439,18,8,m_2NWmcp,Wolfsburg,Eintracht Frankfurt,1
+D1|2023-10-01|Darmstadt|Werder Bremen,D1,2023,2023-10-01,2023-10-01T13:30:00Z,Darmstadt,Werder Bremen,4,2,2.42688,1.54556,1.63848,1.54556,2.5845,1.8735,14,11,m_26IYPf,Darmstadt,Werder Bremen,1
+D1|2023-10-01|Freiburg|Augsburg,D1,2023,2023-10-01,2023-10-01T15:30:00Z,Freiburg,Augsburg,2,0,1.02513,0.80663,0.23673,0.80663,1.2125,0.5722,7,13,m_2gCNio,Freiburg,Augsburg,1
+D1|2023-10-06|M'gladbach|Mainz,D1,2023,2023-10-06,2023-10-06T18:30:00Z,M'gladbach,Mainz,2,2,2.3863,0.75351,2.3863,0.75351,3.2007,1.7974,21,14,m_4awSGk,Borussia Mönchengladbach,Mainz 05,1
+D1|2023-10-07|Augsburg|Darmstadt,D1,2023,2023-10-07,2023-10-07T13:30:00Z,Augsburg,Darmstadt,1,2,0.9391,1.80047,0.9391,1.01207,0.603,1.4433,18,17,m_2808bg,Augsburg,Darmstadt,1
+D1|2023-10-07|Dortmund|Union Berlin,D1,2023,2023-10-07,2023-10-07T13:30:00Z,Dortmund,Union Berlin,4,2,1.71496,1.41806,1.71496,0.62966,1.9445,1.464,14,13,m_2CXQbU,Borussia Dortmund,Union Berlin,1
+D1|2023-10-07|RB Leipzig|Bochum,D1,2023,2023-10-07,2023-10-07T13:30:00Z,RB Leipzig,Bochum,0,0,2.54633,0.37015,0.96953,0.37015,2.3051,0.2559,17,9,m_1rNopI,RB Leipzig,Bochum,1
+D1|2023-10-07|Stuttgart|Wolfsburg,D1,2023,2023-10-07,2023-10-07T13:30:00Z,Stuttgart,Wolfsburg,3,1,2.68852,1.2341,1.90012,1.2341,3.1683,1.6233,14,12,m_4OKjbB,VfB Stuttgart,Wolfsburg,1
+D1|2023-10-07|Werder Bremen|Hoffenheim,D1,2023,2023-10-07,2023-10-07T16:30:00Z,Werder Bremen,Hoffenheim,2,3,0.83382,1.86045,0.83382,1.86045,1.2049,1.5244,13,10,m_1Zx2mZ,Werder Bremen,Hoffenheim,1
+D1|2023-10-08|Bayern Munich|Freiburg,D1,2023,2023-10-08,2023-10-08T15:30:00Z,Bayern Munich,Freiburg,3,0,2.43252,0.05462,2.43252,0.05462,2.259,0.0,21,2,m_3V9sN7,Bayern München,Freiburg,1
+D1|2023-10-08|Ein Frankfurt|Heidenheim,D1,2023,2023-10-08,2023-10-08T17:30:00Z,Ein Frankfurt,Heidenheim,2,0,1.85815,1.15948,1.06975,1.15948,0.8197,0.4929,13,7,m_1MfCrG,Eintracht Frankfurt,FC Heidenheim,1
+D1|2023-10-08|Leverkusen|FC Koln,D1,2023,2023-10-08,2023-10-08T13:30:00Z,Leverkusen,FC Koln,3,0,3.26498,1.58074,3.26498,1.58074,3.7169,1.2523,23,7,m_3w2570,Bayer Leverkusen,1. FC Köln,1
+D1|2023-10-20|Dortmund|Werder Bremen,D1,2023,2023-10-20,2023-10-20T18:30:00Z,Dortmund,Werder Bremen,1,0,2.69136,0.36562,2.69136,0.36562,1.7096,0.1252,23,5,m_2WeopS,Borussia Dortmund,Werder Bremen,1
+D1|2023-10-21|Darmstadt|RB Leipzig,D1,2023,2023-10-21,2023-10-21T13:30:00Z,Darmstadt,RB Leipzig,1,3,2.48013,1.93025,1.69173,1.93025,1.2636,3.1196,18,10,m_3tBmzR,Darmstadt,RB Leipzig,1
+D1|2023-10-21|Freiburg|Bochum,D1,2023,2023-10-21,2023-10-21T13:30:00Z,Freiburg,Bochum,2,1,2.43259,1.49057,1.64419,1.49057,2.3142,0.995,17,13,m_23s6Zp,Freiburg,Bochum,1
+D1|2023-10-21|Hoffenheim|Ein Frankfurt,D1,2023,2023-10-21,2023-10-21T13:30:00Z,Hoffenheim,Ein Frankfurt,1,3,1.42512,2.53028,1.42512,2.53028,1.022,2.7997,14,15,m_2xSdFN,Hoffenheim,Eintracht Frankfurt,1
+D1|2023-10-21|Mainz|Bayern Munich,D1,2023,2023-10-21,2023-10-21T16:30:00Z,Mainz,Bayern Munich,1,3,1.13238,1.76968,1.13238,1.76968,0.8779,1.8447,16,13,m_0gW65j,Mainz 05,Bayern München,1
+D1|2023-10-21|Union Berlin|Stuttgart,D1,2023,2023-10-21,2023-10-21T13:30:00Z,Union Berlin,Stuttgart,0,3,0.63104,1.38,0.63104,1.38,0.124,2.7008,9,10,m_4aadAZ,Union Berlin,VfB Stuttgart,1
+D1|2023-10-21|Wolfsburg|Leverkusen,D1,2023,2023-10-21,2023-10-21T13:30:00Z,Wolfsburg,Leverkusen,1,2,1.50415,1.91962,1.50415,1.91962,1.717,2.7308,18,13,m_3L1anU,Wolfsburg,Bayer Leverkusen,1
+D1|2023-10-22|FC Koln|M'gladbach,D1,2023,2023-10-22,2023-10-22T13:35:00Z,FC Koln,M'gladbach,3,1,2.73265,0.26276,1.15585,0.26276,3.5153,0.6616,23,5,m_0xBjR1,1. FC Köln,Borussia Mönchengladbach,1
+D1|2023-10-22|Heidenheim|Augsburg,D1,2023,2023-10-22,2023-10-22T15:30:00Z,Heidenheim,Augsburg,2,5,1.59704,2.55098,1.59704,1.76258,2.2049,3.395,15,9,m_3B01Rh,FC Heidenheim,Augsburg,1
+D1|2023-10-27|Bochum|Mainz,D1,2023,2023-10-27,2023-10-27T18:30:00Z,Bochum,Mainz,2,2,1.44846,0.43492,0.66006,0.43492,2.8224,0.7325,13,9,m_21Bw1u,Bochum,Mainz 05,1
+D1|2023-10-28|Augsburg|Wolfsburg,D1,2023,2023-10-28,2023-10-28T13:30:00Z,Augsburg,Wolfsburg,3,2,1.37968,1.43606,1.37968,0.64766,1.9656,1.7225,8,14,m_3G2wqp,Augsburg,Wolfsburg,1
+D1|2023-10-28|Bayern Munich|Darmstadt,D1,2023,2023-10-28,2023-10-28T13:30:00Z,Bayern Munich,Darmstadt,8,0,5.86138,0.70411,5.86138,0.70411,6.3197,1.194,29,9,m_47qbsn,Bayern München,Darmstadt,1
+D1|2023-10-28|M'gladbach|Heidenheim,D1,2023,2023-10-28,2023-10-28T13:30:00Z,M'gladbach,Heidenheim,2,1,1.0474,0.37959,1.0474,0.37959,0.9981,0.7539,13,10,m_2ghP0U,Borussia Mönchengladbach,FC Heidenheim,1
+D1|2023-10-28|RB Leipzig|FC Koln,D1,2023,2023-10-28,2023-10-28T16:30:00Z,RB Leipzig,FC Koln,6,0,4.28104,0.87262,3.49264,0.87262,5.5258,0.9882,26,6,m_2AtsSa,RB Leipzig,1. FC Köln,1
+D1|2023-10-28|Stuttgart|Hoffenheim,D1,2023,2023-10-28,2023-10-28T13:30:00Z,Stuttgart,Hoffenheim,2,3,3.61091,1.82971,2.82251,1.04131,3.737,3.6465,23,7,m_1AwSPs,VfB Stuttgart,Hoffenheim,1
+D1|2023-10-28|Werder Bremen|Union Berlin,D1,2023,2023-10-28,2023-10-28T13:30:00Z,Werder Bremen,Union Berlin,2,0,0.78061,0.57369,0.78061,0.57369,0.4574,0.1765,10,8,m_3qHADt,Werder Bremen,Union Berlin,1
+D1|2023-10-29|Ein Frankfurt|Dortmund,D1,2023,2023-10-29,2023-10-29T14:30:00Z,Ein Frankfurt,Dortmund,3,3,2.83452,2.18348,2.04612,2.18348,4.0468,1.1703,12,14,m_1mnSnF,Eintracht Frankfurt,Borussia Dortmund,1
+D1|2023-10-29|Leverkusen|Freiburg,D1,2023,2023-10-29,2023-10-29T16:30:00Z,Leverkusen,Freiburg,2,1,1.38861,0.87446,1.38861,0.87446,0.7391,0.7372,18,10,m_0fgX6R,Bayer Leverkusen,Freiburg,1
+D1|2023-11-03|Darmstadt|Bochum,D1,2023,2023-11-03,2023-11-03T19:30:00Z,Darmstadt,Bochum,1,2,0.67691,1.22171,0.67691,1.22171,0.6698,1.4751,15,9,m_050OgL,Darmstadt,Bochum,1
+D1|2023-11-04|Dortmund|Bayern Munich,D1,2023,2023-11-04,2023-11-04T17:30:00Z,Dortmund,Bayern Munich,0,4,0.96467,3.38335,0.96467,3.38335,0.7266,4.3315,15,14,m_3TgdoU,Borussia Dortmund,Bayern München,1
+D1|2023-11-04|FC Koln|Augsburg,D1,2023,2023-11-04,2023-11-04T14:30:00Z,FC Koln,Augsburg,1,1,2.08908,2.64739,2.08908,2.64739,2.0156,0.952,26,18,m_3EWAAI,1. FC Köln,Augsburg,1
+D1|2023-11-04|Freiburg|M'gladbach,D1,2023,2023-11-04,2023-11-04T14:30:00Z,Freiburg,M'gladbach,3,3,3.37657,2.16498,2.58817,1.37658,4.1601,3.2791,16,10,m_0lnvij,Freiburg,Borussia Mönchengladbach,1
+D1|2023-11-04|Hoffenheim|Leverkusen,D1,2023,2023-11-04,2023-11-04T14:30:00Z,Hoffenheim,Leverkusen,2,3,1.75356,1.02808,1.75356,1.02808,1.8959,1.8382,12,9,m_1qQKlB,Hoffenheim,Bayer Leverkusen,1
+D1|2023-11-04|Mainz|RB Leipzig,D1,2023,2023-11-04,2023-11-04T14:30:00Z,Mainz,RB Leipzig,2,0,0.95915,0.51432,0.95915,0.51432,1.2176,0.2149,10,10,m_08fZZM,Mainz 05,RB Leipzig,1
+D1|2023-11-04|Union Berlin|Ein Frankfurt,D1,2023,2023-11-04,2023-11-04T14:30:00Z,Union Berlin,Ein Frankfurt,0,3,0.69321,1.58719,0.69321,1.58719,0.8064,2.2646,11,4,m_2G2Oem,Union Berlin,Eintracht Frankfurt,1
+D1|2023-11-05|Heidenheim|Stuttgart,D1,2023,2023-11-05,2023-11-05T16:30:00Z,Heidenheim,Stuttgart,2,0,1.23302,3.07578,1.23302,2.28738,0.3801,0.2202,19,17,m_3N8dtY,FC Heidenheim,VfB Stuttgart,1
+D1|2023-11-05|Wolfsburg|Werder Bremen,D1,2023,2023-11-05,2023-11-05T14:30:00Z,Wolfsburg,Werder Bremen,2,2,1.57145,1.25965,1.57145,1.25965,1.2913,1.4423,14,13,m_4cGrT4,Wolfsburg,Werder Bremen,1
+D1|2023-11-10|M'gladbach|Wolfsburg,D1,2023,2023-11-10,2023-11-10T19:30:00Z,M'gladbach,Wolfsburg,4,0,1.53982,0.49082,1.53982,0.49082,2.7332,0.4235,15,12,m_3jVSTU,Borussia Mönchengladbach,Wolfsburg,1
+D1|2023-11-11|Augsburg|Hoffenheim,D1,2023,2023-11-11,2023-11-11T14:30:00Z,Augsburg,Hoffenheim,1,1,0.96303,0.85253,0.96303,0.85253,0.9128,0.9855,11,12,m_2w5JiD,Augsburg,Hoffenheim,1
+D1|2023-11-11|Bayern Munich|Heidenheim,D1,2023,2023-11-11,2023-11-11T14:30:00Z,Bayern Munich,Heidenheim,4,2,1.99049,0.94664,1.99049,0.94664,2.1503,1.1927,19,8,m_4fQJc1,Bayern München,FC Heidenheim,1
+D1|2023-11-11|Bochum|FC Koln,D1,2023,2023-11-11,2023-11-11T17:30:00Z,Bochum,FC Koln,1,1,4.04734,0.94369,4.04734,0.94369,3.8724,1.0615,25,11,m_2SYQin,Bochum,1. FC Köln,1
+D1|2023-11-11|Darmstadt|Mainz,D1,2023,2023-11-11,2023-11-11T14:30:00Z,Darmstadt,Mainz,0,0,0.49234,0.66514,0.49234,0.66514,0.335,0.2521,10,11,m_1a34Gp,Darmstadt,Mainz 05,1
+D1|2023-11-11|Stuttgart|Dortmund,D1,2023,2023-11-11,2023-11-11T14:30:00Z,Stuttgart,Dortmund,2,1,4.41991,0.95735,2.84311,0.95735,3.7093,0.9436,22,5,m_0tFk45,VfB Stuttgart,Borussia Dortmund,1
+D1|2023-11-12|Leverkusen|Union Berlin,D1,2023,2023-11-12,2023-11-12T14:30:00Z,Leverkusen,Union Berlin,4,0,2.44487,0.03516,2.44487,0.03516,3.2231,0.3557,18,2,m_4eB1cF,Bayer Leverkusen,Union Berlin,1
+D1|2023-11-12|RB Leipzig|Freiburg,D1,2023,2023-11-12,2023-11-12T18:30:00Z,RB Leipzig,Freiburg,3,1,1.90265,0.53707,1.11425,0.53707,2.3538,0.6287,15,9,m_1f0LVf,RB Leipzig,Freiburg,1
+D1|2023-11-12|Werder Bremen|Ein Frankfurt,D1,2023,2023-11-12,2023-11-12T16:30:00Z,Werder Bremen,Ein Frankfurt,2,2,1.54717,2.01188,0.75877,2.01188,2.2273,1.3115,13,14,m_2hsH6W,Werder Bremen,Eintracht Frankfurt,1
+D1|2023-11-24|FC Koln|Bayern Munich,D1,2023,2023-11-24,2023-11-24T19:30:00Z,FC Koln,Bayern Munich,0,1,0.20614,3.89477,0.20614,3.89477,0.0596,2.4656,6,21,m_2YE2Kd,1. FC Köln,Bayern München,1
+D1|2023-11-25|Dortmund|M'gladbach,D1,2023,2023-11-25,2023-11-25T14:30:00Z,Dortmund,M'gladbach,4,2,3.23332,0.99169,3.23332,0.99169,4.8313,1.3578,23,10,m_1wttW5,Borussia Dortmund,Borussia Mönchengladbach,1
+D1|2023-11-25|Ein Frankfurt|Stuttgart,D1,2023,2023-11-25,2023-11-25T17:30:00Z,Ein Frankfurt,Stuttgart,1,2,0.93829,2.27983,0.93829,2.27983,0.042,2.0144,14,12,m_3SJlSI,Eintracht Frankfurt,VfB Stuttgart,1
+D1|2023-11-25|Freiburg|Darmstadt,D1,2023,2023-11-25,2023-11-25T14:30:00Z,Freiburg,Darmstadt,1,1,1.64017,0.35329,1.64017,0.35329,0.7489,0.1135,15,7,m_1yOtCd,Freiburg,Darmstadt,1
+D1|2023-11-25|Union Berlin|Augsburg,D1,2023,2023-11-25,2023-11-25T14:30:00Z,Union Berlin,Augsburg,1,1,2.15497,1.69674,1.36657,0.90834,2.0979,0.9699,15,11,m_3LPKlS,Union Berlin,Augsburg,1
+D1|2023-11-25|Werder Bremen|Leverkusen,D1,2023,2023-11-25,2023-11-25T14:30:00Z,Werder Bremen,Leverkusen,0,3,0.18568,1.0363,0.18568,1.0363,0.1939,1.1617,3,14,m_0Hj0hg,Werder Bremen,Bayer Leverkusen,1
+D1|2023-11-25|Wolfsburg|RB Leipzig,D1,2023,2023-11-25,2023-11-25T14:30:00Z,Wolfsburg,RB Leipzig,2,1,0.95775,2.78308,0.95775,2.78308,0.8187,3.4245,10,25,m_2QjUb9,Wolfsburg,RB Leipzig,1
+D1|2023-11-26|Heidenheim|Bochum,D1,2023,2023-11-26,2023-11-26T14:30:00Z,Heidenheim,Bochum,0,0,0.75677,0.38854,0.75677,0.38854,0.1036,0.684,9,10,m_0B9ssU,FC Heidenheim,Bochum,1
+D1|2023-11-26|Hoffenheim|Mainz,D1,2023,2023-11-26,2023-11-26T16:30:00Z,Hoffenheim,Mainz,1,1,1.57887,1.75238,1.57887,0.96398,1.617,2.9736,15,14,m_34RFKl,Hoffenheim,Mainz 05,1
+D1|2023-12-01|Darmstadt|FC Koln,D1,2023,2023-12-01,2023-12-01T19:30:00Z,Darmstadt,FC Koln,0,1,0.71298,1.4942,0.71298,1.4942,0.9576,1.5403,11,12,m_06lgWS,Darmstadt,1. FC Köln,1
+D1|2023-12-02|Bochum|Wolfsburg,D1,2023,2023-12-02,2023-12-02T14:30:00Z,Bochum,Wolfsburg,3,1,1.50188,1.28984,1.50188,1.28984,1.3854,0.7112,20,16,m_2rms6k,Bochum,Wolfsburg,1
+D1|2023-12-02|M'gladbach|Hoffenheim,D1,2023,2023-12-02,2023-12-02T14:30:00Z,M'gladbach,Hoffenheim,2,1,1.64766,1.40678,0.85926,1.40678,2.2308,1.39,9,19,m_4WhkdY,Borussia Mönchengladbach,Hoffenheim,1
+D1|2023-12-02|RB Leipzig|Heidenheim,D1,2023,2023-12-02,2023-12-02T14:30:00Z,RB Leipzig,Heidenheim,2,1,4.06703,1.10987,3.27863,1.10987,3.7263,0.8666,23,7,m_4IPTCw,RB Leipzig,FC Heidenheim,1
+D1|2023-12-02|Stuttgart|Werder Bremen,D1,2023,2023-12-02,2023-12-02T17:30:00Z,Stuttgart,Werder Bremen,2,0,3.46783,0.83482,2.67943,0.83482,2.9356,0.1885,19,12,m_21TqTG,VfB Stuttgart,Werder Bremen,1
+D1|2023-12-03|Augsburg|Ein Frankfurt,D1,2023,2023-12-03,2023-12-03T18:30:00Z,Augsburg,Ein Frankfurt,2,1,1.41303,1.05207,0.62463,1.05207,2.3529,0.6097,9,14,m_2Rm8d4,Augsburg,Eintracht Frankfurt,1
+D1|2023-12-03|Leverkusen|Dortmund,D1,2023,2023-12-03,2023-12-03T16:30:00Z,Leverkusen,Dortmund,1,1,2.08551,0.72775,2.08551,0.72775,1.616,0.8538,23,6,m_1ujFRL,Bayer Leverkusen,Borussia Dortmund,1
+D1|2023-12-03|Mainz|Freiburg,D1,2023,2023-12-03,2023-12-03T14:30:00Z,Mainz,Freiburg,0,1,2.38248,0.91596,2.38248,0.91596,1.2906,1.1918,20,13,m_1Kc0Yf,Mainz 05,Freiburg,1
+D1|2023-12-08|Hoffenheim|Bochum,D1,2023,2023-12-08,2023-12-08T19:30:00Z,Hoffenheim,Bochum,3,1,1.5049,1.55432,1.5049,1.55432,2.4058,1.3887,17,23,m_1EkkKX,Hoffenheim,Bochum,1
+D1|2023-12-09|Dortmund|RB Leipzig,D1,2023,2023-12-09,2023-12-09T17:30:00Z,Dortmund,RB Leipzig,2,3,1.59133,2.92501,1.59133,2.92501,1.0021,1.9562,19,26,m_2T2JIi,Borussia Dortmund,RB Leipzig,1
+D1|2023-12-09|Ein Frankfurt|Bayern Munich,D1,2023,2023-12-09,2023-12-09T14:30:00Z,Ein Frankfurt,Bayern Munich,5,1,1.31955,2.08031,1.31955,2.08031,2.1965,0.5182,14,20,m_2nMTKP,Eintracht Frankfurt,Bayern München,1
+D1|2023-12-09|Heidenheim|Darmstadt,D1,2023,2023-12-09,2023-12-09T14:30:00Z,Heidenheim,Darmstadt,3,2,1.51263,0.9229,1.51263,0.9229,2.554,1.6236,17,20,m_0EmMzg,FC Heidenheim,Darmstadt,1
+D1|2023-12-09|Union Berlin|M'gladbach,D1,2023,2023-12-09,2023-12-09T14:30:00Z,Union Berlin,M'gladbach,3,1,2.05851,1.09065,1.27011,1.09065,1.481,0.9388,16,11,m_1f5j2E,Union Berlin,Borussia Mönchengladbach,1
+D1|2023-12-09|Werder Bremen|Augsburg,D1,2023,2023-12-09,2023-12-09T14:30:00Z,Werder Bremen,Augsburg,2,0,1.53337,0.72079,1.53337,0.72079,1.8455,0.0475,14,11,m_1YGPU4,Werder Bremen,Augsburg,1
+D1|2023-12-09|Wolfsburg|Freiburg,D1,2023,2023-12-09,2023-12-09T14:30:00Z,Wolfsburg,Freiburg,0,1,1.18811,1.09466,1.18811,1.09466,0.4173,0.2239,10,4,m_2SydCw,Wolfsburg,Freiburg,1
+D1|2023-12-10|FC Koln|Mainz,D1,2023,2023-12-10,2023-12-10T16:30:00Z,FC Koln,Mainz,0,0,0.28445,1.45753,0.28445,1.45753,0.2115,1.087,5,13,m_1mNGUU,1. FC Köln,Mainz 05,1
+D1|2023-12-10|Stuttgart|Leverkusen,D1,2023,2023-12-10,2023-12-10T14:30:00Z,Stuttgart,Leverkusen,1,1,2.74138,1.27492,2.74138,1.27492,2.4123,1.2094,22,18,m_4fN5kK,VfB Stuttgart,Bayer Leverkusen,1
+D1|2023-12-15|M'gladbach|Werder Bremen,D1,2023,2023-12-15,2023-12-15T19:30:00Z,M'gladbach,Werder Bremen,2,2,1.44741,1.56015,1.44741,1.56015,1.6692,2.4203,14,12,m_1D9HnE,Borussia Mönchengladbach,Werder Bremen,1
+D1|2023-12-16|Augsburg|Dortmund,D1,2023,2023-12-16,2023-12-16T14:30:00Z,Augsburg,Dortmund,1,1,1.81616,2.75425,1.81616,2.75425,1.2216,2.8724,20,24,m_24RKgQ,Augsburg,Borussia Dortmund,1
+D1|2023-12-16|Bochum|Union Berlin,D1,2023,2023-12-16,2023-12-16T14:30:00Z,Bochum,Union Berlin,3,0,2.85275,0.67464,2.06435,0.67464,2.6537,0.1342,22,9,m_0SCYaX,Bochum,Union Berlin,1
+D1|2023-12-16|Darmstadt|Wolfsburg,D1,2023,2023-12-16,2023-12-16T14:30:00Z,Darmstadt,Wolfsburg,0,1,0.64277,0.64048,0.64277,0.64048,1.3806,0.5378,13,11,m_0UbIrZ,Darmstadt,Wolfsburg,1
+D1|2023-12-16|Mainz|Heidenheim,D1,2023,2023-12-16,2023-12-16T14:30:00Z,Mainz,Heidenheim,0,1,1.63424,0.52935,1.63424,0.52935,0.1573,0.0754,19,6,m_0Gdg2t,Mainz 05,FC Heidenheim,1
+D1|2023-12-16|RB Leipzig|Hoffenheim,D1,2023,2023-12-16,2023-12-16T17:30:00Z,RB Leipzig,Hoffenheim,3,1,3.13568,0.81982,3.13568,0.81982,2.8932,0.1948,22,9,m_3APCEl,RB Leipzig,Hoffenheim,1
+D1|2023-12-17|Bayern Munich|Stuttgart,D1,2023,2023-12-17,2023-12-17T18:30:00Z,Bayern Munich,Stuttgart,3,0,2.87146,0.40784,2.87146,0.40784,2.4498,0.1548,17,6,m_0glPEj,Bayern München,VfB Stuttgart,1
+D1|2023-12-17|Freiburg|FC Koln,D1,2023,2023-12-17,2023-12-17T14:30:00Z,Freiburg,FC Koln,2,0,3.40162,1.15639,3.40162,1.15639,2.4031,0.2574,22,7,m_32MTJd,Freiburg,1. FC Köln,1
+D1|2023-12-17|Leverkusen|Ein Frankfurt,D1,2023,2023-12-17,2023-12-17T16:30:00Z,Leverkusen,Ein Frankfurt,3,0,2.68976,0.24794,2.68976,0.24794,2.1029,0.7981,14,4,m_1vIUfW,Bayer Leverkusen,Eintracht Frankfurt,1
+D1|2023-12-19|Dortmund|Mainz,D1,2023,2023-12-19,2023-12-19T19:30:00Z,Dortmund,Mainz,1,1,1.20679,0.95134,1.20679,0.95134,1.0137,1.0735,22,11,m_0Clj7W,Borussia Dortmund,Mainz 05,1
+D1|2023-12-19|Hoffenheim|Darmstadt,D1,2023,2023-12-19,2023-12-19T19:30:00Z,Hoffenheim,Darmstadt,3,3,3.51892,0.83594,2.73052,0.83594,2.2828,1.4212,14,15,m_0DEUNA,Hoffenheim,Darmstadt,1
+D1|2023-12-19|Werder Bremen|RB Leipzig,D1,2023,2023-12-19,2023-12-19T17:30:00Z,Werder Bremen,RB Leipzig,1,1,1.50979,1.84746,1.50979,1.84746,0.2973,2.6927,11,17,m_4fACm0,Werder Bremen,RB Leipzig,1
+D1|2023-12-20|Ein Frankfurt|M'gladbach,D1,2023,2023-12-20,2023-12-20T19:30:00Z,Ein Frankfurt,M'gladbach,2,1,1.41981,0.33534,1.41981,0.33534,2.0557,0.6057,14,7,m_2yJL2L,Eintracht Frankfurt,Borussia Mönchengladbach,1
+D1|2023-12-20|Heidenheim|Freiburg,D1,2023,2023-12-20,2023-12-20T19:30:00Z,Heidenheim,Freiburg,3,2,1.89932,1.84578,1.89932,1.05738,1.4097,1.789,15,12,m_0u8bhu,FC Heidenheim,Freiburg,1
+D1|2023-12-20|Leverkusen|Bochum,D1,2023,2023-12-20,2023-12-20T19:30:00Z,Leverkusen,Bochum,4,0,3.3163,0.37079,2.5279,0.37079,3.0089,0.1675,16,6,m_3FpcuH,Bayer Leverkusen,Bochum,1
+D1|2023-12-20|Stuttgart|Augsburg,D1,2023,2023-12-20,2023-12-20T19:30:00Z,Stuttgart,Augsburg,3,0,2.61762,0.25139,2.61762,0.25139,2.6151,0.3538,17,6,m_06xVyQ,VfB Stuttgart,Augsburg,1
+D1|2023-12-20|Union Berlin|FC Koln,D1,2023,2023-12-20,2023-12-20T17:30:00Z,Union Berlin,FC Koln,2,0,1.63361,0.81085,1.63361,0.81085,2.2096,1.5773,11,16,m_3iz2Xz,Union Berlin,1. FC Köln,1
+D1|2023-12-20|Wolfsburg|Bayern Munich,D1,2023,2023-12-20,2023-12-20T19:30:00Z,Wolfsburg,Bayern Munich,1,2,0.33257,2.84946,0.33257,2.84946,0.3672,1.7514,5,21,m_2mwaGU,Wolfsburg,Bayern München,1
+D1|2024-01-12|Bayern Munich|Hoffenheim,D1,2023,2024-01-12,2024-01-12T19:30:00Z,Bayern Munich,Hoffenheim,3,0,2.7767,1.21924,2.7767,1.21924,3.5701,0.756,27,11,m_22a0Vj,Bayern München,Hoffenheim,1
+D1|2024-01-13|Augsburg|Leverkusen,D1,2023,2024-01-13,2024-01-13T14:30:00Z,Augsburg,Leverkusen,0,1,0.50317,1.96794,0.50317,1.96794,0.0,1.2911,4,24,m_0BWMNh,Augsburg,Bayer Leverkusen,1
+D1|2024-01-13|Darmstadt|Dortmund,D1,2023,2024-01-13,2024-01-13T17:30:00Z,Darmstadt,Dortmund,0,3,1.04236,3.13581,1.04236,3.13581,0.1833,4.1892,11,17,m_2kl7G2,Darmstadt,Borussia Dortmund,1
+D1|2024-01-13|FC Koln|Heidenheim,D1,2023,2024-01-13,2024-01-13T14:30:00Z,FC Koln,Heidenheim,1,1,0.90251,0.96595,0.90251,0.96595,0.7059,0.4469,14,9,m_1Cmp5X,1. FC Köln,FC Heidenheim,1
+D1|2024-01-13|Freiburg|Union Berlin,D1,2023,2024-01-13,2024-01-13T14:30:00Z,Freiburg,Union Berlin,0,0,1.78928,0.46113,1.78928,0.46113,1.034,0.1519,13,9,m_29szs3,Freiburg,Union Berlin,1
+D1|2024-01-13|Mainz|Wolfsburg,D1,2023,2024-01-13,2024-01-13T14:30:00Z,Mainz,Wolfsburg,1,1,0.41762,0.5587,0.41762,0.5587,0.4586,0.4741,11,9,m_0D1bu8,Mainz 05,Wolfsburg,1
+D1|2024-01-13|RB Leipzig|Ein Frankfurt,D1,2023,2024-01-13,2024-01-13T14:30:00Z,RB Leipzig,Ein Frankfurt,0,1,3.55563,1.09334,3.55563,1.09334,0.9748,0.8475,31,5,m_1tSveL,RB Leipzig,Eintracht Frankfurt,1
+D1|2024-01-14|Bochum|Werder Bremen,D1,2023,2024-01-14,2024-01-14T14:30:00Z,Bochum,Werder Bremen,1,1,0.73186,0.80731,0.73186,0.80731,2.1331,0.1937,14,16,m_2o4FyA,Bochum,Werder Bremen,1
+D1|2024-01-14|M'gladbach|Stuttgart,D1,2023,2024-01-14,2024-01-14T16:30:00Z,M'gladbach,Stuttgart,3,1,1.97695,0.9248,1.97695,0.9248,2.1118,0.3756,8,15,m_0miSXO,Borussia Mönchengladbach,VfB Stuttgart,1
+D1|2024-01-20|Bochum|Stuttgart,D1,2023,2024-01-20,2024-01-20T14:30:00Z,Bochum,Stuttgart,1,0,0.8955,1.46811,0.8955,1.46811,0.7923,0.9356,6,19,m_1ZACvb,Bochum,VfB Stuttgart,1
+D1|2024-01-20|Darmstadt|Ein Frankfurt,D1,2023,2024-01-20,2024-01-20T14:30:00Z,Darmstadt,Ein Frankfurt,2,2,1.14699,1.29088,1.14699,1.29088,1.4817,1.594,12,8,m_3sG7AH,Darmstadt,Eintracht Frankfurt,1
+D1|2024-01-20|FC Koln|Dortmund,D1,2023,2024-01-20,2024-01-20T14:30:00Z,FC Koln,Dortmund,0,4,1.32846,3.37931,1.32846,2.59091,0.8001,3.8845,19,11,m_3iUC7g,1. FC Köln,Borussia Dortmund,1
+D1|2024-01-20|Freiburg|Hoffenheim,D1,2023,2024-01-20,2024-01-20T14:30:00Z,Freiburg,Hoffenheim,3,2,2.77337,1.44747,2.77337,1.44747,4.539,2.1609,18,16,m_2Lbxhr,Freiburg,Hoffenheim,1
+D1|2024-01-20|Heidenheim|Wolfsburg,D1,2023,2024-01-20,2024-01-20T14:30:00Z,Heidenheim,Wolfsburg,1,1,1.10865,1.05387,1.10865,1.05387,0.6605,1.0997,12,14,m_4WKt8s,FC Heidenheim,Wolfsburg,1
+D1|2024-01-20|RB Leipzig|Leverkusen,D1,2023,2024-01-20,2024-01-20T17:30:00Z,RB Leipzig,Leverkusen,2,3,1.62886,2.04303,1.62886,2.04303,1.739,2.2198,10,18,m_3d7PnZ,RB Leipzig,Bayer Leverkusen,1
+D1|2024-01-21|Bayern Munich|Werder Bremen,D1,2023,2024-01-21,2024-01-21T14:30:00Z,Bayern Munich,Werder Bremen,0,1,1.91676,0.42508,1.91676,0.42508,1.3098,0.8435,22,8,m_48cM9o,Bayern München,Werder Bremen,1
+D1|2024-01-21|M'gladbach|Augsburg,D1,2023,2024-01-21,2024-01-21T16:30:00Z,M'gladbach,Augsburg,1,2,2.13537,1.32518,2.13537,1.32518,1.1549,2.0491,18,15,m_0CUctc,Borussia Mönchengladbach,Augsburg,1
+D1|2024-01-24|Bayern Munich|Union Berlin,D1,2023,2024-01-24,2024-01-24T19:30:00Z,Bayern Munich,Union Berlin,1,0,2.16582,0.24559,2.16582,0.24559,3.2039,0.1662,22,4,m_0MYJ9k,Bayern München,Union Berlin,1
+D1|2024-01-26|Ein Frankfurt|Mainz,D1,2023,2024-01-26,2024-01-26T19:30:00Z,Ein Frankfurt,Mainz,1,0,1.85211,0.75971,1.85211,0.75971,0.8775,0.0,11,7,m_4aZI9U,Eintracht Frankfurt,Mainz 05,1
+D1|2024-01-27|Augsburg|Bayern Munich,D1,2023,2024-01-27,2024-01-27T14:30:00Z,Augsburg,Bayern Munich,2,3,2.60653,2.32686,1.02973,2.32686,3.4658,2.1422,15,13,m_1QiOzI,Augsburg,Bayern München,1
+D1|2024-01-27|Hoffenheim|Heidenheim,D1,2023,2024-01-27,2024-01-27T14:30:00Z,Hoffenheim,Heidenheim,1,1,2.99654,1.13727,2.20814,1.13727,2.8039,1.2813,23,14,m_1E1KvQ,Hoffenheim,FC Heidenheim,1
+D1|2024-01-27|Leverkusen|M'gladbach,D1,2023,2024-01-27,2024-01-27T17:30:00Z,Leverkusen,M'gladbach,0,0,2.99486,0.28382,2.99486,0.28382,1.8012,0.4401,28,4,m_4HVnB1,Bayer Leverkusen,Borussia Mönchengladbach,1
+D1|2024-01-27|Stuttgart|RB Leipzig,D1,2023,2024-01-27,2024-01-27T14:30:00Z,Stuttgart,RB Leipzig,5,2,2.28702,0.35654,1.49862,0.35654,2.8935,0.239,18,4,m_3KyM7H,VfB Stuttgart,RB Leipzig,1
+D1|2024-01-27|Werder Bremen|Freiburg,D1,2023,2024-01-27,2024-01-27T14:30:00Z,Werder Bremen,Freiburg,3,1,2.49382,1.17328,1.70542,0.38488,1.9915,2.2895,14,7,m_3Hy5vQ,Werder Bremen,Freiburg,1
+D1|2024-01-27|Wolfsburg|FC Koln,D1,2023,2024-01-27,2024-01-27T14:30:00Z,Wolfsburg,FC Koln,1,1,1.53307,0.59132,1.53307,0.59132,1.9286,0.5645,14,6,m_3fceo0,Wolfsburg,1. FC Köln,1
+D1|2024-01-28|Dortmund|Bochum,D1,2023,2024-01-28,2024-01-28T16:30:00Z,Dortmund,Bochum,3,1,2.96128,0.50825,1.38448,0.50825,3.4645,0.3177,20,11,m_0xl7LC,Borussia Dortmund,Bochum,1
+D1|2024-01-28|Union Berlin|Darmstadt,D1,2023,2024-01-28,2024-01-28T14:30:00Z,Union Berlin,Darmstadt,1,0,2.54991,1.13718,2.54991,1.13718,1.5715,0.0327,21,16,m_07WqHz,Union Berlin,Darmstadt,1
+D1|2024-02-02|Heidenheim|Dortmund,D1,2023,2024-02-02,2024-02-02T19:30:00Z,Heidenheim,Dortmund,0,0,1.11239,0.6724,1.11239,0.6724,0.0,0.2905,12,14,m_35nysI,FC Heidenheim,Borussia Dortmund,1
+D1|2024-02-03|Bayern Munich|M'gladbach,D1,2023,2024-02-03,2024-02-03T14:30:00Z,Bayern Munich,M'gladbach,3,1,2.08221,0.96031,2.08221,0.96031,1.8362,0.9198,20,11,m_23K5U4,Bayern München,Borussia Mönchengladbach,1
+D1|2024-02-03|Bochum|Augsburg,D1,2023,2024-02-03,2024-02-03T14:30:00Z,Bochum,Augsburg,1,1,0.93342,1.70738,0.93342,0.91898,1.1176,1.0695,10,14,m_3UDWET,Bochum,Augsburg,1
+D1|2024-02-03|Darmstadt|Leverkusen,D1,2023,2024-02-03,2024-02-03T14:30:00Z,Darmstadt,Leverkusen,0,2,0.56954,1.92919,0.56954,1.92919,0.9963,1.713,8,20,m_2Lhuhw,Darmstadt,Bayer Leverkusen,1
+D1|2024-02-03|FC Koln|Ein Frankfurt,D1,2023,2024-02-03,2024-02-03T17:30:00Z,FC Koln,Ein Frankfurt,2,0,1.35698,0.82608,1.35698,0.82608,2.3751,1.3842,15,11,m_3KRJuh,1. FC Köln,Eintracht Frankfurt,1
+D1|2024-02-03|Freiburg|Stuttgart,D1,2023,2024-02-03,2024-02-03T14:30:00Z,Freiburg,Stuttgart,1,3,0.7022,1.75907,0.7022,1.75907,0.5896,2.3105,6,17,m_33cWZ0,Freiburg,VfB Stuttgart,1
+D1|2024-02-03|Mainz|Werder Bremen,D1,2023,2024-02-03,2024-02-03T14:30:00Z,Mainz,Werder Bremen,0,1,0.79645,0.59413,0.79645,0.59413,1.1446,0.2668,23,6,m_47MIbF,Mainz 05,Werder Bremen,1
+D1|2024-02-04|RB Leipzig|Union Berlin,D1,2023,2024-02-04,2024-02-04T16:30:00Z,RB Leipzig,Union Berlin,2,0,1.14805,0.53314,1.14805,0.53314,1.1908,0.2435,16,10,m_04hhQw,RB Leipzig,Union Berlin,1
+D1|2024-02-04|Wolfsburg|Hoffenheim,D1,2023,2024-02-04,2024-02-04T14:30:00Z,Wolfsburg,Hoffenheim,2,2,1.71353,1.68066,0.92513,1.68066,2.5579,1.0669,14,17,m_30ZuNp,Wolfsburg,Hoffenheim,1
+D1|2024-02-07|Mainz|Union Berlin,D1,2023,2024-02-07,2024-02-07T17:30:00Z,Mainz,Union Berlin,1,1,1.37976,1.03632,1.37976,1.03632,1.4067,0.627,16,16,m_3teITt,Mainz 05,Union Berlin,1
+D1|2024-02-09|Dortmund|Freiburg,D1,2023,2024-02-09,2024-02-09T19:30:00Z,Dortmund,Freiburg,3,0,1.93817,0.25898,1.93817,0.25898,1.957,0.7645,17,6,m_2qUQ42,Borussia Dortmund,Freiburg,1
+D1|2024-02-10|Augsburg|RB Leipzig,D1,2023,2024-02-10,2024-02-10T14:30:00Z,Augsburg,RB Leipzig,2,2,0.74389,1.36333,0.74389,0.57493,1.0461,2.8322,11,9,m_0MNHix,Augsburg,RB Leipzig,1
+D1|2024-02-10|Ein Frankfurt|Bochum,D1,2023,2024-02-10,2024-02-10T14:30:00Z,Ein Frankfurt,Bochum,1,1,2.3896,1.53359,2.3896,1.53359,1.0245,0.3647,9,14,m_43nRUy,Eintracht Frankfurt,Bochum,1
+D1|2024-02-10|Leverkusen|Bayern Munich,D1,2023,2024-02-10,2024-02-10T17:30:00Z,Leverkusen,Bayern Munich,3,0,1.32393,0.55644,1.32393,0.55644,1.291,0.032,14,9,m_1owl0n,Bayer Leverkusen,Bayern München,1
+D1|2024-02-10|M'gladbach|Darmstadt,D1,2023,2024-02-10,2024-02-10T14:30:00Z,M'gladbach,Darmstadt,0,0,1.55275,0.77704,1.55275,0.77704,1.1841,0.0141,24,10,m_28BStB,Borussia Mönchengladbach,Darmstadt,1
+D1|2024-02-10|Union Berlin|Wolfsburg,D1,2023,2024-02-10,2024-02-10T14:30:00Z,Union Berlin,Wolfsburg,1,0,0.50292,1.32134,0.50292,1.32134,0.0762,0.707,8,17,m_2sioyn,Union Berlin,Wolfsburg,1
+D1|2024-02-10|Werder Bremen|Heidenheim,D1,2023,2024-02-10,2024-02-10T14:30:00Z,Werder Bremen,Heidenheim,1,2,1.76021,1.9788,1.76021,1.9788,1.0755,1.5006,15,11,m_3ZVt5L,Werder Bremen,FC Heidenheim,1
+D1|2024-02-11|Hoffenheim|FC Koln,D1,2023,2024-02-11,2024-02-11T16:30:00Z,Hoffenheim,FC Koln,1,1,1.25609,0.14227,1.25609,0.14227,0.2622,0.2436,10,6,m_1gw4dz,Hoffenheim,1. FC Köln,1
+D1|2024-02-11|Stuttgart|Mainz,D1,2023,2024-02-11,2024-02-11T14:30:00Z,Stuttgart,Mainz,3,1,1.93525,1.44853,1.93525,1.44853,4.4197,0.8566,11,17,m_4T6I2B,VfB Stuttgart,Mainz 05,1
+D1|2024-02-16|FC Koln|Werder Bremen,D1,2023,2024-02-16,2024-02-16T19:30:00Z,FC Koln,Werder Bremen,0,1,0.81039,1.79823,0.81039,1.79823,0.1909,0.9667,13,13,m_1vZSf0,1. FC Köln,Werder Bremen,1
+D1|2024-02-17|Darmstadt|Stuttgart,D1,2023,2024-02-17,2024-02-17T14:30:00Z,Darmstadt,Stuttgart,1,2,1.82309,1.83313,1.82309,1.83313,2.2278,1.9332,20,14,m_25SHHY,Darmstadt,VfB Stuttgart,1
+D1|2024-02-17|Heidenheim|Leverkusen,D1,2023,2024-02-17,2024-02-17T14:30:00Z,Heidenheim,Leverkusen,1,2,0.43247,1.88242,0.43247,1.88242,0.6572,1.222,6,18,m_0T2apq,FC Heidenheim,Bayer Leverkusen,1
+D1|2024-02-17|Hoffenheim|Union Berlin,D1,2023,2024-02-17,2024-02-17T14:30:00Z,Hoffenheim,Union Berlin,0,1,1.05356,1.42753,1.05356,1.42753,0.5308,1.4521,18,10,m_2s23gy,Hoffenheim,Union Berlin,1
+D1|2024-02-17|Mainz|Augsburg,D1,2023,2024-02-17,2024-02-17T14:30:00Z,Mainz,Augsburg,1,0,1.96569,0.71792,1.17729,0.71792,1.1105,0.4267,18,10,m_2PPQPN,Mainz 05,Augsburg,1
+D1|2024-02-17|RB Leipzig|M'gladbach,D1,2023,2024-02-17,2024-02-17T17:30:00Z,RB Leipzig,M'gladbach,2,0,1.68819,0.69943,1.68819,0.69943,2.1596,0.0,16,15,m_0yNQtL,RB Leipzig,Borussia Mönchengladbach,1
+D1|2024-02-17|Wolfsburg|Dortmund,D1,2023,2024-02-17,2024-02-17T14:30:00Z,Wolfsburg,Dortmund,1,1,1.85623,1.43953,1.85623,1.43953,1.8468,1.2579,11,12,m_0GvFrR,Wolfsburg,Borussia Dortmund,1
+D1|2024-02-18|Bochum|Bayern Munich,D1,2023,2024-02-18,2024-02-18T16:30:00Z,Bochum,Bayern Munich,3,2,1.66533,3.42605,0.87693,3.42605,1.9599,2.8918,13,27,m_3kEFcG,Bochum,Bayern München,1
+D1|2024-02-18|Freiburg|Ein Frankfurt,D1,2023,2024-02-18,2024-02-18T14:30:00Z,Freiburg,Ein Frankfurt,3,3,2.26641,1.00796,1.47801,1.00796,3.0403,2.2049,13,10,m_4XlqZU,Freiburg,Eintracht Frankfurt,1
+D1|2024-02-23|Leverkusen|Mainz,D1,2023,2024-02-23,2024-02-23T19:30:00Z,Leverkusen,Mainz,2,1,1.15502,1.11197,1.15502,1.11197,2.063,0.3294,17,13,m_3ukgGd,Bayer Leverkusen,Mainz 05,1
+D1|2024-02-24|Bayern Munich|RB Leipzig,D1,2023,2024-02-24,2024-02-24T17:30:00Z,Bayern Munich,RB Leipzig,2,1,1.5405,0.88221,1.5405,0.88221,1.6794,1.4861,16,11,m_2BP0Ro,Bayern München,RB Leipzig,1
+D1|2024-02-24|M'gladbach|Bochum,D1,2023,2024-02-24,2024-02-24T14:40:00Z,M'gladbach,Bochum,5,2,3.65124,1.58695,2.86284,1.58695,3.044,1.6386,22,16,m_4ATS7k,Borussia Mönchengladbach,Bochum,1
+D1|2024-02-24|Stuttgart|FC Koln,D1,2023,2024-02-24,2024-02-24T14:30:00Z,Stuttgart,FC Koln,1,1,2.29516,0.69569,2.29516,0.69569,0.9644,0.945,13,12,m_1PsDC5,VfB Stuttgart,1. FC Köln,1
+D1|2024-02-24|Union Berlin|Heidenheim,D1,2023,2024-02-24,2024-02-24T14:30:00Z,Union Berlin,Heidenheim,2,2,1.05343,1.11972,1.05343,1.11972,0.684,1.1285,12,10,m_2eFyMw,Union Berlin,FC Heidenheim,1
+D1|2024-02-24|Werder Bremen|Darmstadt,D1,2023,2024-02-24,2024-02-24T14:30:00Z,Werder Bremen,Darmstadt,1,1,1.82039,0.96079,1.82039,0.96079,1.0611,0.4756,15,13,m_0Qv5lJ,Werder Bremen,Darmstadt,1
+D1|2024-02-25|Augsburg|Freiburg,D1,2023,2024-02-25,2024-02-25T18:30:00Z,Augsburg,Freiburg,2,1,1.69214,1.60777,1.69214,0.81937,2.8375,0.994,19,5,m_0Yu0R8,Augsburg,Freiburg,1
+D1|2024-02-25|Dortmund|Hoffenheim,D1,2023,2024-02-25,2024-02-25T16:30:00Z,Dortmund,Hoffenheim,2,3,1.94485,1.25448,1.94485,1.25448,2.7283,1.6053,21,9,m_1izTDU,Borussia Dortmund,Hoffenheim,1
+D1|2024-02-25|Ein Frankfurt|Wolfsburg,D1,2023,2024-02-25,2024-02-25T14:30:00Z,Ein Frankfurt,Wolfsburg,2,2,0.91633,1.02362,0.91633,1.02362,1.8795,1.7692,12,14,m_015fEY,Eintracht Frankfurt,Wolfsburg,1
+D1|2024-03-01|Freiburg|Bayern Munich,D1,2023,2024-03-01,2024-03-01T19:30:00Z,Freiburg,Bayern Munich,2,2,1.72356,1.80727,1.72356,1.80727,2.4517,2.8016,17,20,m_1vDkol,Freiburg,Bayern München,1
+D1|2024-03-02|Bochum|RB Leipzig,D1,2023,2024-03-02,2024-03-02T14:30:00Z,Bochum,RB Leipzig,1,4,0.83402,2.12734,0.83402,2.12734,0.7147,2.7037,15,12,m_06kIas,Bochum,RB Leipzig,1
+D1|2024-03-02|Darmstadt|Augsburg,D1,2023,2024-03-02,2024-03-02T14:30:00Z,Darmstadt,Augsburg,0,6,0.7997,2.87881,0.7997,2.87881,1.1292,3.2863,10,22,m_2mh1RG,Darmstadt,Augsburg,1
+D1|2024-03-02|Heidenheim|Ein Frankfurt,D1,2023,2024-03-02,2024-03-02T14:30:00Z,Heidenheim,Ein Frankfurt,1,2,1.01333,1.24347,1.01333,1.24347,0.6255,0.934,16,10,m_4I8A8w,FC Heidenheim,Eintracht Frankfurt,1
+D1|2024-03-02|Mainz|M'gladbach,D1,2023,2024-03-02,2024-03-02T14:30:00Z,Mainz,M'gladbach,1,1,0.98105,1.01623,0.98105,1.01623,0.9496,1.457,19,14,m_2wNDQm,Mainz 05,Borussia Mönchengladbach,1
+D1|2024-03-02|Union Berlin|Dortmund,D1,2023,2024-03-02,2024-03-02T14:30:00Z,Union Berlin,Dortmund,0,2,1.09383,1.66507,1.09383,1.66507,0.4702,1.2248,14,13,m_1aeAci,Union Berlin,Borussia Dortmund,1
+D1|2024-03-02|Wolfsburg|Stuttgart,D1,2023,2024-03-02,2024-03-02T17:30:00Z,Wolfsburg,Stuttgart,2,3,0.86169,1.13571,0.86169,0.34731,0.9831,1.6456,12,7,m_22ZpI6,Wolfsburg,VfB Stuttgart,1
+D1|2024-03-03|FC Koln|Leverkusen,D1,2023,2024-03-03,2024-03-03T14:30:00Z,FC Koln,Leverkusen,0,2,0.99668,1.59238,0.99668,1.59238,0.0,1.2996,6,17,m_2kYHpG,1. FC Köln,Bayer Leverkusen,1
+D1|2024-03-03|Hoffenheim|Werder Bremen,D1,2023,2024-03-03,2024-03-03T16:30:00Z,Hoffenheim,Werder Bremen,2,1,1.70072,1.28712,1.70072,1.28712,1.6553,0.4208,14,18,m_21nFoG,Hoffenheim,Werder Bremen,1
+D1|2024-03-08|Stuttgart|Union Berlin,D1,2023,2024-03-08,2024-03-08T19:30:00Z,Stuttgart,Union Berlin,2,0,0.98689,0.90874,0.98689,0.90874,2.8861,0.3134,14,9,m_1wpJf5,VfB Stuttgart,Union Berlin,1
+D1|2024-03-09|Augsburg|Heidenheim,D1,2023,2024-03-09,2024-03-09T14:30:00Z,Augsburg,Heidenheim,1,0,0.54185,0.37556,0.54185,0.37556,0.5085,0.1245,7,6,m_3AugB3,Augsburg,FC Heidenheim,1
+D1|2024-03-09|Bayern Munich|Mainz,D1,2023,2024-03-09,2024-03-09T14:30:00Z,Bayern Munich,Mainz,8,1,6.55877,0.83751,6.55877,0.83751,7.6133,0.4258,24,14,m_21ziuF,Bayern München,Mainz 05,1
+D1|2024-03-09|M'gladbach|FC Koln,D1,2023,2024-03-09,2024-03-09T14:30:00Z,M'gladbach,FC Koln,3,3,1.82295,0.61612,1.82295,0.61612,2.0167,1.5087,17,12,m_3migx4,Borussia Mönchengladbach,1. FC Köln,1
+D1|2024-03-09|RB Leipzig|Darmstadt,D1,2023,2024-03-09,2024-03-09T14:30:00Z,RB Leipzig,Darmstadt,2,0,3.4196,0.55285,3.4196,0.55285,1.3848,0.7009,29,10,m_46Fl2s,RB Leipzig,Darmstadt,1
+D1|2024-03-09|Werder Bremen|Dortmund,D1,2023,2024-03-09,2024-03-09T17:30:00Z,Werder Bremen,Dortmund,1,2,1.81665,1.17562,1.81665,1.17562,1.422,1.6397,16,13,m_1qPbK4,Werder Bremen,Borussia Dortmund,1
+D1|2024-03-10|Bochum|Freiburg,D1,2023,2024-03-10,2024-03-10T14:30:00Z,Bochum,Freiburg,1,2,1.20362,1.40519,1.20362,1.40519,1.6241,1.5959,24,9,m_1mf2aY,Bochum,Freiburg,1
+D1|2024-03-10|Ein Frankfurt|Hoffenheim,D1,2023,2024-03-10,2024-03-10T16:30:00Z,Ein Frankfurt,Hoffenheim,3,1,2.42891,0.57031,2.42891,0.57031,2.681,0.4092,17,6,m_0wlu6K,Eintracht Frankfurt,Hoffenheim,1
+D1|2024-03-10|Leverkusen|Wolfsburg,D1,2023,2024-03-10,2024-03-10T18:30:00Z,Leverkusen,Wolfsburg,2,0,2.093,0.17333,2.093,0.17333,2.9427,0.0503,19,2,m_0q9T8e,Bayer Leverkusen,Wolfsburg,1
+D1|2024-03-15|FC Koln|RB Leipzig,D1,2023,2024-03-15,2024-03-15T19:30:00Z,FC Koln,RB Leipzig,1,5,1.28491,3.36725,1.28491,3.36725,0.7372,3.5062,10,22,m_0f6je9,1. FC Köln,RB Leipzig,1
+D1|2024-03-16|Darmstadt|Bayern Munich,D1,2023,2024-03-16,2024-03-16T14:30:00Z,Darmstadt,Bayern Munich,2,5,1.18086,3.74441,1.18086,3.74441,1.612,4.2243,7,27,m_4V4Pxs,Darmstadt,Bayern München,1
+D1|2024-03-16|Heidenheim|M'gladbach,D1,2023,2024-03-16,2024-03-16T14:30:00Z,Heidenheim,M'gladbach,1,1,1.17075,0.52421,1.17075,0.52421,0.4224,0.9387,19,7,m_0Oe5js,FC Heidenheim,Borussia Mönchengladbach,1
+D1|2024-03-16|Hoffenheim|Stuttgart,D1,2023,2024-03-16,2024-03-16T17:30:00Z,Hoffenheim,Stuttgart,0,3,0.44603,3.65718,0.44603,3.65718,0.1296,3.5963,7,25,m_0fGZdJ,Hoffenheim,VfB Stuttgart,1
+D1|2024-03-16|Mainz|Bochum,D1,2023,2024-03-16,2024-03-16T14:30:00Z,Mainz,Bochum,2,0,2.4838,0.79516,1.6954,0.79516,2.5635,0.033,15,11,m_25Maiy,Mainz 05,Bochum,1
+D1|2024-03-16|Union Berlin|Werder Bremen,D1,2023,2024-03-16,2024-03-16T14:30:00Z,Union Berlin,Werder Bremen,2,1,1.15503,1.05449,1.15503,1.05449,2.2285,0.4442,11,11,m_06O49v,Union Berlin,Werder Bremen,1
+D1|2024-03-16|Wolfsburg|Augsburg,D1,2023,2024-03-16,2024-03-16T14:30:00Z,Wolfsburg,Augsburg,1,3,1.35594,0.75062,1.35594,0.75062,0.8576,1.1336,15,15,m_1ZzwXX,Wolfsburg,Augsburg,1
+D1|2024-03-17|Dortmund|Ein Frankfurt,D1,2023,2024-03-17,2024-03-17T16:30:00Z,Dortmund,Ein Frankfurt,3,1,2.2749,0.97604,1.4865,0.97604,2.7275,1.5938,16,9,m_42s1Xo,Borussia Dortmund,Eintracht Frankfurt,1
+D1|2024-03-17|Freiburg|Leverkusen,D1,2023,2024-03-17,2024-03-17T14:30:00Z,Freiburg,Leverkusen,2,3,0.93239,2.34943,0.93239,2.34943,1.0581,1.6752,11,19,m_4Blx7Z,Freiburg,Bayer Leverkusen,1
+D1|2024-03-30|Bayern Munich|Dortmund,D1,2023,2024-03-30,2024-03-30T17:30:00Z,Bayern Munich,Dortmund,0,2,1.52977,0.88107,1.52977,0.88107,0.0919,2.2691,17,11,m_2JHpHo,Bayern München,Borussia Dortmund,1
+D1|2024-03-30|Ein Frankfurt|Union Berlin,D1,2023,2024-03-30,2024-03-30T14:30:00Z,Ein Frankfurt,Union Berlin,0,0,1.06374,1.47872,1.06374,1.47872,0.2829,0.8772,16,11,m_0PWrgs,Eintracht Frankfurt,Union Berlin,1
+D1|2024-03-30|Leverkusen|Hoffenheim,D1,2023,2024-03-30,2024-03-30T14:30:00Z,Leverkusen,Hoffenheim,2,1,3.16124,0.75453,3.16124,0.75453,2.2592,0.4642,34,6,m_3T8t6p,Bayer Leverkusen,Hoffenheim,1
+D1|2024-03-30|M'gladbach|Freiburg,D1,2023,2024-03-30,2024-03-30T14:30:00Z,M'gladbach,Freiburg,0,3,1.55103,1.77091,1.55103,1.77091,0.3443,2.621,19,14,m_3Tdx8k,Borussia Mönchengladbach,Freiburg,1
+D1|2024-03-30|RB Leipzig|Mainz,D1,2023,2024-03-30,2024-03-30T14:30:00Z,RB Leipzig,Mainz,0,0,2.76698,0.92107,2.76698,0.92107,2.5751,0.0698,20,8,m_2AyCb9,RB Leipzig,Mainz 05,1
+D1|2024-03-30|Werder Bremen|Wolfsburg,D1,2023,2024-03-30,2024-03-30T14:30:00Z,Werder Bremen,Wolfsburg,0,2,0.5217,2.38058,0.5217,2.38058,0.3035,2.0132,6,16,m_2k5buf,Werder Bremen,Wolfsburg,1
+D1|2024-03-31|Augsburg|FC Koln,D1,2023,2024-03-31,2024-03-31T13:30:00Z,Augsburg,FC Koln,1,1,2.22301,1.32692,2.22301,1.32692,1.5114,1.2029,25,12,m_00R1We,Augsburg,1. FC Köln,1
+D1|2024-03-31|Bochum|Darmstadt,D1,2023,2024-03-31,2024-03-31T17:30:00Z,Bochum,Darmstadt,2,2,1.90923,0.86577,1.90923,0.86577,1.6083,0.3333,21,12,m_1dmDgE,Bochum,Darmstadt,1
+D1|2024-03-31|Stuttgart|Heidenheim,D1,2023,2024-03-31,2024-03-31T15:30:00Z,Stuttgart,Heidenheim,3,3,3.06509,1.32357,3.06509,1.32357,3.0041,1.6546,21,6,m_4Rieev,VfB Stuttgart,FC Heidenheim,1
+D1|2024-04-05|Ein Frankfurt|Werder Bremen,D1,2023,2024-04-05,2024-04-05T18:30:00Z,Ein Frankfurt,Werder Bremen,1,1,2.17524,1.70989,2.17524,1.70989,0.8943,1.8831,24,11,m_2R3R1s,Eintracht Frankfurt,Werder Bremen,1
+D1|2024-04-06|Dortmund|Stuttgart,D1,2023,2024-04-06,2024-04-06T16:30:00Z,Dortmund,Stuttgart,0,1,2.49733,1.56,2.49733,1.56,1.4383,0.9734,16,10,m_3eUkc5,Borussia Dortmund,VfB Stuttgart,1
+D1|2024-04-06|FC Koln|Bochum,D1,2023,2024-04-06,2024-04-06T13:30:00Z,FC Koln,Bochum,2,1,1.0738,0.6422,1.0738,0.6422,0.9408,0.6824,20,11,m_0bnpLl,1. FC Köln,Bochum,1
+D1|2024-04-06|Freiburg|RB Leipzig,D1,2023,2024-04-06,2024-04-06T13:30:00Z,Freiburg,RB Leipzig,1,4,1.64664,2.35159,0.85824,2.35159,0.4837,2.0842,13,14,m_3KWamo,Freiburg,RB Leipzig,1
+D1|2024-04-06|Heidenheim|Bayern Munich,D1,2023,2024-04-06,2024-04-06T13:30:00Z,Heidenheim,Bayern Munich,3,2,1.43971,1.89219,1.43971,1.89219,1.9896,3.6176,9,15,m_3GpnDU,FC Heidenheim,Bayern München,1
+D1|2024-04-06|Mainz|Darmstadt,D1,2023,2024-04-06,2024-04-06T13:30:00Z,Mainz,Darmstadt,4,0,3.68302,0.54527,3.68302,0.54527,4.41,0.3674,18,14,m_4DxAgT,Mainz 05,Darmstadt,1
+D1|2024-04-06|Union Berlin|Leverkusen,D1,2023,2024-04-06,2024-04-06T13:30:00Z,Union Berlin,Leverkusen,0,1,0.32018,3.00201,0.32018,2.21361,0.0,3.543,9,20,m_29az9k,Union Berlin,Bayer Leverkusen,1
+D1|2024-04-07|Hoffenheim|Augsburg,D1,2023,2024-04-07,2024-04-07T13:30:00Z,Hoffenheim,Augsburg,3,1,1.77748,1.10797,1.77748,1.10797,1.9595,1.0425,18,15,m_4Iufe8,Hoffenheim,Augsburg,1
+D1|2024-04-07|Wolfsburg|M'gladbach,D1,2023,2024-04-07,2024-04-07T15:30:00Z,Wolfsburg,M'gladbach,1,3,1.21016,1.08524,1.21016,1.08524,0.6063,1.703,13,10,m_2qCs7B,Wolfsburg,Borussia Mönchengladbach,1
+D1|2024-04-12|Augsburg|Union Berlin,D1,2023,2024-04-12,2024-04-12T18:30:00Z,Augsburg,Union Berlin,2,0,1.6198,1.59552,1.6198,1.59552,1.9074,0.3184,10,17,m_4AZ8y7,Augsburg,Union Berlin,1
+D1|2024-04-13|Bayern Munich|FC Koln,D1,2023,2024-04-13,2024-04-13T13:30:00Z,Bayern Munich,FC Koln,2,0,2.22432,0.87944,2.22432,0.87944,2.7677,0.9425,16,11,m_1dUCgf,Bayern München,1. FC Köln,1
+D1|2024-04-13|Bochum|Heidenheim,D1,2023,2024-04-13,2024-04-13T13:30:00Z,Bochum,Heidenheim,1,1,1.26115,0.97411,1.26115,0.97411,0.3335,0.6842,24,11,m_01Ohwa,Bochum,FC Heidenheim,1
+D1|2024-04-13|M'gladbach|Dortmund,D1,2023,2024-04-13,2024-04-13T13:30:00Z,M'gladbach,Dortmund,1,2,1.20483,1.32901,1.20483,0.54061,1.1327,1.5457,18,12,m_1h6g3Q,Borussia Mönchengladbach,Borussia Dortmund,1
+D1|2024-04-13|Mainz|Hoffenheim,D1,2023,2024-04-13,2024-04-13T13:30:00Z,Mainz,Hoffenheim,4,1,2.15457,0.38918,2.15457,0.38918,2.8729,0.5131,25,5,m_00wOXU,Mainz 05,Hoffenheim,1
+D1|2024-04-13|RB Leipzig|Wolfsburg,D1,2023,2024-04-13,2024-04-13T13:30:00Z,RB Leipzig,Wolfsburg,3,0,1.31969,0.38478,1.31969,0.38478,1.8858,0.209,16,10,m_3ues2M,RB Leipzig,Wolfsburg,1
+D1|2024-04-13|Stuttgart|Ein Frankfurt,D1,2023,2024-04-13,2024-04-13T16:30:00Z,Stuttgart,Ein Frankfurt,3,0,1.21655,0.59354,1.21655,0.59354,2.1203,1.0125,9,10,m_3xauU4,VfB Stuttgart,Eintracht Frankfurt,1
+D1|2024-04-14|Darmstadt|Freiburg,D1,2023,2024-04-14,2024-04-14T13:30:00Z,Darmstadt,Freiburg,0,1,1.08503,0.90751,1.08503,0.90751,0.3577,0.7829,17,9,m_2uWpBX,Darmstadt,Freiburg,1
+D1|2024-04-14|Leverkusen|Werder Bremen,D1,2023,2024-04-14,2024-04-14T15:30:00Z,Leverkusen,Werder Bremen,5,0,3.23232,0.67598,2.44392,0.67598,5.1549,1.3549,20,7,m_0XPLn9,Bayer Leverkusen,Werder Bremen,1
+D1|2024-04-19|Ein Frankfurt|Augsburg,D1,2023,2024-04-19,2024-04-19T18:30:00Z,Ein Frankfurt,Augsburg,3,1,1.84854,0.45069,1.84854,0.45069,1.4005,0.6128,12,6,m_3RQCVw,Eintracht Frankfurt,Augsburg,1
+D1|2024-04-20|FC Koln|Darmstadt,D1,2023,2024-04-20,2024-04-20T13:30:00Z,FC Koln,Darmstadt,0,2,1.03947,1.96952,1.03947,1.96952,0.7806,1.6484,19,12,m_0xF89c,1. FC Köln,Darmstadt,1
+D1|2024-04-20|Heidenheim|RB Leipzig,D1,2023,2024-04-20,2024-04-20T13:30:00Z,Heidenheim,RB Leipzig,1,2,1.03357,1.83731,1.03357,1.83731,1.666,1.1377,10,12,m_0Atyha,FC Heidenheim,RB Leipzig,1
+D1|2024-04-20|Hoffenheim|M'gladbach,D1,2023,2024-04-20,2024-04-20T13:30:00Z,Hoffenheim,M'gladbach,4,3,2.37248,1.03008,2.37248,1.03008,2.49,1.2691,28,13,m_07ZjtE,Hoffenheim,Borussia Mönchengladbach,1
+D1|2024-04-20|Union Berlin|Bayern Munich,D1,2023,2024-04-20,2024-04-20T16:30:00Z,Union Berlin,Bayern Munich,1,5,1.44871,1.43441,1.44871,1.43441,0.7695,2.051,15,19,m_1uANiO,Union Berlin,Bayern München,1
+D1|2024-04-20|Wolfsburg|Bochum,D1,2023,2024-04-20,2024-04-20T13:30:00Z,Wolfsburg,Bochum,1,0,0.84859,1.30366,0.84859,1.30366,0.6229,0.1626,9,13,m_1ahcvX,Wolfsburg,Bochum,1
+D1|2024-04-21|Dortmund|Leverkusen,D1,2023,2024-04-21,2024-04-21T15:30:00Z,Dortmund,Leverkusen,1,1,0.49114,1.13817,0.49114,1.13817,0.818,0.8957,8,13,m_25BQi6,Borussia Dortmund,Bayer Leverkusen,1
+D1|2024-04-21|Freiburg|Mainz,D1,2023,2024-04-21,2024-04-21T17:30:00Z,Freiburg,Mainz,1,1,1.11764,1.05994,1.11764,1.05994,0.9125,1.2784,6,16,m_1bFajg,Freiburg,Mainz 05,1
+D1|2024-04-21|Werder Bremen|Stuttgart,D1,2023,2024-04-21,2024-04-21T13:30:00Z,Werder Bremen,Stuttgart,2,1,1.54056,2.2202,0.75216,2.2202,1.8166,1.3098,9,15,m_2IqmxH,Werder Bremen,VfB Stuttgart,1
+D1|2024-04-26|Bochum|Hoffenheim,D1,2023,2024-04-26,2024-04-26T18:30:00Z,Bochum,Hoffenheim,3,2,3.36299,1.01215,3.36299,1.01215,3.2052,1.2969,36,10,m_1qBb7v,Bochum,Hoffenheim,1
+D1|2024-04-27|Augsburg|Werder Bremen,D1,2023,2024-04-27,2024-04-27T13:30:00Z,Augsburg,Werder Bremen,0,3,0.59367,2.0265,0.59367,1.2381,0.0506,2.5378,13,15,m_0mYdrZ,Augsburg,Werder Bremen,1
+D1|2024-04-27|Bayern Munich|Ein Frankfurt,D1,2023,2024-04-27,2024-04-27T13:30:00Z,Bayern Munich,Ein Frankfurt,2,1,3.36381,0.49321,2.57541,0.49321,3.522,0.4513,20,10,m_10WMuw,Bayern München,Eintracht Frankfurt,1
+D1|2024-04-27|Freiburg|Wolfsburg,D1,2023,2024-04-27,2024-04-27T13:30:00Z,Freiburg,Wolfsburg,1,2,2.27484,0.52918,1.48644,0.52918,0.5929,0.4501,15,13,m_0WsFFc,Freiburg,Wolfsburg,1
+D1|2024-04-27|Leverkusen|Stuttgart,D1,2023,2024-04-27,2024-04-27T16:30:00Z,Leverkusen,Stuttgart,2,2,1.46611,1.66177,1.46611,1.66177,1.6717,0.725,14,11,m_0fO8WZ,Bayer Leverkusen,VfB Stuttgart,1
+D1|2024-04-27|RB Leipzig|Dortmund,D1,2023,2024-04-27,2024-04-27T13:30:00Z,RB Leipzig,Dortmund,4,1,2.62161,1.6748,2.62161,1.6748,3.1291,1.7503,21,12,m_0dr10v,RB Leipzig,Borussia Dortmund,1
+D1|2024-04-28|Darmstadt|Heidenheim,D1,2023,2024-04-28,2024-04-28T17:30:00Z,Darmstadt,Heidenheim,0,1,0.72956,1.59128,0.72956,1.59128,0.5828,1.1612,11,17,m_3ALZbP,Darmstadt,FC Heidenheim,1
+D1|2024-04-28|M'gladbach|Union Berlin,D1,2023,2024-04-28,2024-04-28T13:30:00Z,M'gladbach,Union Berlin,0,0,0.89159,1.02176,0.89159,1.02176,0.4793,0.9654,13,14,m_2tuviQ,Borussia Mönchengladbach,Union Berlin,1
+D1|2024-04-28|Mainz|FC Koln,D1,2023,2024-04-28,2024-04-28T15:30:00Z,Mainz,FC Koln,1,1,1.58221,2.55229,1.58221,0.97549,1.112,2.3149,16,17,m_3TKURu,Mainz 05,1. FC Köln,1
+D1|2024-05-03|Hoffenheim|RB Leipzig,D1,2023,2024-05-03,2024-05-03T18:30:00Z,Hoffenheim,RB Leipzig,1,1,1.60509,0.81142,1.60509,0.81142,1.9969,1.9829,20,8,m_3xuIzP,Hoffenheim,RB Leipzig,1
+D1|2024-05-04|Dortmund|Augsburg,D1,2023,2024-05-04,2024-05-04T13:30:00Z,Dortmund,Augsburg,5,1,4.40105,2.66823,4.40105,2.66823,4.7081,0.4168,21,22,m_28hMYk,Borussia Dortmund,Augsburg,1
+D1|2024-05-04|FC Koln|Freiburg,D1,2023,2024-05-04,2024-05-04T16:30:00Z,FC Koln,Freiburg,0,0,0.9246,0.82103,0.9246,0.82103,0.875,0.0,19,4,m_44lkEm,1. FC Köln,Freiburg,1
+D1|2024-05-04|Stuttgart|Bayern Munich,D1,2023,2024-05-04,2024-05-04T13:30:00Z,Stuttgart,Bayern Munich,3,1,1.80824,1.70104,1.80824,0.91264,3.215,1.4115,24,10,m_3z7FB6,VfB Stuttgart,Bayern München,1
+D1|2024-05-04|Werder Bremen|M'gladbach,D1,2023,2024-05-04,2024-05-04T13:30:00Z,Werder Bremen,M'gladbach,2,2,1.43713,1.9537,1.43713,1.1653,0.9692,2.8082,18,17,m_1w2HUU,Werder Bremen,Borussia Mönchengladbach,1
+D1|2024-05-04|Wolfsburg|Darmstadt,D1,2023,2024-05-04,2024-05-04T13:30:00Z,Wolfsburg,Darmstadt,3,0,2.19449,0.37563,2.19449,0.37563,1.6708,0.2189,21,6,m_20ZeIv,Wolfsburg,Darmstadt,1
+D1|2024-05-05|Ein Frankfurt|Leverkusen,D1,2023,2024-05-05,2024-05-05T15:30:00Z,Ein Frankfurt,Leverkusen,1,5,1.95421,2.6805,1.95421,1.1037,1.6434,4.5024,17,9,m_1YOj3k,Eintracht Frankfurt,Bayer Leverkusen,1
+D1|2024-05-05|Heidenheim|Mainz,D1,2023,2024-05-05,2024-05-05T17:30:00Z,Heidenheim,Mainz,1,1,0.94331,1.4012,0.94331,1.4012,0.8444,1.0479,15,10,m_1fFI0r,FC Heidenheim,Mainz 05,1
+D1|2024-05-05|Union Berlin|Bochum,D1,2023,2024-05-05,2024-05-05T13:30:00Z,Union Berlin,Bochum,3,4,0.93585,1.42305,0.93585,1.42305,2.1762,1.9896,12,18,m_2EYsKK,Union Berlin,Bochum,1
+D1|2024-05-10|Augsburg|Stuttgart,D1,2023,2024-05-10,2024-05-10T18:30:00Z,Augsburg,Stuttgart,0,1,0.67656,1.92474,0.67656,1.92474,0.0161,1.514,9,19,m_1xQXLz,Augsburg,VfB Stuttgart,1
+D1|2024-05-11|FC Koln|Union Berlin,D1,2023,2024-05-11,2024-05-11T13:30:00Z,FC Koln,Union Berlin,3,2,3.20928,1.6392,2.42088,0.8508,2.0532,2.3085,18,13,m_2fVUPC,1. FC Köln,Union Berlin,1
+D1|2024-05-11|Freiburg|Heidenheim,D1,2023,2024-05-11,2024-05-11T13:30:00Z,Freiburg,Heidenheim,1,1,1.5759,0.45274,1.5759,0.45274,1.0787,1.1139,20,8,m_0xfFDL,Freiburg,FC Heidenheim,1
+D1|2024-05-11|M'gladbach|Ein Frankfurt,D1,2023,2024-05-11,2024-05-11T13:30:00Z,M'gladbach,Ein Frankfurt,1,1,0.43487,1.58771,0.43487,1.58771,0.8197,0.7588,6,17,m_0Vdrq1,Borussia Mönchengladbach,Eintracht Frankfurt,1
+D1|2024-05-11|Mainz|Dortmund,D1,2023,2024-05-11,2024-05-11T16:30:00Z,Mainz,Dortmund,3,0,2.21254,0.35581,2.21254,0.35581,2.9186,0.2328,14,9,m_12E9J6,Mainz 05,Borussia Dortmund,1
+D1|2024-05-11|RB Leipzig|Werder Bremen,D1,2023,2024-05-11,2024-05-11T13:30:00Z,RB Leipzig,Werder Bremen,1,1,1.47477,1.05452,1.47477,1.05452,1.57,0.784,14,11,m_1RyaBl,RB Leipzig,Werder Bremen,1
+D1|2024-05-12|Bayern Munich|Wolfsburg,D1,2023,2024-05-12,2024-05-12T15:30:00Z,Bayern Munich,Wolfsburg,2,0,0.2888,0.16258,0.2888,0.16258,0.5143,0.0531,6,5,m_0Aq8Li,Bayern München,Wolfsburg,1
+D1|2024-05-12|Bochum|Leverkusen,D1,2023,2024-05-12,2024-05-12T17:30:00Z,Bochum,Leverkusen,0,5,0.29534,4.29488,0.29534,3.50648,0.0,3.9137,3,29,m_3cmn5l,Bochum,Bayer Leverkusen,1
+D1|2024-05-12|Darmstadt|Hoffenheim,D1,2023,2024-05-12,2024-05-12T13:30:00Z,Darmstadt,Hoffenheim,0,6,0.63393,3.27068,0.63393,3.27068,0.0,3.8336,10,12,m_1RUObT,Darmstadt,Hoffenheim,1
+D1|2024-05-18|Dortmund|Darmstadt,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Dortmund,Darmstadt,4,0,2.86971,0.31565,2.86971,0.31565,3.1831,0.0,21,6,m_0lp0iB,Borussia Dortmund,Darmstadt,1
+D1|2024-05-18|Ein Frankfurt|RB Leipzig,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Ein Frankfurt,RB Leipzig,2,2,2.1175,1.62777,1.3291,0.83937,2.3083,1.4805,22,9,m_3Lpt3a,Eintracht Frankfurt,RB Leipzig,1
+D1|2024-05-18|Heidenheim|FC Koln,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Heidenheim,FC Koln,4,1,1.00922,3.16102,1.00922,3.16102,2.3451,2.7193,16,22,m_447PXu,FC Heidenheim,1. FC Köln,1
+D1|2024-05-18|Hoffenheim|Bayern Munich,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Hoffenheim,Bayern Munich,4,2,1.77674,1.5186,1.77674,1.5186,3.7834,2.0345,17,11,m_459apI,Hoffenheim,Bayern München,1
+D1|2024-05-18|Leverkusen|Augsburg,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Leverkusen,Augsburg,2,1,2.4493,1.174,2.4493,1.174,0.968,0.8873,20,10,m_2buLiw,Bayer Leverkusen,Augsburg,1
+D1|2024-05-18|Stuttgart|M'gladbach,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Stuttgart,M'gladbach,4,0,1.59332,1.46942,1.59332,1.46942,1.8081,1.1306,21,14,m_2Tdult,VfB Stuttgart,Borussia Mönchengladbach,1
+D1|2024-05-18|Union Berlin|Freiburg,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Union Berlin,Freiburg,2,1,2.4369,0.9803,0.8601,0.9803,2.8732,0.7331,13,13,m_1Tsw1A,Union Berlin,Freiburg,1
+D1|2024-05-18|Werder Bremen|Bochum,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Werder Bremen,Bochum,4,1,3.11515,2.09129,3.11515,2.09129,4.861,1.3568,26,27,m_0LyHWS,Werder Bremen,Bochum,1
+D1|2024-05-18|Wolfsburg|Mainz,D1,2023,2024-05-18,2024-05-18T13:30:00Z,Wolfsburg,Mainz,1,3,0.75723,1.86729,0.75723,1.86729,1.0783,2.8467,13,12,m_0LYoBI,Wolfsburg,Mainz 05,1

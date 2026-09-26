@@ -1,0 +1,307 @@
+match_key,div,season,date,kickoff_utc,home,away,hg,ag,home_xg,away_xg,home_npxg,away_npxg,home_xgot,away_xgot,home_shots,away_shots,pitch_id,pitch_home,pitch_away,mapped
+D1|2021-08-13|M'gladbach|Bayern Munich,D1,2021,2021-08-13,2021-08-13T18:30:00Z,M'gladbach,Bayern Munich,1,1,2.29875,2.58862,2.29875,2.58862,0.9177,2.1239,11,21,m_3K7zWS,Borussia Mönchengladbach,Bayern München,1
+D1|2021-08-14|Augsburg|Hoffenheim,D1,2021,2021-08-14,2021-08-14T13:30:00Z,Augsburg,Hoffenheim,0,4,0.62484,3.83052,0.62484,3.83052,0.0,3.5696,7,15,m_0LMadz,Augsburg,Hoffenheim,1
+D1|2021-08-14|Bielefeld|Freiburg,D1,2021,2021-08-14,2021-08-14T13:30:00Z,Bielefeld,Freiburg,0,0,0.4177,1.58837,0.4177,1.58837,0.7856,1.1721,10,15,m_0lX0k4,Arminia Bielefeld,Freiburg,1
+D1|2021-08-14|Dortmund|Ein Frankfurt,D1,2021,2021-08-14,2021-08-14T16:30:00Z,Dortmund,Ein Frankfurt,5,2,2.72484,1.40523,2.72484,1.40523,3.5868,0.9843,14,10,m_1JNsU4,Borussia Dortmund,Eintracht Frankfurt,1
+D1|2021-08-14|Stuttgart|Greuther Furth,D1,2021,2021-08-14,2021-08-14T13:30:00Z,Stuttgart,Greuther Furth,5,1,3.10919,1.16374,3.10919,1.16374,5.1668,1.1828,33,8,m_3ekN3j,VfB Stuttgart,Greuther Fürth,1
+D1|2021-08-14|Union Berlin|Leverkusen,D1,2021,2021-08-14,2021-08-14T13:30:00Z,Union Berlin,Leverkusen,1,1,0.47834,0.82751,0.47834,0.82751,0.6004,0.3405,8,16,m_4PPhJM,Union Berlin,Bayer Leverkusen,1
+D1|2021-08-14|Wolfsburg|Bochum,D1,2021,2021-08-14,2021-08-14T13:30:00Z,Wolfsburg,Bochum,1,0,2.60992,0.38856,1.82152,0.38856,2.4158,0.0297,19,7,m_4O5etD,Wolfsburg,Bochum,1
+D1|2021-08-15|FC Koln|Hertha,D1,2021,2021-08-15,2021-08-15T15:30:00Z,FC Koln,Hertha,3,1,1.60984,1.88732,1.60984,1.88732,2.3121,1.9819,14,10,m_1jex61,1. FC Köln,Hertha BSC,1
+D1|2021-08-15|Mainz|RB Leipzig,D1,2021,2021-08-15,2021-08-15T13:30:00Z,Mainz,RB Leipzig,1,0,1.23877,1.11756,1.23877,1.11756,1.15975,0.19153,8,13,m_1QWG79,Mainz 05,RB Leipzig,1
+D1|2021-08-20|RB Leipzig|Stuttgart,D1,2021,2021-08-20,2021-08-20T18:30:00Z,RB Leipzig,Stuttgart,4,0,4.05146,1.08371,3.26306,1.08371,4.8349,1.1056,28,11,m_4ZPjtF,RB Leipzig,VfB Stuttgart,1
+D1|2021-08-21|Bochum|Mainz,D1,2021,2021-08-21,2021-08-21T13:30:00Z,Bochum,Mainz,2,0,0.82418,0.91767,0.82418,0.91767,1.1903,0.63367,8,15,m_3kKg9T,Bochum,Mainz 05,1
+D1|2021-08-21|Ein Frankfurt|Augsburg,D1,2021,2021-08-21,2021-08-21T13:30:00Z,Ein Frankfurt,Augsburg,0,0,1.61064,0.28138,1.61064,0.28138,0.8645,0.0,21,4,m_29OOxH,Eintracht Frankfurt,Augsburg,1
+D1|2021-08-21|Freiburg|Dortmund,D1,2021,2021-08-21,2021-08-21T13:30:00Z,Freiburg,Dortmund,2,1,1.29428,1.64915,1.29428,1.64915,1.9602,0.8508,8,18,m_1drd4T,Freiburg,Borussia Dortmund,1
+D1|2021-08-21|Greuther Furth|Bielefeld,D1,2021,2021-08-21,2021-08-21T13:30:00Z,Greuther Furth,Bielefeld,1,1,2.57129,0.78737,1.78289,0.78737,1.1856,0.8191,20,9,m_2oZKAJ,Greuther Fürth,Arminia Bielefeld,1
+D1|2021-08-21|Hertha|Wolfsburg,D1,2021,2021-08-21,2021-08-21T13:35:00Z,Hertha,Wolfsburg,1,2,1.1579,0.99443,0.3695,0.99443,1.4129,0.9433,13,12,m_18kDjk,Hertha BSC,Wolfsburg,1
+D1|2021-08-21|Leverkusen|M'gladbach,D1,2021,2021-08-21,2021-08-21T16:30:00Z,Leverkusen,M'gladbach,4,0,2.23221,1.69364,2.23221,0.90524,2.8135,2.0798,12,11,m_4CawnJ,Bayer Leverkusen,Borussia Mönchengladbach,1
+D1|2021-08-22|Bayern Munich|FC Koln,D1,2021,2021-08-22,2021-08-22T15:30:00Z,Bayern Munich,FC Koln,3,2,2.68274,1.09799,2.68274,1.09799,3.047,1.53,18,10,m_0qFmTG,Bayern München,1. FC Köln,1
+D1|2021-08-22|Hoffenheim|Union Berlin,D1,2021,2021-08-22,2021-08-22T13:30:00Z,Hoffenheim,Union Berlin,2,2,1.02805,1.86381,1.02805,1.86381,1.297,2.735,7,12,m_4RvgWR,Hoffenheim,Union Berlin,1
+D1|2021-08-27|Dortmund|Hoffenheim,D1,2021,2021-08-27,2021-08-27T18:30:00Z,Dortmund,Hoffenheim,3,2,3.5369,2.28374,3.5369,2.28374,3.8046,3.7061,24,10,m_0Ojsng,Borussia Dortmund,Hoffenheim,1
+D1|2021-08-28|Augsburg|Leverkusen,D1,2021,2021-08-28,2021-08-28T13:30:00Z,Augsburg,Leverkusen,1,4,1.82425,1.95935,1.82425,1.95935,1.5742,1.6102,16,14,m_2bIith,Augsburg,Bayer Leverkusen,1
+D1|2021-08-28|Bayern Munich|Hertha,D1,2021,2021-08-28,2021-08-28T16:30:00Z,Bayern Munich,Hertha,5,0,2.90327,0.41959,2.90327,0.41959,3.3278,0.1663,16,7,m_472mvE,Bayern München,Hertha BSC,1
+D1|2021-08-28|Bielefeld|Ein Frankfurt,D1,2021,2021-08-28,2021-08-28T13:30:00Z,Bielefeld,Ein Frankfurt,1,1,0.57233,1.45532,0.57233,1.45532,0.6301,1.6626,13,11,m_2fsCGZ,Arminia Bielefeld,Eintracht Frankfurt,1
+D1|2021-08-28|FC Koln|Bochum,D1,2021,2021-08-28,2021-08-28T13:30:00Z,FC Koln,Bochum,2,1,3.17871,0.59642,3.17871,0.59642,1.857,0.3252,22,11,m_0LIRQ1,1. FC Köln,Bochum,1
+D1|2021-08-28|Mainz|Greuther Furth,D1,2021,2021-08-28,2021-08-28T13:30:00Z,Mainz,Greuther Furth,3,0,2.80646,0.17213,2.80646,0.17213,2.35742,0.42336,18,9,m_1Tz9CN,Mainz 05,Greuther Fürth,1
+D1|2021-08-28|Stuttgart|Freiburg,D1,2021,2021-08-28,2021-08-28T13:30:00Z,Stuttgart,Freiburg,2,3,1.8437,1.32345,1.8437,1.32345,2.9391,2.0942,17,15,m_2c6pSH,VfB Stuttgart,Freiburg,1
+D1|2021-08-29|Union Berlin|M'gladbach,D1,2021,2021-08-29,2021-08-29T13:30:00Z,Union Berlin,M'gladbach,2,1,1.92042,1.90265,1.92042,1.90265,1.7533,1.8752,11,20,m_2onaps,Union Berlin,Borussia Mönchengladbach,1
+D1|2021-08-29|Wolfsburg|RB Leipzig,D1,2021,2021-08-29,2021-08-29T15:30:00Z,Wolfsburg,RB Leipzig,1,0,0.82529,1.17763,0.82529,1.17763,1.0438,0.3478,8,11,m_0oVI95,Wolfsburg,RB Leipzig,1
+D1|2021-09-11|Freiburg|FC Koln,D1,2021,2021-09-11,2021-09-11T13:30:00Z,Freiburg,FC Koln,1,1,0.78292,1.11191,0.78292,1.11191,0.4503,1.1147,9,16,m_2eyv6F,Freiburg,1. FC Köln,1
+D1|2021-09-11|Greuther Furth|Wolfsburg,D1,2021,2021-09-11,2021-09-11T13:30:00Z,Greuther Furth,Wolfsburg,0,2,0.33297,1.44483,0.33297,0.65643,0.6979,1.4153,9,9,m_3f9XFm,Greuther Fürth,Wolfsburg,1
+D1|2021-09-11|Hoffenheim|Mainz,D1,2021,2021-09-11,2021-09-11T13:30:00Z,Hoffenheim,Mainz,0,2,0.68261,0.93266,0.68261,0.93266,0.0,2.12363,9,13,m_17RSj8,Hoffenheim,Mainz 05,1
+D1|2021-09-11|Leverkusen|Dortmund,D1,2021,2021-09-11,2021-09-11T13:30:00Z,Leverkusen,Dortmund,3,4,0.71512,1.85166,0.71512,1.06326,1.6251,2.8429,11,14,m_0ul2eB,Bayer Leverkusen,Borussia Dortmund,1
+D1|2021-09-11|RB Leipzig|Bayern Munich,D1,2021,2021-09-11,2021-09-11T16:30:00Z,RB Leipzig,Bayern Munich,1,4,0.47921,4.03865,0.47921,3.25025,0.6073,3.6472,10,18,m_18vox8,RB Leipzig,Bayern München,1
+D1|2021-09-11|Union Berlin|Augsburg,D1,2021,2021-09-11,2021-09-11T13:30:00Z,Union Berlin,Augsburg,0,0,1.03237,0.99983,1.03237,0.99983,1.095,0.87,16,14,m_0gQNvY,Union Berlin,Augsburg,1
+D1|2021-09-12|Bochum|Hertha,D1,2021,2021-09-12,2021-09-12T15:30:00Z,Bochum,Hertha,1,3,1.23765,0.31769,1.23765,0.31769,2.0505,0.9807,18,5,m_3ElpQH,Bochum,Hertha BSC,1
+D1|2021-09-12|Ein Frankfurt|Stuttgart,D1,2021,2021-09-12,2021-09-12T13:30:00Z,Ein Frankfurt,Stuttgart,1,1,1.09379,0.92143,1.09379,0.92143,0.6017,0.8975,17,9,m_0IzEnp,Eintracht Frankfurt,VfB Stuttgart,1
+D1|2021-09-12|M'gladbach|Bielefeld,D1,2021,2021-09-12,2021-09-12T17:30:00Z,M'gladbach,Bielefeld,3,1,1.69467,1.97928,1.69467,1.97928,1.8575,1.9298,18,18,m_3Nc9L2,Borussia Mönchengladbach,Arminia Bielefeld,1
+D1|2021-09-17|Hertha|Greuther Furth,D1,2021,2021-09-17,2021-09-17T18:30:00Z,Hertha,Greuther Furth,2,1,0.65155,1.4228,0.65155,0.6344,0.3678,1.26,14,12,m_2hloR7,Hertha BSC,Greuther Fürth,1
+D1|2021-09-18|Augsburg|M'gladbach,D1,2021,2021-09-18,2021-09-18T13:30:00Z,Augsburg,M'gladbach,1,0,0.32601,0.61788,0.32601,0.61788,0.725,0.0,5,11,m_3rcyRP,Augsburg,Borussia Mönchengladbach,1
+D1|2021-09-18|Bayern Munich|Bochum,D1,2021,2021-09-18,2021-09-18T13:30:00Z,Bayern Munich,Bochum,7,0,6.21323,0.4486,6.21323,0.4486,7.4902,0.0,24,6,m_0dUy9k,Bayern München,Bochum,1
+D1|2021-09-18|Bielefeld|Hoffenheim,D1,2021,2021-09-18,2021-09-18T13:30:00Z,Bielefeld,Hoffenheim,0,0,1.2508,1.13587,1.2508,1.13587,1.1768,0.2363,9,16,m_0bkxVb,Arminia Bielefeld,Hoffenheim,1
+D1|2021-09-18|FC Koln|RB Leipzig,D1,2021,2021-09-18,2021-09-18T16:30:00Z,FC Koln,RB Leipzig,1,1,1.7983,2.78226,1.7983,2.78226,1.24138,2.4806,14,19,m_4AfyaV,1. FC Köln,RB Leipzig,1
+D1|2021-09-18|Mainz|Freiburg,D1,2021,2021-09-18,2021-09-18T13:30:00Z,Mainz,Freiburg,0,0,0.95083,0.38789,0.95083,0.38789,0.87681,0.42271,11,7,m_0zI0Dm,Mainz 05,Freiburg,1
+D1|2021-09-19|Dortmund|Union Berlin,D1,2021,2021-09-19,2021-09-19T15:30:00Z,Dortmund,Union Berlin,4,2,0.93035,1.66484,0.93035,0.87644,2.3715,1.3145,13,10,m_2bzVUU,Borussia Dortmund,Union Berlin,1
+D1|2021-09-19|Stuttgart|Leverkusen,D1,2021,2021-09-19,2021-09-19T13:30:00Z,Stuttgart,Leverkusen,1,3,1.62055,1.41804,1.62055,1.41804,1.8462,1.8338,17,7,m_3U4OrV,VfB Stuttgart,Bayer Leverkusen,1
+D1|2021-09-19|Wolfsburg|Ein Frankfurt,D1,2021,2021-09-19,2021-09-19T17:30:00Z,Wolfsburg,Ein Frankfurt,1,1,1.23166,0.29043,1.23166,0.29043,1.2019,0.7539,14,5,m_36eunc,Wolfsburg,Eintracht Frankfurt,1
+D1|2021-09-24|Greuther Furth|Bayern Munich,D1,2021,2021-09-24,2021-09-24T18:30:00Z,Greuther Furth,Bayern Munich,1,3,0.74781,0.84247,0.74781,0.84247,1.5213,1.0939,11,12,m_0w03YV,Greuther Fürth,Bayern München,1
+D1|2021-09-25|Ein Frankfurt|FC Koln,D1,2021,2021-09-25,2021-09-25T13:30:00Z,Ein Frankfurt,FC Koln,1,1,0.95585,0.91408,0.95585,0.91408,0.6921,0.9731,10,14,m_3hcdpK,Eintracht Frankfurt,1. FC Köln,1
+D1|2021-09-25|Hoffenheim|Wolfsburg,D1,2021,2021-09-25,2021-09-25T13:30:00Z,Hoffenheim,Wolfsburg,3,1,1.54591,0.57187,1.54591,0.57187,1.9056,0.4989,11,13,m_33dHSf,Hoffenheim,Wolfsburg,1
+D1|2021-09-25|Leverkusen|Mainz,D1,2021,2021-09-25,2021-09-25T13:30:00Z,Leverkusen,Mainz,1,0,1.54651,0.94253,1.54651,0.94253,3.21197,1.03223,17,14,m_27PujC,Bayer Leverkusen,Mainz 05,1
+D1|2021-09-25|M'gladbach|Dortmund,D1,2021,2021-09-25,2021-09-25T16:30:00Z,M'gladbach,Dortmund,1,0,1.58646,0.40549,1.58646,0.40549,1.3311,0.0,15,8,m_0a9WX1,Borussia Mönchengladbach,Borussia Dortmund,1
+D1|2021-09-25|RB Leipzig|Hertha,D1,2021,2021-09-25,2021-09-25T13:30:00Z,RB Leipzig,Hertha,6,0,3.79027,0.21775,3.00187,0.21775,4.216,0.0523,18,4,m_0bUJzP,RB Leipzig,Hertha BSC,1
+D1|2021-09-25|Union Berlin|Bielefeld,D1,2021,2021-09-25,2021-09-25T13:30:00Z,Union Berlin,Bielefeld,1,0,1.2443,0.47892,1.2443,0.47892,0.5384,0.1922,17,10,m_1iJyJH,Union Berlin,Arminia Bielefeld,1
+D1|2021-09-26|Bochum|Stuttgart,D1,2021,2021-09-26,2021-09-26T13:30:00Z,Bochum,Stuttgart,0,0,0.7924,0.2854,0.7924,0.2854,0.5808,0.6473,15,8,m_1VDKvg,Bochum,VfB Stuttgart,1
+D1|2021-09-26|Freiburg|Augsburg,D1,2021,2021-09-26,2021-09-26T15:30:00Z,Freiburg,Augsburg,3,0,3.15642,0.23727,2.36802,0.23727,2.5626,0.2321,18,9,m_1n7NmC,Freiburg,Augsburg,1
+D1|2021-10-01|FC Koln|Greuther Furth,D1,2021,2021-10-01,2021-10-01T18:30:00Z,FC Koln,Greuther Furth,3,1,2.94691,1.54127,2.94691,1.54127,3.5933,0.8284,18,7,m_2Lh5a2,1. FC Köln,Greuther Fürth,1
+D1|2021-10-02|Dortmund|Augsburg,D1,2021,2021-10-02,2021-10-02T13:30:00Z,Dortmund,Augsburg,2,1,3.0914,0.79424,2.303,0.79424,1.8071,0.8331,20,6,m_3MyVhb,Borussia Dortmund,Augsburg,1
+D1|2021-10-02|Hertha|Freiburg,D1,2021,2021-10-02,2021-10-02T13:30:00Z,Hertha,Freiburg,1,2,1.05139,0.71985,1.05139,0.71985,0.8168,1.2559,12,11,m_3xDO81,Hertha BSC,Freiburg,1
+D1|2021-10-02|RB Leipzig|Bochum,D1,2021,2021-10-02,2021-10-02T16:30:00Z,RB Leipzig,Bochum,3,0,3.24833,1.5245,3.24833,1.5245,1.9117,0.0904,16,9,m_3s8VMW,RB Leipzig,Bochum,1
+D1|2021-10-02|Stuttgart|Hoffenheim,D1,2021,2021-10-02,2021-10-02T13:30:00Z,Stuttgart,Hoffenheim,3,1,0.76144,1.04665,0.76144,1.04665,1.3092,1.268,14,13,m_0pXmly,VfB Stuttgart,Hoffenheim,1
+D1|2021-10-02|Wolfsburg|M'gladbach,D1,2021,2021-10-02,2021-10-02T13:30:00Z,Wolfsburg,M'gladbach,1,3,1.35521,3.30112,1.35521,2.51272,1.6283,4.133,12,19,m_2SuaWo,Wolfsburg,Borussia Mönchengladbach,1
+D1|2021-10-03|Bayern Munich|Ein Frankfurt,D1,2021,2021-10-03,2021-10-03T15:30:00Z,Bayern Munich,Ein Frankfurt,1,2,2.15947,0.81678,2.15947,0.81678,2.1864,0.3786,20,5,m_2ndkY0,Bayern München,Eintracht Frankfurt,1
+D1|2021-10-03|Bielefeld|Leverkusen,D1,2021,2021-10-03,2021-10-03T17:30:00Z,Bielefeld,Leverkusen,0,4,0.4425,3.08765,0.4425,2.29925,0.1039,2.871,10,18,m_4SbR0L,Arminia Bielefeld,Bayer Leverkusen,1
+D1|2021-10-03|Mainz|Union Berlin,D1,2021,2021-10-03,2021-10-03T13:30:00Z,Mainz,Union Berlin,1,2,1.11,1.41715,1.11,1.41715,1.19575,0.84903,12,16,m_0AlrgU,Mainz 05,Union Berlin,1
+D1|2021-10-15|Hoffenheim|FC Koln,D1,2021,2021-10-15,2021-10-15T18:30:00Z,Hoffenheim,FC Koln,5,0,3.67477,0.66565,3.67477,0.66565,4.4514,0.0,14,10,m_1Qe3FB,Hoffenheim,1. FC Köln,1
+D1|2021-10-16|Dortmund|Mainz,D1,2021,2021-10-16,2021-10-16T13:30:00Z,Dortmund,Mainz,3,1,2.40187,0.81799,1.61347,0.81799,1.96056,0.81474,11,5,m_2Rbo8z,Borussia Dortmund,Mainz 05,1
+D1|2021-10-16|Ein Frankfurt|Hertha,D1,2021,2021-10-16,2021-10-16T13:30:00Z,Ein Frankfurt,Hertha,1,2,1.61067,1.75473,0.82227,1.75473,1.6042,2.3926,13,12,m_0AC9dY,Eintracht Frankfurt,Hertha BSC,1
+D1|2021-10-16|Freiburg|RB Leipzig,D1,2021,2021-10-16,2021-10-16T13:30:00Z,Freiburg,RB Leipzig,1,1,1.40562,1.77576,1.40562,0.98736,1.0606,1.1156,15,12,m_3dtk61,Freiburg,RB Leipzig,1
+D1|2021-10-16|Greuther Furth|Bochum,D1,2021,2021-10-16,2021-10-16T13:30:00Z,Greuther Furth,Bochum,0,1,0.83539,1.5769,0.83539,1.5769,0.5767,1.4807,11,10,m_2w6tD9,Greuther Fürth,Bochum,1
+D1|2021-10-16|M'gladbach|Stuttgart,D1,2021,2021-10-16,2021-10-16T16:30:00Z,M'gladbach,Stuttgart,1,1,2.63132,0.28857,2.63132,0.28857,1.7695,0.6645,31,5,m_2Cy3u4,Borussia Mönchengladbach,VfB Stuttgart,1
+D1|2021-10-16|Union Berlin|Wolfsburg,D1,2021,2021-10-16,2021-10-16T13:30:00Z,Union Berlin,Wolfsburg,2,0,0.85229,1.54719,0.85229,1.54719,1.5673,1.2945,5,13,m_2iFolJ,Union Berlin,Wolfsburg,1
+D1|2021-10-17|Augsburg|Bielefeld,D1,2021,2021-10-17,2021-10-17T15:30:00Z,Augsburg,Bielefeld,1,1,0.61766,0.29688,0.61766,0.29688,1.0747,0.4013,14,10,m_3oquGC,Augsburg,Arminia Bielefeld,1
+D1|2021-10-17|Leverkusen|Bayern Munich,D1,2021,2021-10-17,2021-10-17T13:30:00Z,Leverkusen,Bayern Munich,1,5,0.68781,3.26427,0.68781,3.26427,0.6474,3.6163,6,27,m_0tnewY,Bayer Leverkusen,Bayern München,1
+D1|2021-10-22|Mainz|Augsburg,D1,2021,2021-10-22,2021-10-22T18:30:00Z,Mainz,Augsburg,4,1,3.66062,0.91506,3.66062,0.91506,2.53958,0.70626,21,6,m_1eQhF0,Mainz 05,Augsburg,1
+D1|2021-10-23|Bayern Munich|Hoffenheim,D1,2021,2021-10-23,2021-10-23T13:30:00Z,Bayern Munich,Hoffenheim,4,0,2.81439,0.75015,2.81439,0.75015,2.2702,0.2245,15,9,m_268G2r,Bayern München,Hoffenheim,1
+D1|2021-10-23|Bielefeld|Dortmund,D1,2021,2021-10-23,2021-10-23T13:30:00Z,Bielefeld,Dortmund,1,3,1.43911,2.45153,0.65071,1.66313,2.1054,2.3003,16,14,m_1dPqPh,Arminia Bielefeld,Borussia Dortmund,1
+D1|2021-10-23|Hertha|M'gladbach,D1,2021,2021-10-23,2021-10-23T16:30:00Z,Hertha,M'gladbach,1,0,1.02125,0.46177,1.02125,0.46177,1.339,0.0276,10,10,m_1gtPFi,Hertha BSC,Borussia Mönchengladbach,1
+D1|2021-10-23|RB Leipzig|Greuther Furth,D1,2021,2021-10-23,2021-10-23T13:30:00Z,RB Leipzig,Greuther Furth,4,1,2.33614,1.42629,1.54774,0.63789,2.2184,1.6317,13,9,m_4cygKg,RB Leipzig,Greuther Fürth,1
+D1|2021-10-23|Wolfsburg|Freiburg,D1,2021,2021-10-23,2021-10-23T13:30:00Z,Wolfsburg,Freiburg,0,2,1.33814,1.87247,1.33814,1.87247,0.4988,2.6752,18,11,m_4W3Szs,Wolfsburg,Freiburg,1
+D1|2021-10-24|Bochum|Ein Frankfurt,D1,2021,2021-10-24,2021-10-24T17:30:00Z,Bochum,Ein Frankfurt,2,0,2.1777,1.62064,2.1777,0.83224,2.236,1.7702,19,16,m_0PMoWi,Bochum,Eintracht Frankfurt,1
+D1|2021-10-24|FC Koln|Leverkusen,D1,2021,2021-10-24,2021-10-24T13:30:00Z,FC Koln,Leverkusen,2,2,1.77984,0.95882,1.77984,0.95882,2.1517,2.3716,19,9,m_0d7jHK,1. FC Köln,Bayer Leverkusen,1
+D1|2021-10-24|Stuttgart|Union Berlin,D1,2021,2021-10-24,2021-10-24T15:30:00Z,Stuttgart,Union Berlin,1,1,0.46557,0.96104,0.46557,0.96104,0.5108,0.7779,8,12,m_2rhuUc,VfB Stuttgart,Union Berlin,1
+D1|2021-10-29|Hoffenheim|Hertha,D1,2021,2021-10-29,2021-10-29T18:30:00Z,Hoffenheim,Hertha,2,0,0.89507,0.31675,0.89507,0.31675,0.2675,0.7972,13,5,m_1aIhpV,Hoffenheim,Hertha BSC,1
+D1|2021-10-30|Bielefeld|Mainz,D1,2021,2021-10-30,2021-10-30T13:30:00Z,Bielefeld,Mainz,1,2,0.64174,2.60843,0.64174,2.60843,0.97113,2.66643,14,16,m_34gqUy,Arminia Bielefeld,Mainz 05,1
+D1|2021-10-30|Dortmund|FC Koln,D1,2021,2021-10-30,2021-10-30T13:30:00Z,Dortmund,FC Koln,2,0,1.35667,1.29321,1.35667,1.29321,1.6885,0.5811,8,21,m_4WMjaQ,Borussia Dortmund,1. FC Köln,1
+D1|2021-10-30|Ein Frankfurt|RB Leipzig,D1,2021,2021-10-30,2021-10-30T16:30:00Z,Ein Frankfurt,RB Leipzig,1,1,0.5671,3.13285,0.5671,3.13285,0.6079,2.3608,11,14,m_0jD2dM,Eintracht Frankfurt,RB Leipzig,1
+D1|2021-10-30|Freiburg|Greuther Furth,D1,2021,2021-10-30,2021-10-30T13:30:00Z,Freiburg,Greuther Furth,3,1,1.50756,0.81071,0.71916,0.81071,1.7172,0.8463,12,9,m_2Cif6N,Freiburg,Greuther Fürth,1
+D1|2021-10-30|Leverkusen|Wolfsburg,D1,2021,2021-10-30,2021-10-30T13:30:00Z,Leverkusen,Wolfsburg,0,2,1.53235,1.98538,0.74395,1.98538,0.9809,2.5342,13,12,m_1w32Lk,Bayer Leverkusen,Wolfsburg,1
+D1|2021-10-30|Union Berlin|Bayern Munich,D1,2021,2021-10-30,2021-10-30T13:30:00Z,Union Berlin,Bayern Munich,2,5,0.90606,3.23617,0.90606,2.44777,1.3926,4.0887,9,11,m_3yaCga,Union Berlin,Bayern München,1
+D1|2021-10-31|Augsburg|Stuttgart,D1,2021,2021-10-31,2021-10-31T14:30:00Z,Augsburg,Stuttgart,4,1,2.08274,0.88912,2.08274,0.88912,3.2721,0.6103,18,13,m_1QR6up,Augsburg,VfB Stuttgart,1
+D1|2021-10-31|M'gladbach|Bochum,D1,2021,2021-10-31,2021-10-31T16:30:00Z,M'gladbach,Bochum,2,1,1.91031,0.85084,1.91031,0.85084,1.5518,0.5624,15,12,m_4ZTNmP,Borussia Mönchengladbach,Bochum,1
+D1|2021-11-05|Mainz|M'gladbach,D1,2021,2021-11-05,2021-11-05T19:30:00Z,Mainz,M'gladbach,1,1,1.12923,1.58566,1.12923,1.58566,1.57097,1.08548,19,12,m_2w6UeO,Mainz 05,Borussia Mönchengladbach,1
+D1|2021-11-06|Bayern Munich|Freiburg,D1,2021,2021-11-06,2021-11-06T14:30:00Z,Bayern Munich,Freiburg,2,1,3.03085,0.98415,3.03085,0.98415,3.0835,0.9897,29,13,m_2SSf3T,Bayern München,Freiburg,1
+D1|2021-11-06|Bochum|Hoffenheim,D1,2021,2021-11-06,2021-11-06T14:30:00Z,Bochum,Hoffenheim,2,0,2.95847,0.56383,2.17007,0.56383,1.3517,0.1415,12,10,m_2LjF5r,Bochum,Hoffenheim,1
+D1|2021-11-06|RB Leipzig|Dortmund,D1,2021,2021-11-06,2021-11-06T17:30:00Z,RB Leipzig,Dortmund,2,1,2.6225,0.88928,2.6225,0.88928,1.6452,0.3426,14,11,m_2rcCJK,RB Leipzig,Borussia Dortmund,1
+D1|2021-11-06|Stuttgart|Bielefeld,D1,2021,2021-11-06,2021-11-06T14:30:00Z,Stuttgart,Bielefeld,0,1,0.93634,1.76663,0.93634,1.76663,0.2887,0.9393,9,15,m_2Val82,VfB Stuttgart,Arminia Bielefeld,1
+D1|2021-11-06|Wolfsburg|Augsburg,D1,2021,2021-11-06,2021-11-06T14:30:00Z,Wolfsburg,Augsburg,1,0,0.48607,0.71756,0.48607,0.71756,0.6698,0.5528,8,10,m_2NaTEZ,Wolfsburg,Augsburg,1
+D1|2021-11-07|FC Koln|Union Berlin,D1,2021,2021-11-07,2021-11-07T16:30:00Z,FC Koln,Union Berlin,2,2,1.78847,1.02393,1.78847,1.02393,1.5736,0.7638,18,10,m_2pd1jn,1. FC Köln,Union Berlin,1
+D1|2021-11-07|Greuther Furth|Ein Frankfurt,D1,2021,2021-11-07,2021-11-07T18:30:00Z,Greuther Furth,Ein Frankfurt,1,2,2.47507,1.25485,2.47507,1.25485,1.7282,1.572,20,16,m_10R7cj,Greuther Fürth,Eintracht Frankfurt,1
+D1|2021-11-07|Hertha|Leverkusen,D1,2021,2021-11-07,2021-11-07T14:30:00Z,Hertha,Leverkusen,1,1,0.77599,0.99968,0.77599,0.99968,0.5624,1.2077,15,9,m_0FZXSg,Hertha BSC,Bayer Leverkusen,1
+D1|2021-11-19|Augsburg|Bayern Munich,D1,2021,2021-11-19,2021-11-19T19:30:00Z,Augsburg,Bayern Munich,2,1,0.43377,1.26403,0.43377,1.26403,1.1947,1.246,5,18,m_3kctEu,Augsburg,Bayern München,1
+D1|2021-11-20|Bielefeld|Wolfsburg,D1,2021,2021-11-20,2021-11-20T14:30:00Z,Bielefeld,Wolfsburg,2,2,1.2659,1.93299,0.4775,1.93299,2.0612,1.9813,10,13,m_2VKnXn,Arminia Bielefeld,Wolfsburg,1
+D1|2021-11-20|Dortmund|Stuttgart,D1,2021,2021-11-20,2021-11-20T14:30:00Z,Dortmund,Stuttgart,2,1,2.63132,1.61137,2.63132,1.61137,2.429,1.1073,21,13,m_48Si8M,Borussia Dortmund,VfB Stuttgart,1
+D1|2021-11-20|Hoffenheim|RB Leipzig,D1,2021,2021-11-20,2021-11-20T14:30:00Z,Hoffenheim,RB Leipzig,2,0,3.20491,0.24824,3.20491,0.24824,1.5146,0.0,23,5,m_44yeho,Hoffenheim,RB Leipzig,1
+D1|2021-11-20|Leverkusen|Bochum,D1,2021,2021-11-20,2021-11-20T14:30:00Z,Leverkusen,Bochum,1,0,1.68113,0.84545,1.68113,0.84545,0.6089,0.5329,11,21,m_4K7yM0,Bayer Leverkusen,Bochum,1
+D1|2021-11-20|M'gladbach|Greuther Furth,D1,2021,2021-11-20,2021-11-20T14:30:00Z,M'gladbach,Greuther Furth,4,0,3.1534,0.23714,3.1534,0.23714,4.594,0.0346,18,5,m_3QFGLD,Borussia Mönchengladbach,Greuther Fürth,1
+D1|2021-11-20|Union Berlin|Hertha,D1,2021,2021-11-20,2021-11-20T17:30:00Z,Union Berlin,Hertha,2,0,1.54137,0.43934,1.54137,0.43934,1.469,0.0737,15,8,m_30VmyN,Union Berlin,Hertha BSC,1
+D1|2021-11-21|Freiburg|Ein Frankfurt,D1,2021,2021-11-21,2021-11-21T14:30:00Z,Freiburg,Ein Frankfurt,0,2,1.42713,1.2466,1.42713,1.2466,1.8074,2.2954,21,13,m_0Vb0eA,Freiburg,Eintracht Frankfurt,1
+D1|2021-11-21|Mainz|FC Koln,D1,2021,2021-11-21,2021-11-21T16:30:00Z,Mainz,FC Koln,1,1,0.84698,2.4809,0.84698,2.4809,0.81705,0.84224,11,11,m_2Sz0mb,Mainz 05,1. FC Köln,1
+D1|2021-11-26|Stuttgart|Mainz,D1,2021,2021-11-26,2021-11-26T19:30:00Z,Stuttgart,Mainz,2,1,0.26192,0.7718,0.26192,0.7718,0.98527,0.86072,7,18,m_4JysZS,VfB Stuttgart,Mainz 05,1
+D1|2021-11-27|Bayern Munich|Bielefeld,D1,2021,2021-11-27,2021-11-27T17:30:00Z,Bayern Munich,Bielefeld,1,0,2.22667,0.2884,2.22667,0.2884,1.6231,0.0,22,8,m_1OCWQW,Bayern München,Arminia Bielefeld,1
+D1|2021-11-27|Bochum|Freiburg,D1,2021,2021-11-27,2021-11-27T14:30:00Z,Bochum,Freiburg,2,1,1.14274,2.39464,1.14274,2.39464,1.6249,2.7222,13,21,m_3qhlzA,Bochum,Freiburg,1
+D1|2021-11-27|FC Koln|M'gladbach,D1,2021,2021-11-27,2021-11-27T14:30:00Z,FC Koln,M'gladbach,4,1,1.43953,1.0374,1.43953,1.0374,2.1341,1.3403,15,16,m_4MxF3q,1. FC Köln,Borussia Mönchengladbach,1
+D1|2021-11-27|Greuther Furth|Hoffenheim,D1,2021,2021-11-27,2021-11-27T14:30:00Z,Greuther Furth,Hoffenheim,3,6,1.08521,4.37508,1.08521,4.37508,1.684,4.7704,17,21,m_177AWh,Greuther Fürth,Hoffenheim,1
+D1|2021-11-27|Hertha|Augsburg,D1,2021,2021-11-27,2021-11-27T14:30:00Z,Hertha,Augsburg,1,1,1.65329,1.25636,1.65329,1.25636,1.1454,1.0718,12,18,m_0VJFrL,Hertha BSC,Augsburg,1
+D1|2021-11-27|Wolfsburg|Dortmund,D1,2021,2021-11-27,2021-11-27T14:30:00Z,Wolfsburg,Dortmund,1,3,2.03158,2.28481,2.03158,1.49641,1.6724,3.055,15,15,m_0Xuk9T,Wolfsburg,Borussia Dortmund,1
+D1|2021-11-28|Ein Frankfurt|Union Berlin,D1,2021,2021-11-28,2021-11-28T14:30:00Z,Ein Frankfurt,Union Berlin,2,1,1.33696,1.11108,1.33696,0.32268,0.5603,1.5772,13,7,m_3dOeru,Eintracht Frankfurt,Union Berlin,1
+D1|2021-11-28|RB Leipzig|Leverkusen,D1,2021,2021-11-28,2021-11-28T16:30:00Z,RB Leipzig,Leverkusen,1,3,1.54359,1.45204,0.75519,1.45204,0.3462,1.4945,13,11,m_43QfNF,RB Leipzig,Bayer Leverkusen,1
+D1|2021-12-03|Union Berlin|RB Leipzig,D1,2021,2021-12-03,2021-12-03T19:30:00Z,Union Berlin,RB Leipzig,2,1,2.55848,1.44372,2.55848,1.44372,2.1192,0.4653,15,12,m_0NUcdM,Union Berlin,RB Leipzig,1
+D1|2021-12-04|Augsburg|Bochum,D1,2021,2021-12-04,2021-12-04T14:30:00Z,Augsburg,Bochum,2,3,2.85956,2.10772,2.07116,2.10772,1.6879,2.2121,16,12,m_3qFhW2,Augsburg,Bochum,1
+D1|2021-12-04|Bielefeld|FC Koln,D1,2021,2021-12-04,2021-12-04T14:30:00Z,Bielefeld,FC Koln,1,1,1.07093,1.05419,1.07093,1.05419,0.6043,0.7558,18,10,m_2GCrBv,Arminia Bielefeld,1. FC Köln,1
+D1|2021-12-04|Dortmund|Bayern Munich,D1,2021,2021-12-04,2021-12-04T17:30:00Z,Dortmund,Bayern Munich,2,3,1.19485,3.13455,1.19485,2.34615,1.6624,2.713,12,17,m_1dBill,Borussia Dortmund,Bayern München,1
+D1|2021-12-04|Hoffenheim|Ein Frankfurt,D1,2021,2021-12-04,2021-12-04T14:30:00Z,Hoffenheim,Ein Frankfurt,3,2,0.88401,1.52155,0.88401,1.52155,1.8704,0.865,8,16,m_1sZ8wq,Hoffenheim,Eintracht Frankfurt,1
+D1|2021-12-04|Leverkusen|Greuther Furth,D1,2021,2021-12-04,2021-12-04T14:30:00Z,Leverkusen,Greuther Furth,7,1,2.89277,0.25256,2.89277,0.25256,4.3259,0.2831,13,8,m_0XJol1,Bayer Leverkusen,Greuther Fürth,1
+D1|2021-12-04|Mainz|Wolfsburg,D1,2021,2021-12-04,2021-12-04T14:30:00Z,Mainz,Wolfsburg,3,0,1.17851,0.70843,1.17851,0.70843,0.81919,0.0,12,16,m_17FpF0,Mainz 05,Wolfsburg,1
+D1|2021-12-05|M'gladbach|Freiburg,D1,2021,2021-12-05,2021-12-05T16:30:00Z,M'gladbach,Freiburg,0,6,0.91615,1.96314,0.91615,1.96314,0.3931,3.1919,17,13,m_3jeGhl,Borussia Mönchengladbach,Freiburg,1
+D1|2021-12-05|Stuttgart|Hertha,D1,2021,2021-12-05,2021-12-05T14:30:00Z,Stuttgart,Hertha,2,2,1.41639,1.27978,1.41639,1.27978,1.3087,2.5266,10,15,m_3MyqFg,VfB Stuttgart,Hertha BSC,1
+D1|2021-12-10|FC Koln|Augsburg,D1,2021,2021-12-10,2021-12-10T19:30:00Z,FC Koln,Augsburg,0,2,0.98617,0.81726,0.98617,0.81726,0.2391,1.6607,14,12,m_1ceQft,1. FC Köln,Augsburg,1
+D1|2021-12-11|Bayern Munich|Mainz,D1,2021,2021-12-11,2021-12-11T14:30:00Z,Bayern Munich,Mainz,2,1,1.60915,0.81663,1.60915,0.81663,1.13497,0.97344,20,8,m_1yuYe5,Bayern München,Mainz 05,1
+D1|2021-12-11|Bochum|Dortmund,D1,2021,2021-12-11,2021-12-11T14:30:00Z,Bochum,Dortmund,1,1,0.93957,2.34247,0.15117,2.34247,1.113,2.7752,5,20,m_0uXBon,Bochum,Borussia Dortmund,1
+D1|2021-12-11|Freiburg|Hoffenheim,D1,2021,2021-12-11,2021-12-11T14:30:00Z,Freiburg,Hoffenheim,1,2,1.7009,0.95582,0.9125,0.95582,2.4795,1.2346,15,13,m_2pNEse,Freiburg,Hoffenheim,1
+D1|2021-12-11|Hertha|Bielefeld,D1,2021,2021-12-11,2021-12-11T14:30:00Z,Hertha,Bielefeld,2,0,2.09535,0.49237,2.09535,0.49237,2.0145,0.0,20,9,m_1Bqz6O,Hertha BSC,Arminia Bielefeld,1
+D1|2021-12-11|RB Leipzig|M'gladbach,D1,2021,2021-12-11,2021-12-11T14:30:00Z,RB Leipzig,M'gladbach,4,1,4.71052,1.24322,4.71052,1.24322,5.0495,1.2968,19,11,m_4DoWIK,RB Leipzig,Borussia Mönchengladbach,1
+D1|2021-12-11|Wolfsburg|Stuttgart,D1,2021,2021-12-11,2021-12-11T17:30:00Z,Wolfsburg,Stuttgart,0,2,1.495,1.37612,1.495,0.58772,0.7909,0.8391,18,11,m_0kKCM7,Wolfsburg,VfB Stuttgart,1
+D1|2021-12-12|Ein Frankfurt|Leverkusen,D1,2021,2021-12-12,2021-12-12T16:30:00Z,Ein Frankfurt,Leverkusen,5,2,1.67741,1.70391,1.67741,0.91551,2.8315,1.018,17,11,m_2M7Ett,Eintracht Frankfurt,Bayer Leverkusen,1
+D1|2021-12-12|Greuther Furth|Union Berlin,D1,2021,2021-12-12,2021-12-12T14:30:00Z,Greuther Furth,Union Berlin,1,0,0.75801,1.48751,0.75801,1.48751,1.2818,0.9613,5,15,m_4PmXvG,Greuther Fürth,Union Berlin,1
+D1|2021-12-14|Bielefeld|Bochum,D1,2021,2021-12-14,2021-12-14T19:30:00Z,Bielefeld,Bochum,2,0,0.69274,0.88883,0.69274,0.88883,0.7812,0.9078,13,5,m_0jeYHL,Arminia Bielefeld,Bochum,1
+D1|2021-12-14|Mainz|Hertha,D1,2021,2021-12-14,2021-12-14T19:30:00Z,Mainz,Hertha,4,0,2.92184,0.41079,2.92184,0.41079,3.06478,0.04562,21,5,m_4Qzygp,Mainz 05,Hertha BSC,1
+D1|2021-12-14|Stuttgart|Bayern Munich,D1,2021,2021-12-14,2021-12-14T17:30:00Z,Stuttgart,Bayern Munich,0,5,1.15925,3.70859,1.15925,3.70859,0.0267,4.8261,13,25,m_34fF41,VfB Stuttgart,Bayern München,1
+D1|2021-12-14|Wolfsburg|FC Koln,D1,2021,2021-12-14,2021-12-14T19:30:00Z,Wolfsburg,FC Koln,2,3,2.4622,3.86109,2.4622,3.86109,1.7357,2.9644,19,17,m_3yzvbh,Wolfsburg,1. FC Köln,1
+D1|2021-12-15|Augsburg|RB Leipzig,D1,2021,2021-12-15,2021-12-15T19:30:00Z,Augsburg,RB Leipzig,1,1,1.22529,2.26423,0.43689,2.26423,0.995,1.4099,9,12,m_4JMoZi,Augsburg,RB Leipzig,1
+D1|2021-12-15|Dortmund|Greuther Furth,D1,2021,2021-12-15,2021-12-15T19:30:00Z,Dortmund,Greuther Furth,3,0,1.8794,0.37423,1.091,0.37423,2.7789,0.0657,12,8,m_196DRq,Borussia Dortmund,Greuther Fürth,1
+D1|2021-12-15|Leverkusen|Hoffenheim,D1,2021,2021-12-15,2021-12-15T19:30:00Z,Leverkusen,Hoffenheim,2,2,2.31944,2.13544,2.31944,2.13544,2.3362,1.905,16,18,m_45M4uB,Bayer Leverkusen,Hoffenheim,1
+D1|2021-12-15|M'gladbach|Ein Frankfurt,D1,2021,2021-12-15,2021-12-15T17:30:00Z,M'gladbach,Ein Frankfurt,2,3,2.0723,2.2902,1.2839,2.2902,2.4175,2.4203,18,12,m_4GXq59,Borussia Mönchengladbach,Eintracht Frankfurt,1
+D1|2021-12-15|Union Berlin|Freiburg,D1,2021,2021-12-15,2021-12-15T19:30:00Z,Union Berlin,Freiburg,0,0,1.91959,1.16487,1.91959,1.16487,0.9274,0.3521,19,12,m_1cCr9i,Union Berlin,Freiburg,1
+D1|2021-12-17|Bayern Munich|Wolfsburg,D1,2021,2021-12-17,2021-12-17T19:30:00Z,Bayern Munich,Wolfsburg,4,0,3.67917,1.12766,3.67917,1.12766,3.1465,0.2965,25,9,m_0ia7wu,Bayern München,Wolfsburg,1
+D1|2021-12-18|Bochum|Union Berlin,D1,2021,2021-12-18,2021-12-18T14:30:00Z,Bochum,Union Berlin,0,1,1.12005,0.80808,1.12005,0.80808,0.1807,0.6142,13,9,m_3E2pvI,Bochum,Union Berlin,1
+D1|2021-12-18|Ein Frankfurt|Mainz,D1,2021,2021-12-18,2021-12-18T14:30:00Z,Ein Frankfurt,Mainz,1,0,1.7824,0.565,1.7824,0.565,1.10207,0.88452,14,11,m_2qKNO3,Eintracht Frankfurt,Mainz 05,1
+D1|2021-12-18|Greuther Furth|Augsburg,D1,2021,2021-12-18,2021-12-18T14:30:00Z,Greuther Furth,Augsburg,0,0,0.0678,1.17114,0.0678,1.17114,0.4477,2.0575,3,14,m_4O35tr,Greuther Fürth,Augsburg,1
+D1|2021-12-18|Hertha|Dortmund,D1,2021,2021-12-18,2021-12-18T17:30:00Z,Hertha,Dortmund,3,2,1.23258,1.30905,1.23258,1.30905,0.9098,1.2447,13,11,m_1xtuHw,Hertha BSC,Borussia Dortmund,1
+D1|2021-12-18|Hoffenheim|M'gladbach,D1,2021,2021-12-18,2021-12-18T14:30:00Z,Hoffenheim,M'gladbach,1,1,2.14117,1.6189,2.14117,1.6189,1.8825,2.2083,22,11,m_2FyZL1,Hoffenheim,Borussia Mönchengladbach,1
+D1|2021-12-18|RB Leipzig|Bielefeld,D1,2021,2021-12-18,2021-12-18T14:30:00Z,RB Leipzig,Bielefeld,0,2,1.63917,0.92126,1.63917,0.92126,1.0239,2.6347,17,4,m_37JTkO,RB Leipzig,Arminia Bielefeld,1
+D1|2021-12-19|FC Koln|Stuttgart,D1,2021,2021-12-19,2021-12-19T16:30:00Z,FC Koln,Stuttgart,1,0,1.95837,0.42025,1.95837,0.42025,0.7188,0.1451,10,5,m_3a3k2u,1. FC Köln,VfB Stuttgart,1
+D1|2021-12-19|Freiburg|Leverkusen,D1,2021,2021-12-19,2021-12-19T14:30:00Z,Freiburg,Leverkusen,2,1,2.17006,0.95951,1.38166,0.95951,2.5657,0.7311,15,7,m_2lyaFj,Freiburg,Bayer Leverkusen,1
+D1|2022-01-07|Bayern Munich|M'gladbach,D1,2021,2022-01-07,2022-01-07T19:30:00Z,Bayern Munich,M'gladbach,1,2,1.93904,0.98228,1.93904,0.98228,0.9376,1.5038,18,10,m_1mnNRl,Bayern München,Borussia Mönchengladbach,1
+D1|2022-01-08|Ein Frankfurt|Dortmund,D1,2021,2022-01-08,2022-01-08T17:30:00Z,Ein Frankfurt,Dortmund,2,3,1.4622,2.04055,1.4622,2.04055,1.8991,2.8525,12,20,m_3Q2lI1,Eintracht Frankfurt,Borussia Dortmund,1
+D1|2022-01-08|Freiburg|Bielefeld,D1,2021,2022-01-08,2022-01-08T14:30:00Z,Freiburg,Bielefeld,2,2,1.89582,0.98898,1.89582,0.98898,2.2218,0.7818,18,15,m_1kN2cZ,Freiburg,Arminia Bielefeld,1
+D1|2022-01-08|Greuther Furth|Stuttgart,D1,2021,2022-01-08,2022-01-08T14:30:00Z,Greuther Furth,Stuttgart,0,0,0.91503,1.94366,0.91503,1.94366,0.4848,0.5591,10,17,m_1ELUlK,Greuther Fürth,VfB Stuttgart,1
+D1|2022-01-08|Hoffenheim|Augsburg,D1,2021,2022-01-08,2022-01-08T14:30:00Z,Hoffenheim,Augsburg,3,1,2.19041,0.85059,2.19041,0.85059,2.4803,0.9991,13,10,m_3s637H,Hoffenheim,Augsburg,1
+D1|2022-01-08|Leverkusen|Union Berlin,D1,2021,2022-01-08,2022-01-08T14:30:00Z,Leverkusen,Union Berlin,2,2,1.73915,2.99481,1.73915,2.99481,1.3603,2.0925,19,19,m_1XmGB6,Bayer Leverkusen,Union Berlin,1
+D1|2022-01-08|RB Leipzig|Mainz,D1,2021,2022-01-08,2022-01-08T14:30:00Z,RB Leipzig,Mainz,4,1,3.75153,0.30376,2.96313,0.30376,4.44658,0.10966,15,2,m_05R6mf,RB Leipzig,Mainz 05,1
+D1|2022-01-09|Bochum|Wolfsburg,D1,2021,2022-01-09,2022-01-09T16:30:00Z,Bochum,Wolfsburg,1,0,0.88943,0.41606,0.88943,0.41606,1.2375,0.2566,12,12,m_3VC3sg,Bochum,Wolfsburg,1
+D1|2022-01-09|Hertha|FC Koln,D1,2021,2022-01-09,2022-01-09T14:30:00Z,Hertha,FC Koln,1,3,1.1623,1.23768,1.1623,1.23768,1.2161,1.3715,11,14,m_0wxAac,Hertha BSC,1. FC Köln,1
+D1|2022-01-14|Dortmund|Freiburg,D1,2021,2022-01-14,2022-01-14T19:30:00Z,Dortmund,Freiburg,5,1,2.42373,0.91601,2.42373,0.91601,2.192,1.1292,20,5,m_1QoQ2x,Borussia Dortmund,Freiburg,1
+D1|2022-01-15|FC Koln|Bayern Munich,D1,2021,2022-01-15,2022-01-15T14:30:00Z,FC Koln,Bayern Munich,0,4,1.05715,3.30303,1.05715,3.30303,0.5553,3.8937,12,23,m_2DWTTY,1. FC Köln,Bayern München,1
+D1|2022-01-15|M'gladbach|Leverkusen,D1,2021,2022-01-15,2022-01-15T17:30:00Z,M'gladbach,Leverkusen,1,2,1.26395,5.91208,1.26395,4.33528,1.7649,5.2674,17,32,m_2hQpzD,Borussia Mönchengladbach,Bayer Leverkusen,1
+D1|2022-01-15|Mainz|Bochum,D1,2021,2022-01-15,2022-01-15T14:30:00Z,Mainz,Bochum,1,0,1.72183,1.45794,1.72183,0.66954,1.81093,1.80299,19,12,m_243XyR,Mainz 05,Bochum,1
+D1|2022-01-15|Stuttgart|RB Leipzig,D1,2021,2022-01-15,2022-01-15T14:30:00Z,Stuttgart,RB Leipzig,0,2,1.00826,1.48348,1.00826,0.69508,1.2923,1.9382,16,7,m_2OLzhm,VfB Stuttgart,RB Leipzig,1
+D1|2022-01-15|Union Berlin|Hoffenheim,D1,2021,2022-01-15,2022-01-15T14:30:00Z,Union Berlin,Hoffenheim,2,1,1.37576,0.8402,1.37576,0.8402,1.8405,1.1572,10,11,m_2KTdCa,Union Berlin,Hoffenheim,1
+D1|2022-01-15|Wolfsburg|Hertha,D1,2021,2022-01-15,2022-01-15T14:30:00Z,Wolfsburg,Hertha,0,0,1.682,0.28503,1.682,0.28503,1.5946,0.0331,9,6,m_28m0rf,Wolfsburg,Hertha BSC,1
+D1|2022-01-16|Augsburg|Ein Frankfurt,D1,2021,2022-01-16,2022-01-16T14:30:00Z,Augsburg,Ein Frankfurt,1,1,0.98612,2.63464,0.98612,2.63464,0.9877,1.7956,10,14,m_1QIMrF,Augsburg,Eintracht Frankfurt,1
+D1|2022-01-16|Bielefeld|Greuther Furth,D1,2021,2022-01-16,2022-01-16T16:30:00Z,Bielefeld,Greuther Furth,2,2,0.53561,0.66465,0.53561,0.66465,1.4186,1.0385,13,6,m_4CECEf,Arminia Bielefeld,Greuther Fürth,1
+D1|2022-01-21|Ein Frankfurt|Bielefeld,D1,2021,2022-01-21,2022-01-21T19:30:00Z,Ein Frankfurt,Bielefeld,0,2,1.90665,1.25143,1.90665,1.25143,2.0649,2.2075,18,8,m_4QeryT,Eintracht Frankfurt,Arminia Bielefeld,1
+D1|2022-01-22|Bochum|FC Koln,D1,2021,2022-01-22,2022-01-22T17:30:00Z,Bochum,FC Koln,2,2,1.79588,1.11164,1.79588,1.11164,2.4595,0.8216,17,8,m_34GJNF,Bochum,1. FC Köln,1
+D1|2022-01-22|Freiburg|Stuttgart,D1,2021,2022-01-22,2022-01-22T14:30:00Z,Freiburg,Stuttgart,2,0,2.39202,0.6013,2.39202,0.6013,0.75734,0.34059,15,7,m_2kvY34,Freiburg,VfB Stuttgart,1
+D1|2022-01-22|Greuther Furth|Mainz,D1,2021,2022-01-22,2022-01-22T14:30:00Z,Greuther Furth,Mainz,2,1,1.29722,1.78005,1.29722,1.78005,2.57107,1.42385,9,19,m_1SYQB4,Greuther Fürth,Mainz 05,1
+D1|2022-01-22|Hoffenheim|Dortmund,D1,2021,2022-01-22,2022-01-22T14:30:00Z,Hoffenheim,Dortmund,2,3,1.72486,1.57265,1.72486,1.57265,1.324,1.7958,17,4,m_4S29UA,Hoffenheim,Borussia Dortmund,1
+D1|2022-01-22|Leverkusen|Augsburg,D1,2021,2022-01-22,2022-01-22T14:30:00Z,Leverkusen,Augsburg,5,1,2.85364,1.48307,2.85364,1.48307,4.3334,0.6745,22,14,m_1PXBH2,Bayer Leverkusen,Augsburg,1
+D1|2022-01-22|M'gladbach|Union Berlin,D1,2021,2022-01-22,2022-01-22T14:30:00Z,M'gladbach,Union Berlin,1,2,1.54967,1.1252,1.54967,0.3368,0.6923,1.9314,11,6,m_276ZHJ,Borussia Mönchengladbach,Union Berlin,1
+D1|2022-01-23|Hertha|Bayern Munich,D1,2021,2022-01-23,2022-01-23T16:30:00Z,Hertha,Bayern Munich,1,4,0.92884,5.51365,0.92884,5.51365,0.1462,5.2127,5,30,m_3hWspt,Hertha BSC,Bayern München,1
+D1|2022-01-23|RB Leipzig|Wolfsburg,D1,2021,2022-01-23,2022-01-23T14:30:00Z,RB Leipzig,Wolfsburg,2,0,1.56003,0.85926,1.56003,0.85926,1.7868,0.5845,11,10,m_0Wfi4Y,RB Leipzig,Wolfsburg,1
+D1|2022-02-04|Hertha|Bochum,D1,2021,2022-02-04,2022-02-04T19:30:00Z,Hertha,Bochum,1,1,0.43087,1.17465,0.43087,1.17465,1.0752,0.9698,13,10,m_3Rw1JM,Hertha BSC,Bochum,1
+D1|2022-02-05|Augsburg|Union Berlin,D1,2021,2022-02-05,2022-02-05T14:30:00Z,Augsburg,Union Berlin,2,0,2.03925,1.71807,2.03925,1.71807,1.9844,1.5238,14,14,m_27yxGi,Augsburg,Union Berlin,1
+D1|2022-02-05|Bayern Munich|RB Leipzig,D1,2021,2022-02-05,2022-02-05T17:30:00Z,Bayern Munich,RB Leipzig,3,2,3.2423,2.24317,3.2423,2.24317,1.8818,2.6055,23,13,m_4CPgDZ,Bayern München,RB Leipzig,1
+D1|2022-02-05|Bielefeld|M'gladbach,D1,2021,2022-02-05,2022-02-05T14:30:00Z,Bielefeld,M'gladbach,1,1,0.52903,2.04369,0.52903,2.04369,0.5898,0.5785,11,21,m_3J9z3w,Arminia Bielefeld,Borussia Mönchengladbach,1
+D1|2022-02-05|FC Koln|Freiburg,D1,2021,2022-02-05,2022-02-05T14:30:00Z,FC Koln,Freiburg,1,0,1.04647,0.75645,1.04647,0.75645,1.0682,0.561,12,15,m_0Cyi3W,1. FC Köln,Freiburg,1
+D1|2022-02-05|Mainz|Hoffenheim,D1,2021,2022-02-05,2022-02-05T14:30:00Z,Mainz,Hoffenheim,2,0,2.1977,1.62912,1.4093,1.62912,1.81032,0.19144,10,16,m_0sP5lX,Mainz 05,Hoffenheim,1
+D1|2022-02-05|Stuttgart|Ein Frankfurt,D1,2021,2022-02-05,2022-02-05T14:30:00Z,Stuttgart,Ein Frankfurt,2,3,1.57581,1.12969,1.57581,1.12969,1.5779,0.9082,15,15,m_4I52Zu,VfB Stuttgart,Eintracht Frankfurt,1
+D1|2022-02-06|Dortmund|Leverkusen,D1,2021,2022-02-06,2022-02-06T14:30:00Z,Dortmund,Leverkusen,2,5,2.58146,2.44318,2.58146,2.44318,2.0111,3.48153,15,11,m_3MyAW0,Borussia Dortmund,Bayer Leverkusen,1
+D1|2022-02-06|Wolfsburg|Greuther Furth,D1,2021,2022-02-06,2022-02-06T16:30:00Z,Wolfsburg,Greuther Furth,4,1,2.4583,1.13263,2.4583,0.34423,1.4548,1.5904,14,8,m_42TtC5,Wolfsburg,Greuther Fürth,1
+D1|2022-02-11|RB Leipzig|FC Koln,D1,2021,2022-02-11,2022-02-11T19:30:00Z,RB Leipzig,FC Koln,3,1,0.92064,0.85976,0.92064,0.85976,1.6958,0.1643,6,9,m_3PuOk2,RB Leipzig,1. FC Köln,1
+D1|2022-02-12|Bochum|Bayern Munich,D1,2021,2022-02-12,2022-02-12T14:30:00Z,Bochum,Bayern Munich,4,2,1.43409,1.93077,0.64569,1.93077,3.0297,2.6736,11,21,m_20vLR3,Bochum,Bayern München,1
+D1|2022-02-12|Ein Frankfurt|Wolfsburg,D1,2021,2022-02-12,2022-02-12T14:30:00Z,Ein Frankfurt,Wolfsburg,0,2,1.04486,1.54978,1.04486,0.76138,0.6435,1.1245,17,11,m_1UI2i2,Eintracht Frankfurt,Wolfsburg,1
+D1|2022-02-12|Freiburg|Mainz,D1,2021,2022-02-12,2022-02-12T14:30:00Z,Freiburg,Mainz,1,1,1.7678,2.57369,1.7678,2.57369,0.91829,2.139,17,20,m_3JWvSj,Freiburg,Mainz 05,1
+D1|2022-02-12|Greuther Furth|Hertha,D1,2021,2022-02-12,2022-02-12T14:30:00Z,Greuther Furth,Hertha,2,1,2.4765,2.0777,1.6881,2.0777,2.6149,1.3594,18,26,m_4ULPPV,Greuther Fürth,Hertha BSC,1
+D1|2022-02-12|Leverkusen|Stuttgart,D1,2021,2022-02-12,2022-02-12T17:30:00Z,Leverkusen,Stuttgart,4,2,1.95936,1.06139,1.95936,1.06139,3.8802,1.3636,20,8,m_3AGMSa,Bayer Leverkusen,VfB Stuttgart,1
+D1|2022-02-12|M'gladbach|Augsburg,D1,2021,2022-02-12,2022-02-12T14:30:00Z,M'gladbach,Augsburg,3,2,2.41634,1.63183,2.41634,1.63183,2.6278,1.1508,14,15,m_4RyrOy,Borussia Mönchengladbach,Augsburg,1
+D1|2022-02-13|Hoffenheim|Bielefeld,D1,2021,2022-02-13,2022-02-13T16:30:00Z,Hoffenheim,Bielefeld,2,0,2.95622,1.02462,2.95622,1.02462,2.5083,0.5336,24,8,m_2uN7Zw,Hoffenheim,Arminia Bielefeld,1
+D1|2022-02-13|Union Berlin|Dortmund,D1,2021,2022-02-13,2022-02-13T14:30:00Z,Union Berlin,Dortmund,0,3,1.19727,2.51454,1.19727,2.51454,0.8847,3.4039,11,10,m_1ugU66,Union Berlin,Borussia Dortmund,1
+D1|2022-02-18|Mainz|Leverkusen,D1,2021,2022-02-18,2022-02-18T19:30:00Z,Mainz,Leverkusen,3,2,0.95393,1.01111,0.95393,1.01111,1.08322,1.06746,18,7,m_4fVGXl,Mainz 05,Bayer Leverkusen,1
+D1|2022-02-19|Augsburg|Freiburg,D1,2021,2022-02-19,2022-02-19T14:30:00Z,Augsburg,Freiburg,1,2,1.07194,2.08739,1.07194,2.08739,0.6446,1.4809,17,16,m_02569g,Augsburg,Freiburg,1
+D1|2022-02-19|Bielefeld|Union Berlin,D1,2021,2022-02-19,2022-02-19T14:30:00Z,Bielefeld,Union Berlin,1,0,0.79959,0.88732,0.79959,0.88732,0.976,0.5151,12,10,m_18L37H,Arminia Bielefeld,Union Berlin,1
+D1|2022-02-19|FC Koln|Ein Frankfurt,D1,2021,2022-02-19,2022-02-19T17:30:00Z,FC Koln,Ein Frankfurt,1,0,1.08834,0.6058,1.08834,0.6058,1.4131,0.3153,13,10,m_0wb9rB,1. FC Köln,Eintracht Frankfurt,1
+D1|2022-02-19|Stuttgart|Bochum,D1,2021,2022-02-19,2022-02-19T14:30:00Z,Stuttgart,Bochum,1,1,1.21152,2.04204,1.21152,1.25364,1.6837,1.2172,16,13,m_1nMbt5,VfB Stuttgart,Bochum,1
+D1|2022-02-19|Wolfsburg|Hoffenheim,D1,2021,2022-02-19,2022-02-19T14:30:00Z,Wolfsburg,Hoffenheim,1,2,1.4976,1.50896,1.4976,1.50896,1.0808,1.5444,14,11,m_1Ut7Ue,Wolfsburg,Hoffenheim,1
+D1|2022-02-20|Bayern Munich|Greuther Furth,D1,2021,2022-02-20,2022-02-20T14:30:00Z,Bayern Munich,Greuther Furth,4,1,1.82171,0.80473,1.82171,0.80473,2.685,1.2125,20,9,m_2n7Qmk,Bayern München,Greuther Fürth,1
+D1|2022-02-20|Dortmund|M'gladbach,D1,2021,2022-02-20,2022-02-20T16:30:00Z,Dortmund,M'gladbach,6,0,3.90863,0.86962,3.12023,0.86962,4.8586,0.6644,16,8,m_0KGAq1,Borussia Dortmund,Borussia Mönchengladbach,1
+D1|2022-02-20|Hertha|RB Leipzig,D1,2021,2022-02-20,2022-02-20T18:30:00Z,Hertha,RB Leipzig,1,6,1.04594,3.46136,1.04594,2.67296,0.99,4.4825,8,18,m_3wRW1c,Hertha BSC,RB Leipzig,1
+D1|2022-02-25|Hoffenheim|Stuttgart,D1,2021,2022-02-25,2022-02-25T19:30:00Z,Hoffenheim,Stuttgart,2,1,2.95192,1.75007,2.95192,1.75007,1.8931,1.4721,16,13,m_49KI3c,Hoffenheim,VfB Stuttgart,1
+D1|2022-02-26|Ein Frankfurt|Bayern Munich,D1,2021,2022-02-26,2022-02-26T17:30:00Z,Ein Frankfurt,Bayern Munich,0,1,0.87247,2.41994,0.87247,2.41994,0.0201,3.0592,6,21,m_3hJxZ5,Eintracht Frankfurt,Bayern München,1
+D1|2022-02-26|Freiburg|Hertha,D1,2021,2022-02-26,2022-02-26T14:30:00Z,Freiburg,Hertha,3,0,2.93013,1.31716,2.14173,1.31716,3.5281,0.6739,16,18,m_3dYhCr,Freiburg,Hertha BSC,1
+D1|2022-02-26|Greuther Furth|FC Koln,D1,2021,2022-02-26,2022-02-26T14:30:00Z,Greuther Furth,FC Koln,1,1,0.74759,0.61102,0.74759,0.61102,0.6756,0.7466,12,18,m_1Ra94Z,Greuther Fürth,1. FC Köln,1
+D1|2022-02-26|Leverkusen|Bielefeld,D1,2021,2022-02-26,2022-02-26T14:30:00Z,Leverkusen,Bielefeld,3,0,2.20521,0.40515,2.20521,0.40515,3.6872,0.2495,21,9,m_1JhjdW,Bayer Leverkusen,Arminia Bielefeld,1
+D1|2022-02-26|M'gladbach|Wolfsburg,D1,2021,2022-02-26,2022-02-26T14:30:00Z,M'gladbach,Wolfsburg,2,2,2.40468,1.35974,2.40468,1.35974,2.8814,1.1874,26,6,m_3VZGI2,Borussia Mönchengladbach,Wolfsburg,1
+D1|2022-02-26|Union Berlin|Mainz,D1,2021,2022-02-26,2022-02-26T14:30:00Z,Union Berlin,Mainz,3,1,0.98461,1.03176,0.98461,1.03176,1.54853,0.24383,6,15,m_0lnbgW,Union Berlin,Mainz 05,1
+D1|2022-02-27|Augsburg|Dortmund,D1,2021,2022-02-27,2022-02-27T16:30:00Z,Augsburg,Dortmund,1,1,0.84694,0.62036,0.84694,0.62036,1.3901,1.1802,8,10,m_2BHLNq,Augsburg,Borussia Dortmund,1
+D1|2022-02-27|Bochum|RB Leipzig,D1,2021,2022-02-27,2022-02-27T14:30:00Z,Bochum,RB Leipzig,0,1,0.90893,0.70762,0.90893,0.70762,0.0261,0.5135,14,6,m_3lAXFl,Bochum,RB Leipzig,1
+D1|2022-03-04|Bielefeld|Augsburg,D1,2021,2022-03-04,2022-03-04T19:30:00Z,Bielefeld,Augsburg,0,1,0.16201,0.49934,0.16201,0.49934,0.1555,0.1045,5,7,m_307B9T,Arminia Bielefeld,Augsburg,1
+D1|2022-03-05|Bayern Munich|Leverkusen,D1,2021,2022-03-05,2022-03-05T14:30:00Z,Bayern Munich,Leverkusen,1,1,1.61861,2.1461,1.61861,2.1461,1.4623,0.9328,20,9,m_4Pvvix,Bayern München,Bayer Leverkusen,1
+D1|2022-03-05|Bochum|Greuther Furth,D1,2021,2022-03-05,2022-03-05T14:30:00Z,Bochum,Greuther Furth,2,1,1.6028,0.71632,1.6028,0.71632,1.9874,0.3833,15,9,m_174JCJ,Bochum,Greuther Fürth,1
+D1|2022-03-05|Hertha|Ein Frankfurt,D1,2021,2022-03-05,2022-03-05T14:30:00Z,Hertha,Ein Frankfurt,1,4,0.42953,1.18535,0.42953,1.18535,0.5483,1.1042,10,12,m_2AJBhz,Hertha BSC,Eintracht Frankfurt,1
+D1|2022-03-05|RB Leipzig|Freiburg,D1,2021,2022-03-05,2022-03-05T14:30:00Z,RB Leipzig,Freiburg,1,1,0.5806,0.4006,0.5806,0.4006,1.2211,0.2795,14,4,m_2BO55D,RB Leipzig,Freiburg,1
+D1|2022-03-05|Stuttgart|M'gladbach,D1,2021,2022-03-05,2022-03-05T17:30:00Z,Stuttgart,M'gladbach,3,2,2.39524,0.90262,2.39524,0.90262,1.5884,1.8278,19,8,m_3JU1nV,VfB Stuttgart,Borussia Mönchengladbach,1
+D1|2022-03-05|Wolfsburg|Union Berlin,D1,2021,2022-03-05,2022-03-05T14:30:00Z,Wolfsburg,Union Berlin,1,0,0.4683,1.26635,0.4683,1.26635,0.5316,0.3315,8,20,m_3q8luW,Wolfsburg,Union Berlin,1
+D1|2022-03-06|FC Koln|Hoffenheim,D1,2021,2022-03-06,2022-03-06T16:30:00Z,FC Koln,Hoffenheim,0,1,1.58839,2.68459,1.58839,2.68459,0.4224,1.7874,10,13,m_1aZSep,1. FC Köln,Hoffenheim,1
+D1|2022-03-12|Freiburg|Wolfsburg,D1,2021,2022-03-12,2022-03-12T14:30:00Z,Freiburg,Wolfsburg,3,2,1.28411,1.32953,1.28411,1.32953,1.5927,1.3599,15,12,m_2u4JXI,Freiburg,Wolfsburg,1
+D1|2022-03-12|Hoffenheim|Bayern Munich,D1,2021,2022-03-12,2022-03-12T14:30:00Z,Hoffenheim,Bayern Munich,1,1,1.72167,3.06764,1.72167,3.06764,1.734,2.4707,9,18,m_0gpzoS,Hoffenheim,Bayern München,1
+D1|2022-03-12|M'gladbach|Hertha,D1,2021,2022-03-12,2022-03-12T17:30:00Z,M'gladbach,Hertha,2,0,1.80678,0.55708,1.01838,0.55708,1.3026,0.7452,13,12,m_4FTurk,Borussia Mönchengladbach,Hertha BSC,1
+D1|2022-03-12|Union Berlin|Stuttgart,D1,2021,2022-03-12,2022-03-12T14:30:00Z,Union Berlin,Stuttgart,1,1,1.53191,1.03109,0.74351,1.03109,1.4359,0.8686,12,11,m_1jCoap,Union Berlin,VfB Stuttgart,1
+D1|2022-03-13|Dortmund|Bielefeld,D1,2021,2022-03-13,2022-03-13T16:30:00Z,Dortmund,Bielefeld,1,0,2.03573,0.68669,2.03573,0.68669,0.6214,0.6869,19,12,m_1f4JlX,Borussia Dortmund,Arminia Bielefeld,1
+D1|2022-03-13|Ein Frankfurt|Bochum,D1,2021,2022-03-13,2022-03-13T16:30:00Z,Ein Frankfurt,Bochum,2,1,1.87483,1.09063,1.87483,1.09063,1.5997,1.3139,14,8,m_0m6qWu,Eintracht Frankfurt,Bochum,1
+D1|2022-03-13|Greuther Furth|RB Leipzig,D1,2021,2022-03-13,2022-03-13T18:30:00Z,Greuther Furth,RB Leipzig,1,6,0.34762,1.67257,0.34762,1.67257,0.2382,3.0176,7,12,m_4ckk5B,Greuther Fürth,RB Leipzig,1
+D1|2022-03-13|Leverkusen|FC Koln,D1,2021,2022-03-13,2022-03-13T14:30:00Z,Leverkusen,FC Koln,0,1,2.45687,0.54178,2.45687,0.54178,1.5578,1.1815,15,6,m_1v21VF,Bayer Leverkusen,1. FC Köln,1
+D1|2022-03-16|Mainz|Dortmund,D1,2021,2022-03-16,2022-03-16T17:30:00Z,Mainz,Dortmund,0,1,0.91819,0.82102,0.91819,0.82102,0.12731,1.06328,11,11,m_3wbx3S,Mainz 05,Borussia Dortmund,1
+D1|2022-03-18|Bochum|M'gladbach,D1,2021,2022-03-18,2022-03-18T19:30:00Z,Bochum,M'gladbach,0,2,1.5222,0.8687,1.5222,0.8687,0.9082,1.0104,16,8,m_2alQLm,Bochum,Borussia Mönchengladbach,1
+D1|2022-03-19|Bayern Munich|Union Berlin,D1,2021,2022-03-19,2022-03-19T17:30:00Z,Bayern Munich,Union Berlin,4,0,2.66312,1.00122,1.87472,1.00122,2.2782,0.9856,16,10,m_0bvs0Z,Bayern München,Union Berlin,1
+D1|2022-03-19|Greuther Furth|Freiburg,D1,2021,2022-03-19,2022-03-19T14:30:00Z,Greuther Furth,Freiburg,0,0,0.95032,1.1891,0.95032,1.1891,0.2285,0.268,8,15,m_0G086K,Greuther Fürth,Freiburg,1
+D1|2022-03-19|Hertha|Hoffenheim,D1,2021,2022-03-19,2022-03-19T14:30:00Z,Hertha,Hoffenheim,3,0,1.26971,0.77629,1.26971,0.77629,1.7654,0.0,13,8,m_3kpnTs,Hertha BSC,Hoffenheim,1
+D1|2022-03-19|Mainz|Bielefeld,D1,2021,2022-03-19,2022-03-19T14:30:00Z,Mainz,Bielefeld,4,0,4.38067,0.22268,2.01547,0.22268,3.6573,0.0,14,6,m_0CZz4p,Mainz 05,Arminia Bielefeld,1
+D1|2022-03-19|Stuttgart|Augsburg,D1,2021,2022-03-19,2022-03-19T14:30:00Z,Stuttgart,Augsburg,3,2,2.23983,0.97346,2.23983,0.97346,2.2325,0.7351,24,10,m_1Ms5KE,VfB Stuttgart,Augsburg,1
+D1|2022-03-20|FC Koln|Dortmund,D1,2021,2022-03-20,2022-03-20T18:30:00Z,FC Koln,Dortmund,1,1,1.16557,1.22727,1.16557,1.22727,0.9843,0.8429,11,9,m_2IQmtp,1. FC Köln,Borussia Dortmund,1
+D1|2022-03-20|RB Leipzig|Ein Frankfurt,D1,2021,2022-03-20,2022-03-20T14:30:00Z,RB Leipzig,Ein Frankfurt,0,0,1.24192,0.24198,1.24192,0.24198,1.1351,0.0,15,5,m_3Zw1ql,RB Leipzig,Eintracht Frankfurt,1
+D1|2022-03-20|Wolfsburg|Leverkusen,D1,2021,2022-03-20,2022-03-20T16:30:00Z,Wolfsburg,Leverkusen,0,2,1.09874,1.03643,1.09874,1.03643,0.3576,0.8003,14,15,m_4UIma4,Wolfsburg,Bayer Leverkusen,1
+D1|2022-04-01|Union Berlin|FC Koln,D1,2021,2022-04-01,2022-04-01T18:30:00Z,Union Berlin,FC Koln,1,0,1.25269,0.33724,1.25269,0.33724,1.169,0.0265,12,6,m_0g3GST,Union Berlin,1. FC Köln,1
+D1|2022-04-02|Bielefeld|Stuttgart,D1,2021,2022-04-02,2022-04-02T13:30:00Z,Bielefeld,Stuttgart,1,1,1.02101,2.29202,1.02101,1.50362,1.4551,2.15,10,15,m_20C9cR,Arminia Bielefeld,VfB Stuttgart,1
+D1|2022-04-02|Dortmund|RB Leipzig,D1,2021,2022-04-02,2022-04-02T16:30:00Z,Dortmund,RB Leipzig,1,4,0.73538,1.05272,0.73538,1.05272,0.6502,0.9977,10,10,m_0dPlKH,Borussia Dortmund,RB Leipzig,1
+D1|2022-04-02|Ein Frankfurt|Greuther Furth,D1,2021,2022-04-02,2022-04-02T13:30:00Z,Ein Frankfurt,Greuther Furth,0,0,1.21715,0.60702,1.21715,0.60702,1.4389,0.8407,21,4,m_1mBzbF,Eintracht Frankfurt,Greuther Fürth,1
+D1|2022-04-02|Freiburg|Bayern Munich,D1,2021,2022-04-02,2022-04-02T13:30:00Z,Freiburg,Bayern Munich,1,4,0.6032,2.17548,0.6032,2.17548,0.4874,2.6539,8,21,m_46qIJA,Freiburg,Bayern München,1
+D1|2022-04-02|Hoffenheim|Bochum,D1,2021,2022-04-02,2022-04-02T13:30:00Z,Hoffenheim,Bochum,1,2,2.01874,2.16071,2.01874,2.16071,1.3044,1.0072,13,21,m_0y4n0v,Hoffenheim,Bochum,1
+D1|2022-04-02|Leverkusen|Hertha,D1,2021,2022-04-02,2022-04-02T13:30:00Z,Leverkusen,Hertha,2,1,1.55583,0.79741,1.55583,0.79741,1.6016,0.9476,19,7,m_1RRnhp,Bayer Leverkusen,Hertha BSC,1
+D1|2022-04-03|Augsburg|Wolfsburg,D1,2021,2022-04-03,2022-04-03T13:30:00Z,Augsburg,Wolfsburg,3,0,1.63503,1.08866,1.63503,1.08866,2.5097,0.6316,13,18,m_4dmgbZ,Augsburg,Wolfsburg,1
+D1|2022-04-03|M'gladbach|Mainz,D1,2021,2022-04-03,2022-04-03T15:30:00Z,M'gladbach,Mainz,1,1,1.48396,2.05397,1.48396,2.05397,1.43097,2.63096,16,21,m_39ttqY,Borussia Mönchengladbach,Mainz 05,1
+D1|2022-04-06|Augsburg|Mainz,D1,2021,2022-04-06,2022-04-06T16:30:00Z,Augsburg,Mainz,2,1,1.76379,1.76586,0.97539,1.76586,1.81122,1.13641,11,16,m_3YXJZu,Augsburg,Mainz 05,1
+D1|2022-04-08|Stuttgart|Dortmund,D1,2021,2022-04-08,2022-04-08T18:30:00Z,Stuttgart,Dortmund,0,2,1.74321,1.92239,1.74321,1.92239,1.0085,1.2624,13,12,m_2wXvw2,VfB Stuttgart,Borussia Dortmund,1
+D1|2022-04-09|Bayern Munich|Augsburg,D1,2021,2022-04-09,2022-04-09T13:30:00Z,Bayern Munich,Augsburg,1,0,1.52964,0.22471,0.74124,0.22471,1.4599,0.2979,14,6,m_1DVU4c,Bayern München,Augsburg,1
+D1|2022-04-09|FC Koln|Mainz,D1,2021,2022-04-09,2022-04-09T13:30:00Z,FC Koln,Mainz,3,2,1.87211,0.96119,1.87211,0.96119,1.75634,1.99866,13,10,m_4DbX3G,1. FC Köln,Mainz 05,1
+D1|2022-04-09|Greuther Furth|M'gladbach,D1,2021,2022-04-09,2022-04-09T13:30:00Z,Greuther Furth,M'gladbach,0,2,0.53567,2.72344,0.53567,1.93504,0.1848,2.2784,10,17,m_3pxocr,Greuther Fürth,Borussia Mönchengladbach,1
+D1|2022-04-09|Hertha|Union Berlin,D1,2021,2022-04-09,2022-04-09T16:30:00Z,Hertha,Union Berlin,1,4,0.71831,1.88755,0.71831,1.88755,0.3221,3.4331,11,17,m_0LX5Bt,Hertha BSC,Union Berlin,1
+D1|2022-04-09|Wolfsburg|Bielefeld,D1,2021,2022-04-09,2022-04-09T13:30:00Z,Wolfsburg,Bielefeld,4,0,1.97427,0.38332,1.97427,0.38332,2.4105,0.3935,11,7,m_43y2nH,Wolfsburg,Arminia Bielefeld,1
+D1|2022-04-10|Bochum|Leverkusen,D1,2021,2022-04-10,2022-04-10T13:30:00Z,Bochum,Leverkusen,0,0,0.72903,1.39501,0.72903,0.60661,0.8031,0.0605,12,10,m_3cf2MO,Bochum,Bayer Leverkusen,1
+D1|2022-04-10|Ein Frankfurt|Freiburg,D1,2021,2022-04-10,2022-04-10T15:30:00Z,Ein Frankfurt,Freiburg,1,2,0.92201,1.03518,0.92201,1.03518,1.4754,1.2822,18,12,m_1xZFjZ,Eintracht Frankfurt,Freiburg,1
+D1|2022-04-10|RB Leipzig|Hoffenheim,D1,2021,2022-04-10,2022-04-10T17:30:00Z,RB Leipzig,Hoffenheim,3,0,1.5073,0.19158,1.5073,0.19158,1.8812,0.0,11,3,m_14e3Ns,RB Leipzig,Hoffenheim,1
+D1|2022-04-16|Augsburg|Hertha,D1,2021,2022-04-16,2022-04-16T13:30:00Z,Augsburg,Hertha,0,1,1.00422,1.07816,1.00422,1.07816,0.6016,0.8615,13,13,m_1ujlfK,Augsburg,Hertha BSC,1
+D1|2022-04-16|Dortmund|Wolfsburg,D1,2021,2022-04-16,2022-04-16T13:30:00Z,Dortmund,Wolfsburg,6,1,2.96241,1.64924,2.96241,1.64924,3.5741,1.9317,12,10,m_3CrTU9,Borussia Dortmund,Wolfsburg,1
+D1|2022-04-16|Freiburg|Bochum,D1,2021,2022-04-16,2022-04-16T13:30:00Z,Freiburg,Bochum,3,0,2.22392,0.40971,2.22392,0.40971,2.6492,0.1836,15,10,m_1ta0dP,Freiburg,Bochum,1
+D1|2022-04-16|M'gladbach|FC Koln,D1,2021,2022-04-16,2022-04-16T16:30:00Z,M'gladbach,FC Koln,1,3,1.24185,2.10536,1.24185,2.10536,0.5146,1.9092,17,17,m_1Wb4c7,Borussia Mönchengladbach,1. FC Köln,1
+D1|2022-04-16|Mainz|Stuttgart,D1,2021,2022-04-16,2022-04-16T13:30:00Z,Mainz,Stuttgart,0,0,0.59339,0.70785,0.59339,0.70785,0.0,1.20344,11,6,m_4JVraN,Mainz 05,VfB Stuttgart,1
+D1|2022-04-17|Bielefeld|Bayern Munich,D1,2021,2022-04-17,2022-04-17T13:30:00Z,Bielefeld,Bayern Munich,0,3,0.38491,2.70774,0.38491,2.70774,0.8255,3.2124,9,22,m_3us7U8,Arminia Bielefeld,Bayern München,1
+D1|2022-04-17|Hoffenheim|Greuther Furth,D1,2021,2022-04-17,2022-04-17T15:30:00Z,Hoffenheim,Greuther Furth,0,0,0.99388,0.28601,0.99388,0.28601,0.4136,0.2864,16,8,m_0K8xbt,Hoffenheim,Greuther Fürth,1
+D1|2022-04-17|Leverkusen|RB Leipzig,D1,2021,2022-04-17,2022-04-17T17:30:00Z,Leverkusen,RB Leipzig,0,1,0.76231,0.46492,0.76231,0.46492,0.5856,0.3192,12,4,m_1xZTUA,Bayer Leverkusen,RB Leipzig,1
+D1|2022-04-17|Union Berlin|Ein Frankfurt,D1,2021,2022-04-17,2022-04-17T15:30:00Z,Union Berlin,Ein Frankfurt,2,0,1.07713,0.51642,1.07713,0.51642,0.6505,0.2495,13,10,m_451wyY,Union Berlin,Eintracht Frankfurt,1
+D1|2022-04-22|Wolfsburg|Mainz,D1,2021,2022-04-22,2022-04-22T18:30:00Z,Wolfsburg,Mainz,5,0,3.91708,0.72878,3.12868,0.72878,4.02194,1.0103,15,5,m_4Pqg3d,Wolfsburg,Mainz 05,1
+D1|2022-04-23|Bayern Munich|Dortmund,D1,2021,2022-04-23,2022-04-23T16:30:00Z,Bayern Munich,Dortmund,3,1,1.78795,1.31891,1.78795,0.53051,2.4317,1.193,14,7,m_0Kylvv,Bayern München,Borussia Dortmund,1
+D1|2022-04-23|Ein Frankfurt|Hoffenheim,D1,2021,2022-04-23,2022-04-23T13:30:00Z,Ein Frankfurt,Hoffenheim,2,2,1.34556,0.67285,1.34556,0.67285,1.4772,1.3746,18,10,m_43VoYs,Eintracht Frankfurt,Hoffenheim,1
+D1|2022-04-23|FC Koln|Bielefeld,D1,2021,2022-04-23,2022-04-23T13:30:00Z,FC Koln,Bielefeld,3,1,1.95352,0.87817,1.95352,0.87817,2.2556,0.573,20,13,m_1YZQnM,1. FC Köln,Arminia Bielefeld,1
+D1|2022-04-23|Freiburg|M'gladbach,D1,2021,2022-04-23,2022-04-23T13:30:00Z,Freiburg,M'gladbach,3,3,2.30385,1.62517,1.51545,0.83677,1.9734,1.7139,19,7,m_4X5zo5,Freiburg,Borussia Mönchengladbach,1
+D1|2022-04-23|Greuther Furth|Leverkusen,D1,2021,2022-04-23,2022-04-23T13:30:00Z,Greuther Furth,Leverkusen,1,4,0.8848,2.48951,0.8848,2.48951,0.5074,2.9818,8,9,m_0JNNTs,Greuther Fürth,Bayer Leverkusen,1
+D1|2022-04-23|RB Leipzig|Union Berlin,D1,2021,2022-04-23,2022-04-23T13:30:00Z,RB Leipzig,Union Berlin,1,2,0.55432,1.3769,0.55432,1.3769,0.4884,1.0215,5,14,m_0TkoXT,RB Leipzig,Union Berlin,1
+D1|2022-04-24|Bochum|Augsburg,D1,2021,2022-04-24,2022-04-24T13:30:00Z,Bochum,Augsburg,0,2,1.1559,1.9999,1.1559,1.2115,0.7084,1.3879,18,12,m_1QSfnT,Bochum,Augsburg,1
+D1|2022-04-24|Hertha|Stuttgart,D1,2021,2022-04-24,2022-04-24T15:30:00Z,Hertha,Stuttgart,2,0,1.41651,0.59607,1.41651,0.59607,1.0529,0.2369,9,12,m_1C3PAx,Hertha BSC,VfB Stuttgart,1
+D1|2022-04-29|Union Berlin|Greuther Furth,D1,2021,2022-04-29,2022-04-29T18:30:00Z,Union Berlin,Greuther Furth,1,1,1.40817,0.28441,1.40817,0.28441,1.0243,0.7491,8,7,m_2SbYaB,Union Berlin,Greuther Fürth,1
+D1|2022-04-30|Augsburg|FC Koln,D1,2021,2022-04-30,2022-04-30T13:30:00Z,Augsburg,FC Koln,1,4,1.70956,2.52439,1.70956,1.73599,0.9588,3.7531,12,17,m_0uLLNX,Augsburg,1. FC Köln,1
+D1|2022-04-30|Bielefeld|Hertha,D1,2021,2022-04-30,2022-04-30T13:30:00Z,Bielefeld,Hertha,1,1,0.52325,1.4529,0.52325,1.4529,0.1686,1.6258,7,11,m_1PhFjc,Arminia Bielefeld,Hertha BSC,1
+D1|2022-04-30|Dortmund|Bochum,D1,2021,2022-04-30,2022-04-30T13:30:00Z,Dortmund,Bochum,3,4,4.44806,1.62059,2.87126,0.83219,3.6037,2.5244,18,12,m_086b62,Borussia Dortmund,Bochum,1
+D1|2022-04-30|Hoffenheim|Freiburg,D1,2021,2022-04-30,2022-04-30T16:30:00Z,Hoffenheim,Freiburg,3,4,2.01511,2.41058,2.01511,2.41058,2.2355,3.3342,19,11,m_3vVQ2S,Hoffenheim,Freiburg,1
+D1|2022-04-30|Mainz|Bayern Munich,D1,2021,2022-04-30,2022-04-30T13:30:00Z,Mainz,Bayern Munich,3,1,3.3641,1.43658,3.3641,1.43658,2.00884,0.95686,22,7,m_30TduT,Mainz 05,Bayern München,1
+D1|2022-04-30|Stuttgart|Wolfsburg,D1,2021,2022-04-30,2022-04-30T13:30:00Z,Stuttgart,Wolfsburg,1,1,0.76665,1.43907,0.76665,1.43907,1.7993,1.5041,19,15,m_0UYPfu,VfB Stuttgart,Wolfsburg,1
+D1|2022-05-02|Leverkusen|Ein Frankfurt,D1,2021,2022-05-02,2022-05-02T18:30:00Z,Leverkusen,Ein Frankfurt,2,0,1.80992,0.2984,1.80992,0.2984,1.1993,0.3893,11,9,m_4JfGSt,Bayer Leverkusen,Eintracht Frankfurt,1
+D1|2022-05-02|M'gladbach|RB Leipzig,D1,2021,2022-05-02,2022-05-02T18:30:00Z,M'gladbach,RB Leipzig,3,1,1.49752,1.07082,1.49752,1.07082,2.6846,2.3607,9,12,m_3aGrdb,Borussia Mönchengladbach,RB Leipzig,1
+D1|2022-05-06|Bochum|Bielefeld,D1,2021,2022-05-06,2022-05-06T18:30:00Z,Bochum,Bielefeld,2,1,2.10331,0.77583,2.10331,0.77583,2.9122,0.2669,17,15,m_42UPiz,Bochum,Arminia Bielefeld,1
+D1|2022-05-07|FC Koln|Wolfsburg,D1,2021,2022-05-07,2022-05-07T13:30:00Z,FC Koln,Wolfsburg,0,1,1.2394,1.11757,1.2394,1.11757,2.5037,1.8966,18,5,m_0Dizuw,1. FC Köln,Wolfsburg,1
+D1|2022-05-07|Freiburg|Union Berlin,D1,2021,2022-05-07,2022-05-07T13:30:00Z,Freiburg,Union Berlin,1,4,1.8239,1.99133,1.8239,1.99133,0.5519,3.2138,19,13,m_2a3uKq,Freiburg,Union Berlin,1
+D1|2022-05-07|Greuther Furth|Dortmund,D1,2021,2022-05-07,2022-05-07T13:30:00Z,Greuther Furth,Dortmund,1,3,1.30797,1.52809,1.30797,1.52809,1.1368,1.9744,8,8,m_0GLby8,Greuther Fürth,Borussia Dortmund,1
+D1|2022-05-07|Hertha|Mainz,D1,2021,2022-05-07,2022-05-07T16:30:00Z,Hertha,Mainz,1,2,1.14549,0.70626,0.35709,0.70626,0.99255,1.02146,10,11,m_1srIb3,Hertha BSC,Mainz 05,1
+D1|2022-05-07|Hoffenheim|Leverkusen,D1,2021,2022-05-07,2022-05-07T13:30:00Z,Hoffenheim,Leverkusen,2,4,2.61513,4.04514,2.61513,4.04514,2.3255,3.689,12,16,m_34Mgsa,Hoffenheim,Bayer Leverkusen,1
+D1|2022-05-08|Bayern Munich|Stuttgart,D1,2021,2022-05-08,2022-05-08T15:30:00Z,Bayern Munich,Stuttgart,2,2,3.00948,1.50964,3.00948,1.50964,1.2934,1.2678,22,15,m_2D3gZd,Bayern München,VfB Stuttgart,1
+D1|2022-05-08|Ein Frankfurt|M'gladbach,D1,2021,2022-05-08,2022-05-08T13:30:00Z,Ein Frankfurt,M'gladbach,1,1,0.8348,1.39993,0.8348,1.39993,0.3628,2.4301,18,12,m_3yOzsa,Eintracht Frankfurt,Borussia Mönchengladbach,1
+D1|2022-05-08|RB Leipzig|Augsburg,D1,2021,2022-05-08,2022-05-08T17:30:00Z,RB Leipzig,Augsburg,4,0,3.34843,0.29729,2.56003,0.29729,3.6149,0.2488,14,6,m_4L2n1j,RB Leipzig,Augsburg,1
+D1|2022-05-14|Augsburg|Greuther Furth,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Augsburg,Greuther Furth,2,1,1.11824,0.49914,0.32984,0.49914,1.5518,1.2581,8,7,m_1Ku3BS,Augsburg,Greuther Fürth,1
+D1|2022-05-14|Bielefeld|RB Leipzig,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Bielefeld,RB Leipzig,1,1,1.6695,3.11648,1.6695,3.11648,2.0685,1.8974,9,20,m_22EQda,Arminia Bielefeld,RB Leipzig,1
+D1|2022-05-14|Dortmund|Hertha,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Dortmund,Hertha,2,1,1.41947,0.95705,0.63107,0.16865,1.0101,0.9943,8,5,m_3c8BPX,Borussia Dortmund,Hertha BSC,1
+D1|2022-05-14|Leverkusen|Freiburg,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Leverkusen,Freiburg,2,1,2.15248,1.07175,2.15248,1.07175,0.8955,0.3784,11,13,m_2tlG33,Bayer Leverkusen,Freiburg,1
+D1|2022-05-14|M'gladbach|Hoffenheim,D1,2021,2022-05-14,2022-05-14T13:30:00Z,M'gladbach,Hoffenheim,5,1,3.34663,1.64678,2.55823,1.64678,3.5981,1.1789,18,10,m_3nDYSH,Borussia Mönchengladbach,Hoffenheim,1
+D1|2022-05-14|Mainz|Ein Frankfurt,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Mainz,Ein Frankfurt,2,2,1.32898,1.77737,1.32898,1.77737,0.96555,1.18667,13,12,m_07vyU3,Mainz 05,Eintracht Frankfurt,1
+D1|2022-05-14|Stuttgart|FC Koln,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Stuttgart,FC Koln,2,1,4.1778,1.1946,3.3894,1.1946,4.3071,1.0566,24,13,m_3NgyuE,VfB Stuttgart,1. FC Köln,1
+D1|2022-05-14|Union Berlin|Bochum,D1,2021,2022-05-14,2022-05-14T13:30:00Z,Union Berlin,Bochum,3,2,2.71032,0.22301,1.92192,0.22301,4.4373,1.2641,16,5,m_2Mn73K,Union Berlin,Bochum,1
+D1|2022-05-14|Wolfsburg|Bayern Munich,D1,2021,2022-05-14,2022-05-14T13:35:00Z,Wolfsburg,Bayern Munich,2,2,1.46402,2.14477,1.46402,2.14477,1.3472,1.9061,9,26,m_0L9Q85,Wolfsburg,Bayern München,1

@@ -1,0 +1,37 @@
+match_key,div,season,date,kickoff_utc,home,away,hg,ag,home_xg,away_xg,home_npxg,away_npxg,home_xgot,away_xgot,home_shots,away_shots,pitch_id,pitch_home,pitch_away,mapped
+D1|2026-08-28|Bayern Munich|Stuttgart,D1,2026,2026-08-28,2026-08-28T18:30:00Z,Bayern Munich,Stuttgart,5,1,3.92669,0.86305,3.92669,0.86305,4.90557,1.15799,21,12,m_4a3PHq,Bayern München,VfB Stuttgart,1
+D1|2026-08-29|Dortmund|Hamburg,D1,2026,2026-08-29,2026-08-29T16:30:00Z,Dortmund,Hamburg,2,0,1.42426,0.79989,1.42426,0.79989,2.00361,0.14521,20,9,m_2yz0ic,Borussia Dortmund,Hamburger SV,1
+D1|2026-08-29|Elversberg|Leverkusen,D1,2026,2026-08-29,2026-08-29T13:30:00Z,Elversberg,Leverkusen,3,2,1.31551,1.89843,1.31551,1.89843,2.18197,2.01279,11,21,m_3OT7Pa,Elversberg,Bayer Leverkusen,1
+D1|2026-08-29|FC Koln|Hoffenheim,D1,2026,2026-08-29,2026-08-29T13:30:00Z,FC Koln,Hoffenheim,3,2,1.70773,1.75164,1.70773,0.96324,3.43732,2.28175,18,15,m_1YLY6P,1. FC Köln,Hoffenheim,1
+D1|2026-08-29|Mainz|Paderborn,D1,2026,2026-08-29,2026-08-29T13:30:00Z,Mainz,Paderborn,0,0,1.26188,0.73203,1.26188,0.73203,0.6952,0.0,22,10,m_31UW5F,Mainz 05,Paderborn,1
+D1|2026-08-29|RB Leipzig|M'gladbach,D1,2026,2026-08-29,2026-08-29T13:30:00Z,RB Leipzig,M'gladbach,3,0,4.65032,1.08797,4.65032,1.08797,3.83134,0.66129,25,15,m_0JdS7A,RB Leipzig,Borussia Mönchengladbach,1
+D1|2026-08-29|Union Berlin|Ein Frankfurt,D1,2026,2026-08-29,2026-08-29T13:30:00Z,Union Berlin,Ein Frankfurt,3,3,1.83998,1.46635,1.83998,1.46635,3.46492,1.75183,19,12,m_2y7UBZ,Union Berlin,Eintracht Frankfurt,1
+D1|2026-08-30|Augsburg|Schalke 04,D1,2026,2026-08-30,2026-08-30T15:30:00Z,Augsburg,Schalke 04,3,0,3.51734,1.53966,3.51734,1.53966,3.49211,0.88464,24,11,m_4FLgN6,Augsburg,Schalke 04,1
+D1|2026-08-30|Freiburg|Werder Bremen,D1,2026,2026-08-30,2026-08-30T13:30:00Z,Freiburg,Werder Bremen,4,1,1.93764,0.48169,1.93764,0.48169,3.06301,0.19668,19,9,m_2eLwiz,Freiburg,Werder Bremen,1
+D1|2026-09-04|Stuttgart|FC Koln,D1,2026,2026-09-04,2026-09-04T18:30:00Z,Stuttgart,FC Koln,4,1,3.47486,3.51317,3.47486,3.51317,2.64527,2.01572,22,18,m_1YTsPL,VfB Stuttgart,1. FC Köln,1
+D1|2026-09-05|Hoffenheim|Dortmund,D1,2026,2026-09-05,2026-09-05T13:30:00Z,Hoffenheim,Dortmund,2,3,1.17451,2.01966,1.17451,2.01966,1.14798,1.98948,19,11,m_21zOOC,Hoffenheim,Borussia Dortmund,1
+D1|2026-09-05|Leverkusen|Union Berlin,D1,2026,2026-09-05,2026-09-05T13:30:00Z,Leverkusen,Union Berlin,4,0,2.84854,0.43018,2.84854,0.43018,3.06381,0.0,21,5,m_3q8U3e,Bayer Leverkusen,Union Berlin,1
+D1|2026-09-05|M'gladbach|Elversberg,D1,2026,2026-09-05,2026-09-05T13:30:00Z,M'gladbach,Elversberg,3,4,2.36288,2.81023,2.36288,2.81023,3.00802,3.61757,25,14,m_2nb1Qz,Borussia Mönchengladbach,Elversberg,1
+D1|2026-09-05|Paderborn|Freiburg,D1,2026,2026-09-05,2026-09-05T13:30:00Z,Paderborn,Freiburg,0,1,0.77368,1.23885,0.77368,1.23885,0.6069,2.17862,14,16,m_1zadL6,Paderborn,Freiburg,1
+D1|2026-09-05|Schalke 04|Bayern Munich,D1,2026,2026-09-05,2026-09-05T16:30:00Z,Schalke 04,Bayern Munich,0,0,0.20973,2.10009,0.20973,2.10009,0.30163,1.09379,4,15,m_1GBuep,Schalke 04,Bayern München,1
+D1|2026-09-05|Werder Bremen|RB Leipzig,D1,2026,2026-09-05,2026-09-05T13:30:00Z,Werder Bremen,RB Leipzig,3,1,0.94817,1.49809,0.94817,1.49809,1.7335,0.74291,12,19,m_3uvp0W,Werder Bremen,RB Leipzig,1
+D1|2026-09-06|Ein Frankfurt|Augsburg,D1,2026,2026-09-06,2026-09-06T15:30:00Z,Ein Frankfurt,Augsburg,1,4,1.86756,1.36999,1.86756,1.36999,3.89028,2.77102,23,17,m_2sbL1E,Eintracht Frankfurt,Augsburg,1
+D1|2026-09-06|Hamburg|Mainz,D1,2026,2026-09-06,2026-09-06T13:30:00Z,Hamburg,Mainz,0,5,0.19195,2.77324,0.19195,2.77324,0.05026,2.95696,8,17,m_41xDhv,Hamburger SV,Mainz 05,1
+D1|2026-09-11|Union Berlin|Schalke 04,D1,2026,2026-09-11,2026-09-11T18:30:00Z,Union Berlin,Schalke 04,1,3,2.02838,2.44652,2.02838,2.44652,2.12984,3.5181,21,19,m_3BwHXm,Union Berlin,Schalke 04,1
+D1|2026-09-12|Augsburg|Leverkusen,D1,2026,2026-09-12,2026-09-12T13:30:00Z,Augsburg,Leverkusen,2,2,1.11222,2.6388,1.11222,2.6388,1.37778,1.63223,8,30,m_4Qkuc8,Augsburg,Bayer Leverkusen,1
+D1|2026-09-12|Dortmund|Paderborn,D1,2026,2026-09-12,2026-09-12T13:30:00Z,Dortmund,Paderborn,3,0,1.5485,0.41744,1.5485,0.41744,2.75968,0.0,14,10,m_1rkeUj,Borussia Dortmund,Paderborn,1
+D1|2026-09-12|FC Koln|Werder Bremen,D1,2026,2026-09-12,2026-09-12T16:30:00Z,FC Koln,Werder Bremen,1,1,1.61577,0.95112,0.82737,0.95112,1.63657,1.13144,15,14,m_1NBFKv,1. FC Köln,Werder Bremen,1
+D1|2026-09-12|Freiburg|M'gladbach,D1,2026,2026-09-12,2026-09-12T13:30:00Z,Freiburg,M'gladbach,5,0,2.59595,0.19104,2.59595,0.19104,4.32345,0.0,19,5,m_1SYMhC,Freiburg,Borussia Mönchengladbach,1
+D1|2026-09-12|Hoffenheim|Stuttgart,D1,2026,2026-09-12,2026-09-12T13:30:00Z,Hoffenheim,Stuttgart,2,1,2.76424,2.16393,2.76424,2.16393,2.88659,1.78379,20,16,m_0vc9Ho,Hoffenheim,VfB Stuttgart,1
+D1|2026-09-12|Mainz|Ein Frankfurt,D1,2026,2026-09-12,2026-09-12T13:30:00Z,Mainz,Ein Frankfurt,1,3,2.56099,2.04402,1.77259,2.04402,1.6817,2.7193,19,11,m_29HDzG,Mainz 05,Eintracht Frankfurt,1
+D1|2026-09-13|Elversberg|Bayern Munich,D1,2026,2026-09-13,2026-09-13T15:30:00Z,Elversberg,Bayern Munich,1,2,0.93751,2.42281,0.93751,2.42281,0.86576,1.95766,5,28,m_42JFAN,Elversberg,Bayern München,1
+D1|2026-09-13|RB Leipzig|Hamburg,D1,2026,2026-09-13,2026-09-13T13:30:00Z,RB Leipzig,Hamburg,5,0,2.38404,0.94061,2.38404,0.94061,3.49295,0.6074,19,10,m_29XYSo,RB Leipzig,Hamburger SV,1
+D1|2026-09-18|Bayern Munich|Union Berlin,D1,2026,2026-09-18,2026-09-18T18:30:00Z,Bayern Munich,Union Berlin,7,0,3.76581,0.33871,2.97741,0.33871,3.54332,0.43479,23,3,m_3bg2dv,Bayern München,Union Berlin,1
+D1|2026-09-19|Ein Frankfurt|Freiburg,D1,2026,2026-09-19,2026-09-19T13:30:00Z,Ein Frankfurt,Freiburg,2,2,2.18466,3.09374,2.18466,3.09374,1.95206,2.07391,10,22,m_3LRwFu,Eintracht Frankfurt,Freiburg,1
+D1|2026-09-19|Hamburg|FC Koln,D1,2026,2026-09-19,2026-09-19T13:30:00Z,Hamburg,FC Koln,2,1,1.76367,1.789,1.76367,1.789,1.86728,0.8895,12,18,m_30lsSe,Hamburger SV,1. FC Köln,1
+D1|2026-09-19|M'gladbach|Mainz,D1,2026,2026-09-19,2026-09-19T13:30:00Z,M'gladbach,Mainz,3,4,3.23909,2.82662,1.66229,2.82662,3.41435,3.08692,21,17,m_4cF2wg,Borussia Mönchengladbach,Mainz 05,1
+D1|2026-09-19|Stuttgart|Dortmund,D1,2026,2026-09-19,2026-09-19T16:30:00Z,Stuttgart,Dortmund,0,1,0.86856,1.3369,0.86856,1.3369,0.59478,0.44084,12,13,m_45nz4M,VfB Stuttgart,Borussia Dortmund,1
+D1|2026-09-19|Werder Bremen|Augsburg,D1,2026,2026-09-19,2026-09-19T13:30:00Z,Werder Bremen,Augsburg,3,2,2.86316,1.11757,2.86316,1.11757,3.83396,1.51744,20,7,m_1oMFj0,Werder Bremen,Augsburg,1
+D1|2026-09-20|Leverkusen|RB Leipzig,D1,2026,2026-09-20,2026-09-20T13:30:00Z,Leverkusen,RB Leipzig,2,0,2.2795,0.97096,2.2795,0.97096,2.15732,0.45724,18,12,m_2D6SRN,Bayer Leverkusen,RB Leipzig,1
+D1|2026-09-20|Paderborn|Hoffenheim,D1,2026,2026-09-20,2026-09-20T17:30:00Z,Paderborn,Hoffenheim,3,1,0.69678,1.42407,0.69678,1.42407,1.7636,0.65047,13,23,m_0eLU08,Paderborn,Hoffenheim,1
+D1|2026-09-20|Schalke 04|Elversberg,D1,2026,2026-09-20,2026-09-20T15:30:00Z,Schalke 04,Elversberg,0,0,1.13963,0.89933,1.13963,0.89933,0.16613,0.31416,13,11,m_3HYTFS,Schalke 04,Elversberg,1

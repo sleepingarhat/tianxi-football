@@ -1,0 +1,35 @@
+name: xg_pitchapi_daily
+# PitchAPI 五大聯賽 xG 每日收料（S9 正選 xG 源）。只寫 data/xg_pitchapi/ 同 data/xg/，唔郁凍結預測、指紋、模型。
+on:
+  schedule:
+    - cron: "7 5 * * *"   # 每日 05:07 UTC（香港 13:07），補返過去 4 日完場賽事
+  workflow_dispatch:
+    inputs:
+      from: { description: "開始日期 YYYY-MM-DD（留空＝4 日前）", required: false }
+      to: { description: "結束日期 YYYY-MM-DD（留空＝昨日）", required: false }
+permissions:
+  contents: write
+concurrency: { group: xg-data, cancel-in-progress: false }
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 抓 PitchAPI xG
+        env:
+          PITCHAPI_KEY: ${{ secrets.PITCHAPI_KEY }}
+        run: |
+          F="${{ github.event.inputs.from }}"; T="${{ github.event.inputs.to }}"
+          [ -z "$F" ] && F=$(date -u -d '4 days ago' +%F)
+          [ -z "$T" ] && T=$(date -u -d 'yesterday' +%F)
+          python scripts/ingest_pitchapi.py --from "$F" --to "$T"
+      - name: 合併正式 xG 檔
+        run: python scripts/merge_xg.py
+      - name: 提交
+        run: |
+          git config user.name "tianxi-bot"; git config user.email "bot@tianxi.racing"
+          git add data/xg_pitchapi data/xg
+          git diff --cached --quiet || git commit -m "xg: daily PitchAPI $(date -u +%F)"
+          git pull --rebase && git push

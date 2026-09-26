@@ -1,0 +1,381 @@
+match_key,div,season,date,kickoff_utc,home,away,hg,ag,home_xg,away_xg,home_npxg,away_npxg,home_xgot,away_xgot,home_shots,away_shots,pitch_id,pitch_home,pitch_away,mapped
+E0|2021-08-13|Brentford|Arsenal,E0,2021,2021-08-13,2021-08-13T19:00:00Z,Brentford,Arsenal,2,0,1.23927,1.27987,1.23927,1.27987,1.0035,0.3731,8,22,m_3b7BHO,Brentford,Arsenal,1
+E0|2021-08-14|Burnley|Brighton,E0,2021,2021-08-14,2021-08-14T14:00:00Z,Burnley,Brighton,1,2,1.46375,1.05259,1.46375,1.05259,0.9403,1.1486,14,14,m_3WP8WC,Burnley,Brighton & Hove Albion,1
+E0|2021-08-14|Chelsea|Crystal Palace,E0,2021,2021-08-14,2021-08-14T14:00:00Z,Chelsea,Crystal Palace,3,0,0.67948,0.21787,0.67948,0.21787,1.6665,0.1799,13,4,m_0IQf3N,Chelsea,Crystal Palace,1
+E0|2021-08-14|Everton|Southampton,E0,2021,2021-08-14,2021-08-14T14:00:00Z,Everton,Southampton,3,1,2.42004,0.84665,2.42004,0.84665,2.9649,1.0852,14,6,m_1LY82m,Everton,Southampton,1
+E0|2021-08-14|Leicester|Wolves,E0,2021,2021-08-14,2021-08-14T14:00:00Z,Leicester,Wolves,1,0,0.49069,1.32578,0.49069,1.32578,1.181,0.2231,9,17,m_2jlUh2,Leicester City,Wolverhampton Wanderers,1
+E0|2021-08-14|Man United|Leeds,E0,2021,2021-08-14,2021-08-14T11:30:00Z,Man United,Leeds,5,1,1.49552,0.52321,1.49552,0.52321,1.6394,1.0105,16,10,m_20SONa,Manchester United,Leeds United,1
+E0|2021-08-14|Norwich|Liverpool,E0,2021,2021-08-14,2021-08-14T16:30:00Z,Norwich,Liverpool,0,3,2.17369,1.6562,2.17369,1.6562,1.7082,1.1697,14,19,m_2xF4TJ,Norwich City,Liverpool,1
+E0|2021-08-14|Watford|Aston Villa,E0,2021,2021-08-14,2021-08-14T14:00:00Z,Watford,Aston Villa,3,2,1.17462,1.194,1.17462,0.4056,1.5739,1.3166,13,11,m_191znH,Watford,Aston Villa,1
+E0|2021-08-15|Newcastle|West Ham,E0,2021,2021-08-15,2021-08-15T13:00:00Z,Newcastle,West Ham,2,4,1.82591,3.46629,1.82591,2.67789,1.5338,3.9753,17,18,m_3TqWi2,Newcastle United,West Ham United,1
+E0|2021-08-15|Tottenham|Man City,E0,2021,2021-08-15,2021-08-15T15:30:00Z,Tottenham,Man City,1,0,1.04812,1.77721,1.04812,1.77721,0.7533,0.442,13,18,m_1KcNGG,Tottenham Hotspur,Manchester City,1
+E0|2021-08-21|Aston Villa|Newcastle,E0,2021,2021-08-21,2021-08-21T14:00:00Z,Aston Villa,Newcastle,2,0,1.34134,0.70377,0.55294,0.70377,1.4689,0.0371,10,9,m_0DLD3k,Aston Villa,Newcastle United,1
+E0|2021-08-21|Brighton|Watford,E0,2021,2021-08-21,2021-08-21T16:30:00Z,Brighton,Watford,2,0,1.34674,0.55061,1.34674,0.55061,0.653,0.1509,13,10,m_3R9Bww,Brighton & Hove Albion,Watford,1
+E0|2021-08-21|Crystal Palace|Brentford,E0,2021,2021-08-21,2021-08-21T14:00:00Z,Crystal Palace,Brentford,0,0,0.51839,0.85802,0.51839,0.85802,0.3688,0.9074,7,14,m_1bSCsi,Crystal Palace,Brentford,1
+E0|2021-08-21|Leeds|Everton,E0,2021,2021-08-21,2021-08-21T14:00:00Z,Leeds,Everton,2,2,1.24886,1.82214,1.24886,1.03374,1.1607,2.6692,17,17,m_17J9jf,Leeds United,Everton,1
+E0|2021-08-21|Liverpool|Burnley,E0,2021,2021-08-21,2021-08-21T11:30:00Z,Liverpool,Burnley,2,0,2.79532,0.90868,2.79532,0.90868,1.478,0.6247,27,9,m_2eaGdo,Liverpool,Burnley,1
+E0|2021-08-21|Man City|Norwich,E0,2021,2021-08-21,2021-08-21T14:00:00Z,Man City,Norwich,5,0,2.65446,0.05761,2.65446,0.05761,2.7179,0.0,16,2,m_1NqbSW,Manchester City,Norwich City,1
+E0|2021-08-22|Arsenal|Chelsea,E0,2021,2021-08-22,2021-08-22T15:30:00Z,Arsenal,Chelsea,0,2,0.33283,3.12501,0.33283,3.12501,0.1852,2.5014,6,22,m_40YY83,Arsenal,Chelsea,1
+E0|2021-08-22|Southampton|Man United,E0,2021,2021-08-22,2021-08-22T13:00:00Z,Southampton,Man United,1,1,0.67668,2.09225,0.67668,2.09225,0.6297,0.3743,8,16,m_2oxflM,Southampton,Manchester United,1
+E0|2021-08-22|Wolves|Tottenham,E0,2021,2021-08-22,2021-08-22T13:00:00Z,Wolves,Tottenham,0,1,1.83327,1.7623,1.83327,0.9739,1.4057,1.6374,25,8,m_3fvUxp,Wolverhampton Wanderers,Tottenham Hotspur,1
+E0|2021-08-23|West Ham|Leicester,E0,2021,2021-08-23,2021-08-23T19:00:00Z,West Ham,Leicester,4,1,2.33281,0.58901,2.33281,0.58901,3.0485,0.457,19,5,m_16abk9,West Ham United,Leicester City,1
+E0|2021-08-28|Aston Villa|Brentford,E0,2021,2021-08-28,2021-08-28T14:00:00Z,Aston Villa,Brentford,1,1,0.72605,0.87349,0.72605,0.87349,1.0939,0.9585,7,9,m_3UXczi,Aston Villa,Brentford,1
+E0|2021-08-28|Brighton|Everton,E0,2021,2021-08-28,2021-08-28T14:00:00Z,Brighton,Everton,0,2,0.78636,1.4279,0.78636,0.6395,0.0911,1.8537,14,14,m_1rFQ9E,Brighton & Hove Albion,Everton,1
+E0|2021-08-28|Liverpool|Chelsea,E0,2021,2021-08-28,2021-08-28T16:30:00Z,Liverpool,Chelsea,1,1,3.02147,0.63658,2.23307,0.63658,2.0287,0.436,24,6,m_3myU4f,Liverpool,Chelsea,1
+E0|2021-08-28|Man City|Arsenal,E0,2021,2021-08-28,2021-08-28T11:30:00Z,Man City,Arsenal,5,0,4.4385,0.21189,4.4385,0.21189,5.3752,0.0,25,1,m_1JrOOz,Manchester City,Arsenal,1
+E0|2021-08-28|Newcastle|Southampton,E0,2021,2021-08-28,2021-08-28T14:00:00Z,Newcastle,Southampton,2,2,1.04797,4.20168,1.04797,3.41328,1.2311,2.6645,10,22,m_42Tlaq,Newcastle United,Southampton,1
+E0|2021-08-28|Norwich|Leicester,E0,2021,2021-08-28,2021-08-28T14:00:00Z,Norwich,Leicester,1,2,1.52543,1.45801,0.73703,1.45801,1.3106,1.5769,14,9,m_3nhccH,Norwich City,Leicester City,1
+E0|2021-08-28|West Ham|Crystal Palace,E0,2021,2021-08-28,2021-08-28T14:00:00Z,West Ham,Crystal Palace,2,2,1.34042,1.14659,1.34042,1.14659,1.4936,1.6699,14,9,m_4bhHzV,West Ham United,Crystal Palace,1
+E0|2021-08-29|Burnley|Leeds,E0,2021,2021-08-29,2021-08-29T13:00:00Z,Burnley,Leeds,1,1,1.12067,1.29353,1.12067,1.29353,1.3746,1.0183,12,12,m_27x8K4,Burnley,Leeds United,1
+E0|2021-08-29|Tottenham|Watford,E0,2021,2021-08-29,2021-08-29T13:00:00Z,Tottenham,Watford,1,0,0.9911,0.77529,0.9911,0.77529,1.1641,0.5477,15,9,m_3fyXVu,Tottenham Hotspur,Watford,1
+E0|2021-08-29|Wolves|Man United,E0,2021,2021-08-29,2021-08-29T15:30:00Z,Wolves,Man United,0,1,2.23552,0.64319,2.23552,0.64319,1.5854,0.3654,15,10,m_3O6BNU,Wolverhampton Wanderers,Manchester United,1
+E0|2021-09-11|Arsenal|Norwich,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Arsenal,Norwich,1,0,2.85092,0.71063,2.85092,0.71063,1.755,0.0412,30,10,m_0G2uLw,Arsenal,Norwich City,1
+E0|2021-09-11|Brentford|Brighton,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Brentford,Brighton,0,1,0.40932,0.28433,0.40932,0.28433,0.0268,0.5044,7,4,m_0zfZWB,Brentford,Brighton & Hove Albion,1
+E0|2021-09-11|Chelsea|Aston Villa,E0,2021,2021-09-11,2021-09-11T16:30:00Z,Chelsea,Aston Villa,3,0,1.26831,1.19746,1.26831,1.19746,2.1918,0.8348,12,18,m_3LJtog,Chelsea,Aston Villa,1
+E0|2021-09-11|Crystal Palace|Tottenham,E0,2021,2021-09-11,2021-09-11T11:30:00Z,Crystal Palace,Tottenham,3,0,2.20654,0.0599,1.41814,0.0599,3.1303,0.0972,18,2,m_1ubPbm,Crystal Palace,Tottenham Hotspur,1
+E0|2021-09-11|Leicester|Man City,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Leicester,Man City,0,1,0.65681,2.97773,0.65681,2.97773,0.4112,2.0159,6,25,m_4KEbYI,Leicester City,Manchester City,1
+E0|2021-09-11|Man United|Newcastle,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Man United,Newcastle,4,1,2.56217,0.42276,2.56217,0.42276,2.1204,0.6768,21,12,m_2syhZU,Manchester United,Newcastle United,1
+E0|2021-09-11|Southampton|West Ham,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Southampton,West Ham,0,0,0.72275,0.72139,0.72275,0.72139,0.0699,0.3513,11,13,m_2wk5Sg,Southampton,West Ham United,1
+E0|2021-09-11|Watford|Wolves,E0,2021,2021-09-11,2021-09-11T14:00:00Z,Watford,Wolves,0,2,0.21756,2.3971,0.21756,2.3971,0.2323,1.793,7,14,m_0mp8fa,Watford,Wolverhampton Wanderers,1
+E0|2021-09-12|Leeds|Liverpool,E0,2021,2021-09-12,2021-09-12T15:30:00Z,Leeds,Liverpool,0,3,1.23124,4.53644,1.23124,4.53644,0.4731,2.8405,9,30,m_2pStL5,Leeds United,Liverpool,1
+E0|2021-09-13|Everton|Burnley,E0,2021,2021-09-13,2021-09-13T19:00:00Z,Everton,Burnley,3,1,1.44964,1.02182,1.44964,1.02182,2.0204,0.4778,14,11,m_3b9vuY,Everton,Burnley,1
+E0|2021-09-17|Newcastle|Leeds,E0,2021,2021-09-17,2021-09-17T19:00:00Z,Newcastle,Leeds,1,1,1.40305,1.63209,1.40305,1.63209,1.5196,0.8851,17,22,m_3m3fH8,Newcastle United,Leeds United,1
+E0|2021-09-18|Aston Villa|Everton,E0,2021,2021-09-18,2021-09-18T16:30:00Z,Aston Villa,Everton,3,0,0.84921,0.75494,0.84921,0.75494,0.5719,0.0505,15,12,m_3EByLH,Aston Villa,Everton,1
+E0|2021-09-18|Burnley|Arsenal,E0,2021,2021-09-18,2021-09-18T14:00:00Z,Burnley,Arsenal,0,1,1.01818,1.06342,1.01818,1.06342,0.1661,0.6435,18,13,m_1eb2E5,Burnley,Arsenal,1
+E0|2021-09-18|Liverpool|Crystal Palace,E0,2021,2021-09-18,2021-09-18T14:00:00Z,Liverpool,Crystal Palace,3,0,3.2445,0.59794,3.2445,0.59794,1.7497,0.1105,25,13,m_39j5Fj,Liverpool,Crystal Palace,1
+E0|2021-09-18|Man City|Southampton,E0,2021,2021-09-18,2021-09-18T14:00:00Z,Man City,Southampton,0,0,1.02788,0.41715,1.02788,0.41715,0.1947,0.2838,16,10,m_3RQtX1,Manchester City,Southampton,1
+E0|2021-09-18|Norwich|Watford,E0,2021,2021-09-18,2021-09-18T14:00:00Z,Norwich,Watford,1,3,0.97577,2.62377,0.97577,2.62377,0.6641,4.027,12,12,m_2YzaB8,Norwich City,Watford,1
+E0|2021-09-18|Wolves|Brentford,E0,2021,2021-09-18,2021-09-18T11:30:00Z,Wolves,Brentford,0,2,0.6299,2.47223,0.6299,1.68383,0.0,2.1767,11,9,m_0dqoUF,Wolverhampton Wanderers,Brentford,1
+E0|2021-09-19|Brighton|Leicester,E0,2021,2021-09-19,2021-09-19T13:00:00Z,Brighton,Leicester,2,1,1.72306,1.56401,0.93466,1.56401,1.5035,1.0846,12,14,m_4dmdjx,Brighton & Hove Albion,Leicester City,1
+E0|2021-09-19|Tottenham|Chelsea,E0,2021,2021-09-19,2021-09-19T15:30:00Z,Tottenham,Chelsea,0,3,0.50604,2.22655,0.50604,2.22655,0.7961,1.9802,8,20,m_4OvUdN,Tottenham Hotspur,Chelsea,1
+E0|2021-09-19|West Ham|Man United,E0,2021,2021-09-19,2021-09-19T13:00:00Z,West Ham,Man United,1,2,1.60162,2.47115,0.81322,2.47115,1.5655,3.32,13,17,m_3BXQDR,West Ham United,Manchester United,1
+E0|2021-09-25|Brentford|Liverpool,E0,2021,2021-09-25,2021-09-25T16:30:00Z,Brentford,Liverpool,3,3,2.26817,3.04038,2.26817,3.04038,2.0689,2.1959,12,16,m_0qUhIU,Brentford,Liverpool,1
+E0|2021-09-25|Chelsea|Man City,E0,2021,2021-09-25,2021-09-25T11:30:00Z,Chelsea,Man City,0,1,0.23579,1.69425,0.23579,1.69425,0.0,0.6779,5,15,m_1ieBlq,Chelsea,Manchester City,1
+E0|2021-09-25|Everton|Norwich,E0,2021,2021-09-25,2021-09-25T14:00:00Z,Everton,Norwich,2,0,1.9798,0.49052,1.1914,0.49052,1.9269,0.4668,11,10,m_06Ccbo,Everton,Norwich City,1
+E0|2021-09-25|Leeds|West Ham,E0,2021,2021-09-25,2021-09-25T14:00:00Z,Leeds,West Ham,1,2,1.22846,1.65514,1.22846,1.65514,1.0752,2.4594,16,20,m_0cDJrV,Leeds United,West Ham United,1
+E0|2021-09-25|Leicester|Burnley,E0,2021,2021-09-25,2021-09-25T14:00:00Z,Leicester,Burnley,2,2,2.35909,0.47539,2.35909,0.47539,0.9086,0.5115,23,9,m_0sAcKk,Leicester City,Burnley,1
+E0|2021-09-25|Man United|Aston Villa,E0,2021,2021-09-25,2021-09-25T11:30:00Z,Man United,Aston Villa,0,1,2.21033,1.03618,1.42193,1.03618,0.2764,0.8794,28,7,m_2IBdN9,Manchester United,Aston Villa,1
+E0|2021-09-25|Watford|Newcastle,E0,2021,2021-09-25,2021-09-25T14:00:00Z,Watford,Newcastle,1,1,0.90181,1.90234,0.90181,1.90234,0.774,1.4139,15,20,m_3DOQ7f,Watford,Newcastle United,1
+E0|2021-09-26|Arsenal|Tottenham,E0,2021,2021-09-26,2021-09-26T15:30:00Z,Arsenal,Tottenham,3,1,1.08396,1.01895,1.08396,1.01895,2.2163,1.7534,12,10,m_2xK9sn,Arsenal,Tottenham Hotspur,1
+E0|2021-09-26|Southampton|Wolves,E0,2021,2021-09-26,2021-09-26T13:00:00Z,Southampton,Wolves,0,1,1.07844,1.00564,1.07844,1.00564,0.3939,1.393,18,5,m_0sqJdx,Southampton,Wolverhampton Wanderers,1
+E0|2021-09-27|Crystal Palace|Brighton,E0,2021,2021-09-27,2021-09-27T19:00:00Z,Crystal Palace,Brighton,1,1,1.428,0.75724,0.6396,0.75724,1.2634,1.3289,8,8,m_28sK9i,Crystal Palace,Brighton & Hove Albion,1
+E0|2021-10-02|Brighton|Arsenal,E0,2021,2021-10-02,2021-10-02T16:30:00Z,Brighton,Arsenal,0,0,1.09406,0.43201,1.09406,0.43201,0.1615,0.1234,21,8,m_3nZgLY,Brighton & Hove Albion,Arsenal,1
+E0|2021-10-02|Burnley|Norwich,E0,2021,2021-10-02,2021-10-02T14:00:00Z,Burnley,Norwich,0,0,1.18115,0.61688,1.18115,0.61688,0.5541,0.5568,14,10,m_3E4LXF,Burnley,Norwich City,1
+E0|2021-10-02|Chelsea|Southampton,E0,2021,2021-10-02,2021-10-02T14:00:00Z,Chelsea,Southampton,3,1,3.47522,1.34995,3.47522,0.56155,2.7708,1.1593,20,6,m_3GvVIr,Chelsea,Southampton,1
+E0|2021-10-02|Leeds|Watford,E0,2021,2021-10-02,2021-10-02T14:00:00Z,Leeds,Watford,1,0,1.35307,0.20751,1.35307,0.20751,0.4381,0.1805,20,5,m_0Lle9A,Leeds United,Watford,1
+E0|2021-10-02|Man United|Everton,E0,2021,2021-10-02,2021-10-02T11:30:00Z,Man United,Everton,1,1,0.97842,1.27383,0.97842,1.27383,0.8635,1.0272,13,12,m_1smZ3x,Manchester United,Everton,1
+E0|2021-10-02|Wolves|Newcastle,E0,2021,2021-10-02,2021-10-02T14:00:00Z,Wolves,Newcastle,2,1,1.02037,0.64498,1.02037,0.64498,1.4392,1.3029,7,8,m_23bAQU,Wolverhampton Wanderers,Newcastle United,1
+E0|2021-10-03|Crystal Palace|Leicester,E0,2021,2021-10-03,2021-10-03T13:00:00Z,Crystal Palace,Leicester,2,2,1.53715,1.19382,1.53715,1.19382,0.4197,1.6317,18,9,m_2AHRye,Crystal Palace,Leicester City,1
+E0|2021-10-03|Liverpool|Man City,E0,2021,2021-10-03,2021-10-03T15:30:00Z,Liverpool,Man City,2,2,0.8972,1.24085,0.8972,1.24085,1.8463,1.347,6,12,m_45UMR4,Liverpool,Manchester City,1
+E0|2021-10-03|Tottenham|Aston Villa,E0,2021,2021-10-03,2021-10-03T13:00:00Z,Tottenham,Aston Villa,2,1,1.29357,1.20992,1.29357,1.20992,2.1161,1.0335,17,15,m_0FGSyZ,Tottenham Hotspur,Aston Villa,1
+E0|2021-10-03|West Ham|Brentford,E0,2021,2021-10-03,2021-10-03T13:00:00Z,West Ham,Brentford,1,2,1.55868,1.35346,1.55868,1.35346,0.9755,1.5114,18,13,m_3cBVQN,West Ham United,Brentford,1
+E0|2021-10-16|Aston Villa|Wolves,E0,2021,2021-10-16,2021-10-16T14:00:00Z,Aston Villa,Wolves,2,3,1.00799,2.11813,1.00799,2.11813,1.7461,1.7415,14,9,m_1S21wf,Aston Villa,Wolverhampton Wanderers,1
+E0|2021-10-16|Brentford|Chelsea,E0,2021,2021-10-16,2021-10-16T16:30:00Z,Brentford,Chelsea,0,1,1.55844,0.33166,1.55844,0.33166,1.0488,0.2424,17,5,m_2wP0aD,Brentford,Chelsea,1
+E0|2021-10-16|Leicester|Man United,E0,2021,2021-10-16,2021-10-16T14:00:00Z,Leicester,Man United,4,2,2.58744,1.15917,2.58744,1.15917,3.7298,0.875,22,18,m_3Dm2wT,Leicester City,Manchester United,1
+E0|2021-10-16|Man City|Burnley,E0,2021,2021-10-16,2021-10-16T14:00:00Z,Man City,Burnley,2,0,2.23537,0.92184,2.23537,0.92184,1.9837,0.1462,15,7,m_4YiAVk,Manchester City,Burnley,1
+E0|2021-10-16|Norwich|Brighton,E0,2021,2021-10-16,2021-10-16T14:00:00Z,Norwich,Brighton,0,0,1.21497,0.79098,1.21497,0.79098,0.1228,0.2803,15,11,m_3mljwr,Norwich City,Brighton & Hove Albion,1
+E0|2021-10-16|Southampton|Leeds,E0,2021,2021-10-16,2021-10-16T14:00:00Z,Southampton,Leeds,1,0,1.92389,0.18235,1.92389,0.18235,1.1894,0.0,19,3,m_1oftRC,Southampton,Leeds United,1
+E0|2021-10-16|Watford|Liverpool,E0,2021,2021-10-16,2021-10-16T11:30:00Z,Watford,Liverpool,0,5,0.46161,3.28755,0.46161,3.28755,0.2901,3.356,6,19,m_2pBtcs,Watford,Liverpool,1
+E0|2021-10-17|Everton|West Ham,E0,2021,2021-10-17,2021-10-17T13:00:00Z,Everton,West Ham,0,1,0.90124,1.29439,0.90124,1.29439,0.2296,1.9843,15,16,m_3SZIYL,Everton,West Ham United,1
+E0|2021-10-17|Newcastle|Tottenham,E0,2021,2021-10-17,2021-10-17T15:30:00Z,Newcastle,Tottenham,2,3,0.38614,1.69094,0.38614,1.69094,0.1495,1.5521,7,15,m_17P8ND,Newcastle United,Tottenham Hotspur,1
+E0|2021-10-18|Arsenal|Crystal Palace,E0,2021,2021-10-18,2021-10-18T19:00:00Z,Arsenal,Crystal Palace,2,2,1.82124,0.71796,1.82124,0.71796,1.9694,0.8901,17,9,m_3nXtJ4,Arsenal,Crystal Palace,1
+E0|2021-10-22|Arsenal|Aston Villa,E0,2021,2021-10-22,2021-10-22T19:00:00Z,Arsenal,Aston Villa,3,1,3.20468,1.43799,2.41628,1.43799,3.1433,1.2796,22,10,m_3UrZlU,Arsenal,Aston Villa,1
+E0|2021-10-23|Brighton|Man City,E0,2021,2021-10-23,2021-10-23T16:30:00Z,Brighton,Man City,1,4,1.30324,4.25055,0.51484,4.25055,1.1933,3.8553,10,23,m_1nZD4r,Brighton & Hove Albion,Manchester City,1
+E0|2021-10-23|Chelsea|Norwich,E0,2021,2021-10-23,2021-10-23T11:30:00Z,Chelsea,Norwich,7,0,3.44351,0.11269,2.65511,0.11269,5.189,0.0655,23,4,m_33bVkZ,Chelsea,Norwich City,1
+E0|2021-10-23|Crystal Palace|Newcastle,E0,2021,2021-10-23,2021-10-23T14:00:00Z,Crystal Palace,Newcastle,1,1,1.85863,0.36053,1.85863,0.36053,0.9169,0.4674,15,6,m_47Xw28,Crystal Palace,Newcastle United,1
+E0|2021-10-23|Everton|Watford,E0,2021,2021-10-23,2021-10-23T14:00:00Z,Everton,Watford,2,5,1.52977,3.8204,1.52977,3.8204,1.5236,4.2722,15,20,m_3Sb47T,Everton,Watford,1
+E0|2021-10-23|Leeds|Wolves,E0,2021,2021-10-23,2021-10-23T14:00:00Z,Leeds,Wolves,1,1,1.64695,0.91249,0.85855,0.91249,1.752,0.741,18,8,m_1iWN39,Leeds United,Wolverhampton Wanderers,1
+E0|2021-10-23|Southampton|Burnley,E0,2021,2021-10-23,2021-10-23T14:00:00Z,Southampton,Burnley,2,2,1.61711,0.69223,1.61711,0.69223,0.8625,1.5891,16,9,m_1DjzVP,Southampton,Burnley,1
+E0|2021-10-24|Brentford|Leicester,E0,2021,2021-10-24,2021-10-24T13:00:00Z,Brentford,Leicester,1,2,1.03134,1.50349,1.03134,1.50349,0.8672,1.3007,15,10,m_1FA9nZ,Brentford,Leicester City,1
+E0|2021-10-24|Man United|Liverpool,E0,2021,2021-10-24,2021-10-24T15:30:00Z,Man United,Liverpool,0,5,1.57018,3.42181,1.57018,3.42181,0.859,4.4392,12,19,m_2t9Yk4,Manchester United,Liverpool,1
+E0|2021-10-24|West Ham|Tottenham,E0,2021,2021-10-24,2021-10-24T13:00:00Z,West Ham,Tottenham,1,0,1.2716,0.70092,1.2716,0.70092,1.1484,0.6299,13,7,m_2ZrCvk,West Ham United,Tottenham Hotspur,1
+E0|2021-10-30|Burnley|Brentford,E0,2021,2021-10-30,2021-10-30T14:00:00Z,Burnley,Brentford,3,1,2.70374,0.8455,2.70374,0.8455,2.4915,0.8129,15,12,m_1h24v7,Burnley,Brentford,1
+E0|2021-10-30|Leicester|Arsenal,E0,2021,2021-10-30,2021-10-30T11:30:00Z,Leicester,Arsenal,0,2,1.30004,0.71465,1.30004,0.71465,2.448,1.1173,16,9,m_1zUYkl,Leicester City,Arsenal,1
+E0|2021-10-30|Liverpool|Brighton,E0,2021,2021-10-30,2021-10-30T14:00:00Z,Liverpool,Brighton,2,2,1.46263,1.01504,1.46263,1.01504,0.9945,1.5006,14,9,m_2xWElx,Liverpool,Brighton & Hove Albion,1
+E0|2021-10-30|Man City|Crystal Palace,E0,2021,2021-10-30,2021-10-30T14:00:00Z,Man City,Crystal Palace,0,2,0.71364,0.67115,0.71364,0.67115,0.123,1.4,14,8,m_1sZyrS,Manchester City,Crystal Palace,1
+E0|2021-10-30|Newcastle|Chelsea,E0,2021,2021-10-30,2021-10-30T14:00:00Z,Newcastle,Chelsea,0,3,0.21869,2.35146,0.21869,1.56306,0.0595,1.6766,6,19,m_3FtY2i,Newcastle United,Chelsea,1
+E0|2021-10-30|Tottenham|Man United,E0,2021,2021-10-30,2021-10-30T16:30:00Z,Tottenham,Man United,0,3,1.03164,1.49586,1.03164,1.49586,0.0,2.4322,9,10,m_1dy5Vt,Tottenham Hotspur,Manchester United,1
+E0|2021-10-30|Watford|Southampton,E0,2021,2021-10-30,2021-10-30T14:00:00Z,Watford,Southampton,0,1,1.04203,1.75703,1.04203,1.75703,0.8394,0.5958,10,12,m_3nXDAl,Watford,Southampton,1
+E0|2021-10-31|Aston Villa|West Ham,E0,2021,2021-10-31,2021-10-31T16:30:00Z,Aston Villa,West Ham,1,4,0.67833,2.46033,0.67833,2.46033,0.7172,4.3075,9,21,m_2ojR9V,Aston Villa,West Ham United,1
+E0|2021-10-31|Norwich|Leeds,E0,2021,2021-10-31,2021-10-31T14:00:00Z,Norwich,Leeds,1,2,0.8364,0.7354,0.8364,0.7354,0.5004,0.5853,14,13,m_1FqAqp,Norwich City,Leeds United,1
+E0|2021-11-01|Wolves|Everton,E0,2021,2021-11-01,2021-11-01T20:00:00Z,Wolves,Everton,2,1,1.6928,1.4767,1.6928,1.4767,0.5513,1.3134,10,14,m_3lEJdU,Wolverhampton Wanderers,Everton,1
+E0|2021-11-05|Southampton|Aston Villa,E0,2021,2021-11-05,2021-11-05T20:00:00Z,Southampton,Aston Villa,1,0,0.6248,0.61479,0.6248,0.61479,0.777,0.141,9,14,m_0uatIa,Southampton,Aston Villa,1
+E0|2021-11-06|Brentford|Norwich,E0,2021,2021-11-06,2021-11-06T15:00:00Z,Brentford,Norwich,1,2,2.58892,1.22385,2.58892,0.43545,2.5509,1.5293,19,9,m_1dBwY9,Brentford,Norwich City,1
+E0|2021-11-06|Brighton|Newcastle,E0,2021,2021-11-06,2021-11-06T17:30:00Z,Brighton,Newcastle,1,1,1.49171,0.28865,0.70331,0.28865,1.4197,0.1821,14,6,m_3w24jS,Brighton & Hove Albion,Newcastle United,1
+E0|2021-11-06|Chelsea|Burnley,E0,2021,2021-11-06,2021-11-06T15:00:00Z,Chelsea,Burnley,1,1,1.83377,0.67229,1.83377,0.67229,0.8043,1.1542,25,5,m_10tnVo,Chelsea,Burnley,1
+E0|2021-11-06|Crystal Palace|Wolves,E0,2021,2021-11-06,2021-11-06T15:00:00Z,Crystal Palace,Wolves,2,0,2.01084,0.30028,2.01084,0.30028,1.4206,0.2737,13,4,m_1aSps5,Crystal Palace,Wolverhampton Wanderers,1
+E0|2021-11-06|Man United|Man City,E0,2021,2021-11-06,2021-11-06T12:30:00Z,Man United,Man City,0,2,0.98944,1.6648,0.98944,1.6648,0.0177,0.5229,6,16,m_3GlYPE,Manchester United,Manchester City,1
+E0|2021-11-07|Arsenal|Watford,E0,2021,2021-11-07,2021-11-07T14:00:00Z,Arsenal,Watford,1,0,1.63811,0.50097,0.84971,0.50097,1.7067,0.0769,14,7,m_2wAKkd,Arsenal,Watford,1
+E0|2021-11-07|Everton|Tottenham,E0,2021,2021-11-07,2021-11-07T14:00:00Z,Everton,Tottenham,0,0,0.60226,0.71634,0.60226,0.71634,0.2024,0.0,12,8,m_07RAto,Everton,Tottenham Hotspur,1
+E0|2021-11-07|Leeds|Leicester,E0,2021,2021-11-07,2021-11-07T14:00:00Z,Leeds,Leicester,1,1,1.37785,0.73099,1.37785,0.73099,0.8553,1.3696,18,9,m_13OTXl,Leeds United,Leicester City,1
+E0|2021-11-07|West Ham|Liverpool,E0,2021,2021-11-07,2021-11-07T16:30:00Z,West Ham,Liverpool,3,2,1.01854,1.23036,1.01854,1.23036,1.057,1.0163,7,17,m_18Bxp0,West Ham United,Liverpool,1
+E0|2021-11-20|Aston Villa|Brighton,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Aston Villa,Brighton,2,0,0.74708,0.4178,0.74708,0.4178,1.6327,0.2652,9,6,m_1nOr4N,Aston Villa,Brighton & Hove Albion,1
+E0|2021-11-20|Burnley|Crystal Palace,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Burnley,Crystal Palace,3,3,1.4913,2.02502,1.4913,2.02502,2.441,1.4854,15,18,m_3dESZA,Burnley,Crystal Palace,1
+E0|2021-11-20|Leicester|Chelsea,E0,2021,2021-11-20,2021-11-20T12:30:00Z,Leicester,Chelsea,0,3,0.35828,2.03095,0.35828,2.03095,0.3128,2.4579,4,16,m_007sSh,Leicester City,Chelsea,1
+E0|2021-11-20|Liverpool|Arsenal,E0,2021,2021-11-20,2021-11-20T17:30:00Z,Liverpool,Arsenal,4,0,4.33856,0.39011,4.33856,0.39011,3.0794,0.3943,19,5,m_0cO0dB,Liverpool,Arsenal,1
+E0|2021-11-20|Newcastle|Brentford,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Newcastle,Brentford,3,3,1.56335,0.85188,1.56335,0.85188,1.7094,0.8468,24,10,m_0V93Ok,Newcastle United,Brentford,1
+E0|2021-11-20|Norwich|Southampton,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Norwich,Southampton,2,1,0.54006,0.98692,0.54006,0.98692,0.6223,0.821,8,17,m_0wrduu,Norwich City,Southampton,1
+E0|2021-11-20|Watford|Man United,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Watford,Man United,4,1,2.81136,1.4114,2.02296,1.4114,2.5773,1.2873,20,9,m_2MY41h,Watford,Manchester United,1
+E0|2021-11-20|Wolves|West Ham,E0,2021,2021-11-20,2021-11-20T15:00:00Z,Wolves,West Ham,1,0,1.41951,0.40288,1.41951,0.40288,1.1634,0.6624,15,8,m_3B9QYe,Wolverhampton Wanderers,West Ham United,1
+E0|2021-11-21|Man City|Everton,E0,2021,2021-11-21,2021-11-21T14:00:00Z,Man City,Everton,3,0,2.53343,0.20921,2.53343,0.20921,2.5143,0.021,17,4,m_2Iiimb,Manchester City,Everton,1
+E0|2021-11-21|Tottenham|Leeds,E0,2021,2021-11-21,2021-11-21T16:30:00Z,Tottenham,Leeds,2,1,2.19156,1.46142,2.19156,1.46142,2.432,1.9185,13,18,m_0Vxiir,Tottenham Hotspur,Leeds United,1
+E0|2021-11-27|Arsenal|Newcastle,E0,2021,2021-11-27,2021-11-27T12:30:00Z,Arsenal,Newcastle,2,0,2.68688,0.25136,2.68688,0.25136,2.2102,0.4409,24,9,m_0yXIA5,Arsenal,Newcastle United,1
+E0|2021-11-27|Brighton|Leeds,E0,2021,2021-11-27,2021-11-27T17:30:00Z,Brighton,Leeds,0,0,2.27007,0.6649,2.27007,0.6649,0.5421,1.2743,20,11,m_4NZShR,Brighton & Hove Albion,Leeds United,1
+E0|2021-11-27|Crystal Palace|Aston Villa,E0,2021,2021-11-27,2021-11-27T15:00:00Z,Crystal Palace,Aston Villa,1,2,0.95648,0.45535,0.95648,0.45535,0.968,0.6507,8,10,m_1DzaQX,Crystal Palace,Aston Villa,1
+E0|2021-11-27|Liverpool|Southampton,E0,2021,2021-11-27,2021-11-27T15:00:00Z,Liverpool,Southampton,4,0,2.95242,1.0632,2.95242,1.0632,2.1197,1.3968,20,7,m_3YrnGu,Liverpool,Southampton,1
+E0|2021-11-27|Norwich|Wolves,E0,2021,2021-11-27,2021-11-27T15:00:00Z,Norwich,Wolves,0,0,1.6851,0.27173,1.6851,0.27173,1.1003,0.107,14,5,m_0txsyb,Norwich City,Wolverhampton Wanderers,1
+E0|2021-11-28|Brentford|Everton,E0,2021,2021-11-28,2021-11-28T14:00:00Z,Brentford,Everton,1,0,1.2298,1.01381,0.4414,1.01381,1.3335,0.646,6,14,m_0fsem0,Brentford,Everton,1
+E0|2021-11-28|Chelsea|Man United,E0,2021,2021-11-28,2021-11-28T16:30:00Z,Chelsea,Man United,1,1,2.71931,0.89887,1.93091,0.89887,2.4486,1.0004,24,3,m_1T0TiX,Chelsea,Manchester United,1
+E0|2021-11-28|Leicester|Watford,E0,2021,2021-11-28,2021-11-28T14:00:00Z,Leicester,Watford,4,2,2.40277,2.7912,2.40277,2.0028,3.3206,2.2307,18,17,m_2m9Ej7,Leicester City,Watford,1
+E0|2021-11-28|Man City|West Ham,E0,2021,2021-11-28,2021-11-28T14:00:00Z,Man City,West Ham,2,1,2.14099,0.17758,2.14099,0.17758,3.2957,0.386,19,5,m_3ClN0m,Manchester City,West Ham United,1
+E0|2021-11-30|Leeds|Crystal Palace,E0,2021,2021-11-30,2021-11-30T20:15:00Z,Leeds,Crystal Palace,1,0,1.40812,1.15383,0.61972,1.15383,1.3667,0.0747,15,9,m_3HoUta,Leeds United,Crystal Palace,1
+E0|2021-11-30|Newcastle|Norwich,E0,2021,2021-11-30,2021-11-30T19:30:00Z,Newcastle,Norwich,1,1,1.16221,1.20734,0.37381,1.20734,0.9728,1.3176,9,16,m_4PhZoq,Newcastle United,Norwich City,1
+E0|2021-12-01|Aston Villa|Man City,E0,2021,2021-12-01,2021-12-01T20:15:00Z,Aston Villa,Man City,1,2,0.78035,0.96615,0.78035,0.96615,1.4799,1.837,9,17,m_4bo09g,Aston Villa,Manchester City,1
+E0|2021-12-01|Everton|Liverpool,E0,2021,2021-12-01,2021-12-01T20:15:00Z,Everton,Liverpool,1,4,0.71839,2.4063,0.71839,2.4063,0.1143,3.9674,8,16,m_0td7AE,Everton,Liverpool,1
+E0|2021-12-01|Southampton|Leicester,E0,2021,2021-12-01,2021-12-01T19:30:00Z,Southampton,Leicester,2,2,1.52754,1.5547,1.52754,1.5547,1.321,1.4693,15,15,m_0k3wgr,Southampton,Leicester City,1
+E0|2021-12-01|Watford|Chelsea,E0,2021,2021-12-01,2021-12-01T19:30:00Z,Watford,Chelsea,1,2,1.01656,0.92598,1.01656,0.92598,1.3171,0.7596,14,8,m_1hypvk,Watford,Chelsea,1
+E0|2021-12-01|West Ham|Brighton,E0,2021,2021-12-01,2021-12-01T19:30:00Z,West Ham,Brighton,1,1,1.31372,1.33218,1.31372,1.33218,1.4381,0.9481,14,9,m_3N6jUB,West Ham United,Brighton & Hove Albion,1
+E0|2021-12-01|Wolves|Burnley,E0,2021,2021-12-01,2021-12-01T19:30:00Z,Wolves,Burnley,0,0,0.70662,0.2102,0.70662,0.2102,0.0814,0.0892,16,6,m_0HrTTo,Wolverhampton Wanderers,Burnley,1
+E0|2021-12-02|Man United|Arsenal,E0,2021,2021-12-02,2021-12-02T20:15:00Z,Man United,Arsenal,3,2,1.93896,1.44767,1.15056,1.44767,3.2309,1.7163,14,17,m_0llG1n,Manchester United,Arsenal,1
+E0|2021-12-02|Tottenham|Brentford,E0,2021,2021-12-02,2021-12-02T19:30:00Z,Tottenham,Brentford,2,0,1.97101,0.28832,1.97101,0.28832,2.3212,0.0938,11,7,m_2TqV0b,Tottenham Hotspur,Brentford,1
+E0|2021-12-04|Newcastle|Burnley,E0,2021,2021-12-04,2021-12-04T15:00:00Z,Newcastle,Burnley,1,0,1.04666,0.58035,1.04666,0.58035,0.5808,0.1713,19,10,m_0KB5cR,Newcastle United,Burnley,1
+E0|2021-12-04|Southampton|Brighton,E0,2021,2021-12-04,2021-12-04T15:00:00Z,Southampton,Brighton,1,1,1.62025,1.6923,1.62025,1.6923,1.2956,1.0114,14,14,m_2l4VLv,Southampton,Brighton & Hove Albion,1
+E0|2021-12-04|Watford|Man City,E0,2021,2021-12-04,2021-12-04T17:30:00Z,Watford,Man City,1,3,0.76281,3.20471,0.76281,3.20471,1.591,2.8908,11,26,m_0nOVPL,Watford,Manchester City,1
+E0|2021-12-04|West Ham|Chelsea,E0,2021,2021-12-04,2021-12-04T12:30:00Z,West Ham,Chelsea,3,2,1.83099,1.07981,1.04259,1.07981,1.447,0.9426,11,19,m_2bDAIY,West Ham United,Chelsea,1
+E0|2021-12-04|Wolves|Liverpool,E0,2021,2021-12-04,2021-12-04T15:00:00Z,Wolves,Liverpool,0,1,0.08987,2.89224,0.08987,2.89224,0.3316,1.3488,3,17,m_0Yqxqz,Wolverhampton Wanderers,Liverpool,1
+E0|2021-12-05|Aston Villa|Leicester,E0,2021,2021-12-05,2021-12-05T16:30:00Z,Aston Villa,Leicester,2,1,2.20872,1.07344,2.20872,1.07344,1.5529,1.6612,13,12,m_0wbQT7,Aston Villa,Leicester City,1
+E0|2021-12-05|Leeds|Brentford,E0,2021,2021-12-05,2021-12-05T14:00:00Z,Leeds,Brentford,2,2,1.24554,1.04877,1.24554,1.04877,1.5726,0.7894,13,9,m_4WMZnq,Leeds United,Brentford,1
+E0|2021-12-05|Man United|Crystal Palace,E0,2021,2021-12-05,2021-12-05T14:00:00Z,Man United,Crystal Palace,1,0,0.95172,0.5287,0.95172,0.5287,1.1659,0.9992,16,8,m_2g3avM,Manchester United,Crystal Palace,1
+E0|2021-12-05|Tottenham|Norwich,E0,2021,2021-12-05,2021-12-05T14:00:00Z,Tottenham,Norwich,3,0,1.65003,1.32769,1.65003,1.32769,1.7136,0.1545,17,10,m_09zgcm,Tottenham Hotspur,Norwich City,1
+E0|2021-12-06|Everton|Arsenal,E0,2021,2021-12-06,2021-12-06T20:00:00Z,Everton,Arsenal,2,1,0.96311,0.99243,0.96311,0.99243,1.4034,0.4372,11,10,m_4RMrss,Everton,Arsenal,1
+E0|2021-12-10|Brentford|Watford,E0,2021,2021-12-10,2021-12-10T20:00:00Z,Brentford,Watford,2,1,1.59186,0.46951,0.80346,0.46951,2.2181,0.6157,14,6,m_4MDLn9,Brentford,Watford,1
+E0|2021-12-11|Arsenal|Southampton,E0,2021,2021-12-11,2021-12-11T15:00:00Z,Arsenal,Southampton,3,0,1.83631,0.65861,1.83631,0.65861,2.0729,1.6049,15,11,m_1QvQuv,Arsenal,Southampton,1
+E0|2021-12-11|Chelsea|Leeds,E0,2021,2021-12-11,2021-12-11T15:00:00Z,Chelsea,Leeds,3,2,2.54378,1.45578,0.96698,0.66738,3.0605,1.7828,16,12,m_0HJ6in,Chelsea,Leeds United,1
+E0|2021-12-11|Liverpool|Aston Villa,E0,2021,2021-12-11,2021-12-11T15:00:00Z,Liverpool,Aston Villa,1,0,2.19432,0.21631,1.40592,0.21631,2.2234,0.0,20,4,m_35jmcV,Liverpool,Aston Villa,1
+E0|2021-12-11|Man City|Wolves,E0,2021,2021-12-11,2021-12-11T12:30:00Z,Man City,Wolves,1,0,3.26066,0.18561,2.47226,0.18561,1.4421,0.2236,24,2,m_0x7ZI3,Manchester City,Wolverhampton Wanderers,1
+E0|2021-12-11|Norwich|Man United,E0,2021,2021-12-11,2021-12-11T17:30:00Z,Norwich,Man United,0,1,1.18776,2.03412,1.18776,1.24572,0.7965,1.3722,11,13,m_26Wxcb,Norwich City,Manchester United,1
+E0|2021-12-12|Burnley|West Ham,E0,2021,2021-12-12,2021-12-12T14:00:00Z,Burnley,West Ham,0,0,0.8341,0.75936,0.8341,0.75936,0.0403,0.5639,9,16,m_0Dzqzn,Burnley,West Ham United,1
+E0|2021-12-12|Crystal Palace|Everton,E0,2021,2021-12-12,2021-12-12T16:30:00Z,Crystal Palace,Everton,3,1,1.844,1.03941,1.844,1.03941,2.0394,1.2472,17,12,m_0ncvgx,Crystal Palace,Everton,1
+E0|2021-12-12|Leicester|Newcastle,E0,2021,2021-12-12,2021-12-12T14:00:00Z,Leicester,Newcastle,4,0,2.60268,0.95235,1.81428,0.95235,2.9587,0.4954,8,12,m_1NIGEV,Leicester City,Newcastle United,1
+E0|2021-12-14|Man City|Leeds,E0,2021,2021-12-14,2021-12-14T20:00:00Z,Man City,Leeds,7,0,3.18316,0.32661,3.18316,0.32661,2.3684,0.1499,31,6,m_2Cg9nC,Manchester City,Leeds United,1
+E0|2021-12-14|Norwich|Aston Villa,E0,2021,2021-12-14,2021-12-14T19:45:00Z,Norwich,Aston Villa,0,2,0.45354,2.00494,0.45354,2.00494,0.1866,1.6866,7,17,m_3uiJcn,Norwich City,Aston Villa,1
+E0|2021-12-15|Arsenal|West Ham,E0,2021,2021-12-15,2021-12-15T20:00:00Z,Arsenal,West Ham,2,0,2.86018,0.38325,2.07178,0.38325,2.9707,0.4274,21,7,m_2kbxy9,Arsenal,West Ham United,1
+E0|2021-12-15|Brighton|Wolves,E0,2021,2021-12-15,2021-12-15T19:30:00Z,Brighton,Wolves,0,1,1.46586,1.06486,1.46586,1.06486,0.0396,1.3612,12,8,m_0DGec1,Brighton & Hove Albion,Wolverhampton Wanderers,1
+E0|2021-12-15|Crystal Palace|Southampton,E0,2021,2021-12-15,2021-12-15T19:30:00Z,Crystal Palace,Southampton,2,2,1.2622,0.64982,1.2622,0.64982,1.2978,0.6558,9,15,m_0PniJT,Crystal Palace,Southampton,1
+E0|2021-12-16|Chelsea|Everton,E0,2021,2021-12-16,2021-12-16T19:45:00Z,Chelsea,Everton,1,1,2.9128,0.5538,2.9128,0.5538,2.93,1.1604,23,5,m_2d8xjP,Chelsea,Everton,1
+E0|2021-12-16|Liverpool|Newcastle,E0,2021,2021-12-16,2021-12-16T20:00:00Z,Liverpool,Newcastle,3,1,3.1777,0.26335,3.1777,0.26335,3.9095,0.5513,23,5,m_1RftUy,Liverpool,Newcastle United,1
+E0|2021-12-18|Leeds|Arsenal,E0,2021,2021-12-18,2021-12-18T17:30:00Z,Leeds,Arsenal,1,4,1.63352,3.85315,0.84512,3.85315,1.2342,3.5665,9,21,m_4RJOOK,Leeds United,Arsenal,1
+E0|2021-12-19|Newcastle|Man City,E0,2021,2021-12-19,2021-12-19T14:00:00Z,Newcastle,Man City,0,4,0.31087,3.02763,0.31087,3.02763,0.163,3.246,5,18,m_00w5QM,Newcastle United,Manchester City,1
+E0|2021-12-19|Tottenham|Liverpool,E0,2021,2021-12-19,2021-12-19T16:30:00Z,Tottenham,Liverpool,2,2,3.02299,1.12516,3.02299,1.12516,2.0947,1.9857,10,18,m_4T8y2Z,Tottenham Hotspur,Liverpool,1
+E0|2021-12-19|Wolves|Chelsea,E0,2021,2021-12-19,2021-12-19T14:00:00Z,Wolves,Chelsea,0,0,0.24795,0.89547,0.24795,0.89547,0.3772,0.1784,4,8,m_2I5mZF,Wolverhampton Wanderers,Chelsea,1
+E0|2021-12-26|Aston Villa|Chelsea,E0,2021,2021-12-26,2021-12-26T17:30:00Z,Aston Villa,Chelsea,1,3,0.44792,2.6418,0.44792,1.065,0.0693,2.5799,8,11,m_2wkIPD,Aston Villa,Chelsea,1
+E0|2021-12-26|Brighton|Brentford,E0,2021,2021-12-26,2021-12-26T20:00:00Z,Brighton,Brentford,2,0,0.81746,0.71159,0.81746,0.71159,1.2292,0.6086,15,16,m_1nZDKO,Brighton & Hove Albion,Brentford,1
+E0|2021-12-26|Man City|Leicester,E0,2021,2021-12-26,2021-12-26T15:00:00Z,Man City,Leicester,6,3,3.72378,2.68618,2.14698,2.68618,4.7284,2.5767,17,14,m_2qB850,Manchester City,Leicester City,1
+E0|2021-12-26|Norwich|Arsenal,E0,2021,2021-12-26,2021-12-26T15:00:00Z,Norwich,Arsenal,0,5,0.11929,2.6065,0.11929,1.8181,0.8554,2.7609,4,16,m_3ooQPT,Norwich City,Arsenal,1
+E0|2021-12-26|Tottenham|Crystal Palace,E0,2021,2021-12-26,2021-12-26T15:00:00Z,Tottenham,Crystal Palace,3,0,2.28345,0.2466,2.28345,0.2466,2.328,0.0,17,4,m_0LVWYc,Tottenham Hotspur,Crystal Palace,1
+E0|2021-12-26|West Ham|Southampton,E0,2021,2021-12-26,2021-12-26T15:00:00Z,West Ham,Southampton,2,3,1.63461,1.18109,1.63461,0.39269,1.4434,1.6824,11,11,m_3Qm25o,West Ham United,Southampton,1
+E0|2021-12-27|Newcastle|Man United,E0,2021,2021-12-27,2021-12-27T20:00:00Z,Newcastle,Man United,1,1,1.28004,1.71769,1.28004,1.71769,2.3048,0.6823,13,13,m_0SE1SK,Newcastle United,Manchester United,1
+E0|2021-12-28|Crystal Palace|Norwich,E0,2021,2021-12-28,2021-12-28T15:00:00Z,Crystal Palace,Norwich,3,0,2.05414,0.95055,1.26574,0.95055,2.558,0.1248,19,12,m_0s8QxV,Crystal Palace,Norwich City,1
+E0|2021-12-28|Leicester|Liverpool,E0,2021,2021-12-28,2021-12-28T20:00:00Z,Leicester,Liverpool,1,0,0.42572,3.27666,0.42572,2.48826,0.1366,1.5157,6,21,m_4VVibh,Leicester City,Liverpool,1
+E0|2021-12-28|Southampton|Tottenham,E0,2021,2021-12-28,2021-12-28T15:00:00Z,Southampton,Tottenham,1,1,0.36185,2.32134,0.36185,1.53294,0.5852,3.0823,9,21,m_2OUzh6,Southampton,Tottenham Hotspur,1
+E0|2021-12-28|Watford|West Ham,E0,2021,2021-12-28,2021-12-28T15:00:00Z,Watford,West Ham,1,4,1.63903,3.58953,1.63903,2.80113,1.5735,3.3749,14,13,m_3tqE0k,Watford,West Ham United,1
+E0|2021-12-29|Brentford|Man City,E0,2021,2021-12-29,2021-12-29T20:15:00Z,Brentford,Man City,0,1,0.38986,1.10702,0.38986,1.10702,0.1786,1.2007,6,12,m_1Z9Vyn,Brentford,Manchester City,1
+E0|2021-12-29|Chelsea|Brighton,E0,2021,2021-12-29,2021-12-29T19:30:00Z,Chelsea,Brighton,1,1,0.70105,0.91109,0.70105,0.91109,1.0088,1.227,11,18,m_0Jzxki,Chelsea,Brighton & Hove Albion,1
+E0|2021-12-30|Man United|Burnley,E0,2021,2021-12-30,2021-12-30T20:15:00Z,Man United,Burnley,3,1,2.45282,1.1456,2.45282,1.1456,1.3885,0.8228,18,11,m_1YOTw8,Manchester United,Burnley,1
+E0|2022-01-01|Arsenal|Man City,E0,2021,2022-01-01,2022-01-01T12:30:00Z,Arsenal,Man City,1,2,0.76458,2.00839,0.76458,1.21999,0.3855,1.6621,7,15,m_2RsNqk,Arsenal,Manchester City,1
+E0|2022-01-01|Crystal Palace|West Ham,E0,2021,2022-01-01,2022-01-01T17:30:00Z,Crystal Palace,West Ham,2,3,2.3893,2.18321,2.3893,1.39481,1.5896,1.9895,22,10,m_0Exop8,Crystal Palace,West Ham United,1
+E0|2022-01-01|Watford|Tottenham,E0,2021,2022-01-01,2022-01-01T15:00:00Z,Watford,Tottenham,0,1,0.29522,2.27715,0.29522,2.27715,0.5057,2.4423,6,21,m_3rQnTP,Watford,Tottenham Hotspur,1
+E0|2022-01-02|Brentford|Aston Villa,E0,2021,2022-01-02,2022-01-02T14:00:00Z,Brentford,Aston Villa,2,1,0.5885,0.8179,0.5885,0.8179,0.9725,1.3483,10,16,m_42jBdz,Brentford,Aston Villa,1
+E0|2022-01-02|Chelsea|Liverpool,E0,2021,2022-01-02,2022-01-02T16:30:00Z,Chelsea,Liverpool,2,2,1.22936,1.32894,1.22936,1.32894,1.9559,1.1317,15,10,m_3fnqJn,Chelsea,Liverpool,1
+E0|2022-01-02|Everton|Brighton,E0,2021,2022-01-02,2022-01-02T14:00:00Z,Everton,Brighton,2,3,1.73716,1.72804,0.94876,1.72804,1.2911,2.5722,17,12,m_2EQE88,Everton,Brighton & Hove Albion,1
+E0|2022-01-02|Leeds|Burnley,E0,2021,2022-01-02,2022-01-02T14:00:00Z,Leeds,Burnley,3,1,1.87353,0.98472,1.87353,0.98472,1.973,0.9107,22,8,m_2sm0wh,Leeds United,Burnley,1
+E0|2022-01-03|Man United|Wolves,E0,2021,2022-01-03,2022-01-03T17:30:00Z,Man United,Wolves,0,1,0.7932,0.6959,0.7932,0.6959,0.3809,1.1365,9,19,m_0ULQDq,Manchester United,Wolverhampton Wanderers,1
+E0|2022-01-11|Southampton|Brentford,E0,2021,2022-01-11,2022-01-11T19:45:00Z,Southampton,Brentford,4,1,1.41982,0.54275,1.41982,0.54275,1.7978,1.4449,12,6,m_18ZZ0B,Southampton,Brentford,1
+E0|2022-01-12|West Ham|Norwich,E0,2021,2022-01-12,2022-01-12T19:45:00Z,West Ham,Norwich,2,0,2.49147,0.31049,2.49147,0.31049,2.2692,0.4684,13,7,m_2ua6zJ,West Ham United,Norwich City,1
+E0|2022-01-14|Brighton|Crystal Palace,E0,2021,2022-01-14,2022-01-14T20:00:00Z,Brighton,Crystal Palace,1,1,2.00992,0.18101,1.22152,0.18101,2.3889,0.9006,19,4,m_3GE4OB,Brighton & Hove Albion,Crystal Palace,1
+E0|2022-01-15|Aston Villa|Man United,E0,2021,2022-01-15,2022-01-15T17:30:00Z,Aston Villa,Man United,2,2,1.91765,0.98819,1.91765,0.98819,2.1938,1.4923,13,13,m_35XufK,Aston Villa,Manchester United,1
+E0|2022-01-15|Man City|Chelsea,E0,2021,2022-01-15,2022-01-15T12:30:00Z,Man City,Chelsea,1,0,1.00189,0.31717,1.00189,0.31717,1.5017,0.609,11,4,m_1hTAcY,Manchester City,Chelsea,1
+E0|2022-01-15|Newcastle|Watford,E0,2021,2022-01-15,2022-01-15T15:00:00Z,Newcastle,Watford,1,1,1.16975,1.35582,1.16975,1.35582,0.1479,0.5609,12,18,m_4HPnJ8,Newcastle United,Watford,1
+E0|2022-01-15|Norwich|Everton,E0,2021,2022-01-15,2022-01-15T15:00:00Z,Norwich,Everton,2,1,0.99977,0.61418,0.99977,0.61418,1.215,0.7049,14,13,m_4dREVQ,Norwich City,Everton,1
+E0|2022-01-15|Wolves|Southampton,E0,2021,2022-01-15,2022-01-15T15:00:00Z,Wolves,Southampton,3,1,2.67384,0.76818,1.88544,0.76818,2.7829,1.6864,9,13,m_1NxoUT,Wolverhampton Wanderers,Southampton,1
+E0|2022-01-16|Liverpool|Brentford,E0,2021,2022-01-16,2022-01-16T14:00:00Z,Liverpool,Brentford,3,0,2.7942,0.70933,2.7942,0.70933,3.7138,0.2078,27,6,m_4aaFSM,Liverpool,Brentford,1
+E0|2022-01-16|West Ham|Leeds,E0,2021,2022-01-16,2022-01-16T14:00:00Z,West Ham,Leeds,2,3,2.36808,2.22583,2.36808,2.22583,0.8637,1.9549,15,18,m_4Qz87A,West Ham United,Leeds United,1
+E0|2022-01-18|Brighton|Chelsea,E0,2021,2022-01-18,2022-01-18T20:00:00Z,Brighton,Chelsea,1,1,0.73,0.72823,0.73,0.72823,0.6015,0.5256,10,15,m_20pr5A,Brighton & Hove Albion,Chelsea,1
+E0|2022-01-19|Brentford|Man United,E0,2021,2022-01-19,2022-01-19T20:00:00Z,Brentford,Man United,1,3,2.46634,2.30337,2.46634,2.30337,3.2625,2.7671,18,13,m_4If3OO,Brentford,Manchester United,1
+E0|2022-01-19|Leicester|Tottenham,E0,2021,2022-01-19,2022-01-19T19:30:00Z,Leicester,Tottenham,2,3,1.16559,3.17979,1.16559,3.17979,1.5128,4.426,14,27,m_1DUX1J,Leicester City,Tottenham Hotspur,1
+E0|2022-01-21|Watford|Norwich,E0,2021,2022-01-21,2022-01-21T20:00:00Z,Watford,Norwich,0,3,1.18061,1.1141,1.18061,1.1141,0.12,1.2989,16,7,m_1PHWb4,Watford,Norwich City,1
+E0|2022-01-22|Brentford|Wolves,E0,2021,2022-01-22,2022-01-22T15:00:00Z,Brentford,Wolves,1,2,1.20001,0.23391,1.20001,0.23391,0.2066,0.426,11,7,m_2IYQwk,Brentford,Wolverhampton Wanderers,1
+E0|2022-01-22|Everton|Aston Villa,E0,2021,2022-01-22,2022-01-22T12:30:00Z,Everton,Aston Villa,0,1,1.61027,0.81985,1.61027,0.81985,0.0,1.1424,15,8,m_26WLxy,Everton,Aston Villa,1
+E0|2022-01-22|Leeds|Newcastle,E0,2021,2022-01-22,2022-01-22T15:00:00Z,Leeds,Newcastle,0,1,0.70909,0.95762,0.70909,0.95762,1.5392,1.2864,13,15,m_2rPDDo,Leeds United,Newcastle United,1
+E0|2022-01-22|Man United|West Ham,E0,2021,2022-01-22,2022-01-22T15:00:00Z,Man United,West Ham,1,0,1.8754,0.27972,1.8754,0.27972,1.1712,0.0295,18,6,m_2iyUmg,Manchester United,West Ham United,1
+E0|2022-01-22|Southampton|Man City,E0,2021,2022-01-22,2022-01-22T17:30:00Z,Southampton,Man City,1,1,0.86184,1.84393,0.86184,1.84393,0.5974,1.248,7,20,m_4FYbFh,Southampton,Manchester City,1
+E0|2022-01-23|Arsenal|Burnley,E0,2021,2022-01-23,2022-01-23T14:00:00Z,Arsenal,Burnley,0,0,1.23471,0.38578,1.23471,0.38578,0.5852,0.1475,20,10,m_2BvdL8,Arsenal,Burnley,1
+E0|2022-01-23|Chelsea|Tottenham,E0,2021,2022-01-23,2022-01-23T16:30:00Z,Chelsea,Tottenham,2,0,1.19513,0.50358,1.19513,0.50358,1.8788,0.3702,15,6,m_3i3TzC,Chelsea,Tottenham Hotspur,1
+E0|2022-01-23|Crystal Palace|Liverpool,E0,2021,2022-01-23,2022-01-23T14:00:00Z,Crystal Palace,Liverpool,1,3,2.18253,1.8583,2.18253,1.0699,1.21,1.946,8,14,m_2yMIbW,Crystal Palace,Liverpool,1
+E0|2022-01-23|Leicester|Brighton,E0,2021,2022-01-23,2022-01-23T14:00:00Z,Leicester,Brighton,1,1,1.54735,1.11177,1.54735,1.11177,2.1053,1.7981,15,14,m_3vZ7I0,Leicester City,Brighton & Hove Albion,1
+E0|2022-02-05|Burnley|Watford,E0,2021,2022-02-05,2022-02-05T18:00:00Z,Burnley,Watford,0,0,0.63442,0.79985,0.63442,0.79985,0.2578,1.038,13,11,m_4P7qTq,Burnley,Watford,1
+E0|2022-02-08|Burnley|Man United,E0,2021,2022-02-08,2022-02-08T20:00:00Z,Burnley,Man United,1,1,0.3761,1.84674,0.3761,1.84674,0.7818,1.9601,9,22,m_0xJVtb,Burnley,Manchester United,1
+E0|2022-02-08|Newcastle|Everton,E0,2021,2022-02-08,2022-02-08T19:45:00Z,Newcastle,Everton,3,1,1.9834,0.68027,1.9834,0.68027,2.638,0.2202,21,12,m_4LkgFW,Newcastle United,Everton,1
+E0|2022-02-08|West Ham|Watford,E0,2021,2022-02-08,2022-02-08T19:45:00Z,West Ham,Watford,1,0,0.84514,0.33096,0.84514,0.33096,0.2687,0.4773,9,6,m_3TNyBI,West Ham United,Watford,1
+E0|2022-02-09|Aston Villa|Leeds,E0,2021,2022-02-09,2022-02-09T20:00:00Z,Aston Villa,Leeds,3,3,1.64781,1.93138,1.64781,1.93138,2.2631,2.1226,12,16,m_0n7VYg,Aston Villa,Leeds United,1
+E0|2022-02-09|Man City|Brentford,E0,2021,2022-02-09,2022-02-09T19:45:00Z,Man City,Brentford,2,0,1.90404,0.36973,1.11564,0.36973,1.9708,0.2025,15,6,m_3GGkzR,Manchester City,Brentford,1
+E0|2022-02-09|Norwich|Crystal Palace,E0,2021,2022-02-09,2022-02-09T19:45:00Z,Norwich,Crystal Palace,1,1,0.40756,1.27685,0.40756,0.48845,0.3925,1.6389,5,13,m_33Jq46,Norwich City,Crystal Palace,1
+E0|2022-02-09|Tottenham|Southampton,E0,2021,2022-02-09,2022-02-09T19:45:00Z,Tottenham,Southampton,2,3,1.36829,2.26082,1.36829,2.26082,1.1681,2.5103,8,24,m_4Y3Jdp,Tottenham Hotspur,Southampton,1
+E0|2022-02-10|Liverpool|Leicester,E0,2021,2022-02-10,2022-02-10T19:45:00Z,Liverpool,Leicester,2,0,1.82063,0.51672,1.82063,0.51672,2.5634,0.5827,22,5,m_1IKr09,Liverpool,Leicester City,1
+E0|2022-02-10|Wolves|Arsenal,E0,2021,2022-02-10,2022-02-10T19:45:00Z,Wolves,Arsenal,0,1,0.80155,2.08061,0.80155,2.08061,0.3419,0.8354,15,12,m_2TIHTC,Wolverhampton Wanderers,Arsenal,1
+E0|2022-02-12|Brentford|Crystal Palace,E0,2021,2022-02-12,2022-02-12T15:00:00Z,Brentford,Crystal Palace,0,0,1.59868,0.25714,1.59868,0.25714,0.9057,0.4675,9,6,m_0Tb5Hr,Brentford,Crystal Palace,1
+E0|2022-02-12|Everton|Leeds,E0,2021,2022-02-12,2022-02-12T15:00:00Z,Everton,Leeds,3,0,2.75616,0.26367,2.75616,0.26367,3.0707,0.0,21,7,m_3KYX2W,Everton,Leeds United,1
+E0|2022-02-12|Man United|Southampton,E0,2021,2022-02-12,2022-02-12T12:30:00Z,Man United,Southampton,1,1,2.14081,0.84851,2.14081,0.84851,2.1837,1.2511,12,13,m_1UEXuw,Manchester United,Southampton,1
+E0|2022-02-12|Norwich|Man City,E0,2021,2022-02-12,2022-02-12T17:30:00Z,Norwich,Man City,0,4,0.41504,5.60427,0.41504,4.81587,0.2991,4.7004,8,22,m_23Uj8l,Norwich City,Manchester City,1
+E0|2022-02-12|Watford|Brighton,E0,2021,2022-02-12,2022-02-12T15:00:00Z,Watford,Brighton,0,2,0.53629,1.86515,0.53629,1.86515,0.132,1.6123,9,11,m_1ZCaor,Watford,Brighton & Hove Albion,1
+E0|2022-02-13|Burnley|Liverpool,E0,2021,2022-02-13,2022-02-13T14:00:00Z,Burnley,Liverpool,0,1,1.54674,2.11078,1.54674,2.11078,0.5591,2.0566,8,12,m_0o9Sdl,Burnley,Liverpool,1
+E0|2022-02-13|Leicester|West Ham,E0,2021,2022-02-13,2022-02-13T16:30:00Z,Leicester,West Ham,2,2,1.38153,1.08418,0.59313,1.08418,1.4672,1.7032,13,8,m_1DVyth,Leicester City,West Ham United,1
+E0|2022-02-13|Newcastle|Aston Villa,E0,2021,2022-02-13,2022-02-13T14:00:00Z,Newcastle,Aston Villa,1,0,0.53117,0.56876,0.53117,0.56876,0.1383,0.0461,10,11,m_0uDrIT,Newcastle United,Aston Villa,1
+E0|2022-02-13|Tottenham|Wolves,E0,2021,2022-02-13,2022-02-13T14:00:00Z,Tottenham,Wolves,0,2,1.18378,1.35142,1.18378,1.35142,0.5078,2.3206,17,11,m_1wZX40,Tottenham Hotspur,Wolverhampton Wanderers,1
+E0|2022-02-15|Man United|Brighton,E0,2021,2022-02-15,2022-02-15T20:15:00Z,Man United,Brighton,2,0,1.70325,0.72447,1.70325,0.72447,1.8293,0.4979,19,10,m_1NiH1I,Manchester United,Brighton & Hove Albion,1
+E0|2022-02-19|Arsenal|Brentford,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Arsenal,Brentford,2,1,1.80586,0.65731,1.80586,0.65731,1.5341,0.2045,24,6,m_2OncnY,Arsenal,Brentford,1
+E0|2022-02-19|Aston Villa|Watford,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Aston Villa,Watford,0,1,1.33974,1.20219,1.33974,1.20219,0.0774,1.9367,20,8,m_4OiUIx,Aston Villa,Watford,1
+E0|2022-02-19|Brighton|Burnley,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Brighton,Burnley,0,3,0.587,0.72037,0.587,0.72037,0.0121,1.2324,11,10,m_1oaYl8,Brighton & Hove Albion,Burnley,1
+E0|2022-02-19|Crystal Palace|Chelsea,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Crystal Palace,Chelsea,0,1,0.52478,0.93153,0.52478,0.93153,0.0,0.5297,7,9,m_3STzUT,Crystal Palace,Chelsea,1
+E0|2022-02-19|Liverpool|Norwich,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Liverpool,Norwich,3,1,3.66461,0.58136,3.66461,0.58136,2.5263,0.355,29,6,m_2lgWDb,Liverpool,Norwich City,1
+E0|2022-02-19|Man City|Tottenham,E0,2021,2022-02-19,2022-02-19T17:30:00Z,Man City,Tottenham,2,3,2.12709,1.41348,1.33869,1.41348,2.6858,3.0361,21,6,m_1v5mYi,Manchester City,Tottenham Hotspur,1
+E0|2022-02-19|Southampton|Everton,E0,2021,2022-02-19,2022-02-19T15:00:00Z,Southampton,Everton,2,0,2.51234,0.26284,2.51234,0.26284,3.9554,0.0,19,9,m_3CbOUI,Southampton,Everton,1
+E0|2022-02-19|West Ham|Newcastle,E0,2021,2022-02-19,2022-02-19T12:30:00Z,West Ham,Newcastle,1,1,0.58643,0.78375,0.58643,0.78375,0.5651,0.265,11,14,m_3cYfNQ,West Ham United,Newcastle United,1
+E0|2022-02-20|Leeds|Man United,E0,2021,2022-02-20,2022-02-20T14:00:00Z,Leeds,Man United,2,4,1.7786,2.19442,1.7786,2.19442,2.2003,1.9663,16,15,m_37MeFl,Leeds United,Manchester United,1
+E0|2022-02-20|Wolves|Leicester,E0,2021,2022-02-20,2022-02-20T16:30:00Z,Wolves,Leicester,2,1,0.53895,1.70579,0.53895,1.70579,0.3709,2.5202,11,17,m_0hAL1N,Wolverhampton Wanderers,Leicester City,1
+E0|2022-02-23|Burnley|Tottenham,E0,2021,2022-02-23,2022-02-23T19:30:00Z,Burnley,Tottenham,1,0,1.08075,0.74465,1.08075,0.74465,0.6488,0.2361,15,12,m_3kK5Sp,Burnley,Tottenham Hotspur,1
+E0|2022-02-23|Liverpool|Leeds,E0,2021,2022-02-23,2022-02-23T19:45:00Z,Liverpool,Leeds,6,0,5.90607,0.24333,4.32927,0.24333,4.7111,0.0749,23,3,m_3VvL9m,Liverpool,Leeds United,1
+E0|2022-02-23|Watford|Crystal Palace,E0,2021,2022-02-23,2022-02-23T19:30:00Z,Watford,Crystal Palace,1,4,1.37828,1.1229,1.37828,1.1229,0.88,1.7504,8,7,m_3sgC79,Watford,Crystal Palace,1
+E0|2022-02-24|Arsenal|Wolves,E0,2021,2022-02-24,2022-02-24T19:45:00Z,Arsenal,Wolves,2,1,4.91387,1.35354,4.91387,1.35354,2.07285,1.20868,26,7,m_0MHXKD,Arsenal,Wolverhampton Wanderers,1
+E0|2022-02-25|Southampton|Norwich,E0,2021,2022-02-25,2022-02-25T20:00:00Z,Southampton,Norwich,2,0,2.68722,0.59183,2.68722,0.59183,2.2513,0.1658,27,8,m_4R94gL,Southampton,Norwich City,1
+E0|2022-02-26|Brentford|Newcastle,E0,2021,2022-02-26,2022-02-26T15:00:00Z,Brentford,Newcastle,0,2,0.3854,2.78783,0.3854,2.78783,0.2238,2.4055,6,26,m_421ZF2,Brentford,Newcastle United,1
+E0|2022-02-26|Brighton|Aston Villa,E0,2021,2022-02-26,2022-02-26T15:30:00Z,Brighton,Aston Villa,0,2,0.68954,1.02893,0.68954,1.02893,0.15,2.1162,12,9,m_4CHD1D,Brighton & Hove Albion,Aston Villa,1
+E0|2022-02-26|Crystal Palace|Burnley,E0,2021,2022-02-26,2022-02-26T15:00:00Z,Crystal Palace,Burnley,1,1,1.03398,0.20561,1.03398,0.20561,0.9145,0.3226,12,5,m_2OUu9M,Crystal Palace,Burnley,1
+E0|2022-02-26|Everton|Man City,E0,2021,2022-02-26,2022-02-26T17:30:00Z,Everton,Man City,0,1,0.46283,1.82192,0.46283,1.82192,0.2887,2.2228,6,13,m_1E415C,Everton,Manchester City,1
+E0|2022-02-26|Leeds|Tottenham,E0,2021,2022-02-26,2022-02-26T12:30:00Z,Leeds,Tottenham,0,4,1.51415,1.9798,1.51415,1.9798,0.1689,2.4193,19,15,m_4Ll6Af,Leeds United,Tottenham Hotspur,1
+E0|2022-02-26|Man United|Watford,E0,2021,2022-02-26,2022-02-26T15:00:00Z,Man United,Watford,0,0,2.82993,0.62289,2.82993,0.62289,0.7163,0.3601,22,10,m_0RLG19,Manchester United,Watford,1
+E0|2022-02-27|West Ham|Wolves,E0,2021,2022-02-27,2022-02-27T14:00:00Z,West Ham,Wolves,1,0,1.77649,0.7403,1.77649,0.7403,1.7194,0.112,13,14,m_1v1wZY,West Ham United,Wolverhampton Wanderers,1
+E0|2022-03-01|Burnley|Leicester,E0,2021,2022-03-01,2022-03-01T19:45:00Z,Burnley,Leicester,0,2,0.91749,1.50584,0.91749,1.50584,1.1386,1.444,9,22,m_1L25qx,Burnley,Leicester City,1
+E0|2022-03-05|Aston Villa|Southampton,E0,2021,2022-03-05,2022-03-05T15:00:00Z,Aston Villa,Southampton,4,0,2.7429,1.12758,2.7429,1.12758,2.9605,0.0636,14,11,m_1nv45Y,Aston Villa,Southampton,1
+E0|2022-03-05|Burnley|Chelsea,E0,2021,2022-03-05,2022-03-05T15:00:00Z,Burnley,Chelsea,0,4,0.75468,2.28855,0.75468,2.28855,0.0,3.6178,6,11,m_15lbZG,Burnley,Chelsea,1
+E0|2022-03-05|Leicester|Leeds,E0,2021,2022-03-05,2022-03-05T12:30:00Z,Leicester,Leeds,1,0,0.39146,1.73479,0.39146,1.73479,0.4094,1.8324,7,19,m_2pqhrk,Leicester City,Leeds United,1
+E0|2022-03-05|Liverpool|West Ham,E0,2021,2022-03-05,2022-03-05T17:30:00Z,Liverpool,West Ham,1,0,2.46549,1.3443,2.46549,1.3443,1.3813,0.9373,22,13,m_3zr4bI,Liverpool,West Ham United,1
+E0|2022-03-05|Newcastle|Brighton,E0,2021,2022-03-05,2022-03-05T15:00:00Z,Newcastle,Brighton,2,1,2.13029,1.54594,2.13029,1.54594,1.6813,1.9302,10,15,m_3jj5cU,Newcastle United,Brighton & Hove Albion,1
+E0|2022-03-05|Norwich|Brentford,E0,2021,2022-03-05,2022-03-05T15:00:00Z,Norwich,Brentford,1,3,1.01575,1.98789,1.01575,0.41109,1.3129,2.7806,15,10,m_1FMxbw,Norwich City,Brentford,1
+E0|2022-03-05|Wolves|Crystal Palace,E0,2021,2022-03-05,2022-03-05T15:00:00Z,Wolves,Crystal Palace,0,2,0.7196,3.01539,0.7196,2.22699,0.8116,3.6859,12,12,m_362KVD,Wolverhampton Wanderers,Crystal Palace,1
+E0|2022-03-06|Man City|Man United,E0,2021,2022-03-06,2022-03-06T16:30:00Z,Man City,Man United,4,1,3.04938,0.48723,3.04938,0.48723,3.3677,1.4769,24,5,m_2x7AIE,Manchester City,Manchester United,1
+E0|2022-03-06|Watford|Arsenal,E0,2021,2022-03-06,2022-03-06T14:00:00Z,Watford,Arsenal,2,3,0.97395,1.04821,0.97395,1.04821,1.6289,1.1216,13,16,m_4I1bkq,Watford,Arsenal,1
+E0|2022-03-07|Tottenham|Everton,E0,2021,2022-03-07,2022-03-07T20:00:00Z,Tottenham,Everton,5,0,2.70854,0.19733,2.70854,0.19733,3.1015,0.0,14,7,m_0T2fvf,Tottenham Hotspur,Everton,1
+E0|2022-03-10|Leeds|Aston Villa,E0,2021,2022-03-10,2022-03-10T19:45:00Z,Leeds,Aston Villa,0,3,0.20884,1.53942,0.20884,1.53942,0.1166,2.5861,4,15,m_2HO0iF,Leeds United,Aston Villa,1
+E0|2022-03-10|Norwich|Chelsea,E0,2021,2022-03-10,2022-03-10T19:30:00Z,Norwich,Chelsea,1,3,1.0214,1.7587,0.233,1.7587,1.6849,2.2423,8,15,m_16fEeD,Norwich City,Chelsea,1
+E0|2022-03-10|Southampton|Newcastle,E0,2021,2022-03-10,2022-03-10T19:30:00Z,Southampton,Newcastle,1,2,1.16287,0.65258,1.16287,0.65258,1.7715,0.6086,14,8,m_4TP49k,Southampton,Newcastle United,1
+E0|2022-03-10|Wolves|Watford,E0,2021,2022-03-10,2022-03-10T19:30:00Z,Wolves,Watford,4,0,0.66624,0.6576,0.66624,0.6576,1.8284,0.0,10,10,m_12VpDE,Wolverhampton Wanderers,Watford,1
+E0|2022-03-12|Brentford|Burnley,E0,2021,2022-03-12,2022-03-12T15:00:00Z,Brentford,Burnley,2,0,1.92599,0.67088,1.13759,0.67088,1.9754,0.2062,13,7,m_2GPDPg,Brentford,Burnley,1
+E0|2022-03-12|Brighton|Liverpool,E0,2021,2022-03-12,2022-03-12T12:30:00Z,Brighton,Liverpool,0,2,0.47177,2.26978,0.47177,1.48138,0.2534,2.6139,8,18,m_2m5iGk,Brighton & Hove Albion,Liverpool,1
+E0|2022-03-12|Man United|Tottenham,E0,2021,2022-03-12,2022-03-12T17:30:00Z,Man United,Tottenham,3,2,0.99726,1.56306,0.99726,0.77466,1.5269,1.0126,11,10,m_0X3ge6,Manchester United,Tottenham Hotspur,1
+E0|2022-03-13|Arsenal|Leicester,E0,2021,2022-03-13,2022-03-13T16:30:00Z,Arsenal,Leicester,2,0,3.15828,0.36911,2.36988,0.36911,2.4769,0.535,21,6,m_2YyJfZ,Arsenal,Leicester City,1
+E0|2022-03-13|Chelsea|Newcastle,E0,2021,2022-03-13,2022-03-13T14:00:00Z,Chelsea,Newcastle,1,0,1.1433,0.25128,1.1433,0.25128,1.0169,0.1758,8,7,m_3KhY3C,Chelsea,Newcastle United,1
+E0|2022-03-13|Everton|Wolves,E0,2021,2022-03-13,2022-03-13T14:00:00Z,Everton,Wolves,0,1,0.38465,0.79124,0.38465,0.79124,0.1795,0.6109,7,14,m_3L5JIG,Everton,Wolverhampton Wanderers,1
+E0|2022-03-13|Leeds|Norwich,E0,2021,2022-03-13,2022-03-13T14:00:00Z,Leeds,Norwich,2,1,2.80038,1.486,2.80038,1.486,1.9632,0.848,13,12,m_2HbeBX,Leeds United,Norwich City,1
+E0|2022-03-13|Southampton|Watford,E0,2021,2022-03-13,2022-03-13T14:00:00Z,Southampton,Watford,1,2,1.43108,1.73697,1.43108,1.73697,2.1278,2.1311,13,9,m_1XYMqV,Southampton,Watford,1
+E0|2022-03-13|West Ham|Aston Villa,E0,2021,2022-03-13,2022-03-13T14:00:00Z,West Ham,Aston Villa,2,1,1.33071,1.11742,1.33071,1.11742,1.1229,1.827,11,13,m_3a6zP9,West Ham United,Aston Villa,1
+E0|2022-03-14|Crystal Palace|Man City,E0,2021,2022-03-14,2022-03-14T20:00:00Z,Crystal Palace,Man City,0,0,0.60225,2.93379,0.60225,2.93379,0.0193,0.2779,7,19,m_2UanyX,Crystal Palace,Manchester City,1
+E0|2022-03-16|Arsenal|Liverpool,E0,2021,2022-03-16,2022-03-16T20:15:00Z,Arsenal,Liverpool,0,2,0.4963,0.76938,0.4963,0.76938,0.2761,1.1172,9,9,m_3R4dyj,Arsenal,Liverpool,1
+E0|2022-03-16|Brighton|Tottenham,E0,2021,2022-03-16,2022-03-16T19:30:00Z,Brighton,Tottenham,0,2,0.71472,2.21392,0.71472,2.21392,0.0,3.5796,15,17,m_0TUBiW,Brighton & Hove Albion,Tottenham Hotspur,1
+E0|2022-03-17|Everton|Newcastle,E0,2021,2022-03-17,2022-03-17T19:45:00Z,Everton,Newcastle,1,0,0.66248,0.8697,0.66248,0.8697,0.6334,0.8537,9,17,m_0Vllst,Everton,Newcastle United,1
+E0|2022-03-18|Wolves|Leeds,E0,2021,2022-03-18,2022-03-18T20:00:00Z,Wolves,Leeds,2,3,1.16036,2.26133,1.16036,2.26133,1.9916,1.965,14,15,m_0bvoui,Wolverhampton Wanderers,Leeds United,1
+E0|2022-03-19|Aston Villa|Arsenal,E0,2021,2022-03-19,2022-03-19T12:30:00Z,Aston Villa,Arsenal,0,1,0.45381,1.33258,0.45381,1.33258,0.5426,0.4714,8,10,m_1LLkxq,Aston Villa,Arsenal,1
+E0|2022-03-20|Leicester|Brentford,E0,2021,2022-03-20,2022-03-20T14:00:00Z,Leicester,Brentford,2,1,0.99229,1.41576,0.99229,1.41576,1.6051,1.1726,12,15,m_1dpAy3,Leicester City,Brentford,1
+E0|2022-03-20|Tottenham|West Ham,E0,2021,2022-03-20,2022-03-20T16:30:00Z,Tottenham,West Ham,3,1,3.03309,0.61538,3.03309,0.61538,1.5203,0.2562,17,7,m_0dkCE6,Tottenham Hotspur,West Ham United,1
+E0|2022-04-02|Brighton|Norwich,E0,2021,2022-04-02,2022-04-02T14:00:00Z,Brighton,Norwich,0,0,2.87372,0.36824,2.08532,0.36824,0.1931,0.0,31,6,m_49kx7a,Brighton & Hove Albion,Norwich City,1
+E0|2022-04-02|Burnley|Man City,E0,2021,2022-04-02,2022-04-02T14:00:00Z,Burnley,Man City,0,2,0.0913,1.79183,0.0913,1.79183,0.1174,1.1235,3,18,m_4W2mfn,Burnley,Manchester City,1
+E0|2022-04-02|Chelsea|Brentford,E0,2021,2022-04-02,2022-04-02T14:00:00Z,Chelsea,Brentford,1,4,1.37105,1.82858,1.37105,1.82858,1.3258,2.0216,21,17,m_4cax54,Chelsea,Brentford,1
+E0|2022-04-02|Leeds|Southampton,E0,2021,2022-04-02,2022-04-02T14:00:00Z,Leeds,Southampton,1,1,1.18337,1.6121,1.18337,1.6121,1.0061,1.2103,12,14,m_3uV2Z7,Leeds United,Southampton,1
+E0|2022-04-02|Liverpool|Watford,E0,2021,2022-04-02,2022-04-02T11:30:00Z,Liverpool,Watford,2,0,2.21584,0.64206,1.42744,0.64206,2.0041,0.2026,20,5,m_3hd5oQ,Liverpool,Watford,1
+E0|2022-04-02|Man United|Leicester,E0,2021,2022-04-02,2022-04-02T16:30:00Z,Man United,Leicester,1,1,0.94583,0.80452,0.94583,0.80452,0.9441,0.9995,11,11,m_44E076,Manchester United,Leicester City,1
+E0|2022-04-02|Wolves|Aston Villa,E0,2021,2022-04-02,2022-04-02T14:00:00Z,Wolves,Aston Villa,2,1,1.41734,2.26656,1.41734,1.47816,0.9639,1.9135,11,16,m_1PgJp1,Wolverhampton Wanderers,Aston Villa,1
+E0|2022-04-03|Tottenham|Newcastle,E0,2021,2022-04-03,2022-04-03T15:30:00Z,Tottenham,Newcastle,5,1,3.06917,0.52825,3.06917,0.52825,4.1608,0.579,19,8,m_436bNG,Tottenham Hotspur,Newcastle United,1
+E0|2022-04-03|West Ham|Everton,E0,2021,2022-04-03,2022-04-03T13:00:00Z,West Ham,Everton,2,1,1.3352,0.66367,1.3352,0.66367,1.5074,0.501,11,13,m_1NR2QN,West Ham United,Everton,1
+E0|2022-04-04|Crystal Palace|Arsenal,E0,2021,2022-04-04,2022-04-04T19:00:00Z,Crystal Palace,Arsenal,3,0,1.50588,0.84302,0.71748,0.84302,1.9573,0.9069,6,12,m_0ginOz,Crystal Palace,Arsenal,1
+E0|2022-04-06|Burnley|Everton,E0,2021,2022-04-06,2022-04-06T18:30:00Z,Burnley,Everton,3,2,2.01768,2.40346,2.01768,0.82666,2.4012,2.2168,13,16,m_2SuUZg,Burnley,Everton,1
+E0|2022-04-08|Newcastle|Wolves,E0,2021,2022-04-08,2022-04-08T19:00:00Z,Newcastle,Wolves,1,0,1.51241,0.41183,0.72401,0.41183,1.4863,0.2531,12,5,m_39ZkwN,Newcastle United,Wolverhampton Wanderers,1
+E0|2022-04-09|Arsenal|Brighton,E0,2021,2022-04-09,2022-04-09T14:00:00Z,Arsenal,Brighton,1,2,1.94626,0.57919,1.94626,0.57919,0.7145,1.3539,20,8,m_00nsLD,Arsenal,Brighton & Hove Albion,1
+E0|2022-04-09|Aston Villa|Tottenham,E0,2021,2022-04-09,2022-04-09T16:30:00Z,Aston Villa,Tottenham,0,4,1.6261,1.05769,1.6261,1.05769,1.147,1.8703,19,11,m_0JLXHH,Aston Villa,Tottenham Hotspur,1
+E0|2022-04-09|Everton|Man United,E0,2021,2022-04-09,2022-04-09T11:30:00Z,Everton,Man United,1,0,0.38301,0.76794,0.38301,0.76794,0.1383,0.3814,7,12,m_1sONNe,Everton,Manchester United,1
+E0|2022-04-09|Southampton|Chelsea,E0,2021,2022-04-09,2022-04-09T14:00:00Z,Southampton,Chelsea,0,6,0.48549,4.67617,0.48549,4.67617,0.512,4.4876,4,24,m_1XXpA4,Southampton,Chelsea,1
+E0|2022-04-09|Watford|Leeds,E0,2021,2022-04-09,2022-04-09T14:00:00Z,Watford,Leeds,0,3,1.12227,0.72857,1.12227,0.72857,0.953,2.0979,8,10,m_49FCGJ,Watford,Leeds United,1
+E0|2022-04-10|Brentford|West Ham,E0,2021,2022-04-10,2022-04-10T13:00:00Z,Brentford,West Ham,2,0,1.42353,0.30915,1.42353,0.30915,1.7105,0.0349,15,5,m_1jv2td,Brentford,West Ham United,1
+E0|2022-04-10|Leicester|Crystal Palace,E0,2021,2022-04-10,2022-04-10T13:00:00Z,Leicester,Crystal Palace,2,1,0.97739,1.73396,0.97739,0.94556,0.7092,1.5413,12,11,m_4SLSwr,Leicester City,Crystal Palace,1
+E0|2022-04-10|Man City|Liverpool,E0,2021,2022-04-10,2022-04-10T15:30:00Z,Man City,Liverpool,2,2,1.26281,1.31169,1.26281,1.31169,0.869,2.0972,11,6,m_0R9Mt7,Manchester City,Liverpool,1
+E0|2022-04-10|Norwich|Burnley,E0,2021,2022-04-10,2022-04-10T13:00:00Z,Norwich,Burnley,2,0,1.74152,1.71321,1.74152,1.71321,1.4726,0.5633,17,18,m_4DED0J,Norwich City,Burnley,1
+E0|2022-04-16|Man United|Norwich,E0,2021,2022-04-16,2022-04-16T14:00:00Z,Man United,Norwich,3,2,1.96346,1.53237,1.96346,1.53237,1.283,1.3839,20,15,m_3Z0mfN,Manchester United,Norwich City,1
+E0|2022-04-16|Southampton|Arsenal,E0,2021,2022-04-16,2022-04-16T14:00:00Z,Southampton,Arsenal,1,0,0.77562,1.7038,0.77562,1.7038,0.585,1.4962,9,23,m_2HLpG7,Southampton,Arsenal,1
+E0|2022-04-16|Tottenham|Brighton,E0,2021,2022-04-16,2022-04-16T11:30:00Z,Tottenham,Brighton,0,1,0.50221,0.62396,0.50221,0.62396,0.0,1.2248,5,12,m_499T0J,Tottenham Hotspur,Brighton & Hove Albion,1
+E0|2022-04-16|Watford|Brentford,E0,2021,2022-04-16,2022-04-16T14:00:00Z,Watford,Brentford,1,2,1.90684,1.85992,1.90684,1.85992,0.7513,2.397,18,16,m_2zmVgW,Watford,Brentford,1
+E0|2022-04-17|Newcastle|Leicester,E0,2021,2022-04-17,2022-04-17T13:15:00Z,Newcastle,Leicester,2,1,2.21484,0.63521,2.21484,0.63521,2.5087,0.1708,16,8,m_2DCjvp,Newcastle United,Leicester City,1
+E0|2022-04-17|West Ham|Burnley,E0,2021,2022-04-17,2022-04-17T13:15:00Z,West Ham,Burnley,1,1,2.23335,2.01437,2.23335,1.22597,1.5984,0.8828,21,9,m_0w0f3v,West Ham United,Burnley,1
+E0|2022-04-19|Liverpool|Man United,E0,2021,2022-04-19,2022-04-19T19:00:00Z,Liverpool,Man United,4,0,1.97388,0.09969,1.97388,0.09969,1.9531,0.1435,14,2,m_1SBfqm,Liverpool,Manchester United,1
+E0|2022-04-20|Chelsea|Arsenal,E0,2021,2022-04-20,2022-04-20T18:45:00Z,Chelsea,Arsenal,2,4,0.67951,2.02958,0.67951,1.24118,0.4556,2.4089,11,14,m_0Iam2X,Chelsea,Arsenal,1
+E0|2022-04-20|Everton|Leicester,E0,2021,2022-04-20,2022-04-20T18:45:00Z,Everton,Leicester,1,1,1.75629,0.90774,1.75629,0.90774,0.6765,0.8502,13,11,m_4LoKnv,Everton,Leicester City,1
+E0|2022-04-20|Man City|Brighton,E0,2021,2022-04-20,2022-04-20T19:00:00Z,Man City,Brighton,3,0,1.25487,0.15804,1.25487,0.15804,1.6918,0.0223,17,2,m_3cmieR,Manchester City,Brighton & Hove Albion,1
+E0|2022-04-20|Newcastle|Crystal Palace,E0,2021,2022-04-20,2022-04-20T18:45:00Z,Newcastle,Crystal Palace,1,0,0.87335,0.46119,0.87335,0.46119,1.1242,0.2219,13,10,m_0exd24,Newcastle United,Crystal Palace,1
+E0|2022-04-21|Burnley|Southampton,E0,2021,2022-04-21,2022-04-21T18:45:00Z,Burnley,Southampton,2,0,1.66778,0.90084,1.66778,0.90084,2.1981,0.8103,16,11,m_4CgPR8,Burnley,Southampton,1
+E0|2022-04-23|Arsenal|Man United,E0,2021,2022-04-23,2022-04-23T11:30:00Z,Arsenal,Man United,3,1,2.68584,1.78106,1.89744,0.99266,3.3698,1.9658,14,14,m_34QQEh,Arsenal,Manchester United,1
+E0|2022-04-23|Brentford|Tottenham,E0,2021,2022-04-23,2022-04-23T16:30:00Z,Brentford,Tottenham,0,0,0.89997,0.59799,0.89997,0.59799,0.1289,0.0,15,9,m_1B2gsg,Brentford,Tottenham Hotspur,1
+E0|2022-04-23|Leicester|Aston Villa,E0,2021,2022-04-23,2022-04-23T14:00:00Z,Leicester,Aston Villa,0,0,0.30409,0.86303,0.30409,0.86303,0.6777,0.1269,5,11,m_3J3NYo,Leicester City,Aston Villa,1
+E0|2022-04-23|Man City|Watford,E0,2021,2022-04-23,2022-04-23T14:00:00Z,Man City,Watford,5,1,3.67881,0.47839,2.89041,0.47839,3.1038,0.4312,21,5,m_1peQel,Manchester City,Watford,1
+E0|2022-04-23|Norwich|Newcastle,E0,2021,2022-04-23,2022-04-23T14:00:00Z,Norwich,Newcastle,0,3,0.62652,1.94906,0.62652,1.94906,0.4989,1.7742,5,13,m_0iPtaH,Norwich City,Newcastle United,1
+E0|2022-04-24|Brighton|Southampton,E0,2021,2022-04-24,2022-04-24T13:00:00Z,Brighton,Southampton,2,2,1.84079,0.86469,1.84079,0.86469,3.0707,0.9513,8,19,m_0byNPC,Brighton & Hove Albion,Southampton,1
+E0|2022-04-24|Burnley|Wolves,E0,2021,2022-04-24,2022-04-24T13:00:00Z,Burnley,Wolves,1,0,1.40376,0.63401,1.40376,0.63401,1.3425,0.6927,14,10,m_1txmNI,Burnley,Wolverhampton Wanderers,1
+E0|2022-04-24|Chelsea|West Ham,E0,2021,2022-04-24,2022-04-24T13:00:00Z,Chelsea,West Ham,1,0,3.01659,0.50312,2.22819,0.50312,2.0141,0.5352,26,6,m_1kOH94,Chelsea,West Ham United,1
+E0|2022-04-24|Liverpool|Everton,E0,2021,2022-04-24,2022-04-24T15:30:00Z,Liverpool,Everton,2,0,1.89047,0.39635,1.89047,0.39635,1.0604,0.1041,18,9,m_1279ra,Liverpool,Everton,1
+E0|2022-04-25|Crystal Palace|Leeds,E0,2021,2022-04-25,2022-04-25T19:00:00Z,Crystal Palace,Leeds,0,0,1.88014,0.46932,1.88014,0.46932,0.9597,0.2081,17,9,m_31qqmC,Crystal Palace,Leeds United,1
+E0|2022-04-28|Man United|Chelsea,E0,2021,2022-04-28,2022-04-28T18:45:00Z,Man United,Chelsea,1,1,0.53832,1.90767,0.53832,1.90767,0.3816,1.7319,6,21,m_1I6ArL,Manchester United,Chelsea,1
+E0|2022-04-30|Aston Villa|Norwich,E0,2021,2022-04-30,2022-04-30T14:00:00Z,Aston Villa,Norwich,2,0,1.85613,0.5333,1.85613,0.5333,1.713,0.5448,21,9,m_1wI2Ng,Aston Villa,Norwich City,1
+E0|2022-04-30|Leeds|Man City,E0,2021,2022-04-30,2022-04-30T16:30:00Z,Leeds,Man City,0,4,1.40715,2.41002,1.40715,2.41002,0.402,2.1631,7,19,m_3yKKUv,Leeds United,Manchester City,1
+E0|2022-04-30|Newcastle|Liverpool,E0,2021,2022-04-30,2022-04-30T11:30:00Z,Newcastle,Liverpool,0,1,0.19723,2.30676,0.19723,2.30676,0.2018,1.668,4,24,m_2Nh8kR,Newcastle United,Liverpool,1
+E0|2022-04-30|Southampton|Crystal Palace,E0,2021,2022-04-30,2022-04-30T14:00:00Z,Southampton,Crystal Palace,1,2,0.623,1.10416,0.623,1.10416,0.466,0.9821,8,14,m_0xbBQP,Southampton,Crystal Palace,1
+E0|2022-04-30|Watford|Burnley,E0,2021,2022-04-30,2022-04-30T14:00:00Z,Watford,Burnley,1,2,1.04193,1.63038,1.04193,1.63038,0.1192,0.9511,13,18,m_3Y4tsT,Watford,Burnley,1
+E0|2022-04-30|Wolves|Brighton,E0,2021,2022-04-30,2022-04-30T14:00:00Z,Wolves,Brighton,0,3,0.65991,2.64218,0.65991,1.06538,0.05,2.9199,11,17,m_1SR43I,Wolverhampton Wanderers,Brighton & Hove Albion,1
+E0|2022-05-01|Everton|Chelsea,E0,2021,2022-05-01,2022-05-01T13:00:00Z,Everton,Chelsea,1,0,0.81103,0.8773,0.81103,0.8773,1.0669,1.1366,9,17,m_0HTm5f,Everton,Chelsea,1
+E0|2022-05-01|Tottenham|Leicester,E0,2021,2022-05-01,2022-05-01T13:00:00Z,Tottenham,Leicester,3,1,1.23367,0.50422,1.23367,0.50422,2.079,0.6884,13,6,m_1nYHBK,Tottenham Hotspur,Leicester City,1
+E0|2022-05-01|West Ham|Arsenal,E0,2021,2022-05-01,2022-05-01T15:30:00Z,West Ham,Arsenal,1,2,0.51758,0.93131,0.51758,0.93131,0.6327,1.7361,8,13,m_2SStDg,West Ham United,Arsenal,1
+E0|2022-05-02|Man United|Brentford,E0,2021,2022-05-02,2022-05-02T19:00:00Z,Man United,Brentford,3,0,2.01966,0.58932,1.23126,0.58932,1.7487,0.34,9,12,m_119wOh,Manchester United,Brentford,1
+E0|2022-05-07|Brentford|Southampton,E0,2021,2022-05-07,2022-05-07T14:00:00Z,Brentford,Southampton,3,0,2.62066,1.36924,2.62066,1.36924,1.2027,0.8522,18,19,m_2Sr8bP,Brentford,Southampton,1
+E0|2022-05-07|Brighton|Man United,E0,2021,2022-05-07,2022-05-07T16:30:00Z,Brighton,Man United,4,0,2.62074,0.85452,2.62074,0.85452,2.4311,0.981,17,15,m_2COOZG,Brighton & Hove Albion,Manchester United,1
+E0|2022-05-07|Burnley|Aston Villa,E0,2021,2022-05-07,2022-05-07T14:00:00Z,Burnley,Aston Villa,1,3,1.89885,2.07218,1.89885,2.07218,1.5719,1.8779,14,12,m_3kYBBk,Burnley,Aston Villa,1
+E0|2022-05-07|Chelsea|Wolves,E0,2021,2022-05-07,2022-05-07T14:00:00Z,Chelsea,Wolves,2,2,1.72759,2.03544,0.93919,2.03544,1.8522,0.7481,19,14,m_0CVSYQ,Chelsea,Wolverhampton Wanderers,1
+E0|2022-05-07|Crystal Palace|Watford,E0,2021,2022-05-07,2022-05-07T14:00:00Z,Crystal Palace,Watford,1,0,2.29989,0.44556,1.51149,0.44556,1.5259,0.4627,15,6,m_1rDvmE,Crystal Palace,Watford,1
+E0|2022-05-07|Liverpool|Tottenham,E0,2021,2022-05-07,2022-05-07T18:45:00Z,Liverpool,Tottenham,1,1,1.32686,0.90458,1.32686,0.90458,0.4076,0.6723,22,8,m_2l6DuI,Liverpool,Tottenham Hotspur,1
+E0|2022-05-08|Arsenal|Leeds,E0,2021,2022-05-08,2022-05-08T13:00:00Z,Arsenal,Leeds,2,1,1.99902,0.31074,1.99902,0.31074,2.1033,0.4121,19,3,m_3tfeO0,Arsenal,Leeds United,1
+E0|2022-05-08|Leicester|Everton,E0,2021,2022-05-08,2022-05-08T13:00:00Z,Leicester,Everton,1,2,1.51007,1.13641,1.51007,1.13641,1.2389,0.9885,16,10,m_3RxJCU,Leicester City,Everton,1
+E0|2022-05-08|Man City|Newcastle,E0,2021,2022-05-08,2022-05-08T15:30:00Z,Man City,Newcastle,5,0,3.28755,0.81799,3.28755,0.81799,4.3533,1.1157,21,7,m_46k8IJ,Manchester City,Newcastle United,1
+E0|2022-05-08|Norwich|West Ham,E0,2021,2022-05-08,2022-05-08T13:00:00Z,Norwich,West Ham,0,4,0.78396,3.12593,0.78396,2.33753,0.7698,1.8193,8,13,m_0a0DVk,Norwich City,West Ham United,1
+E0|2022-05-10|Aston Villa|Liverpool,E0,2021,2022-05-10,2022-05-10T19:00:00Z,Aston Villa,Liverpool,1,2,1.65174,1.98712,1.65174,1.98712,1.1459,1.1743,9,17,m_1E2nbn,Aston Villa,Liverpool,1
+E0|2022-05-11|Leeds|Chelsea,E0,2021,2022-05-11,2022-05-11T18:30:00Z,Leeds,Chelsea,0,3,0.42238,1.34514,0.42238,1.34514,0.0,0.9914,5,17,m_2ExpXG,Leeds United,Chelsea,1
+E0|2022-05-11|Leicester|Norwich,E0,2021,2022-05-11,2022-05-11T18:45:00Z,Leicester,Norwich,3,0,2.00909,1.0695,2.00909,1.0695,3.1911,0.8782,20,9,m_4QR5uB,Leicester City,Norwich City,1
+E0|2022-05-11|Watford|Everton,E0,2021,2022-05-11,2022-05-11T18:45:00Z,Watford,Everton,0,0,0.30441,0.73249,0.30441,0.73249,0.0,0.8902,6,16,m_2tOWol,Watford,Everton,1
+E0|2022-05-11|Wolves|Man City,E0,2021,2022-05-11,2022-05-11T19:15:00Z,Wolves,Man City,1,5,0.53291,2.45854,0.53291,2.45854,0.6352,3.6725,7,15,m_1IFdC4,Wolverhampton Wanderers,Manchester City,1
+E0|2022-05-12|Tottenham|Arsenal,E0,2021,2022-05-12,2022-05-12T18:45:00Z,Tottenham,Arsenal,3,0,2.83651,0.49218,2.04811,0.49218,2.5393,0.2579,16,9,m_1W5L2l,Tottenham Hotspur,Arsenal,1
+E0|2022-05-15|Aston Villa|Crystal Palace,E0,2021,2022-05-15,2022-05-15T13:00:00Z,Aston Villa,Crystal Palace,1,1,0.98948,1.42457,0.98948,1.42457,0.8264,1.4866,13,16,m_0Cp0sW,Aston Villa,Crystal Palace,1
+E0|2022-05-15|Everton|Brentford,E0,2021,2022-05-15,2022-05-15T15:30:00Z,Everton,Brentford,2,3,2.87469,2.68063,2.08629,2.68063,3.45549,2.72015,11,18,m_3BX2VS,Everton,Brentford,1
+E0|2022-05-15|Leeds|Brighton,E0,2021,2022-05-15,2022-05-15T13:00:00Z,Leeds,Brighton,1,1,1.67446,2.29581,1.67446,2.29581,1.0733,0.8046,19,15,m_1VYPWq,Leeds United,Brighton & Hove Albion,1
+E0|2022-05-15|Tottenham|Burnley,E0,2021,2022-05-15,2022-05-15T11:00:00Z,Tottenham,Burnley,1,0,2.17853,0.68046,1.39013,0.68046,2.4815,0.1026,21,8,m_0Ek2Pa,Tottenham Hotspur,Burnley,1
+E0|2022-05-15|Watford|Leicester,E0,2021,2022-05-15,2022-05-15T13:00:00Z,Watford,Leicester,1,5,1.42162,2.50748,1.42162,2.50748,1.4198,3.2485,13,13,m_3NXM6b,Watford,Leicester City,1
+E0|2022-05-15|West Ham|Man City,E0,2021,2022-05-15,2022-05-15T13:00:00Z,West Ham,Man City,2,2,1.06584,2.43114,1.06584,1.64274,0.6664,2.3794,7,31,m_3iDxha,West Ham United,Manchester City,1
+E0|2022-05-15|Wolves|Norwich,E0,2021,2022-05-15,2022-05-15T13:00:00Z,Wolves,Norwich,1,1,0.88748,1.05383,0.88748,1.05383,1.1909,0.8631,17,11,m_4AsRFv,Wolverhampton Wanderers,Norwich City,1
+E0|2022-05-16|Newcastle|Arsenal,E0,2021,2022-05-16,2022-05-16T19:00:00Z,Newcastle,Arsenal,2,0,1.7478,0.56267,1.7478,0.56267,2.3585,0.144,16,12,m_338VCN,Newcastle United,Arsenal,1
+E0|2022-05-17|Southampton|Liverpool,E0,2021,2022-05-17,2022-05-17T18:45:00Z,Southampton,Liverpool,1,2,0.1072,1.30342,0.1072,1.30342,0.6226,1.1451,4,24,m_12VFaI,Southampton,Liverpool,1
+E0|2022-05-19|Aston Villa|Burnley,E0,2021,2022-05-19,2022-05-19T19:00:00Z,Aston Villa,Burnley,1,1,1.46263,1.68867,1.46263,0.90027,1.5834,1.6297,22,10,m_0LvhYp,Aston Villa,Burnley,1
+E0|2022-05-19|Chelsea|Leicester,E0,2021,2022-05-19,2022-05-19T19:00:00Z,Chelsea,Leicester,1,1,1.6337,0.07926,1.6337,0.07926,1.4759,0.168,20,2,m_0j99Oe,Chelsea,Leicester City,1
+E0|2022-05-19|Everton|Crystal Palace,E0,2021,2022-05-19,2022-05-19T18:45:00Z,Everton,Crystal Palace,3,2,0.76624,1.15516,0.76624,1.15516,1.8922,1.1021,12,7,m_2JT44z,Everton,Crystal Palace,1
+E0|2022-05-22|Arsenal|Everton,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Arsenal,Everton,5,1,4.35134,1.13235,3.56294,1.13235,2.7598,0.9978,26,6,m_1sEeQj,Arsenal,Everton,1
+E0|2022-05-22|Brentford|Leeds,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Brentford,Leeds,1,2,0.83819,1.29406,0.83819,0.50566,0.941,1.8252,14,14,m_1lf4Mt,Brentford,Leeds United,1
+E0|2022-05-22|Brighton|West Ham,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Brighton,West Ham,3,1,1.56617,0.21976,1.56617,0.21976,1.7208,0.6788,18,7,m_1J1aSk,Brighton & Hove Albion,West Ham United,1
+E0|2022-05-22|Burnley|Newcastle,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Burnley,Newcastle,1,2,1.68783,1.80783,1.68783,1.01943,0.8568,2.6416,12,8,m_06p4TP,Burnley,Newcastle United,1
+E0|2022-05-22|Chelsea|Watford,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Chelsea,Watford,2,1,2.2564,0.63969,2.2564,0.63969,2.9843,1.5372,19,8,m_2EPA58,Chelsea,Watford,1
+E0|2022-05-22|Crystal Palace|Man United,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Crystal Palace,Man United,1,0,0.62864,0.75217,0.62864,0.75217,0.6054,0.2494,6,10,m_3v4lhS,Crystal Palace,Manchester United,1
+E0|2022-05-22|Leicester|Southampton,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Leicester,Southampton,4,1,3.86293,1.14404,3.86293,0.35564,3.4914,1.1024,12,7,m_432zWt,Leicester City,Southampton,1
+E0|2022-05-22|Liverpool|Wolves,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Liverpool,Wolves,3,1,2.82834,1.26193,2.82834,1.26193,2.7629,1.5244,29,7,m_1k2whP,Liverpool,Wolverhampton Wanderers,1
+E0|2022-05-22|Man City|Aston Villa,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Man City,Aston Villa,3,2,3.35563,0.24311,3.35563,0.24311,2.2154,0.6536,24,4,m_0iFkMz,Manchester City,Aston Villa,1
+E0|2022-05-22|Norwich|Tottenham,E0,2021,2022-05-22,2022-05-22T15:00:00Z,Norwich,Tottenham,0,5,0.45482,3.82257,0.45482,3.82257,0.0,4.317,9,19,m_4apQzN,Norwich City,Tottenham Hotspur,1
