@@ -1,8 +1,10 @@
 name: xg_pitchapi_daily
-# PitchAPI 五大聯賽 xG 每日收料（S9 正選 xG 源）。只寫 data/xg_pitchapi/ 同 data/xg/，唔郁凍結預測、指紋、模型。
+# PitchAPI 五大聯賽 xG 每日收料（S9 正選 xG 源）。只寫 data/xg_pitchapi/、data/xg/、data/_status/，唔郁凍結預測、指紋、模型。
+# 自動重試：步驟內最多 3 次（相隔 10 分鐘）；09:07 UTC 再排一次補跑（冪等）。
 on:
   schedule:
-    - cron: "7 5 * * *"   # 每日 05:07 UTC（香港 13:07），補返過去 4 日完場賽事
+    - cron: "7 5 * * *"   # 每日 05:07 UTC（香港 13:07）
+    - cron: "7 9 * * *"   # 補跑（上一次失敗都會補返）
   workflow_dispatch:
     inputs:
       from: { description: "開始日期 YYYY-MM-DD（留空＝4 日前）", required: false }
@@ -17,19 +19,34 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: 抓 PitchAPI xG
+      - name: 抓 PitchAPI xG（最多 3 次）
+        id: ing
         env:
           PITCHAPI_KEY: ${{ secrets.PITCHAPI_KEY }}
         run: |
           F="${{ github.event.inputs.from }}"; T="${{ github.event.inputs.to }}"
           [ -z "$F" ] && F=$(date -u -d '4 days ago' +%F)
           [ -z "$T" ] && T=$(date -u -d 'yesterday' +%F)
-          python scripts/ingest_pitchapi.py --from "$F" --to "$T"
+          echo "from=$F" >> $GITHUB_OUTPUT; echo "to=$T" >> $GITHUB_OUTPUT
+          R=fail
+          for i in 1 2 3; do
+            if python scripts/ingest_pitchapi.py --from "$F" --to "$T"; then R=ok; break; fi
+            echo "第 $i 次失敗"; [ $i -lt 3 ] && sleep 600
+          done
+          echo "attempts=$i" >> $GITHUB_OUTPUT; echo "result=$R" >> $GITHUB_OUTPUT
       - name: 合併正式 xG 檔
+        if: steps.ing.outputs.result == 'ok'
         run: python scripts/merge_xg.py
+      - name: 寫狀態
+        if: always()
+        run: python scripts/write_status.py xg_pitchapi data/xg_pitchapi "${{ steps.ing.outputs.from }}" "${{ steps.ing.outputs.to }}" "${{ steps.ing.outputs.attempts || 0 }}" "${{ steps.ing.outputs.result || 'fail' }}"
       - name: 提交
+        if: always()
         run: |
           git config user.name "tianxi-bot"; git config user.email "bot@tianxi.racing"
-          git add data/xg_pitchapi data/xg
+          git add data/xg_pitchapi data/xg data/_status
           git diff --cached --quiet || git commit -m "xg: daily PitchAPI $(date -u +%F)"
           git pull --rebase && git push
+      - name: 結果
+        if: steps.ing.outputs.result != 'ok'
+        run: exit 1

@@ -1,0 +1,28 @@
+name: prematch_goal_snapshot
+# 賽前傷停／陣容快照（GOAL API）。每 2 小時 append 一份，記 observed_ts；儲夠一季先做「缺陣實力」回測。
+# 只寫 data/prematch_goal/、data/_status/，唔郁凍結預測、指紋、模型。
+on:
+  schedule:
+    - cron: "40 */2 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: { group: prematch-goal, cancel-in-progress: false }
+jobs:
+  snap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 快照
+        env:
+          GOAL_API_KEY: ${{ secrets.GOAL_API_KEY }}
+        run: python scripts/snapshot_goal_prematch.py
+      - name: 提交
+        if: always()
+        run: |
+          git config user.name "tianxi-bot"; git config user.email "bot@tianxi.racing"
+          git add data/prematch_goal data/_status || true
+          git diff --cached --quiet || git commit -m "prematch: GOAL snapshot $(date -u +%FT%H)"
+          git pull --rebase && git push
