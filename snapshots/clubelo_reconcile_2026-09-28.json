@@ -1,0 +1,10 @@
+{
+ "date": "2026-09-28",
+ "role": "ClubElo 只作對帳尺；自建 elo_s2 為唯一入模實力分",
+ "clubelo_days": 0,
+ "clubelo_latest": null,
+ "mapping_rows": 110,
+ "alerts": [],
+ "status": "skip",
+ "note": "未有 ClubElo 快照（採集器未成功跑過或上游掛），今日對帳 skip，冇寫任何假數"
+}
