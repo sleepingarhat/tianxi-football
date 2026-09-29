@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T01:01:55+00:00",
+ "generated_at": "2026-09-29T09:52:42+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -86,14 +86,14 @@
   ]
  },
  "diagnostic_all_leagues": {
-  "n": 457,
-  "rps_avg": 0.2107,
-  "argmax_hit_rate": 0.477,
-  "ece": 0.0118,
-  "cs_top1": 0.1291,
-  "cs_top3": 0.3632,
-  "cs_top8": 0.674,
-  "cs_logloss": 2.8361,
+  "n": 458,
+  "rps_avg": 0.2108,
+  "argmax_hit_rate": 0.4782,
+  "ece": 0.012,
+  "cs_top1": 0.1288,
+  "cs_top3": 0.3624,
+  "cs_top8": 0.6747,
+  "cs_logloss": 2.8356,
   "fingerprints": [
    "4ceb54eaf1ed-4f355cb13bd1-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-5674a73d35ef-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
@@ -111,7 +111,7 @@
    "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
   ]
  },
- "settled_this_run": 0,
+ "settled_this_run": 1,
  "unmatched_count": 1,
  "unmatched_sample": [
   "SP1|16/09/2026|Levante|Ath Bilbao"
