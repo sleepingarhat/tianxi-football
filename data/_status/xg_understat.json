@@ -1,0 +1,12 @@
+{
+ "job": "xg_understat",
+ "run_at": "2026-09-29T10:43:51+00:00",
+ "window": [
+  "2026-09-21",
+  "2026-09-28"
+ ],
+ "matches_with_xg": 0,
+ "by_div": {},
+ "attempts": 1,
+ "result": "ok"
+}
