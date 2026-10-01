@@ -1,7 +1,7 @@
 {
  "version": "s5.1",
  "ready": true,
- "trained_at": "2026-09-15T08:04:51+00:00",
+ "trained_at": "2026-10-01T09:26:09+00:00",
  "fingerprint": "378c283b73a7-bb35e29b0c7b-175995",
  "market_beta": 0,
  "feature_cols": [
@@ -158,8 +158,8 @@
   2000,
   2025
  ],
- "history_rows": 198061,
- "history_last_date": "2026-09-14",
+ "history_rows": 198341,
+ "history_last_date": "2026-09-30",
  "warm_min": 40,
  "report": {
   "gate_seasons": [
