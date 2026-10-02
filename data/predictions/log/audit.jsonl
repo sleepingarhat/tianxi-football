@@ -9667,3 +9667,15 @@
 {"ts": "2026-10-01T20:23:03+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Yeovil|Worthing", "fingerprint": "4ceb54eaf1ed-6ce5e62f47f0-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-10-01T20:23:03+00:00", "action": "refresh", "match_key": "EC|30/09/2026|Eastleigh|Southend", "fingerprint": "4ceb54eaf1ed-6ce5e62f47f0-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-10-01T20:23:03+00:00", "action": "refresh", "match_key": "EC|30/09/2026|Tamworth|Sutton", "fingerprint": "4ceb54eaf1ed-6ce5e62f47f0-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Boreham Wood|Kidderminster", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Barrow|Scunthorpe", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Forest Green|Wealdstone", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Fylde|Carlisle", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Gateshead|Altrincham", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Halifax|Boston Utd", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Hartlepool|Harrogate", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Hornchurch|Aldershot", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Woking|Solihull", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|29/09/2026|Yeovil|Worthing", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|30/09/2026|Eastleigh|Southend", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-02T00:49:58+00:00", "action": "refresh", "match_key": "EC|30/09/2026|Tamworth|Sutton", "fingerprint": "4ceb54eaf1ed-6123447acc38-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
