@@ -1,0 +1,5852 @@
+{
+ "matches": {
+  "E2|03/10/2026|Burton|Huddersfield": {
+   "away": "Huddersfield",
+   "btts": 0.5514,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0966,
+      "p_cond": 0.2507,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1309,
+      "p_cond": 0.476,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0747,
+      "p_cond": 0.2199,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.33,
+     1.35
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2538,
+     "home_4plus": 0.0508,
+     "win_by_3plus": 0.0658
+    },
+    "top8": [
+     {
+      "p": 0.1309,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0966,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0935,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0758,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0747,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0712,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.063,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.059,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "E2",
+   "edge": [
+    0.095,
+    0.0204,
+    -0.1155
+   ],
+   "elo_diff": 32.1,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Burton",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.485,
+    1.207
+   ],
+   "late_ingest": false,
+   "league_zh": "英甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.2445,
+    0.2546,
+    0.5009
+   ],
+   "match_key": "E2|03/10/2026|Burton|Huddersfield",
+   "over25": 0.5,
+   "p": [
+    0.3395,
+    0.275,
+    0.3854
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1309,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0966,
+     "res": "away",
+     "score": "0-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1309,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E2|03/10/2026|Leyton Orient|Plymouth": {
+   "away": "Plymouth",
+   "btts": 0.5925,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0972,
+      "p_cond": 0.2424,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1309,
+      "p_cond": 0.4695,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0673,
+      "p_cond": 0.2103,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.39,
+     1.47
+    ],
+    "tails": {
+     "away_clean_sheet": 0.221,
+     "home_4plus": 0.0575,
+     "win_by_3plus": 0.0667
+    },
+    "top8": [
+     {
+      "p": 0.1309,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0972,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0865,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0673,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0664,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0645,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0615,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0608,
+      "res": "home",
+      "score": "1-0"
+     }
+    ]
+   },
+   "div": "E2",
+   "edge": [
+    0.0466,
+    0.0254,
+    -0.072
+   ],
+   "elo_diff": -59.1,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Leyton Orient",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.582,
+    1.308
+   ],
+   "late_ingest": false,
+   "league_zh": "英甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.2734,
+    0.2533,
+    0.4733
+   ],
+   "match_key": "E2|03/10/2026|Leyton Orient|Plymouth",
+   "over25": 0.5425,
+   "p": [
+    0.32,
+    0.2788,
+    0.4013
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1309,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0972,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1309,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E2|03/10/2026|Reading|Bradford": {
+   "away": "Bradford",
+   "btts": 0.5107,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0785,
+      "p_cond": 0.3011,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1329,
+      "p_cond": 0.4761,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1047,
+      "p_cond": 0.2277,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.5,
+     1.04
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3501,
+     "home_4plus": 0.0694,
+     "win_by_3plus": 0.1009
+    },
+    "top8": [
+     {
+      "p": 0.1329,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1047,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0871,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0869,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0864,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0785,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0668,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0496,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "E2",
+   "edge": [
+    0.0442,
+    0.0016,
+    -0.0458
+   ],
+   "elo_diff": 91.1,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Reading",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.577,
+    0.994
+   ],
+   "late_ingest": false,
+   "league_zh": "英甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4157,
+    0.2776,
+    0.3067
+   ],
+   "match_key": "E2|03/10/2026|Reading|Bradford",
+   "over25": 0.4674,
+   "p": [
+    0.46,
+    0.2791,
+    0.2609
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1329,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1047,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1329,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Accrington|Cheltenham": {
+   "away": "Cheltenham",
+   "btts": 0.616,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0805,
+      "p_cond": 0.2285,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1305,
+      "p_cond": 0.4626,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0812,
+      "p_cond": 0.222,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.51,
+     1.47
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2265,
+     "home_4plus": 0.0663,
+     "win_by_3plus": 0.0708
+    },
+    "top8": [
+     {
+      "p": 0.1305,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0812,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0805,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.07,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0668,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0659,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0613,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0551,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    -0.0443,
+    0.0141,
+    0.0302
+   ],
+   "elo_diff": 44.5,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Accrington",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.53,
+    1.473
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4102,
+    0.2679,
+    0.3219
+   ],
+   "match_key": "E3|03/10/2026|Accrington|Cheltenham",
+   "over25": 0.5677,
+   "p": [
+    0.3659,
+    0.282,
+    0.3521
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1305,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0812,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1305,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Chesterfield|Tranmere": {
+   "away": "Tranmere",
+   "btts": 0.5138,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0393,
+      "p_cond": 0.2727,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1061,
+      "p_cond": 0.4767,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1442,
+      "p_cond": 0.2277,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.8,
+     0.89
+    ],
+    "tails": {
+     "away_clean_sheet": 0.411,
+     "home_4plus": 0.0906,
+     "win_by_3plus": 0.1263
+    },
+    "top8": [
+     {
+      "p": 0.1442,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1281,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1145,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.1061,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0653,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.064,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0572,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0423,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    0.0769,
+    -0.013,
+    -0.0639
+   ],
+   "elo_diff": 159.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Chesterfield",
+   "kickoff_utc": "2026-10-03T11:30+00:00",
+   "lambda": [
+    1.499,
+    1.119
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5564,
+    0.2354,
+    0.2082
+   ],
+   "match_key": "E3|03/10/2026|Chesterfield|Tranmere",
+   "over25": 0.5069,
+   "p": [
+    0.6333,
+    0.2225,
+    0.1443
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1442,
+     "res": "home",
+     "score": "1-0"
+    },
+    {
+     "p": 0.1281,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "12:30",
+   "top_score": {
+    "p": 0.1442,
+    "score": "1-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Crewe|Bristol Rvs": {
+   "away": "Bristol Rvs",
+   "btts": 0.4744,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1007,
+      "p_cond": 0.3194,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1292,
+      "p_cond": 0.4704,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1167,
+      "p_cond": 0.2848,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.28,
+     1.08
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3418,
+     "home_4plus": 0.0418,
+     "win_by_3plus": 0.0663
+    },
+    "top8": [
+     {
+      "p": 0.1292,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1167,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1007,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0969,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0836,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0795,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0731,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0566,
+      "res": "away",
+      "score": "0-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    0.0937,
+    0.0036,
+    -0.0973
+   ],
+   "elo_diff": 118.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Crewe",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.29,
+    1.052
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3162,
+    0.2711,
+    0.4127
+   ],
+   "match_key": "E3|03/10/2026|Crewe|Bristol Rvs",
+   "over25": 0.4203,
+   "p": [
+    0.4099,
+    0.2747,
+    0.3154
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1292,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1167,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1292,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Exeter|Rotherham": {
+   "away": "Rotherham",
+   "btts": 0.4594,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0954,
+      "p_cond": 0.3294,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1327,
+      "p_cond": 0.466,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1313,
+      "p_cond": 0.3084,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.26,
+     1.01
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3661,
+     "home_4plus": 0.037,
+     "win_by_3plus": 0.0614
+    },
+    "top8": [
+     {
+      "p": 0.1327,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1313,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1058,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0954,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0881,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.083,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0644,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0538,
+      "res": "away",
+      "score": "0-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    0.0572,
+    0.0065,
+    -0.0637
+   ],
+   "elo_diff": 106.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Exeter",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.197,
+    1.061
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3685,
+    0.2783,
+    0.3532
+   ],
+   "match_key": "E3|03/10/2026|Exeter|Rotherham",
+   "over25": 0.398,
+   "p": [
+    0.4257,
+    0.2848,
+    0.2895
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1327,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1313,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1327,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Gillingham|Newport County": {
+   "away": "Newport County",
+   "btts": 0.5324,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0838,
+      "p_cond": 0.2808,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1334,
+      "p_cond": 0.4767,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0902,
+      "p_cond": 0.214,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.48,
+     1.15
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3142,
+     "home_4plus": 0.0685,
+     "win_by_3plus": 0.0948
+    },
+    "top8": [
+     {
+      "p": 0.1334,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0902,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0838,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0817,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0803,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0769,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0769,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0536,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    -0.039,
+    0.011,
+    0.028
+   ],
+   "elo_diff": 109.2,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Gillingham",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.616,
+    1.044
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4606,
+    0.2689,
+    0.2705
+   ],
+   "match_key": "E3|03/10/2026|Gillingham|Newport County",
+   "over25": 0.4864,
+   "p": [
+    0.4216,
+    0.2799,
+    0.2985
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1334,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0902,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1334,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Grimsby|Shrewsbury": {
+   "away": "Shrewsbury",
+   "btts": 0.5305,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0462,
+      "p_cond": 0.2717,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1179,
+      "p_cond": 0.4763,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1171,
+      "p_cond": 0.201,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.8,
+     0.95
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3847,
+     "home_4plus": 0.1021,
+     "win_by_3plus": 0.1387
+    },
+    "top8": [
+     {
+      "p": 0.1179,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1171,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.109,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1041,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0692,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0612,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0584,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0495,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    0.0285,
+    0.0057,
+    -0.0342
+   ],
+   "elo_diff": 204.1,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Grimsby",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.684,
+    1.048
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5541,
+    0.2418,
+    0.2041
+   ],
+   "match_key": "E3|03/10/2026|Grimsby|Shrewsbury",
+   "over25": 0.5192,
+   "p": [
+    0.5826,
+    0.2475,
+    0.1699
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1179,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1171,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1179,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Rochdale|Swindon": {
+   "away": "Swindon",
+   "btts": 0.5284,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0584,
+      "p_cond": 0.2735,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1188,
+      "p_cond": 0.4766,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1127,
+      "p_cond": 0.2098,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.69,
+     1.01
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3634,
+     "home_4plus": 0.0885,
+     "win_by_3plus": 0.1213
+    },
+    "top8": [
+     {
+      "p": 0.1188,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1127,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1029,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0967,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0711,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0584,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0557,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.055,
+      "res": "away",
+      "score": "1-2"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    0.1214,
+    -0.0182,
+    -0.1032
+   ],
+   "elo_diff": 139.0,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Rochdale",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.625,
+    1.064
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4157,
+    0.2676,
+    0.3167
+   ],
+   "match_key": "E3|03/10/2026|Rochdale|Swindon",
+   "over25": 0.5085,
+   "p": [
+    0.5371,
+    0.2493,
+    0.2135
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1188,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1127,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1188,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "E3|03/10/2026|Salford|Fleetwood Town": {
+   "away": "Fleetwood Town",
+   "btts": 0.5345,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0582,
+      "p_cond": 0.271,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1241,
+      "p_cond": 0.4764,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1082,
+      "p_cond": 0.2061,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.69,
+     1.03
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3575,
+     "home_4plus": 0.0886,
+     "win_by_3plus": 0.1205
+    },
+    "top8": [
+     {
+      "p": 0.1241,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1082,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1001,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0939,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0734,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0582,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0555,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0548,
+      "res": "home",
+      "score": "3-1"
+     }
+    ]
+   },
+   "div": "E3",
+   "edge": [
+    -0.0324,
+    0.02,
+    0.0124
+   ],
+   "elo_diff": 86.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Salford",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.644,
+    1.065
+   ],
+   "late_ingest": false,
+   "league_zh": "英乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5572,
+    0.2405,
+    0.2023
+   ],
+   "match_key": "E3|03/10/2026|Salford|Fleetwood Town",
+   "over25": 0.5085,
+   "p": [
+    0.5249,
+    0.2605,
+    0.2147
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1241,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1082,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1241,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Aldershot|Carlisle": {
+   "away": "Carlisle",
+   "btts": 0.6106,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1061,
+      "p_cond": 0.2568,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1242,
+      "p_cond": 0.4636,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0612,
+      "p_cond": 0.1919,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.47,
+     1.51
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2098,
+     "home_4plus": 0.0711,
+     "win_by_3plus": 0.0806
+    },
+    "top8": [
+     {
+      "p": 0.1242,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1061,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0866,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0659,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0612,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.059,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0589,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0515,
+      "res": "home",
+      "score": "1-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    0.0283,
+    0.0209,
+    -0.0492
+   ],
+   "elo_diff": -30.0,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Aldershot",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.802,
+    1.237
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.2905,
+    0.247,
+    0.4625
+   ],
+   "match_key": "EC|03/10/2026|Aldershot|Carlisle",
+   "over25": 0.5704,
+   "p": [
+    0.3189,
+    0.2679,
+    0.4132
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1242,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1061,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1242,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Barrow|Wealdstone": {
+   "away": "Wealdstone",
+   "btts": 0.5673,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0636,
+      "p_cond": 0.2614,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1265,
+      "p_cond": 0.4729,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0926,
+      "p_cond": 0.1893,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.7,
+     1.14
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3183,
+     "home_4plus": 0.0951,
+     "win_by_3plus": 0.1204
+    },
+    "top8": [
+     {
+      "p": 0.1265,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0926,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0894,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0825,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0676,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0636,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0594,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0589,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0221,
+    0.0215,
+    0.0006
+   ],
+   "elo_diff": 46.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Barrow",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.741,
+    1.123
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5114,
+    0.246,
+    0.2427
+   ],
+   "match_key": "EC|03/10/2026|Barrow|Wealdstone",
+   "over25": 0.5381,
+   "p": [
+    0.4893,
+    0.2674,
+    0.2433
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1265,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0926,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1265,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Boreham Wood|Altrincham": {
+   "away": "Altrincham",
+   "btts": 0.6193,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0453,
+      "p_cond": 0.2703,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1099,
+      "p_cond": 0.4511,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0993,
+      "p_cond": 0.1686,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     2.14,
+     1.14
+    ],
+    "tails": {
+     "away_clean_sheet": 0.315,
+     "home_4plus": 0.165,
+     "win_by_3plus": 0.1845
+    },
+    "top8": [
+     {
+      "p": 0.1099,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0993,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0838,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0749,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0697,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0653,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0588,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0472,
+      "res": "draw",
+      "score": "0-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0593,
+    0.0503,
+    0.009
+   ],
+   "elo_diff": 194.3,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Boreham Wood",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    2.105,
+    1.185
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.6484,
+    0.1931,
+    0.1584
+   ],
+   "match_key": "EC|03/10/2026|Boreham Wood|Altrincham",
+   "over25": 0.6304,
+   "p": [
+    0.5891,
+    0.2435,
+    0.1674
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1099,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0993,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1099,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Eastleigh|Woking": {
+   "away": "Woking",
+   "btts": 0.592,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.094,
+      "p_cond": 0.232,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1383,
+      "p_cond": 0.4704,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0666,
+      "p_cond": 0.2215,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.33,
+     1.49
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2157,
+     "home_4plus": 0.0491,
+     "win_by_3plus": 0.056
+    },
+    "top8": [
+     {
+      "p": 0.1383,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.094,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0853,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0711,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0672,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0666,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0638,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0607,
+      "res": "home",
+      "score": "1-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0303,
+    0.0335,
+    -0.0032
+   ],
+   "elo_diff": 12.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Eastleigh",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.475,
+    1.385
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.331,
+    0.2606,
+    0.4085
+   ],
+   "match_key": "EC|03/10/2026|Eastleigh|Woking",
+   "over25": 0.5327,
+   "p": [
+    0.3007,
+    0.2941,
+    0.4052
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1383,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.094,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1383,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Gateshead|Worthing": {
+   "away": "Worthing",
+   "btts": 0.5947,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0978,
+      "p_cond": 0.183,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1084,
+      "p_cond": 0.463,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0611,
+      "p_cond": 0.2641,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.18,
+     1.89
+    ],
+    "tails": {
+     "away_clean_sheet": 0.1505,
+     "home_4plus": 0.0324,
+     "win_by_3plus": 0.0291
+    },
+    "top8": [
+     {
+      "p": 0.1084,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0978,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0826,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0821,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0617,
+      "res": "away",
+      "score": "1-3"
+     },
+     {
+      "p": 0.0611,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0579,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0521,
+      "res": "away",
+      "score": "0-3"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    0.122,
+    0.0545,
+    -0.1765
+   ],
+   "elo_diff": -65.5,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Gateshead",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.184,
+    1.894
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.1764,
+    0.212,
+    0.6116
+   ],
+   "match_key": "EC|03/10/2026|Gateshead|Worthing",
+   "over25": 0.5941,
+   "p": [
+    0.2984,
+    0.2665,
+    0.4351
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1084,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0978,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "fallback",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1084,
+    "score": "1-1"
+   },
+   "track": "s2",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Harrogate|Hornchurch": {
+   "away": "Hornchurch",
+   "btts": 0.5661,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0584,
+      "p_cond": 0.2681,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.112,
+      "p_cond": 0.4709,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0985,
+      "p_cond": 0.1811,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.85,
+     1.1
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3344,
+     "home_4plus": 0.1165,
+     "win_by_3plus": 0.146
+    },
+    "top8": [
+     {
+      "p": 0.112,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0985,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.092,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0899,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0607,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0584,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.058,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0554,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.1926,
+    0.0557,
+    0.1369
+   ],
+   "elo_diff": 25.3,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Harrogate",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.848,
+    1.096
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5751,
+    0.2312,
+    0.1937
+   ],
+   "match_key": "EC|03/10/2026|Harrogate|Hornchurch",
+   "over25": 0.564,
+   "p": [
+    0.3825,
+    0.2869,
+    0.3306
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.112,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0985,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "fallback",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.112,
+    "score": "1-1"
+   },
+   "track": "s2",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Hartlepool|Tamworth": {
+   "away": "Tamworth",
+   "btts": 0.6299,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0903,
+      "p_cond": 0.2319,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1225,
+      "p_cond": 0.456,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0736,
+      "p_cond": 0.2151,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.51,
+     1.57
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2039,
+     "home_4plus": 0.0699,
+     "win_by_3plus": 0.0719
+    },
+    "top8": [
+     {
+      "p": 0.1225,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0903,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0736,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0699,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0692,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0569,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0556,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0545,
+      "res": "draw",
+      "score": "0-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0685,
+    0.0116,
+    0.0569
+   ],
+   "elo_diff": 138.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Hartlepool",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.624,
+    1.476
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4106,
+    0.257,
+    0.3324
+   ],
+   "match_key": "EC|03/10/2026|Hartlepool|Tamworth",
+   "over25": 0.5915,
+   "p": [
+    0.3421,
+    0.2686,
+    0.3893
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1225,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0903,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1225,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Kidderminster|Sutton": {
+   "away": "Sutton",
+   "btts": 0.5126,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0881,
+      "p_cond": 0.3069,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1315,
+      "p_cond": 0.4764,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0924,
+      "p_cond": 0.2115,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.5,
+     1.08
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3368,
+     "home_4plus": 0.075,
+     "win_by_3plus": 0.1083
+    },
+    "top8": [
+     {
+      "p": 0.1315,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0924,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0881,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0852,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0827,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0769,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0764,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0497,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    0.0534,
+    -0.0072,
+    -0.0461
+   ],
+   "elo_diff": 15.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Kidderminster",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.706,
+    0.93
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3837,
+    0.2833,
+    0.3331
+   ],
+   "match_key": "EC|03/10/2026|Kidderminster|Sutton",
+   "over25": 0.4754,
+   "p": [
+    0.437,
+    0.276,
+    0.2869
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1315,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0924,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1315,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Solihull|Halifax": {
+   "away": "Halifax",
+   "btts": 0.5799,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0885,
+      "p_cond": 0.2196,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.128,
+      "p_cond": 0.4717,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0762,
+      "p_cond": 0.2341,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.33,
+     1.49
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2234,
+     "home_4plus": 0.0466,
+     "win_by_3plus": 0.0529
+    },
+    "top8": [
+     {
+      "p": 0.128,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0885,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0826,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0762,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0707,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0671,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0654,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0608,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0965,
+    0.0155,
+    0.081
+   ],
+   "elo_diff": -57.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Solihull",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.353,
+    1.476
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4223,
+    0.2558,
+    0.322
+   ],
+   "match_key": "EC|03/10/2026|Solihull|Halifax",
+   "over25": 0.5345,
+   "p": [
+    0.3258,
+    0.2712,
+    0.403
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.128,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0885,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.128,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Southend|Fylde": {
+   "away": "Fylde",
+   "btts": 0.6661,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0375,
+      "p_cond": 0.2381,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.0984,
+      "p_cond": 0.4276,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1157,
+      "p_cond": 0.1889,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     2.21,
+     1.26
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2769,
+     "home_4plus": 0.169,
+     "win_by_3plus": 0.1647
+    },
+    "top8": [
+     {
+      "p": 0.1157,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0984,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0775,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0753,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0735,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0683,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0562,
+      "res": "home",
+      "score": "3-2"
+     },
+     {
+      "p": 0.0505,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    0.0786,
+    0.0012,
+    -0.0798
+   ],
+   "elo_diff": 103.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Southend",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.953,
+    1.492
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5335,
+    0.229,
+    0.2374
+   ],
+   "match_key": "EC|03/10/2026|Southend|Fylde",
+   "over25": 0.6712,
+   "p": [
+    0.6121,
+    0.2302,
+    0.1577
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1157,
+     "res": "home",
+     "score": "2-1"
+    },
+    {
+     "p": 0.0984,
+     "res": "draw",
+     "score": "1-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1157,
+    "score": "2-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "EC|03/10/2026|Yeovil|Boston Utd": {
+   "away": "Boston Utd",
+   "btts": 0.6168,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.079,
+      "p_cond": 0.2581,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1291,
+      "p_cond": 0.4609,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0782,
+      "p_cond": 0.189,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.68,
+     1.35
+    ],
+    "tails": {
+     "away_clean_sheet": 0.253,
+     "home_4plus": 0.0954,
+     "win_by_3plus": 0.108
+    },
+    "top8": [
+     {
+      "p": 0.1291,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.079,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0782,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0704,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.064,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.063,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0626,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0598,
+      "res": "draw",
+      "score": "0-0"
+     }
+    ]
+   },
+   "div": "EC",
+   "edge": [
+    -0.0569,
+    0.0277,
+    0.0291
+   ],
+   "elo_diff": -35.5,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Yeovil",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.847,
+    1.241
+   ],
+   "late_ingest": false,
+   "league_zh": "英足協全國聯賽",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4707,
+    0.2523,
+    0.277
+   ],
+   "match_key": "EC|03/10/2026|Yeovil|Boston Utd",
+   "over25": 0.5786,
+   "p": [
+    0.4138,
+    0.2801,
+    0.3061
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1291,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.079,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1291,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC1|03/10/2026|Livingston|Ayr": {
+   "away": "Ayr",
+   "btts": 0.4959,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0786,
+      "p_cond": 0.3164,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1299,
+      "p_cond": 0.475,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1111,
+      "p_cond": 0.2322,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.52,
+     0.99
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3689,
+     "home_4plus": 0.0713,
+     "win_by_3plus": 0.1067
+    },
+    "top8": [
+     {
+      "p": 0.1299,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1111,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0925,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0887,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0874,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0786,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.064,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0489,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "SC1",
+   "edge": [
+    -0.1121,
+    0.042,
+    0.0701
+   ],
+   "elo_diff": 36.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Livingston",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.587,
+    0.944
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇冠",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5904,
+    0.2313,
+    0.1783
+   ],
+   "match_key": "SC1|03/10/2026|Livingston|Ayr",
+   "over25": 0.459,
+   "p": [
+    0.4783,
+    0.2734,
+    0.2484
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1299,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1111,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1299,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC1|03/10/2026|Morton|Raith Rvs": {
+   "away": "Raith Rvs",
+   "btts": 0.4999,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1192,
+      "p_cond": 0.2688,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1406,
+      "p_cond": 0.4742,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0774,
+      "p_cond": 0.2978,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.04,
+     1.38
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2444,
+     "home_4plus": 0.0226,
+     "win_by_3plus": 0.0321
+    },
+    "top8": [
+     {
+      "p": 0.1406,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1192,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0981,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0925,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0834,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0774,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0608,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0491,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SC1",
+   "edge": [
+    0.0868,
+    0.0518,
+    -0.1386
+   ],
+   "elo_diff": -24.8,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Morton",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.109,
+    1.322
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇冠",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.1733,
+    0.2447,
+    0.582
+   ],
+   "match_key": "SC1|03/10/2026|Morton|Raith Rvs",
+   "over25": 0.4353,
+   "p": [
+    0.26,
+    0.2965,
+    0.4434
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1406,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1192,
+     "res": "away",
+     "score": "0-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1406,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC1|03/10/2026|Partick|Arbroath": {
+   "away": "Arbroath",
+   "btts": 0.4202,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0664,
+      "p_cond": 0.3703,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1094,
+      "p_cond": 0.4579,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1808,
+      "p_cond": 0.3108,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.48,
+     0.77
+    ],
+    "tails": {
+     "away_clean_sheet": 0.4686,
+     "home_4plus": 0.0528,
+     "win_by_3plus": 0.094
+    },
+    "top8": [
+     {
+      "p": 0.1808,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1203,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.1096,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1094,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0952,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0664,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0509,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0464,
+      "res": "home",
+      "score": "3-1"
+     }
+    ]
+   },
+   "div": "SC1",
+   "edge": [
+    -0.0719,
+    0.0222,
+    0.0497
+   ],
+   "elo_diff": 184.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Partick",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.27,
+    0.911
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇冠",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.6536,
+    0.2168,
+    0.1296
+   ],
+   "match_key": "SC1|03/10/2026|Partick|Arbroath",
+   "over25": 0.3955,
+   "p": [
+    0.5817,
+    0.239,
+    0.1793
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1808,
+     "res": "home",
+     "score": "1-0"
+    },
+    {
+     "p": 0.1203,
+     "res": "home",
+     "score": "2-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1808,
+    "score": "1-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC2|03/10/2026|Airdrie Utd|Montrose": {
+   "away": "Montrose",
+   "btts": 0.5628,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0642,
+      "p_cond": 0.2246,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.132,
+      "p_cond": 0.4749,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1,
+      "p_cond": 0.2294,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.48,
+     1.24
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2928,
+     "home_4plus": 0.0577,
+     "win_by_3plus": 0.071
+    },
+    "top8": [
+     {
+      "p": 0.132,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0738,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0722,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0642,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0641,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0585,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SC2",
+   "edge": [
+    -0.0651,
+    0.0238,
+    0.0414
+   ],
+   "elo_diff": 10.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Airdrie Utd",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.343,
+    1.387
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5013,
+    0.2542,
+    0.2445
+   ],
+   "match_key": "SC2|03/10/2026|Airdrie Utd|Montrose",
+   "over25": 0.5101,
+   "p": [
+    0.4362,
+    0.2779,
+    0.2859
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.132,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.132,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC2|03/10/2026|East Fife|East Kilbride": {
+   "away": "East Kilbride",
+   "btts": 0.5558,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1018,
+      "p_cond": 0.2497,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1249,
+      "p_cond": 0.4753,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0686,
+      "p_cond": 0.2082,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.34,
+     1.38
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2423,
+     "home_4plus": 0.0539,
+     "win_by_3plus": 0.0691
+    },
+    "top8": [
+     {
+      "p": 0.1249,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1018,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.1015,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0707,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0686,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.067,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0649,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.057,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "SC2",
+   "edge": [
+    0.0353,
+    0.0019,
+    -0.0372
+   ],
+   "elo_diff": 14.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "East Fife",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.563,
+    1.176
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.2942,
+    0.261,
+    0.4449
+   ],
+   "match_key": "SC2|03/10/2026|East Fife|East Kilbride",
+   "over25": 0.5121,
+   "p": [
+    0.3295,
+    0.2628,
+    0.4077
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1249,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1018,
+     "res": "away",
+     "score": "0-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1249,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC2|03/10/2026|Hamilton|Peterhead": {
+   "away": "Peterhead",
+   "btts": 0.5309,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0377,
+      "p_cond": 0.2793,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1052,
+      "p_cond": 0.4747,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1112,
+      "p_cond": 0.1728,
+      "score": "2-0"
+     }
+    },
+    "exp": [
+     2.03,
+     0.9
+    ],
+    "tails": {
+     "away_clean_sheet": 0.4052,
+     "home_4plus": 0.1426,
+     "win_by_3plus": 0.189
+    },
+    "top8": [
+     {
+      "p": 0.1112,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.109,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1072,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1052,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.072,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0694,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0585,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0469,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SC2",
+   "edge": [
+    -0.0446,
+    0.0259,
+    0.0187
+   ],
+   "elo_diff": 155.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Hamilton",
+   "kickoff_utc": "2026-10-03T16:30+00:00",
+   "lambda": [
+    1.942,
+    0.964
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.688,
+    0.1957,
+    0.1163
+   ],
+   "match_key": "SC2|03/10/2026|Hamilton|Peterhead",
+   "over25": 0.5603,
+   "p": [
+    0.6434,
+    0.2216,
+    0.135
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1112,
+     "res": "home",
+     "score": "2-0"
+    },
+    {
+     "p": 0.109,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "17:30",
+   "top_score": {
+    "p": 0.1112,
+    "score": "2-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC2|03/10/2026|Queen of Sth|Cove Rangers": {
+   "away": "Cove Rangers",
+   "btts": 0.6174,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0618,
+      "p_cond": 0.2163,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.13,
+      "p_cond": 0.4623,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1013,
+      "p_cond": 0.234,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.6,
+     1.38
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2529,
+     "home_4plus": 0.0716,
+     "win_by_3plus": 0.0747
+    },
+    "top8": [
+     {
+      "p": 0.13,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1013,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0825,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.07,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.064,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0618,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.061,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0508,
+      "res": "away",
+      "score": "0-1"
+     }
+    ]
+   },
+   "div": "SC2",
+   "edge": [
+    0.0594,
+    0.0175,
+    -0.0769
+   ],
+   "elo_diff": 77.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Queen of Sth",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.429,
+    1.582
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3733,
+    0.2639,
+    0.3628
+   ],
+   "match_key": "SC2|03/10/2026|Queen of Sth|Cove Rangers",
+   "over25": 0.5684,
+   "p": [
+    0.4328,
+    0.2813,
+    0.2859
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.13,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1013,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.13,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC2|03/10/2026|Ross County|Alloa": {
+   "away": "Alloa",
+   "btts": 0.6023,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0686,
+      "p_cond": 0.2906,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1226,
+      "p_cond": 0.4603,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0738,
+      "p_cond": 0.1483,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.98,
+     1.19
+    ],
+    "tails": {
+     "away_clean_sheet": 0.302,
+     "home_4plus": 0.1523,
+     "win_by_3plus": 0.1798
+    },
+    "top8": [
+     {
+      "p": 0.1226,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0738,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0734,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0686,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0673,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0608,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0565,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0564,
+      "res": "home",
+      "score": "3-1"
+     }
+    ]
+   },
+   "div": "SC2",
+   "edge": [
+    -0.2214,
+    0.096,
+    0.1254
+   ],
+   "elo_diff": 46.9,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Ross County",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    2.294,
+    1.005
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇甲",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.7191,
+    0.1703,
+    0.1106
+   ],
+   "match_key": "SC2|03/10/2026|Ross County|Alloa",
+   "over25": 0.6041,
+   "p": [
+    0.4977,
+    0.2663,
+    0.236
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1226,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0738,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1226,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC3|03/10/2026|Annan Athletic|Stirling": {
+   "away": "Stirling",
+   "btts": 0.5792,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0702,
+      "p_cond": 0.277,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1225,
+      "p_cond": 0.4692,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0823,
+      "p_cond": 0.1696,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.8,
+     1.17
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3083,
+     "home_4plus": 0.117,
+     "win_by_3plus": 0.1447
+    },
+    "top8": [
+     {
+      "p": 0.1225,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0823,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0786,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.075,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0702,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0619,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0608,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0607,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SC3",
+   "edge": [
+    -0.0585,
+    0.0258,
+    0.0326
+   ],
+   "elo_diff": 127.2,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Annan Athletic",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.986,
+    1.048
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.544,
+    0.2352,
+    0.2208
+   ],
+   "match_key": "SC3|03/10/2026|Annan Athletic|Stirling",
+   "over25": 0.5659,
+   "p": [
+    0.4855,
+    0.261,
+    0.2534
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1225,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0823,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1225,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC3|03/10/2026|Dumbarton|Forfar": {
+   "away": "Forfar",
+   "btts": 0.5903,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0952,
+      "p_cond": 0.2635,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1358,
+      "p_cond": 0.4702,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0653,
+      "p_cond": 0.1865,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.49,
+     1.37
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2448,
+     "home_4plus": 0.0741,
+     "win_by_3plus": 0.0899
+    },
+    "top8": [
+     {
+      "p": 0.1358,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0952,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0846,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0696,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0662,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0653,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0601,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0574,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "SC3",
+   "edge": [
+    -0.046,
+    0.0225,
+    0.0235
+   ],
+   "elo_diff": 93.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Dumbarton",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.801,
+    1.137
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3958,
+    0.2662,
+    0.338
+   ],
+   "match_key": "SC3|03/10/2026|Dumbarton|Forfar",
+   "over25": 0.5397,
+   "p": [
+    0.3498,
+    0.2887,
+    0.3615
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1358,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0952,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1358,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC3|03/10/2026|Elgin|Clyde": {
+   "away": "Clyde",
+   "btts": 0.688,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0831,
+      "p_cond": 0.2095,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1172,
+      "p_cond": 0.4245,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0709,
+      "p_cond": 0.2164,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.63,
+     1.78
+    ],
+    "tails": {
+     "away_clean_sheet": 0.1641,
+     "home_4plus": 0.0829,
+     "win_by_3plus": 0.0695
+    },
+    "top8": [
+     {
+      "p": 0.1172,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0831,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0827,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0709,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0513,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0492,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0486,
+      "res": "away",
+      "score": "1-3"
+     },
+     {
+      "p": 0.0436,
+      "res": "home",
+      "score": "1-0"
+     }
+    ]
+   },
+   "div": "SC3",
+   "edge": [
+    -0.1025,
+    0.023,
+    0.0794
+   ],
+   "elo_diff": 57.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Elgin",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    1.69,
+    1.754
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4301,
+    0.253,
+    0.3169
+   ],
+   "match_key": "SC3|03/10/2026|Elgin|Clyde",
+   "over25": 0.6551,
+   "p": [
+    0.3276,
+    0.276,
+    0.3963
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1172,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0831,
+     "res": "away",
+     "score": "1-2"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1172,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC3|03/10/2026|Spartans|Kelty Hearts": {
+   "away": "Kelty Hearts",
+   "btts": 0.6551,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0617,
+      "p_cond": 0.2614,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1096,
+      "p_cond": 0.4358,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0863,
+      "p_cond": 0.1685,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     2.06,
+     1.34
+    ],
+    "tails": {
+     "away_clean_sheet": 0.259,
+     "home_4plus": 0.1564,
+     "win_by_3plus": 0.1623
+    },
+    "top8": [
+     {
+      "p": 0.1096,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0863,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0724,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.067,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.062,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0617,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0582,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0482,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "SC3",
+   "edge": [
+    -0.0303,
+    0.0194,
+    0.0109
+   ],
+   "elo_diff": 117.5,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Spartans",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    2.155,
+    1.288
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5426,
+    0.2322,
+    0.2252
+   ],
+   "match_key": "SC3|03/10/2026|Spartans|Kelty Hearts",
+   "over25": 0.654,
+   "p": [
+    0.5124,
+    0.2516,
+    0.2361
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1096,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0863,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1096,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SC3|03/10/2026|Stranraer|Edinburgh City": {
+   "away": "Edinburgh City",
+   "btts": 0.6852,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0502,
+      "p_cond": 0.2488,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1041,
+      "p_cond": 0.4148,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0912,
+      "p_cond": 0.1667,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     2.22,
+     1.37
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2476,
+     "home_4plus": 0.182,
+     "win_by_3plus": 0.1752
+    },
+    "top8": [
+     {
+      "p": 0.1041,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0912,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0774,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0673,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0647,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0543,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0502,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0477,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "SC3",
+   "edge": [
+    0.0869,
+    -0.006,
+    -0.0809
+   ],
+   "elo_diff": 51.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Stranraer",
+   "kickoff_utc": "2026-10-03T14:00+00:00",
+   "lambda": [
+    2.213,
+    1.411
+   ],
+   "late_ingest": false,
+   "league_zh": "蘇乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4602,
+    0.257,
+    0.2828
+   ],
+   "match_key": "SC3|03/10/2026|Stranraer|Edinburgh City",
+   "over25": 0.6888,
+   "p": [
+    0.5472,
+    0.251,
+    0.2018
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1041,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0912,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:00",
+   "top_score": {
+    "p": 0.1041,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|02/10/2026|Eldense|Oviedo": {
+   "away": "Oviedo",
+   "btts": 0.4344,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1081,
+      "p_cond": 0.3483,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1325,
+      "p_cond": 0.457,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1362,
+      "p_cond": 0.3407,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.16,
+     1.01
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3697,
+     "home_4plus": 0.0283,
+     "win_by_3plus": 0.0503
+    },
+    "top8": [
+     {
+      "p": 0.1362,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1325,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1162,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.1081,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0825,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0787,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0656,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.06,
+      "res": "away",
+      "score": "0-2"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0221,
+    -0.0223,
+    0.0002
+   ],
+   "elo_diff": 3.0,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Eldense",
+   "kickoff_utc": "2026-10-02T18:30+00:00",
+   "lambda": [
+    1.094,
+    1.049
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3777,
+    0.3122,
+    0.3101
+   ],
+   "match_key": "SP2|02/10/2026|Eldense|Oviedo",
+   "over25": 0.3684,
+   "p": [
+    0.3998,
+    0.2899,
+    0.3103
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1362,
+     "res": "home",
+     "score": "1-0"
+    },
+    {
+     "p": 0.1325,
+     "res": "draw",
+     "score": "1-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "19:30",
+   "top_score": {
+    "p": 0.1362,
+    "score": "1-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|03/10/2026|Albacete|Eibar": {
+   "away": "Eibar",
+   "btts": 0.5146,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0884,
+      "p_cond": 0.2361,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1349,
+      "p_cond": 0.4761,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1013,
+      "p_cond": 0.296,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.18,
+     1.34
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2725,
+     "home_4plus": 0.0282,
+     "win_by_3plus": 0.037
+    },
+    "top8": [
+     {
+      "p": 0.1349,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1013,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0886,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0884,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0856,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0729,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0704,
+      "res": "away",
+      "score": "0-2"
+     },
+     {
+      "p": 0.0567,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    -0.0035,
+    0.0042,
+    -0.0007
+   ],
+   "elo_diff": -31.6,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Albacete",
+   "kickoff_utc": "2026-10-03T12:00+00:00",
+   "lambda": [
+    1.036,
+    1.509
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3455,
+    0.2792,
+    0.3753
+   ],
+   "match_key": "SP2|03/10/2026|Albacete|Eibar",
+   "over25": 0.4597,
+   "p": [
+    0.342,
+    0.2833,
+    0.3746
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1349,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1013,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "13:00",
+   "top_score": {
+    "p": 0.1349,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|03/10/2026|Almeria|Burgos": {
+   "away": "Burgos",
+   "btts": 0.4672,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0663,
+      "p_cond": 0.3313,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1269,
+      "p_cond": 0.4699,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.146,
+      "p_cond": 0.2756,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.5,
+     0.88
+    ],
+    "tails": {
+     "away_clean_sheet": 0.4166,
+     "home_4plus": 0.0586,
+     "win_by_3plus": 0.0943
+    },
+    "top8": [
+     {
+      "p": 0.146,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1269,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1048,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.1032,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.096,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0663,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0478,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0477,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    -0.0464,
+    0.0232,
+    0.0232
+   ],
+   "elo_diff": 132.8,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Almeria",
+   "kickoff_utc": "2026-10-03T14:15+00:00",
+   "lambda": [
+    1.365,
+    0.984
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.5762,
+    0.2469,
+    0.1769
+   ],
+   "match_key": "SP2|03/10/2026|Almeria|Burgos",
+   "over25": 0.4249,
+   "p": [
+    0.5298,
+    0.2702,
+    0.2
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.146,
+     "res": "home",
+     "score": "1-0"
+    },
+    {
+     "p": 0.1269,
+     "res": "draw",
+     "score": "1-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "15:15",
+   "top_score": {
+    "p": 0.146,
+    "score": "1-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|03/10/2026|Cadiz|Leganes": {
+   "away": "Leganes",
+   "btts": 0.4913,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.1008,
+      "p_cond": 0.3072,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1413,
+      "p_cond": 0.4726,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1035,
+      "p_cond": 0.2777,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.25,
+     1.13
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3207,
+     "home_4plus": 0.0394,
+     "win_by_3plus": 0.0605
+    },
+    "top8": [
+     {
+      "p": 0.1413,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1035,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1021,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.1008,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0773,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0761,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0711,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0586,
+      "res": "away",
+      "score": "0-2"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0435,
+    0.0037,
+    -0.0472
+   ],
+   "elo_diff": -2.8,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Cadiz",
+   "kickoff_utc": "2026-10-03T16:30+00:00",
+   "lambda": [
+    1.298,
+    1.088
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3294,
+    0.2954,
+    0.3753
+   ],
+   "match_key": "SP2|03/10/2026|Cadiz|Leganes",
+   "over25": 0.4226,
+   "p": [
+    0.3728,
+    0.2991,
+    0.3281
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1413,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1035,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "17:30",
+   "top_score": {
+    "p": 0.1413,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|03/10/2026|Sabadell|Andorra": {
+   "away": "Andorra",
+   "btts": 0.5581,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0694,
+      "p_cond": 0.2664,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1308,
+      "p_cond": 0.4746,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0856,
+      "p_cond": 0.1846,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.65,
+     1.14
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3171,
+     "home_4plus": 0.091,
+     "win_by_3plus": 0.1184
+    },
+    "top8": [
+     {
+      "p": 0.1308,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0856,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0849,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0801,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0726,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0694,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0673,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0585,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0149,
+    -0.0123,
+    -0.0026
+   ],
+   "elo_diff": 59.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Sabadell",
+   "kickoff_utc": "2026-10-03T16:30+00:00",
+   "lambda": [
+    1.774,
+    1.059
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4489,
+    0.288,
+    0.2631
+   ],
+   "match_key": "SP2|03/10/2026|Sabadell|Andorra",
+   "over25": 0.5244,
+   "p": [
+    0.4638,
+    0.2757,
+    0.2606
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1308,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0856,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "17:30",
+   "top_score": {
+    "p": 0.1308,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|04/10/2026|Castellon|Ceuta": {
+   "away": "Ceuta",
+   "btts": 0.4897,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.031,
+      "p_cond": 0.2982,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.0834,
+      "p_cond": 0.4764,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1278,
+      "p_cond": 0.1773,
+      "score": "2-0"
+     }
+    },
+    "exp": [
+     2.21,
+     0.77
+    ],
+    "tails": {
+     "away_clean_sheet": 0.4599,
+     "home_4plus": 0.1761,
+     "win_by_3plus": 0.2414
+    },
+    "top8": [
+     {
+      "p": 0.1278,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.1165,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1064,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0896,
+      "res": "home",
+      "score": "3-0"
+     },
+     {
+      "p": 0.0834,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0746,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.0493,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0471,
+      "res": "home",
+      "score": "4-0"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    -0.0193,
+    0.0188,
+    0.0005
+   ],
+   "elo_diff": 179.8,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Castellon",
+   "kickoff_utc": "2026-10-04T16:30+00:00",
+   "lambda": [
+    2.104,
+    0.832
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.7405,
+    0.1562,
+    0.1034
+   ],
+   "match_key": "SP2|04/10/2026|Castellon|Ceuta",
+   "over25": 0.5776,
+   "p": [
+    0.7211,
+    0.175,
+    0.1039
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1278,
+     "res": "home",
+     "score": "2-0"
+    },
+    {
+     "p": 0.1165,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "17:30",
+   "top_score": {
+    "p": 0.1278,
+    "score": "2-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|04/10/2026|Girona|Mallorca": {
+   "away": "Mallorca",
+   "btts": 0.49,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0713,
+      "p_cond": 0.3134,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1356,
+      "p_cond": 0.4734,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1267,
+      "p_cond": 0.2605,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.47,
+     0.96
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3819,
+     "home_4plus": 0.0586,
+     "win_by_3plus": 0.0899
+    },
+    "top8": [
+     {
+      "p": 0.1356,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1267,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0963,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.096,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0939,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0713,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0551,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0464,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0613,
+    0.0128,
+    -0.0741
+   ],
+   "elo_diff": 110.0,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Girona",
+   "kickoff_utc": "2026-10-04T19:00+00:00",
+   "lambda": [
+    1.406,
+    1.022
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4249,
+    0.2735,
+    0.3015
+   ],
+   "match_key": "SP2|04/10/2026|Girona|Mallorca",
+   "over25": 0.4372,
+   "p": [
+    0.4863,
+    0.2863,
+    0.2274
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1356,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1267,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "final",
+   "time_uk": "20:00",
+   "top_score": {
+    "p": 0.1356,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|04/10/2026|Las Palmas|Valladolid": {
+   "away": "Valladolid",
+   "btts": 0.5147,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.05,
+      "p_cond": 0.2795,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1237,
+      "p_cond": 0.4766,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1342,
+      "p_cond": 0.2389,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.65,
+     0.94
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3901,
+     "home_4plus": 0.075,
+     "win_by_3plus": 0.1065
+    },
+    "top8": [
+     {
+      "p": 0.1342,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.1237,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1148,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1028,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0788,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0554,
+      "res": "home",
+      "score": "3-1"
+     },
+     {
+      "p": 0.05,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0496,
+      "res": "home",
+      "score": "3-0"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.133,
+    -0.027,
+    -0.106
+   ],
+   "elo_diff": 166.4,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Las Palmas",
+   "kickoff_utc": "2026-10-04T16:30+00:00",
+   "lambda": [
+    1.447,
+    1.117
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4286,
+    0.2866,
+    0.2848
+   ],
+   "match_key": "SP2|04/10/2026|Las Palmas|Valladolid",
+   "over25": 0.4805,
+   "p": [
+    0.5616,
+    0.2596,
+    0.1788
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1342,
+     "res": "home",
+     "score": "1-0"
+    },
+    {
+     "p": 0.1237,
+     "res": "draw",
+     "score": "1-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "17:30",
+   "top_score": {
+    "p": 0.1342,
+    "score": "1-0"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|04/10/2026|Sociedad B|Granada": {
+   "away": "Granada",
+   "btts": 0.5978,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0798,
+      "p_cond": 0.2514,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1316,
+      "p_cond": 0.4677,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.0801,
+      "p_cond": 0.1998,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.58,
+     1.33
+    ],
+    "tails": {
+     "away_clean_sheet": 0.2586,
+     "home_4plus": 0.0793,
+     "win_by_3plus": 0.093
+    },
+    "top8": [
+     {
+      "p": 0.1316,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.0801,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0798,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0707,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0688,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0666,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0653,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.064,
+      "res": "home",
+      "score": "2-0"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0297,
+    -0.0013,
+    -0.0284
+   ],
+   "elo_diff": 4.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Sociedad B",
+   "kickoff_utc": "2026-10-04T12:00+00:00",
+   "lambda": [
+    1.696,
+    1.252
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.3713,
+    0.2828,
+    0.346
+   ],
+   "match_key": "SP2|04/10/2026|Sociedad B|Granada",
+   "over25": 0.5525,
+   "p": [
+    0.401,
+    0.2814,
+    0.3176
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1316,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.0801,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "13:00",
+   "top_score": {
+    "p": 0.1316,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|04/10/2026|Sp Gijon|Celta B": {
+   "away": "Celta B",
+   "btts": 0.4929,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0822,
+      "p_cond": 0.3105,
+      "score": "0-1"
+     },
+     "draw": {
+      "p": 0.1324,
+      "p_cond": 0.474,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.1168,
+      "p_cond": 0.2561,
+      "score": "1-0"
+     }
+    },
+    "exp": [
+     1.42,
+     1.02
+    ],
+    "tails": {
+     "away_clean_sheet": 0.3593,
+     "home_4plus": 0.0566,
+     "win_by_3plus": 0.0859
+    },
+    "top8": [
+     {
+      "p": 0.1324,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.1168,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0927,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0898,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.0877,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.0822,
+      "res": "away",
+      "score": "0-1"
+     },
+     {
+      "p": 0.0645,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.046,
+      "res": "draw",
+      "score": "2-2"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    -0.1989,
+    0.0495,
+    0.1494
+   ],
+   "elo_diff": 40.5,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Sp Gijon",
+   "kickoff_utc": "2026-10-04T14:15+00:00",
+   "lambda": [
+    1.425,
+    1.024
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.6012,
+    0.2296,
+    0.1692
+   ],
+   "match_key": "SP2|04/10/2026|Sp Gijon|Celta B",
+   "over25": 0.4429,
+   "p": [
+    0.4023,
+    0.2791,
+    0.3186
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1324,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.1168,
+     "res": "home",
+     "score": "1-0"
+    }
+   ],
+   "status": "fallback",
+   "time_uk": "15:15",
+   "top_score": {
+    "p": 0.1324,
+    "score": "1-1"
+   },
+   "track": "s2",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  },
+  "SP2|05/10/2026|Cordoba|Tenerife": {
+   "away": "Tenerife",
+   "btts": 0.5668,
+   "cs": {
+    "cond": {
+     "away": {
+      "p": 0.0571,
+      "p_cond": 0.2392,
+      "score": "1-2"
+     },
+     "draw": {
+      "p": 0.1329,
+      "p_cond": 0.4742,
+      "score": "1-1"
+     },
+     "home": {
+      "p": 0.103,
+      "p_cond": 0.2142,
+      "score": "2-1"
+     }
+    },
+    "exp": [
+     1.61,
+     1.15
+    ],
+    "tails": {
+     "away_clean_sheet": 0.316,
+     "home_4plus": 0.0739,
+     "win_by_3plus": 0.0925
+    },
+    "top8": [
+     {
+      "p": 0.1329,
+      "res": "draw",
+      "score": "1-1"
+     },
+     {
+      "p": 0.103,
+      "res": "home",
+      "score": "2-1"
+     },
+     {
+      "p": 0.1015,
+      "res": "home",
+      "score": "1-0"
+     },
+     {
+      "p": 0.0807,
+      "res": "home",
+      "score": "2-0"
+     },
+     {
+      "p": 0.073,
+      "res": "draw",
+      "score": "0-0"
+     },
+     {
+      "p": 0.0601,
+      "res": "draw",
+      "score": "2-2"
+     },
+     {
+      "p": 0.0571,
+      "res": "away",
+      "score": "1-2"
+     },
+     {
+      "p": 0.0556,
+      "res": "away",
+      "score": "0-1"
+     }
+    ]
+   },
+   "div": "SP2",
+   "edge": [
+    0.0032,
+    0.0096,
+    -0.0128
+   ],
+   "elo_diff": 66.7,
+   "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
+   "fingerprint": "4ceb54eaf1ed-52d8739c1739-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "first_seen": "2026-10-02T09:49:12+00:00",
+   "home": "Cordoba",
+   "kickoff_utc": "2026-10-05T18:30+00:00",
+   "lambda": [
+    1.488,
+    1.276
+   ],
+   "late_ingest": false,
+   "league_zh": "西乙",
+   "lock_minutes": 60,
+   "locked_at": null,
+   "market": [
+    0.4778,
+    0.2708,
+    0.2514
+   ],
+   "match_key": "SP2|05/10/2026|Cordoba|Tenerife",
+   "over25": 0.5179,
+   "p": [
+    0.481,
+    0.2804,
+    0.2386
+   ],
+   "result": null,
+   "scores": [
+    {
+     "p": 0.1329,
+     "res": "draw",
+     "score": "1-1"
+    },
+    {
+     "p": 0.103,
+     "res": "home",
+     "score": "2-1"
+    }
+   ],
+   "status": "final",
+   "time_uk": "19:30",
+   "top_score": {
+    "p": 0.1329,
+    "score": "1-1"
+   },
+   "track": "s5",
+   "updated_at": "2026-10-02T09:49:12+00:00"
+  }
+ },
+ "meta": {
+  "count": 46,
+  "month": "2026-10",
+  "note": "逐場凍結帳，只增不改；賽果欄由結算腳本補",
+  "updated_at": "2026-10-02T09:49:12+00:00"
+ }
+}
