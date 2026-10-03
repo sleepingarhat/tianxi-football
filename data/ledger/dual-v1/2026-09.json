@@ -1,0 +1,391 @@
+{
+ "table": "football_dual_ledger",
+ "month": "2026-09",
+ "count": 12,
+ "rows": [
+  {
+   "match_key": "EC|29/09/2026|Boreham Wood|Kidderminster",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Boreham Wood",
+   "away": "Kidderminster",
+   "kickoff_utc": "2026-09-29T18:00:00+00:00",
+   "locked_at": "2026-09-29T17:00:05.876544+00:00",
+   "p_a": [
+    0.6667,
+    0.2055,
+    0.1278
+   ],
+   "lambda": [
+    1.721,
+    1.075
+   ],
+   "p_b_d": 0.250515941638725,
+   "p_final": [
+    0.647812568728422,
+    0.228007970819363,
+    0.124179460452216
+   ],
+   "prediction": "home",
+   "odds": [
+    1.33,
+    5,
+    7.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.33
+  },
+  {
+   "match_key": "EC|29/09/2026|Barrow|Scunthorpe",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Barrow",
+   "away": "Scunthorpe",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.4243,
+    0.277,
+    0.2986
+   ],
+   "lambda": [
+    1.871,
+    1.24
+   ],
+   "p_b_d": 0.238192264814322,
+   "p_final": [
+    0.435747629021499,
+    0.257596132407161,
+    0.30665623857134
+   ],
+   "prediction": "draw",
+   "odds": [
+    2,
+    3.6,
+    3.1
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.6
+  },
+  {
+   "match_key": "EC|29/09/2026|Forest Green|Wealdstone",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Forest Green",
+   "away": "Wealdstone",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.5324,
+    0.2629,
+    0.2047
+   ],
+   "lambda": [
+    1.619,
+    1.4
+   ],
+   "p_b_d": 0.252721745506018,
+   "p_final": [
+    0.536075826002304,
+    0.257810872753009,
+    0.206113301244687
+   ],
+   "prediction": "home",
+   "odds": [
+    1.7,
+    4,
+    3.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.7
+  },
+  {
+   "match_key": "EC|29/09/2026|Fylde|Carlisle",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Fylde",
+   "away": "Carlisle",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.3166,
+    0.2717,
+    0.4117
+   ],
+   "lambda": [
+    2.177,
+    1.209
+   ],
+   "p_b_d": 0.214583818277427,
+   "p_final": [
+    0.329014515401185,
+    0.243141909138714,
+    0.427843575460101
+   ],
+   "prediction": "away",
+   "odds": [
+    2.35,
+    3.8,
+    2.55
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.55
+  },
+  {
+   "match_key": "EC|29/09/2026|Gateshead|Altrincham",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Gateshead",
+   "away": "Altrincham",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.276,
+    0.2623,
+    0.4617
+   ],
+   "lambda": [
+    1.237,
+    2.002
+   ],
+   "p_b_d": 0.228314856292534,
+   "p_final": [
+    0.282357529933076,
+    0.245307428146267,
+    0.472335041920657
+   ],
+   "prediction": "away",
+   "odds": [
+    4.1,
+    3.9,
+    1.67
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.67
+  },
+  {
+   "match_key": "EC|29/09/2026|Halifax|Boston Utd",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Halifax",
+   "away": "Boston Utd",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.4565,
+    0.2775,
+    0.266
+   ],
+   "lambda": [
+    1.64,
+    1.098
+   ],
+   "p_b_d": 0.257491880548342,
+   "p_final": [
+    0.46282090417279,
+    0.267495940274171,
+    0.269683155553039
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.05,
+    3.6,
+    3
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.6
+  },
+  {
+   "match_key": "EC|29/09/2026|Hartlepool|Harrogate",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Hartlepool",
+   "away": "Harrogate",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.3521,
+    0.286,
+    0.362
+   ],
+   "lambda": [
+    1.409,
+    1.659
+   ],
+   "p_b_d": 0.250128519160611,
+   "p_final": [
+    0.360894236383944,
+    0.268064259580305,
+    0.371041504035751
+   ],
+   "prediction": "away",
+   "odds": [
+    3.8,
+    3.6,
+    1.75
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.75
+  },
+  {
+   "match_key": "EC|29/09/2026|Hornchurch|Aldershot",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Hornchurch",
+   "away": "Aldershot",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.4709,
+    0.2531,
+    0.2761
+   ],
+   "lambda": [
+    1.156,
+    1.396
+   ],
+   "p_b_d": 0.27625999489523,
+   "p_final": [
+    0.46353706720471,
+    0.264679997447615,
+    0.271782935347675
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.2,
+    3.5,
+    2.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.5
+  },
+  {
+   "match_key": "EC|29/09/2026|Woking|Solihull",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Woking",
+   "away": "Solihull",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.5721,
+    0.2403,
+    0.1877
+   ],
+   "lambda": [
+    2.262,
+    0.987
+   ],
+   "p_b_d": 0.200660907736844,
+   "p_final": [
+    0.586948055201205,
+    0.220480453868422,
+    0.192571490930373
+   ],
+   "prediction": "home",
+   "odds": [
+    1.83,
+    3.8,
+    3.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.83
+  },
+  {
+   "match_key": "EC|29/09/2026|Yeovil|Worthing",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Yeovil",
+   "away": "Worthing",
+   "kickoff_utc": "2026-09-29T18:45:00+00:00",
+   "locked_at": "2026-09-29T17:45:03.461434+00:00",
+   "p_a": [
+    0.346,
+    0.2973,
+    0.3567
+   ],
+   "lambda": [
+    1.969,
+    1.473
+   ],
+   "p_b_d": 0.230731996617201,
+   "p_final": [
+    0.362388593404332,
+    0.2640159983086,
+    0.373595408287067
+   ],
+   "prediction": "away",
+   "odds": [
+    2.05,
+    3.75,
+    2.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.9
+  },
+  {
+   "match_key": "EC|30/09/2026|Eastleigh|Southend",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Eastleigh",
+   "away": "Southend",
+   "kickoff_utc": "2026-09-30T18:45:00+00:00",
+   "locked_at": "2026-09-30T17:45:05.241298+00:00",
+   "p_a": [
+    0.1978,
+    0.2553,
+    0.5469
+   ],
+   "lambda": [
+    1.689,
+    1.74
+   ],
+   "p_b_d": 0.237684197611247,
+   "p_final": [
+    0.200139469392034,
+    0.246492098805623,
+    0.553368431802343
+   ],
+   "prediction": "away",
+   "odds": [
+    4.1,
+    3.8,
+    1.7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.7
+  },
+  {
+   "match_key": "EC|30/09/2026|Tamworth|Sutton",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Tamworth",
+   "away": "Sutton",
+   "kickoff_utc": "2026-09-30T18:45:00+00:00",
+   "locked_at": "2026-09-30T17:45:05.241298+00:00",
+   "p_a": [
+    0.4814,
+    0.2613,
+    0.2573
+   ],
+   "lambda": [
+    1.86,
+    1.634
+   ],
+   "p_b_d": 0.234101365443758,
+   "p_final": [
+    0.490262476428439,
+    0.247700682721879,
+    0.262036840849683
+   ],
+   "prediction": "home",
+   "odds": [
+    2.25,
+    3.6,
+    2.7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.25
+  }
+ ]
+}
