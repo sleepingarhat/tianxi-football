@@ -1,0 +1,1506 @@
+{
+ "table": "football_lineup_snapshots",
+ "month": "2026-10",
+ "count": 3,
+ "rows": [
+  {
+   "match_key": "SP2|02/10/2026|Eldense|Oviedo",
+   "bsd_event_id": 214846,
+   "captured_at": "2026-10-02T17:30:12.653308+00:00",
+   "kickoff_utc": "2026-10-02T18:30:00+00:00",
+   "div": "SP2",
+   "home": "Eldense",
+   "away": "Oviedo",
+   "lineup_status": "confirmed",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 1964,
+       "name": "Aarón Escandell",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "A. Escandell",
+       "jersey_number": 13
+      },
+      {
+       "id": 4609,
+       "name": "David Jiménez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Jiménez",
+       "jersey_number": 21
+      },
+      {
+       "id": 1975,
+       "name": "Dani Calvo",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Calvo",
+       "jersey_number": 12
+      },
+      {
+       "id": 1270,
+       "name": "Carlos Domínguez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "C. Domínguez",
+       "jersey_number": 23
+      },
+      {
+       "id": 66123,
+       "name": "Samu Rodríguez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "S. Rodríguez",
+       "jersey_number": 15
+      },
+      {
+       "id": 30552,
+       "name": "Youness Lachhab",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Y. Lachhab",
+       "jersey_number": 5
+      },
+      {
+       "id": 30517,
+       "name": "Daniel Villahermosa",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Villahermosa",
+       "jersey_number": 6
+      },
+      {
+       "id": 27892,
+       "name": "Pablo Sáenz",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "P. Sáenz",
+       "jersey_number": 20
+      },
+      {
+       "id": 1755,
+       "name": "Mikel Goti",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Goti",
+       "jersey_number": 8
+      },
+      {
+       "id": 1979,
+       "name": "Alberto Reina",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Reina",
+       "jersey_number": 10
+      },
+      {
+       "id": 27129,
+       "name": "Jacobo González",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Jacobo González",
+       "jersey_number": 11
+      }
+     ],
+     "team_id": 42,
+     "formation": "4-3-3",
+     "team_name": "Real Oviedo",
+     "confidence": null,
+     "substitutes": []
+    },
+    "home": {
+     "players": [
+      {
+       "id": 30271,
+       "name": "Ramon Vila",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "R. Vila",
+       "jersey_number": 1
+      },
+      {
+       "id": 31531,
+       "name": "Jesús Clemente",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Clemente",
+       "jersey_number": 17
+      },
+      {
+       "id": 31522,
+       "name": "Álex Serradell",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Á. Serradell",
+       "jersey_number": 5
+      },
+      {
+       "id": 31523,
+       "name": "Floris Smand",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "F. Smand",
+       "jersey_number": 4
+      },
+      {
+       "id": 29073,
+       "name": "Juan Larios",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Larios",
+       "jersey_number": 3
+      },
+      {
+       "id": 29536,
+       "name": "Justin Smith",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Smith",
+       "jersey_number": 14
+      },
+      {
+       "id": 28261,
+       "name": "Carlos Guirao",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "C. Guirao",
+       "jersey_number": 15
+      },
+      {
+       "id": 30456,
+       "name": "Fidel",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Fidel",
+       "jersey_number": 10
+      },
+      {
+       "id": 28258,
+       "name": "Roberto López",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. López",
+       "jersey_number": 12
+      },
+      {
+       "id": 31825,
+       "name": "Aingeru Olabarrieta",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Olabarrieta",
+       "jersey_number": 33
+      },
+      {
+       "id": 64976,
+       "name": "Jorge Rastrojo",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Rastrojo",
+       "jersey_number": 7
+      }
+     ],
+     "team_id": 1403,
+     "formation": "4-2-3-1",
+     "team_name": "CD Eldense",
+     "confidence": null,
+     "substitutes": []
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 11715,
+      "name": "Alexandru Ișfan",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "A. Ișfan"
+     },
+     {
+      "id": 30371,
+      "name": "Carlos Fernández",
+      "reason": "Meniscus Injury",
+      "status": "injured",
+      "short_name": "C. Fernández"
+     },
+     {
+      "id": 3951,
+      "name": "Chris Ramos",
+      "reason": "Cruciate Ligament Injury",
+      "status": "injured",
+      "short_name": "C. Ramos"
+     },
+     {
+      "id": 28215,
+      "name": "Estanis Pedrola",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "E. Pedrola"
+     },
+     {
+      "id": 3862,
+      "name": "Ilyas Chaira",
+      "reason": "Shoulder Injury",
+      "status": "injured",
+      "short_name": "I. Chaira"
+     }
+    ],
+    "home": []
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 1813,
+   "context": {
+    "h2h": {
+     "draws": 3,
+     "away_wins": 1,
+     "home_wins": 0,
+     "away_goals": 5,
+     "home_goals": 3,
+     "away_win_rate": 0.25,
+     "home_win_rate": 0,
+     "total_matches": 4,
+     "recent_matches": [
+      {
+       "away": "CD Eldense",
+       "date": "2025-02-10T19:30:00+00:00",
+       "home": "Real Oviedo",
+       "score": "0-0",
+       "event_id": 202784,
+       "away_score": 0,
+       "home_score": 0,
+       "away_team_id": 1403,
+       "home_team_id": 42
+      },
+      {
+       "away": "Real Oviedo",
+       "date": "2024-09-21T16:30:00+00:00",
+       "home": "CD Eldense",
+       "score": "1-1",
+       "event_id": 202549,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 42,
+       "home_team_id": 1403
+      },
+      {
+       "away": "CD Eldense",
+       "date": "2024-02-04T15:15:00+00:00",
+       "home": "Real Oviedo",
+       "score": "1-1",
+       "event_id": 248723,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1403,
+       "home_team_id": 42
+      },
+      {
+       "away": "Real Oviedo",
+       "date": "2023-10-01T12:00:00+00:00",
+       "home": "CD Eldense",
+       "score": "1-3",
+       "event_id": 248534,
+       "away_score": 3,
+       "home_score": 1,
+       "away_team_id": 42,
+       "home_team_id": 1403
+      }
+     ],
+     "avg_total_goals": 2
+    },
+    "odds": {
+     "draw": 2.98,
+     "btts_no": 1.72,
+     "away_win": 2.79,
+     "btts_yes": 2.01,
+     "home_win": 2.55,
+     "over_15_goals": 1.44,
+     "over_25_goals": 2.4,
+     "over_35_goals": 4.7,
+     "under_15_goals": 2.62,
+     "under_25_goals": 1.54,
+     "under_35_goals": 1.17
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-02T17:20:10Z",
+    "referee": {
+     "id": 1813,
+     "name": "Rafael Sanchez Lopez",
+     "country": "Spain",
+     "matches": 47,
+     "birthdate": null,
+     "career_games": 134,
+     "nationality_a3": "",
+     "total_red_cards": 14,
+     "career_red_cards": 26,
+     "avg_red_per_match": 0.3,
+     "total_yellow_cards": 206,
+     "avg_fouls_per_match": 22.7,
+     "avg_goals_per_match": 2.4,
+     "career_yellow_cards": 653,
+     "avg_yellow_per_match": 4.38
+    },
+    "weather": {
+     "code": 3,
+     "wind_speed": 9.3,
+     "description": "rain",
+     "temperature_c": 20
+    },
+    "travel_km": 692,
+    "pitch_condition": null
+   }
+  },
+  {
+   "match_key": "E3|03/10/2026|Chesterfield|Tranmere",
+   "bsd_event_id": 224642,
+   "captured_at": "2026-10-03T10:30:26.004104+00:00",
+   "kickoff_utc": "2026-10-03T11:30:00+00:00",
+   "div": "E3",
+   "home": "Chesterfield",
+   "away": "Tranmere",
+   "lineup_status": "confirmed",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 46278,
+       "name": "Harrison Male",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "H. Male",
+       "jersey_number": 12
+      },
+      {
+       "id": 34071,
+       "name": "Joel Senior",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Senior",
+       "jersey_number": 2
+      },
+      {
+       "id": 33876,
+       "name": "Bobby Faulkner",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "B. Faulkner",
+       "jersey_number": 16
+      },
+      {
+       "id": 33802,
+       "name": "Nathan James Smith",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "N. Smith",
+       "jersey_number": 5
+      },
+      {
+       "id": 36217,
+       "name": "Jacob Slater",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Slater",
+       "jersey_number": 3
+      },
+      {
+       "id": 6286,
+       "name": "Will Vaulks",
+       "captain": true,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "W. Vaulks",
+       "jersey_number": 6
+      },
+      {
+       "id": 34270,
+       "name": "Tom Conlon",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. Conlon",
+       "jersey_number": 11
+      },
+      {
+       "id": 33760,
+       "name": "Zane Okoro",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Z. Okoro",
+       "jersey_number": 17
+      },
+      {
+       "id": 6032,
+       "name": "Tom Ince",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. Ince",
+       "jersey_number": 10
+      },
+      {
+       "id": 33808,
+       "name": "Charlie Whitaker",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "C. Whitaker",
+       "jersey_number": 7
+      },
+      {
+       "id": 33685,
+       "name": "Joe Ironside",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Ironside",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1419,
+     "formation": "4-2-3-1",
+     "team_name": "Tranmere Rovers",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 42920,
+       "name": "Coniah Boyce-Clarke",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "C. Boyce-Clarke",
+       "jersey_number": 13
+      },
+      {
+       "id": 33811,
+       "name": "Lee O'Connor",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "L. O'Connor",
+       "jersey_number": 22
+      },
+      {
+       "id": 33817,
+       "name": "Patrick Brough",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "P. Brough",
+       "jersey_number": 23
+      },
+      {
+       "id": 46539,
+       "name": "Sam Finley",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "S. Finley",
+       "jersey_number": 8
+      },
+      {
+       "id": 61030,
+       "name": "Ryan Watson",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. Watson",
+       "jersey_number": 44
+      },
+      {
+       "id": 67355,
+       "name": "Dylan Jones",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "D. Jones",
+       "jersey_number": 29
+      },
+      {
+       "id": 28859,
+       "name": "David Kamara",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "D. Kamara",
+       "jersey_number": 24
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 33935,
+       "name": "Ryan Boot",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "R. Boot",
+       "jersey_number": 23
+      },
+      {
+       "id": 33982,
+       "name": "Remeao Hutton",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "R. Hutton",
+       "jersey_number": 33
+      },
+      {
+       "id": 33922,
+       "name": "Kyle McFadzean",
+       "captain": true,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "K. McFadzean",
+       "jersey_number": 5
+      },
+      {
+       "id": 34043,
+       "name": "Jack Simpson",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Simpson",
+       "jersey_number": 6
+      },
+      {
+       "id": 33923,
+       "name": "Lewis Gordon",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "L. Gordon",
+       "jersey_number": 19
+      },
+      {
+       "id": 33126,
+       "name": "George James McEachran",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "G. McEachran",
+       "jersey_number": 20
+      },
+      {
+       "id": 33925,
+       "name": "Ryan Stirk",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. Stirk",
+       "jersey_number": 8
+      },
+      {
+       "id": 33926,
+       "name": "Dilan Markanday",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Markanday",
+       "jersey_number": 24
+      },
+      {
+       "id": 7106,
+       "name": "Louie Marsh",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Marsh",
+       "jersey_number": 18
+      },
+      {
+       "id": 26709,
+       "name": "Joel Randall",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Randall",
+       "jersey_number": 31
+      },
+      {
+       "id": 33932,
+       "name": "Lee Bonis",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "L. Bonis",
+       "jersey_number": 10
+      }
+     ],
+     "team_id": 1434,
+     "formation": "4-2-3-1",
+     "team_name": "Chesterfield",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 42785,
+       "name": "Junior Eccleston",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Eccleston",
+       "jersey_number": 26
+      },
+      {
+       "id": 9728,
+       "name": "Tom Pearce",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Pearce",
+       "jersey_number": 46
+      },
+      {
+       "id": 5425,
+       "name": "Kiano Dyer",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "K. Dyer",
+       "jersey_number": 27
+      },
+      {
+       "id": 36516,
+       "name": "Josh Koroma",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Koroma",
+       "jersey_number": 37
+      },
+      {
+       "id": 33933,
+       "name": "Liam Mandeville",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Mandeville",
+       "jersey_number": 7
+      },
+      {
+       "id": 33930,
+       "name": "Tom Naylor",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. Naylor",
+       "jersey_number": 4
+      },
+      {
+       "id": 115188,
+       "name": "Fraser Bryden",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "F. Bryden",
+       "jersey_number": 9
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [],
+    "home": []
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 473,
+   "context": {
+    "h2h": {
+     "draws": 2,
+     "away_wins": 4,
+     "home_wins": 2,
+     "away_goals": 11,
+     "home_goals": 8,
+     "away_win_rate": 0.5,
+     "home_win_rate": 0.25,
+     "total_matches": 8,
+     "recent_matches": [
+      {
+       "away": "Tranmere Rovers",
+       "date": "2026-04-11T14:00:00+00:00",
+       "home": "Chesterfield",
+       "score": "1-1",
+       "event_id": 228413,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1419,
+       "home_team_id": 1434
+      },
+      {
+       "away": "Chesterfield",
+       "date": "2025-10-25T14:00:00+00:00",
+       "home": "Tranmere Rovers",
+       "score": "1-1",
+       "event_id": 228042,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1434,
+       "home_team_id": 1419
+      },
+      {
+       "away": "Chesterfield",
+       "date": "2025-04-05T11:45:00+00:00",
+       "home": "Tranmere Rovers",
+       "score": "4-0",
+       "event_id": 235291,
+       "away_score": 0,
+       "home_score": 4,
+       "away_team_id": 1434,
+       "home_team_id": 1419
+      },
+      {
+       "away": "Tranmere Rovers",
+       "date": "2024-12-07T15:00:00+00:00",
+       "home": "Chesterfield",
+       "score": "3-0",
+       "event_id": 235014,
+       "away_score": 0,
+       "home_score": 3,
+       "away_team_id": 1419,
+       "home_team_id": 1434
+      },
+      {
+       "away": "Chesterfield",
+       "date": "2012-12-01T15:00:00+00:00",
+       "home": "Tranmere Rovers",
+       "score": "2-1",
+       "event_id": 424673,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1434,
+       "home_team_id": 1419
+      },
+      {
+       "away": "Tranmere Rovers",
+       "date": "2012-08-14T18:45:00+00:00",
+       "home": "Chesterfield",
+       "score": "1-2",
+       "event_id": 420990,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 1419,
+       "home_team_id": 1434
+      },
+      {
+       "away": "Tranmere Rovers",
+       "date": "2012-03-03T15:00:00+00:00",
+       "home": "Chesterfield",
+       "score": "1-0",
+       "event_id": 440352,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 1419,
+       "home_team_id": 1434
+      },
+      {
+       "away": "Chesterfield",
+       "date": "2011-08-06T14:00:00+00:00",
+       "home": "Tranmere Rovers",
+       "score": "1-0",
+       "event_id": 439942,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 1434,
+       "home_team_id": 1419
+      }
+     ],
+     "avg_total_goals": 2.375
+    },
+    "odds": {
+     "draw": 3.96,
+     "btts_no": 2.12,
+     "away_win": 4.49,
+     "btts_yes": 1.65,
+     "home_win": 1.66,
+     "over_15_goals": 1.21,
+     "over_25_goals": 1.66,
+     "over_35_goals": 2.7,
+     "under_15_goals": 4.2,
+     "under_25_goals": 2.17,
+     "under_35_goals": 1.44
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 9",
+    "neutral": false,
+    "odds_at": "2026-10-03T10:20:10Z",
+    "referee": null,
+    "weather": {
+     "code": null,
+     "wind_speed": null,
+     "description": null,
+     "temperature_c": null
+    },
+    "travel_km": 108,
+    "pitch_condition": null
+   }
+  },
+  {
+   "match_key": "SP2|03/10/2026|Albacete|Eibar",
+   "bsd_event_id": 214843,
+   "captured_at": "2026-10-03T11:00:28.97342+00:00",
+   "kickoff_utc": "2026-10-03T12:00:00+00:00",
+   "div": "SP2",
+   "home": "Albacete",
+   "away": "Eibar",
+   "lineup_status": "confirmed",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 30334,
+       "name": "Jon Mikel Magunagoitia",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "J. M. Magunagoitia",
+       "jersey_number": 13
+      },
+      {
+       "id": 30458,
+       "name": "Álvaro Rodríguez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Á. Rodríguez",
+       "jersey_number": 22
+      },
+      {
+       "id": 2113,
+       "name": "Unai Elgezabal",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "U. Elgezabal",
+       "jersey_number": 4
+      },
+      {
+       "id": 30465,
+       "name": "Anaitz Arbilla",
+       "captain": true,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Arbilla",
+       "jersey_number": 23
+      },
+      {
+       "id": 35934,
+       "name": "Juan Bernat",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Bernat",
+       "jersey_number": 24
+      },
+      {
+       "id": 30508,
+       "name": "Ander Madariaga",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Madariaga",
+       "jersey_number": 8
+      },
+      {
+       "id": 31535,
+       "name": "Aleix Garrido",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Garrido",
+       "jersey_number": 30
+      },
+      {
+       "id": 30439,
+       "name": "Malcom Ares",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Ares",
+       "jersey_number": 7
+      },
+      {
+       "id": 28229,
+       "name": "Iván Gil",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "I. Gil",
+       "jersey_number": 21
+      },
+      {
+       "id": 30342,
+       "name": "Jon Guruzeta",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Guruzeta",
+       "jersey_number": 10
+      },
+      {
+       "id": 30343,
+       "name": "Jon Bautista",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Bautista",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1397,
+     "formation": "4-2-3-1",
+     "team_name": "Eibar",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 30243,
+       "name": "Luis López",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "L. López",
+       "jersey_number": 1
+      },
+      {
+       "id": 63115,
+       "name": "Markel Arana",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "M. Arana",
+       "jersey_number": 18
+      },
+      {
+       "id": 30335,
+       "name": "Sergio Cubero",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "S. Cubero",
+       "jersey_number": 2
+      },
+      {
+       "id": 31821,
+       "name": "Imanol García de Albéniz",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "I. G. d. Albéniz",
+       "jersey_number": 3
+      },
+      {
+       "id": 30437,
+       "name": "Jair Amador",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Jair",
+       "jersey_number": 15
+      },
+      {
+       "id": 63114,
+       "name": "Eric Pérez",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "E. Pérez",
+       "jersey_number": 19
+      },
+      {
+       "id": 3997,
+       "name": "Lucas Núñez",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Núñez",
+       "jersey_number": 28
+      },
+      {
+       "id": 30421,
+       "name": "Lander Olaetxea",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Olaetxea",
+       "jersey_number": 14
+      },
+      {
+       "id": 28227,
+       "name": "Pejiño",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Pejiño",
+       "jersey_number": 17
+      },
+      {
+       "id": 30269,
+       "name": "Jon Magunazelaia",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Magunazelaia",
+       "jersey_number": 11
+      },
+      {
+       "id": 30282,
+       "name": "Javier Martón",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Martón",
+       "jersey_number": 20
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 27160,
+       "name": "Carlos Marín",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "C. Marín",
+       "jersey_number": 1
+      },
+      {
+       "id": 30443,
+       "name": "Fran Gámez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "F. Gámez",
+       "jersey_number": 15
+      },
+      {
+       "id": 30460,
+       "name": "Lluís López",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "L. López",
+       "jersey_number": 22
+      },
+      {
+       "id": 30353,
+       "name": "Carlos Neva",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "C. Neva",
+       "jersey_number": 21
+      },
+      {
+       "id": 30278,
+       "name": "Agustin Medina",
+       "captain": true,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Medina",
+       "jersey_number": 4
+      },
+      {
+       "id": 30341,
+       "name": "José Corpas",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Corpas",
+       "jersey_number": 17
+      },
+      {
+       "id": 35202,
+       "name": "Victor San Bartolome",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "V. San Bartolome",
+       "jersey_number": 14
+      },
+      {
+       "id": 30284,
+       "name": "Antonio Pacheco",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Pacheco",
+       "jersey_number": 6
+      },
+      {
+       "id": 31377,
+       "name": "Victor Valverde",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "V. Valverde",
+       "jersey_number": 11
+      },
+      {
+       "id": 5467,
+       "name": "Rober González",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "R. González",
+       "jersey_number": 10
+      },
+      {
+       "id": 29059,
+       "name": "Mario Soberón",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "M. Soberón",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1395,
+     "formation": "4-4-2",
+     "team_name": "Albacete Balompié",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 30355,
+       "name": "Diego Mariño",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "D. Mariño",
+       "jersey_number": 13
+      },
+      {
+       "id": 30290,
+       "name": "Daniel Bernabeu",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Bernabeu",
+       "jersey_number": 27
+      },
+      {
+       "id": 30286,
+       "name": "Jota Domingo",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Domingo",
+       "jersey_number": 40
+      },
+      {
+       "id": 31373,
+       "name": "Jesús Vallejo",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Vallejo",
+       "jersey_number": 24
+      },
+      {
+       "id": 30285,
+       "name": "Javi Villar",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Villar",
+       "jersey_number": 8
+      },
+      {
+       "id": 8889,
+       "name": "Agustín Albarracín",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Albarracín",
+       "jersey_number": 32
+      },
+      {
+       "id": 98929,
+       "name": "Munir El Haddadi",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "M. El Haddadi",
+       "jersey_number": 16
+      },
+      {
+       "id": 35199,
+       "name": "Alex Rubio",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Rubio",
+       "jersey_number": 19
+      },
+      {
+       "id": 30457,
+       "name": "Higinio Marín",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Higinio",
+       "jersey_number": 12
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 30340,
+      "name": "Sergio Álvarez",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "S. Álvarez"
+     }
+    ],
+    "home": [
+     {
+      "id": 30276,
+      "name": "Javier Moreno",
+      "reason": "Knee Injury",
+      "status": "injured",
+      "short_name": "J. Moreno"
+     },
+     {
+      "id": 31372,
+      "name": "Lorenzo Aguado",
+      "reason": "Hamstring Injury",
+      "status": "injured",
+      "short_name": "L. Aguado"
+     },
+     {
+      "id": 98929,
+      "name": "Munir El Haddadi",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "M. El Haddadi"
+     },
+     {
+      "id": 30283,
+      "name": "Pepe Sánchez",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "P. Sánchez"
+     },
+     {
+      "id": 26884,
+      "name": "Sergio Ortuño",
+      "reason": "yellow_or_red_card_suspension",
+      "status": "suspended",
+      "short_name": "S. Ortuño"
+     },
+     {
+      "id": 35202,
+      "name": "Victor San Bartolome",
+      "reason": "Hamstring Injury",
+      "status": "injured",
+      "short_name": "V. San Bartolome"
+     }
+    ]
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 902,
+   "context": {
+    "h2h": {
+     "draws": 4,
+     "away_wins": 3,
+     "home_wins": 3,
+     "away_goals": 13,
+     "home_goals": 13,
+     "away_win_rate": 0.3,
+     "home_win_rate": 0.3,
+     "total_matches": 10,
+     "recent_matches": [
+      {
+       "away": "Eibar",
+       "date": "2026-04-24T18:30:00+00:00",
+       "home": "Albacete Balompié",
+       "score": "0-3",
+       "event_id": 204228,
+       "away_score": 3,
+       "home_score": 0,
+       "away_team_id": 1397,
+       "home_team_id": 1395
+      },
+      {
+       "away": "Albacete Balompié",
+       "date": "2025-11-08T15:15:00+00:00",
+       "home": "Eibar",
+       "score": "3-2",
+       "event_id": 203965,
+       "away_score": 2,
+       "home_score": 3,
+       "away_team_id": 1395,
+       "home_team_id": 1397
+      },
+      {
+       "away": "Albacete Balompié",
+       "date": "2025-01-18T17:30:00+00:00",
+       "home": "Eibar",
+       "score": "1-1",
+       "event_id": 202742,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1395,
+       "home_team_id": 1397
+      },
+      {
+       "away": "Eibar",
+       "date": "2024-09-09T19:00:00+00:00",
+       "home": "Albacete Balompié",
+       "score": "0-1",
+       "event_id": 202534,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 1397,
+       "home_team_id": 1395
+      },
+      {
+       "away": "Eibar",
+       "date": "2024-04-28T19:00:00+00:00",
+       "home": "Albacete Balompié",
+       "score": "2-1",
+       "event_id": 248857,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1397,
+       "home_team_id": 1395
+      },
+      {
+       "away": "Albacete Balompié",
+       "date": "2023-11-12T20:00:00+00:00",
+       "home": "Eibar",
+       "score": "1-1",
+       "event_id": 248615,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1395,
+       "home_team_id": 1397
+      },
+      {
+       "away": "Eibar",
+       "date": "2023-04-14T19:00:00+00:00",
+       "home": "Albacete Balompié",
+       "score": "3-1",
+       "event_id": 259849,
+       "away_score": 1,
+       "home_score": 3,
+       "away_team_id": 1397,
+       "home_team_id": 1395
+      },
+      {
+       "away": "Albacete Balompié",
+       "date": "2022-10-23T16:30:00+00:00",
+       "home": "Eibar",
+       "score": "1-1",
+       "event_id": 259592,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1395,
+       "home_team_id": 1397
+      },
+      {
+       "away": "Eibar",
+       "date": "2009-03-07T17:30:00+00:00",
+       "home": "Albacete Balompié",
+       "score": "2-0",
+       "event_id": 482344,
+       "away_score": 0,
+       "home_score": 2,
+       "away_team_id": 1397,
+       "home_team_id": 1395
+      },
+      {
+       "away": "Albacete Balompié",
+       "date": "2008-10-04T16:30:00+00:00",
+       "home": "Eibar",
+       "score": "1-1",
+       "event_id": 482113,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1395,
+       "home_team_id": 1397
+      }
+     ],
+     "avg_total_goals": 2.6
+    },
+    "odds": {
+     "draw": 3.29,
+     "btts_no": 2.13,
+     "away_win": 2.37,
+     "btts_yes": 1.65,
+     "home_win": 2.77,
+     "over_15_goals": 1.27,
+     "over_25_goals": 1.89,
+     "over_35_goals": 3.19,
+     "under_15_goals": 3.57,
+     "under_25_goals": 1.9,
+     "under_35_goals": 1.32
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-03T10:50:08Z",
+    "referee": {
+     "id": 1820,
+     "name": "Jose Antonio Sanchez Villalobos",
+     "country": "Spain",
+     "matches": 45,
+     "birthdate": null,
+     "career_games": 50,
+     "nationality_a3": "",
+     "total_red_cards": 15,
+     "career_red_cards": 11,
+     "avg_red_per_match": 0.33,
+     "total_yellow_cards": 265,
+     "avg_fouls_per_match": 28,
+     "avg_goals_per_match": 2.84,
+     "career_yellow_cards": 301,
+     "avg_yellow_per_match": 5.89
+    },
+    "weather": {
+     "code": 1,
+     "wind_speed": 6.3,
+     "description": "clear",
+     "temperature_c": 27
+    },
+    "travel_km": 471,
+    "pitch_condition": null
+   }
+  }
+ ]
+}
