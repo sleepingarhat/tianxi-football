@@ -1,0 +1,103 @@
+{
+ "table": "football_dual_ledger",
+ "month": "2026-10",
+ "count": 3,
+ "rows": [
+  {
+   "match_key": "SP2|02/10/2026|Eldense|Oviedo",
+   "version": "dual-v1",
+   "div": "SP2",
+   "home": "Eldense",
+   "away": "Oviedo",
+   "kickoff_utc": "2026-10-02T18:30:00+00:00",
+   "locked_at": "2026-10-02T17:30:05.864364+00:00",
+   "p_a": [
+    0.3998,
+    0.2899,
+    0.3103
+   ],
+   "lambda": [
+    1.094,
+    1.049
+   ],
+   "p_b_d": 0.307102491252491,
+   "p_final": [
+    0.394957332768099,
+    0.298501245626245,
+    0.306541421605656
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.5,
+    3,
+    3
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3
+  },
+  {
+   "match_key": "E3|03/10/2026|Chesterfield|Tranmere",
+   "version": "dual-v1",
+   "div": "E3",
+   "home": "Chesterfield",
+   "away": "Tranmere",
+   "kickoff_utc": "2026-10-03T11:30:00+00:00",
+   "locked_at": "2026-10-03T10:30:05.492023+00:00",
+   "p_a": [
+    0.6337,
+    0.2228,
+    0.1435
+   ],
+   "lambda": [
+    1.499,
+    1.119
+   ],
+   "p_b_d": 0.26914370044379,
+   "p_final": [
+    0.614806534372601,
+    0.245971850221895,
+    0.139221615405504
+   ],
+   "prediction": "home",
+   "odds": [
+    1.62,
+    3.7,
+    5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.62
+  },
+  {
+   "match_key": "SP2|03/10/2026|Albacete|Eibar",
+   "version": "dual-v1",
+   "div": "SP2",
+   "home": "Albacete",
+   "away": "Eibar",
+   "kickoff_utc": "2026-10-03T12:00:00+00:00",
+   "locked_at": "2026-10-03T11:00:04.234225+00:00",
+   "p_a": [
+    0.344,
+    0.2863,
+    0.3697
+   ],
+   "lambda": [
+    1.036,
+    1.509
+   ],
+   "p_b_d": 0.270161225384622,
+   "p_final": [
+    0.3478894062405,
+    0.278230612692311,
+    0.373879981067189
+   ],
+   "prediction": "away",
+   "odds": [
+    2.57,
+    3.4,
+    2.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.5
+  }
+ ]
+}
