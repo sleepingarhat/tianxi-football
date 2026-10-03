@@ -1,0 +1,1162 @@
+{
+ "table": "football_lineup_settle",
+ "month": "2026-09",
+ "count": 2,
+ "rows": [
+  {
+   "match_key": "EC|30/09/2026|Eastleigh|Southend",
+   "settled_at": "2026-09-30T21:07:04.255463+00:00",
+   "official": {
+    "away": {
+     "players": [
+      {
+       "id": 42784,
+       "name": "Jack Sims",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "J. Sims",
+       "jersey_number": 13
+      },
+      {
+       "id": 33920,
+       "name": "Vontae Daley-Campbell",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "V. Daley Campbell",
+       "jersey_number": 2
+      },
+      {
+       "id": 45595,
+       "name": "Harry Taylor",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "H. Taylor",
+       "jersey_number": 16
+      },
+      {
+       "id": 45590,
+       "name": "Ben Goodliffe",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "B. Goodliffe",
+       "jersey_number": 6
+      },
+      {
+       "id": 33940,
+       "name": "Kyle McAdam",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "K. Mcadam",
+       "jersey_number": 3
+      },
+      {
+       "id": 34013,
+       "name": "Darren Oldaker",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Oldaker",
+       "jersey_number": 8
+      },
+      {
+       "id": 34278,
+       "name": "Anthony Hartigan",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Hartigan",
+       "jersey_number": 4
+      },
+      {
+       "id": 43051,
+       "name": "Sahid Kamara",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "S. Kamara",
+       "jersey_number": 7
+      },
+      {
+       "id": 45587,
+       "name": "Leon Chambers-Parillon",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Chambers-Parillon",
+       "jersey_number": 19
+      },
+      {
+       "id": 100357,
+       "name": "Ryan Colclough",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. Colclough",
+       "jersey_number": 27
+      },
+      {
+       "id": 34076,
+       "name": "Promise Omochere",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "P. Omochere",
+       "jersey_number": 14
+      }
+     ],
+     "team_id": 1885,
+     "formation": "4-2-3-1",
+     "team_name": "Southend United",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 43046,
+       "name": "Zavier Massiah-Edwards",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Z. Massiah-Edwards",
+       "jersey_number": 17
+      },
+      {
+       "id": 63394,
+       "name": "Lewys Twamley",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "L. Twamley",
+       "jersey_number": 11
+      },
+      {
+       "id": 45576,
+       "name": "Harry Cardwell",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "H. Cardwell",
+       "jersey_number": 9
+      },
+      {
+       "id": 45584,
+       "name": "Sam Austin",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "S. Austin",
+       "jersey_number": 10
+      },
+      {
+       "id": 215944,
+       "name": "Finley Woodham",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "F. Woodham",
+       "jersey_number": 31
+      },
+      {
+       "id": 33708,
+       "name": "Tommy Backwell",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. Backwell",
+       "jersey_number": 22
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 43345,
+       "name": "Nick Townsend",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "N. Townsend",
+       "jersey_number": 1
+      },
+      {
+       "id": 36804,
+       "name": "Jake Caprice",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Caprice",
+       "jersey_number": 2
+      },
+      {
+       "id": 37301,
+       "name": "Tommy Dobson-Ventura",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Dobson-Ventura",
+       "jersey_number": 18
+      },
+      {
+       "id": 43339,
+       "name": "Temi Eweka",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Eweka",
+       "jersey_number": 6
+      },
+      {
+       "id": 6175,
+       "name": "Reece Johnson",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "R. Johnson",
+       "jersey_number": 27
+      },
+      {
+       "id": 43326,
+       "name": "Jordan Cousins",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Cousins",
+       "jersey_number": 24
+      },
+      {
+       "id": 33986,
+       "name": "Jonathan Williams",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Williams",
+       "jersey_number": 32
+      },
+      {
+       "id": 43323,
+       "name": "Aaron Blair",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Blair",
+       "jersey_number": 11
+      },
+      {
+       "id": 43329,
+       "name": "Josh Lundstram",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Lundstram",
+       "jersey_number": 8
+      },
+      {
+       "id": 49491,
+       "name": "Will Randall",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "W. Randall",
+       "jersey_number": 10
+      },
+      {
+       "id": 42902,
+       "name": "Hady Ghandour",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "H. Ghandour",
+       "jersey_number": 23
+      }
+     ],
+     "team_id": 1872,
+     "formation": "4-2-3-1",
+     "team_name": "Eastleigh",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 33999,
+       "name": "Harry Sidwell",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "H. Sidwell",
+       "jersey_number": 4
+      },
+      {
+       "id": 46472,
+       "name": "Dion Rankine",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Rankine",
+       "jersey_number": 17
+      },
+      {
+       "id": 33616,
+       "name": "Max Dickov",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Dickov",
+       "jersey_number": 7
+      },
+      {
+       "id": 43333,
+       "name": "Barney Stone",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "B. Stone",
+       "jersey_number": 22
+      },
+      {
+       "id": 73879,
+       "name": "Josh Jeffries",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "J. Jeffries",
+       "jersey_number": 15
+      },
+      {
+       "id": 33706,
+       "name": "Ibrahim Bakare",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "I. Bakare",
+       "jersey_number": 5
+      },
+      {
+       "id": 46406,
+       "name": "Manny Duku",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "I. Duku",
+       "jersey_number": 9
+      }
+     ]
+    }
+   },
+   "home_hits": 5,
+   "away_hits": 6,
+   "home_formation_ok": true,
+   "away_formation_ok": true,
+   "post_stats": {
+    "away": {
+     "xg": {
+      "actual": null,
+      "estimated": null
+     },
+     "fouls": null,
+     "attack": 113,
+     "offsides": null,
+     "ball_safe": 109,
+     "red_cards": null,
+     "attack_pct": 21,
+     "total_shots": null,
+     "corner_kicks": null,
+     "yellow_cards": null,
+     "ball_safe_pct": 54,
+     "ball_possession": null,
+     "shots_on_target": null,
+     "dangerous_attack": 62,
+     "dangerous_attack_pct": 25
+    },
+    "home": {
+     "xg": {
+      "actual": null,
+      "estimated": null
+     },
+     "fouls": null,
+     "attack": 139,
+     "offsides": null,
+     "ball_safe": 96,
+     "red_cards": null,
+     "attack_pct": 30,
+     "total_shots": null,
+     "corner_kicks": null,
+     "yellow_cards": null,
+     "ball_safe_pct": 44,
+     "ball_possession": null,
+     "shots_on_target": null,
+     "dangerous_attack": 79,
+     "dangerous_attack_pct": 26
+    }
+   },
+   "incidents": [
+    {
+     "text": "FT",
+     "type": "period",
+     "minute": 90,
+     "is_live": false,
+     "away_score": 1,
+     "home_score": 1
+    },
+    {
+     "type": "card",
+     "minute": 90,
+     "player": "A. Hartigan",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 34278,
+     "added_time": 4,
+     "period_second": 2700
+    },
+    {
+     "type": "injuryTime",
+     "length": 4,
+     "minute": 90
+    },
+    {
+     "type": "goal",
+     "assist": "J. Lundstram",
+     "minute": 89,
+     "player": "T. Eweka",
+     "is_home": true,
+     "goal_type": "regular",
+     "player_id": 43339,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 1,
+     "period_second": 2621
+    },
+    {
+     "type": "substitution",
+     "minute": 80,
+     "is_home": true,
+     "player_in": "B. Stone",
+     "added_time": null,
+     "player_out": "J. Cousins",
+     "player_in_id": 43333,
+     "period_second": 2044,
+     "player_out_id": 43326
+    },
+    {
+     "type": "substitution",
+     "minute": 74,
+     "is_home": true,
+     "player_in": "M. Dickov",
+     "added_time": null,
+     "player_out": "W. Randall",
+     "player_in_id": 33616,
+     "period_second": 1735,
+     "player_out_id": 49491
+    },
+    {
+     "type": "substitution",
+     "minute": 71,
+     "is_home": false,
+     "player_in": "S. Austin",
+     "added_time": null,
+     "player_out": "L. Chambers-Parillon",
+     "player_in_id": 45584,
+     "period_second": 1559,
+     "player_out_id": 45587
+    },
+    {
+     "type": "substitution",
+     "minute": 62,
+     "is_home": true,
+     "player_in": "H. Sidwell",
+     "added_time": null,
+     "player_out": "J. Williams",
+     "player_in_id": 33999,
+     "period_second": 1012,
+     "player_out_id": 33986
+    },
+    {
+     "type": "substitution",
+     "minute": 62,
+     "is_home": true,
+     "player_in": "D. Rankine",
+     "added_time": null,
+     "player_out": "J. Caprice",
+     "player_in_id": 46472,
+     "period_second": 1012,
+     "player_out_id": 36804
+    },
+    {
+     "type": "substitution",
+     "minute": 62,
+     "is_home": false,
+     "player_in": "H. Cardwell",
+     "added_time": null,
+     "player_out": "P. Omochere",
+     "player_in_id": 45576,
+     "period_second": 977,
+     "player_out_id": 34076
+    },
+    {
+     "type": "substitution",
+     "minute": 62,
+     "is_home": false,
+     "player_in": "L. Twamley",
+     "added_time": null,
+     "player_out": "S. Kamara",
+     "player_in_id": 63394,
+     "period_second": 977,
+     "player_out_id": 43051
+    },
+    {
+     "type": "card",
+     "minute": 58,
+     "player": "V. Daley Campbell",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 33920,
+     "added_time": null,
+     "period_second": 730
+    },
+    {
+     "type": "substitution",
+     "minute": 53,
+     "is_home": false,
+     "player_in": "Z. Massiah-Edwards",
+     "added_time": null,
+     "player_out": "R. Colclough",
+     "player_in_id": 43046,
+     "period_second": 462,
+     "player_out_id": 100357
+    },
+    {
+     "text": "HT",
+     "type": "period",
+     "minute": 45,
+     "is_live": false,
+     "away_score": 1,
+     "home_score": 0
+    },
+    {
+     "type": "injuryTime",
+     "length": 1,
+     "minute": 45
+    },
+    {
+     "type": "card",
+     "minute": 44,
+     "player": "T. Dobson-Ventura",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 37301,
+     "added_time": null,
+     "period_second": 2633
+    },
+    {
+     "type": "card",
+     "minute": 32,
+     "player": "J. Lundstram",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 43329,
+     "added_time": null,
+     "period_second": 1902
+    },
+    {
+     "type": "goal",
+     "assist": "R. Colclough",
+     "minute": 24,
+     "player": "P. Omochere",
+     "is_home": false,
+     "goal_type": "regular",
+     "player_id": 34076,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 0,
+     "period_second": 1433
+    }
+   ]
+  },
+  {
+   "match_key": "EC|30/09/2026|Tamworth|Sutton",
+   "settled_at": "2026-09-30T21:07:04.255463+00:00",
+   "official": {
+    "away": {
+     "players": [
+      {
+       "id": 85284,
+       "name": "Spike Brits",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "S. Brits",
+       "jersey_number": 1
+      },
+      {
+       "id": 49210,
+       "name": "Dan Urpens",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Urpens",
+       "jersey_number": 12
+      },
+      {
+       "id": 42917,
+       "name": "William Nightingale",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "W. Nightingale",
+       "jersey_number": 5
+      },
+      {
+       "id": 49208,
+       "name": "Besart Topalloj",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "B. Topalloj",
+       "jersey_number": 3
+      },
+      {
+       "id": 46259,
+       "name": "Ben Brookes",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "B. Brookes",
+       "jersey_number": 27
+      },
+      {
+       "id": 34282,
+       "name": "Emmanuel Osadebe",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "E. Osadebe",
+       "jersey_number": 7
+      },
+      {
+       "id": 500,
+       "name": "Joe Knight",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Knight",
+       "jersey_number": 19
+      },
+      {
+       "id": 42789,
+       "name": "Jake Taylor",
+       "captain": true,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Taylor",
+       "jersey_number": 8
+      },
+      {
+       "id": 64429,
+       "name": "Charlie Carter",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "C. Carter",
+       "jersey_number": 10
+      },
+      {
+       "id": 43706,
+       "name": "Temi Babalola",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "T. Babalola",
+       "jersey_number": 9
+      },
+      {
+       "id": 42792,
+       "name": "David Ogbonna",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Ogbonna",
+       "jersey_number": 18
+      }
+     ],
+     "team_id": 1879,
+     "formation": "4-4-2",
+     "team_name": "Sutton United",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 46452,
+       "name": "Brandon Njoku",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "B. Njoku",
+       "jersey_number": 34
+      },
+      {
+       "id": 212149,
+       "name": "Bobby Amartey",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "B. Amartey",
+       "jersey_number": 4
+      },
+      {
+       "id": 42832,
+       "name": "Sam Folarin",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "S. Folarin",
+       "jersey_number": 17
+      },
+      {
+       "id": 42816,
+       "name": "Omar Mussa",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "O. Mussa",
+       "jersey_number": null
+      },
+      {
+       "id": 42823,
+       "name": "Chris Haigh",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "C. Haigh",
+       "jersey_number": 1
+      },
+      {
+       "id": 46405,
+       "name": "Kwaku Donkor",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "K. Donkor",
+       "jersey_number": 50
+      },
+      {
+       "id": 42796,
+       "name": "Charlie Bell",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "C. Bell",
+       "jersey_number": 37
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 130335,
+       "name": "Rhys Lovett",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "R. Lovett",
+       "jersey_number": 39
+      },
+      {
+       "id": 45736,
+       "name": "Joe Rye",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Rye",
+       "jersey_number": 12
+      },
+      {
+       "id": 63424,
+       "name": "Tom Parkes",
+       "captain": true,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Parkes",
+       "jersey_number": 5
+      },
+      {
+       "id": 43246,
+       "name": "Hayden Carson",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "H. Carson",
+       "jersey_number": 26
+      },
+      {
+       "id": 63422,
+       "name": "Tom Handley",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Handley",
+       "jersey_number": 3
+      },
+      {
+       "id": 45731,
+       "name": "Thomas McGlinchey",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. McGlinchey",
+       "jersey_number": 19
+      },
+      {
+       "id": 45640,
+       "name": "Olly Dyson",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "O. Dyson",
+       "jersey_number": 14
+      },
+      {
+       "id": 45722,
+       "name": "Teo Kurtaran",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "T. Kurtaran",
+       "jersey_number": 4
+      },
+      {
+       "id": 42710,
+       "name": "Riccardo Calder",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. Calder",
+       "jersey_number": 16
+      },
+      {
+       "id": 42709,
+       "name": "Morgan Roberts",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Roberts",
+       "jersey_number": 30
+      },
+      {
+       "id": 74427,
+       "name": "Kieren Donnelly",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "K. Donnelly",
+       "jersey_number": 10
+      }
+     ],
+     "team_id": 1875,
+     "formation": "3-5-2",
+     "team_name": "Tamworth",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 45737,
+       "name": "Jordan Cullinane-Liburd",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Cullinane-Liburd",
+       "jersey_number": 18
+      },
+      {
+       "id": 45726,
+       "name": "Ben Acquaye",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "B. Acquaye",
+       "jersey_number": 7
+      },
+      {
+       "id": 6988,
+       "name": "Gabriel Kelly",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "G. Kelly",
+       "jersey_number": 59
+      },
+      {
+       "id": 63421,
+       "name": "Jake Hutchinson",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Hutchinson",
+       "jersey_number": 23
+      },
+      {
+       "id": 45742,
+       "name": "Jasbir Singh",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "J. Singh",
+       "jersey_number": 1
+      },
+      {
+       "id": 42706,
+       "name": "Tyler Lyttle",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Lyttle",
+       "jersey_number": 2
+      },
+      {
+       "id": 211442,
+       "name": "Vanylson Da Costa Silva",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "V. D. C. Silva",
+       "jersey_number": 19
+      }
+     ]
+    }
+   },
+   "home_hits": 4,
+   "away_hits": 7,
+   "home_formation_ok": false,
+   "away_formation_ok": true,
+   "post_stats": {
+    "away": {
+     "xg": {
+      "actual": null,
+      "estimated": null
+     },
+     "fouls": null,
+     "attack": 77,
+     "offsides": null,
+     "ball_safe": 86,
+     "red_cards": null,
+     "attack_pct": 27,
+     "total_shots": null,
+     "corner_kicks": null,
+     "yellow_cards": null,
+     "ball_safe_pct": 61,
+     "ball_possession": null,
+     "shots_on_target": null,
+     "dangerous_attack": 27,
+     "dangerous_attack_pct": 12
+    },
+    "home": {
+     "xg": {
+      "actual": null,
+      "estimated": null
+     },
+     "fouls": null,
+     "attack": 74,
+     "offsides": null,
+     "ball_safe": 69,
+     "red_cards": null,
+     "attack_pct": 29,
+     "total_shots": null,
+     "corner_kicks": null,
+     "yellow_cards": null,
+     "ball_safe_pct": 40,
+     "ball_possession": null,
+     "shots_on_target": null,
+     "dangerous_attack": 46,
+     "dangerous_attack_pct": 31
+    }
+   },
+   "incidents": [
+    {
+     "text": "FT",
+     "type": "period",
+     "minute": 90,
+     "is_live": false,
+     "away_score": 0,
+     "home_score": 2
+    },
+    {
+     "type": "injuryTime",
+     "length": 5,
+     "minute": 90
+    },
+    {
+     "type": "substitution",
+     "minute": 89,
+     "is_home": true,
+     "player_in": "J. Hutchinson",
+     "added_time": null,
+     "player_out": "M. Roberts",
+     "player_in_id": 63421,
+     "period_second": 2592,
+     "player_out_id": 42709
+    },
+    {
+     "type": "card",
+     "minute": 87,
+     "player": "M. Roberts",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 42709,
+     "added_time": null,
+     "period_second": 2476
+    },
+    {
+     "type": "card",
+     "minute": 81,
+     "player": "E. Osadebe",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 34282,
+     "added_time": null,
+     "period_second": 2111
+    },
+    {
+     "type": "substitution",
+     "minute": 80,
+     "is_home": true,
+     "player_in": "G. Kelly",
+     "added_time": null,
+     "player_out": "T. Kurtaran",
+     "player_in_id": 6988,
+     "period_second": 2088,
+     "player_out_id": 45722
+    },
+    {
+     "type": "substitution",
+     "minute": 65,
+     "is_home": false,
+     "player_in": "O. Mussa",
+     "added_time": null,
+     "player_out": "C. Bell",
+     "player_in_id": 42816,
+     "period_second": 1197,
+     "player_out_id": 42796
+    },
+    {
+     "type": "substitution",
+     "minute": 65,
+     "is_home": false,
+     "player_in": "S. Folarin",
+     "added_time": null,
+     "player_out": "T. Babalola",
+     "player_in_id": 42832,
+     "period_second": 1197,
+     "player_out_id": 43706
+    },
+    {
+     "type": "substitution",
+     "minute": 63,
+     "is_home": true,
+     "player_in": "B. Acquaye",
+     "added_time": null,
+     "player_out": "H. Carson",
+     "player_in_id": 45726,
+     "period_second": 1066,
+     "player_out_id": 43246
+    },
+    {
+     "type": "substitution",
+     "minute": 61,
+     "is_home": false,
+     "player_in": "B. Amartey",
+     "added_time": null,
+     "player_out": "J. Knight",
+     "player_in_id": 212149,
+     "period_second": 958,
+     "player_out_id": 500
+    },
+    {
+     "type": "goal",
+     "minute": 52,
+     "player": "E. Osadebe",
+     "is_home": true,
+     "goal_type": "ownGoal",
+     "player_id": 34282,
+     "added_time": null,
+     "away_score": 0,
+     "home_score": 2,
+     "period_second": 408
+    },
+    {
+     "type": "card",
+     "minute": 49,
+     "player": "J. Cullinane-Liburd",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 45737,
+     "added_time": null,
+     "period_second": 203
+    },
+    {
+     "type": "goal",
+     "minute": 47,
+     "player": "K. Donnelly",
+     "is_home": true,
+     "goal_type": "regular",
+     "player_id": 74427,
+     "added_time": null,
+     "away_score": 0,
+     "home_score": 1,
+     "period_second": 63
+    },
+    {
+     "type": "substitution",
+     "minute": 46,
+     "is_home": false,
+     "player_in": "B. Njoku",
+     "added_time": null,
+     "player_out": "J. Taylor",
+     "player_in_id": 46452,
+     "period_second": 2700,
+     "player_out_id": 42789
+    },
+    {
+     "type": "substitution",
+     "minute": 46,
+     "is_home": true,
+     "player_in": "J. Cullinane-Liburd",
+     "added_time": null,
+     "player_out": "T. Parkes",
+     "player_in_id": 45737,
+     "period_second": 2700,
+     "player_out_id": 63424
+    },
+    {
+     "text": "HT",
+     "type": "period",
+     "minute": 45,
+     "is_live": false,
+     "away_score": 0,
+     "home_score": 0
+    },
+    {
+     "type": "injuryTime",
+     "length": 1,
+     "minute": 45
+    },
+    {
+     "type": "card",
+     "minute": 39,
+     "player": "J. Taylor",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 42789,
+     "added_time": null,
+     "period_second": 2294
+    },
+    {
+     "type": "card",
+     "minute": 29,
+     "player": "T. Kurtaran",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 45722,
+     "added_time": null,
+     "period_second": 1703
+    }
+   ]
+  }
+ ]
+}
