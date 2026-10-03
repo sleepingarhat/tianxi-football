@@ -1,0 +1,1291 @@
+{
+ "table": "football_lineup_settle",
+ "month": "2026-10",
+ "count": 1,
+ "rows": [
+  {
+   "match_key": "SP2|02/10/2026|Eldense|Oviedo",
+   "settled_at": "2026-10-02T21:07:03.221299+00:00",
+   "official": {
+    "away": {
+     "players": [
+      {
+       "id": 4972,
+       "name": "Miguel Narvaez",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "M. Narvaez",
+       "jersey_number": 1
+      },
+      {
+       "id": 4609,
+       "name": "David Jiménez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Jiménez",
+       "jersey_number": 21
+      },
+      {
+       "id": 1975,
+       "name": "Dani Calvo",
+       "captain": true,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Calvo",
+       "jersey_number": 12
+      },
+      {
+       "id": 1270,
+       "name": "Carlos Domínguez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "C. Domínguez",
+       "jersey_number": 23
+      },
+      {
+       "id": 66123,
+       "name": "Samu Rodríguez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "S. Rodríguez",
+       "jersey_number": 15
+      },
+      {
+       "id": 30517,
+       "name": "Daniel Villahermosa",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Villahermosa",
+       "jersey_number": 6
+      },
+      {
+       "id": 30552,
+       "name": "Youness Lachhab",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Y. Lachhab",
+       "jersey_number": 5
+      },
+      {
+       "id": 1979,
+       "name": "Alberto Reina",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Reina",
+       "jersey_number": 10
+      },
+      {
+       "id": 1755,
+       "name": "Mikel Goti",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Goti",
+       "jersey_number": 8
+      },
+      {
+       "id": 27892,
+       "name": "Pablo Sáenz",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "P. Sáenz",
+       "jersey_number": 20
+      },
+      {
+       "id": 27129,
+       "name": "Jacobo González",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Jacobo González",
+       "jersey_number": 11
+      }
+     ],
+     "team_id": 42,
+     "formation": "4-3-1-2",
+     "team_name": "Real Oviedo",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 50435,
+       "name": "Juan Cruz",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "C. Juan",
+       "jersey_number": 3
+      },
+      {
+       "id": 31874,
+       "name": "Aisar Ahmed",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Ahmed",
+       "jersey_number": 2
+      },
+      {
+       "id": 66787,
+       "name": "Enzo Pérez",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "E. Pérez",
+       "jersey_number": 32
+      },
+      {
+       "id": 66122,
+       "name": "Víctor Mingo",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "V. Mingo",
+       "jersey_number": 18
+      },
+      {
+       "id": 1965,
+       "name": "Nacho Vidal",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "N. Vidal",
+       "jersey_number": 22
+      },
+      {
+       "id": 216267,
+       "name": "Samu Franganillo",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "S. Franganillo",
+       "jersey_number": 27
+      },
+      {
+       "id": 1966,
+       "name": "David Costas",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "D. Costas",
+       "jersey_number": 4
+      },
+      {
+       "id": 5224,
+       "name": "Diego Menendez",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Menendez",
+       "jersey_number": 28
+      },
+      {
+       "id": 4651,
+       "name": "Marco Esteban",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "M. Esteban",
+       "jersey_number": 30
+      },
+      {
+       "id": 93886,
+       "name": "Óscar De La Hera",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "Ó. D. L. Hera",
+       "jersey_number": 33
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 30271,
+       "name": "Ramon Vila",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "R. Vila",
+       "jersey_number": 1
+      },
+      {
+       "id": 31521,
+       "name": "Alejandro Ibarrondo",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Ibarrondo",
+       "jersey_number": 19
+      },
+      {
+       "id": 31522,
+       "name": "Álex Serradell",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Á. Serradell",
+       "jersey_number": 5
+      },
+      {
+       "id": 31523,
+       "name": "Floris Smand",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "F. Smand",
+       "jersey_number": 4
+      },
+      {
+       "id": 26891,
+       "name": "Iker Recio",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "I. Recio",
+       "jersey_number": 2
+      },
+      {
+       "id": 28261,
+       "name": "Carlos Guirao",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "C. Guirao",
+       "jersey_number": 15
+      },
+      {
+       "id": 31527,
+       "name": "Guillermo Macho",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "G. Macho",
+       "jersey_number": 18
+      },
+      {
+       "id": 30456,
+       "name": "Fidel",
+       "captain": true,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Fidel",
+       "jersey_number": 10
+      },
+      {
+       "id": 30339,
+       "name": "Javi Martínez",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. Martínez",
+       "jersey_number": 24
+      },
+      {
+       "id": 12972,
+       "name": "Waldo Rubio Marín",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "W. R. Marín",
+       "jersey_number": 20
+      },
+      {
+       "id": 31835,
+       "name": "Manuel Nieto",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "M. Nieto",
+       "jersey_number": 11
+      }
+     ],
+     "team_id": 1403,
+     "formation": "4-2-3-1",
+     "team_name": "CD Eldense",
+     "confidence": null,
+     "substitutes": [
+      {
+       "id": 29073,
+       "name": "Juan Larios",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Larios",
+       "jersey_number": 3
+      },
+      {
+       "id": 28258,
+       "name": "Roberto López",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "R. López",
+       "jersey_number": 12
+      },
+      {
+       "id": 31825,
+       "name": "Aingeru Olabarrieta",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Olabarrieta",
+       "jersey_number": 33
+      },
+      {
+       "id": 31529,
+       "name": "Marcos Bustillo",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "M. Bustillo",
+       "jersey_number": 8
+      },
+      {
+       "id": 64976,
+       "name": "Jorge Rastrojo",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "J. Rastrojo",
+       "jersey_number": 7
+      },
+      {
+       "id": 31805,
+       "name": "Juan Palomares",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "J. Palomares",
+       "jersey_number": 13
+      },
+      {
+       "id": 31531,
+       "name": "Jesús Clemente",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Clemente",
+       "jersey_number": 17
+      },
+      {
+       "id": 4471,
+       "name": "Javier Olaizola",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Olaizola",
+       "jersey_number": 34
+      },
+      {
+       "id": 76129,
+       "name": "Julien Yanda",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Yanda",
+       "jersey_number": 22
+      },
+      {
+       "id": 28132,
+       "name": "Jordi Martín",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Martín",
+       "jersey_number": 23
+      },
+      {
+       "id": 31528,
+       "name": "Borja Calvo",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "B. Calvo",
+       "jersey_number": 6
+      },
+      {
+       "id": 7532,
+       "name": "Dinis Rodrigues",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "D. Rodrigues",
+       "jersey_number": 29
+      }
+     ]
+    }
+   },
+   "home_hits": 5,
+   "away_hits": 10,
+   "home_formation_ok": true,
+   "away_formation_ok": false,
+   "post_stats": {
+    "away": {
+     "xg": {
+      "actual": 1.69,
+      "estimated": true
+     },
+     "duels": 56,
+     "fouls": 17,
+     "attack": 57,
+     "passes": 350,
+     "crosses": {
+      "pct": 25,
+      "total": 20,
+      "value": 5
+     },
+     "tackles": 13,
+     "dribbles": {
+      "pct": 57,
+      "total": 14,
+      "value": 8
+     },
+     "offsides": 1,
+     "ball_safe": 50,
+     "red_cards": null,
+     "throw_ins": 28,
+     "attack_pct": 23,
+     "clearances": 29,
+     "free_kicks": 18,
+     "goal_kicks": 6,
+     "long_balls": {
+      "pct": 39,
+      "total": 59,
+      "value": 23
+     },
+     "recoveries": 43,
+     "big_chances": 1,
+     "tackles_won": 38,
+     "total_saves": 5,
+     "total_shots": 15,
+     "aerial_duels": {
+      "pct": 55,
+      "total": 22,
+      "value": 12
+     },
+     "corner_kicks": 8,
+     "dispossessed": 9,
+     "ground_duels": {
+      "pct": 56,
+      "total": 68,
+      "value": 38
+     },
+     "yellow_cards": 4,
+     "ball_safe_pct": 45,
+     "blocked_shots": 6,
+     "interceptions": 10,
+     "through_balls": 0,
+     "total_tackles": 13,
+     "average_rating": 6.16,
+     "accurate_passes": 270,
+     "ball_possession": 46,
+     "shots_on_target": 4,
+     "dangerous_attack": 31,
+     "goalkeeper_saves": 5,
+     "shots_inside_box": 6,
+     "shots_off_target": 5,
+     "final_third_phase": {
+      "pct": 66,
+      "total": 77,
+      "value": 51
+     },
+     "pass_accuracy_pct": 77.1,
+     "shots_outside_box": 9,
+     "big_chances_missed": 0,
+     "big_chances_scored": 1,
+     "final_third_entries": 35,
+     "dangerous_attack_pct": 32,
+     "errors_lead_to_a_goal": 2,
+     "fouled_in_final_third": 1,
+     "touches_in_penalty_area": 14
+    },
+    "home": {
+     "xg": {
+      "actual": 3.32,
+      "estimated": true
+     },
+     "duels": 44,
+     "fouls": 18,
+     "attack": 66,
+     "passes": 416,
+     "crosses": {
+      "pct": 19,
+      "total": 21,
+      "value": 4
+     },
+     "tackles": 15,
+     "dribbles": {
+      "pct": 14,
+      "total": 7,
+      "value": 1
+     },
+     "offsides": 1,
+     "ball_safe": 50,
+     "red_cards": null,
+     "throw_ins": 26,
+     "attack_pct": 24,
+     "clearances": 16,
+     "free_kicks": 15,
+     "goal_kicks": 6,
+     "long_balls": {
+      "pct": 53,
+      "total": 72,
+      "value": 38
+     },
+     "recoveries": 44,
+     "big_chances": 6,
+     "tackles_won": 40,
+     "total_saves": 3,
+     "total_shots": 17,
+     "aerial_duels": {
+      "pct": 45,
+      "total": 22,
+      "value": 10
+     },
+     "corner_kicks": 6,
+     "dispossessed": 7,
+     "ground_duels": {
+      "pct": 44,
+      "total": 68,
+      "value": 30
+     },
+     "yellow_cards": 2,
+     "ball_safe_pct": 29,
+     "blocked_shots": 3,
+     "interceptions": 9,
+     "through_balls": 1,
+     "total_tackles": 15,
+     "average_rating": 7.85,
+     "accurate_passes": 330,
+     "ball_possession": 54,
+     "shots_on_target": 9,
+     "dangerous_attack": 39,
+     "goalkeeper_saves": 3,
+     "shots_inside_box": 12,
+     "shots_off_target": 5,
+     "final_third_phase": {
+      "pct": 64,
+      "total": 129,
+      "value": 82
+     },
+     "pass_accuracy_pct": 79.3,
+     "shots_outside_box": 5,
+     "big_chances_missed": 2,
+     "big_chances_scored": 4,
+     "final_third_entries": 75,
+     "dangerous_attack_pct": 47,
+     "errors_lead_to_a_goal": 0,
+     "fouled_in_final_third": 7,
+     "touches_in_penalty_area": 27
+    },
+    "first_half": {
+     "away": {
+      "xg": {
+       "actual": 1.109,
+       "estimated": true
+      },
+      "duels": 62,
+      "fouls": 8,
+      "passes": 187,
+      "crosses": {
+       "pct": 60,
+       "total": 5,
+       "value": 3
+      },
+      "tackles": 7,
+      "dribbles": {
+       "pct": 67,
+       "total": 9,
+       "value": 6
+      },
+      "offsides": 1,
+      "red_cards": null,
+      "throw_ins": 9,
+      "clearances": 16,
+      "free_kicks": 7,
+      "goal_kicks": 4,
+      "long_balls": {
+       "pct": 34,
+       "total": 35,
+       "value": 12
+      },
+      "recoveries": 26,
+      "big_chances": 1,
+      "tackles_won": 57,
+      "total_saves": 3,
+      "total_shots": 7,
+      "aerial_duels": {
+       "pct": 56,
+       "total": 16,
+       "value": 9
+      },
+      "corner_kicks": 2,
+      "dispossessed": 1,
+      "ground_duels": {
+       "pct": 65,
+       "total": 31,
+       "value": 20
+      },
+      "yellow_cards": 2,
+      "blocked_shots": 2,
+      "interceptions": 5,
+      "through_balls": 0,
+      "total_tackles": 7,
+      "accurate_passes": 146,
+      "ball_possession": 42,
+      "shots_on_target": 3,
+      "goalkeeper_saves": 3,
+      "shots_inside_box": 3,
+      "shots_off_target": 2,
+      "pass_accuracy_pct": 78.1,
+      "shots_outside_box": 4,
+      "big_chances_missed": 0,
+      "big_chances_scored": 1,
+      "final_third_entries": 18,
+      "fouled_in_final_third": 0
+     },
+     "home": {
+      "xg": {
+       "actual": 1.034,
+       "estimated": true
+      },
+      "duels": 38,
+      "fouls": 7,
+      "passes": 254,
+      "crosses": {
+       "pct": 23,
+       "total": 13,
+       "value": 3
+      },
+      "tackles": 4,
+      "dribbles": {
+       "pct": 0,
+       "total": 4,
+       "value": 0
+      },
+      "offsides": 0,
+      "red_cards": null,
+      "throw_ins": 16,
+      "clearances": 6,
+      "free_kicks": 8,
+      "goal_kicks": 3,
+      "long_balls": {
+       "pct": 68,
+       "total": 37,
+       "value": 25
+      },
+      "recoveries": 24,
+      "big_chances": 1,
+      "tackles_won": 0,
+      "total_saves": 2,
+      "total_shots": 9,
+      "aerial_duels": {
+       "pct": 44,
+       "total": 16,
+       "value": 7
+      },
+      "corner_kicks": 4,
+      "dispossessed": 3,
+      "ground_duels": {
+       "pct": 35,
+       "total": 31,
+       "value": 11
+      },
+      "yellow_cards": 1,
+      "blocked_shots": 3,
+      "interceptions": 4,
+      "through_balls": 1,
+      "total_tackles": 4,
+      "accurate_passes": 213,
+      "ball_possession": 58,
+      "shots_on_target": 3,
+      "goalkeeper_saves": 2,
+      "shots_inside_box": 5,
+      "shots_off_target": 3,
+      "pass_accuracy_pct": 83.9,
+      "shots_outside_box": 4,
+      "big_chances_missed": 1,
+      "big_chances_scored": 0,
+      "final_third_entries": 46,
+      "fouled_in_final_third": 3
+     }
+    },
+    "second_half": {
+     "away": {
+      "xg": {
+       "actual": 0.581,
+       "estimated": true
+      },
+      "duels": 49,
+      "fouls": 9,
+      "passes": 163,
+      "crosses": {
+       "pct": 13,
+       "total": 15,
+       "value": 2
+      },
+      "tackles": 6,
+      "dribbles": {
+       "pct": 40,
+       "total": 5,
+       "value": 2
+      },
+      "offsides": 0,
+      "red_cards": null,
+      "throw_ins": 19,
+      "clearances": 13,
+      "free_kicks": 11,
+      "goal_kicks": 2,
+      "long_balls": {
+       "pct": 46,
+       "total": 24,
+       "value": 11
+      },
+      "recoveries": 17,
+      "big_chances": 0,
+      "tackles_won": 17,
+      "total_saves": 2,
+      "total_shots": 8,
+      "aerial_duels": {
+       "pct": 50,
+       "total": 6,
+       "value": 3
+      },
+      "corner_kicks": 6,
+      "dispossessed": 8,
+      "ground_duels": {
+       "pct": 49,
+       "total": 37,
+       "value": 18
+      },
+      "yellow_cards": 2,
+      "blocked_shots": 4,
+      "interceptions": 5,
+      "through_balls": 0,
+      "total_tackles": 6,
+      "accurate_passes": 124,
+      "ball_possession": 51,
+      "shots_on_target": 1,
+      "goalkeeper_saves": 2,
+      "shots_inside_box": 3,
+      "shots_off_target": 3,
+      "pass_accuracy_pct": 76.1,
+      "shots_outside_box": 5,
+      "big_chances_missed": 0,
+      "big_chances_scored": 0,
+      "final_third_entries": 17,
+      "fouled_in_final_third": 1
+     },
+     "home": {
+      "xg": {
+       "actual": 2.286,
+       "estimated": true
+      },
+      "duels": 51,
+      "fouls": 11,
+      "passes": 162,
+      "crosses": {
+       "pct": 13,
+       "total": 8,
+       "value": 1
+      },
+      "tackles": 11,
+      "dribbles": {
+       "pct": 33,
+       "total": 3,
+       "value": 1
+      },
+      "offsides": 1,
+      "red_cards": null,
+      "throw_ins": 10,
+      "clearances": 10,
+      "free_kicks": 7,
+      "goal_kicks": 3,
+      "long_balls": {
+       "pct": 37,
+       "total": 35,
+       "value": 13
+      },
+      "recoveries": 20,
+      "big_chances": 5,
+      "tackles_won": 55,
+      "total_saves": 1,
+      "total_shots": 8,
+      "aerial_duels": {
+       "pct": 50,
+       "total": 6,
+       "value": 3
+      },
+      "corner_kicks": 2,
+      "dispossessed": 4,
+      "ground_duels": {
+       "pct": 51,
+       "total": 37,
+       "value": 19
+      },
+      "yellow_cards": 1,
+      "blocked_shots": 0,
+      "interceptions": 5,
+      "through_balls": 0,
+      "total_tackles": 11,
+      "accurate_passes": 117,
+      "ball_possession": 49,
+      "shots_on_target": 6,
+      "goalkeeper_saves": 1,
+      "shots_inside_box": 7,
+      "shots_off_target": 2,
+      "pass_accuracy_pct": 72.2,
+      "shots_outside_box": 1,
+      "big_chances_missed": 1,
+      "big_chances_scored": 4,
+      "final_third_entries": 29,
+      "fouled_in_final_third": 4
+     }
+    }
+   },
+   "incidents": [
+    {
+     "text": "FT",
+     "type": "period",
+     "minute": 90,
+     "is_live": false,
+     "away_score": 1,
+     "home_score": 4
+    },
+    {
+     "type": "goal",
+     "minute": 90,
+     "player": "J. Rastrojo",
+     "is_home": true,
+     "sequence": [
+      {
+       "end": {
+        "x": 77.7,
+        "y": 14.2
+       },
+       "pid": 30271,
+       "pos": {
+        "x": 10.7,
+        "y": 55.2
+       },
+       "event": "pass",
+       "player": "R. Vila"
+      },
+      {
+       "pid": 64976,
+       "pos": {
+        "x": 76.6,
+        "y": 17.1
+       },
+       "event": "tackle",
+       "player": "J. Rastrojo"
+      },
+      {
+       "gk": {
+        "x": 97.8,
+        "y": 42.4
+       },
+       "gm": {
+        "x": 29.57,
+        "y": 57.83
+       },
+       "pid": 64976,
+       "pos": {
+        "x": 95.4,
+        "y": 38
+       },
+       "body": "right-foot",
+       "event": "goal",
+       "player": "J. Rastrojo"
+      }
+     ],
+     "goal_type": "regular",
+     "player_id": 64976,
+     "added_time": 5,
+     "away_score": 1,
+     "home_score": 4
+    },
+    {
+     "type": "goal",
+     "assist": "M. Bustillo",
+     "minute": 90,
+     "player": "A. Olabarrieta",
+     "is_home": true,
+     "sequence": [
+      {
+       "end": {
+        "x": 73.5,
+        "y": 37.8
+       },
+       "pid": 64976,
+       "pos": {
+        "x": 75.2,
+        "y": 89.1
+       },
+       "event": "pass",
+       "player": "J. Rastrojo"
+      },
+      {
+       "end": {
+        "x": 85.6,
+        "y": 62.5
+       },
+       "pid": 31529,
+       "pos": {
+        "x": 70.1,
+        "y": 39.6
+       },
+       "event": "pass",
+       "assist": true,
+       "player": "M. Bustillo"
+      },
+      {
+       "gk": {
+        "x": 93,
+        "y": 55.8
+       },
+       "gm": {
+        "x": 32.8,
+        "y": 92.67
+       },
+       "pid": 31825,
+       "pos": {
+        "x": 85.9,
+        "y": 62.1
+       },
+       "body": "left-foot",
+       "event": "goal",
+       "player": "A. Olabarrieta"
+      }
+     ],
+     "goal_type": "regular",
+     "player_id": 31825,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 3
+    },
+    {
+     "type": "injuryTime",
+     "length": 6,
+     "minute": 90
+    },
+    {
+     "type": "substitution",
+     "minute": 83,
+     "is_home": false,
+     "player_in": "N. Vidal",
+     "added_time": null,
+     "player_out": "C. Juan",
+     "player_in_id": 1965,
+     "player_out_id": 50435
+    },
+    {
+     "type": "substitution",
+     "minute": 76,
+     "is_home": true,
+     "player_in": "J. Rastrojo",
+     "added_time": null,
+     "player_out": "W. R. Marín",
+     "player_in_id": 64976,
+     "player_out_id": 12972
+    },
+    {
+     "type": "substitution",
+     "minute": 73,
+     "is_home": false,
+     "player_in": "V. Mingo",
+     "added_time": null,
+     "player_out": "Y. Lachhab",
+     "player_in_id": 66122,
+     "player_out_id": 30552
+    },
+    {
+     "type": "card",
+     "minute": 71,
+     "player": "C. Domínguez",
+     "reason": "Foul",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 1270,
+     "added_time": null
+    },
+    {
+     "type": "substitution",
+     "minute": 71,
+     "is_home": true,
+     "player_in": "M. Bustillo",
+     "added_time": null,
+     "player_out": "Fidel",
+     "player_in_id": 31529,
+     "player_out_id": 30456
+    },
+    {
+     "type": "goal",
+     "minute": 68,
+     "player": "Fidel",
+     "is_home": true,
+     "sequence": [
+      {
+       "gk": {
+        "x": 99.8,
+        "y": 50
+       },
+       "gm": {
+        "x": 27.42,
+        "y": 94.67
+       },
+       "pid": 30456,
+       "pos": {
+        "x": 88.5,
+        "y": 50
+       },
+       "body": "left-foot",
+       "event": "goal",
+       "player": "Fidel"
+      }
+     ],
+     "goal_type": "penalty",
+     "player_id": 30456,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 2
+    },
+    {
+     "type": "card",
+     "minute": 67,
+     "player": "P. Sáenz",
+     "reason": "Foul",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 27892,
+     "added_time": null
+    },
+    {
+     "type": "substitution",
+     "minute": 65,
+     "is_home": true,
+     "player_in": "A. Olabarrieta",
+     "added_time": null,
+     "player_out": "R. López",
+     "player_in_id": 31825,
+     "player_out_id": 28258
+    },
+    {
+     "type": "substitution",
+     "minute": 65,
+     "is_home": false,
+     "player_in": "E. Pérez",
+     "added_time": null,
+     "player_out": "D. Villahermosa",
+     "player_in_id": 66787,
+     "player_out_id": 30517
+    },
+    {
+     "type": "substitution",
+     "minute": 65,
+     "is_home": false,
+     "player_in": "A. Ahmed",
+     "added_time": null,
+     "player_out": "D. Jiménez",
+     "player_in_id": 31874,
+     "player_out_id": 4609
+    },
+    {
+     "type": "substitution",
+     "minute": 64,
+     "is_home": false,
+     "player_in": "C. Juan",
+     "added_time": null,
+     "player_out": "S. Rodríguez",
+     "player_in_id": 50435,
+     "player_out_id": 66123
+    },
+    {
+     "type": "goal",
+     "minute": 56,
+     "player": "R. López",
+     "is_home": true,
+     "sequence": [
+      {
+       "gk": {
+        "x": 99.9,
+        "y": 49.8
+       },
+       "gm": {
+        "x": 38.71,
+        "y": 92.67
+       },
+       "pid": 28258,
+       "pos": {
+        "x": 88.5,
+        "y": 50
+       },
+       "body": "left-foot",
+       "event": "goal",
+       "player": "R. López"
+      }
+     ],
+     "goal_type": "penalty",
+     "player_id": 28258,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 1
+    },
+    {
+     "type": "card",
+     "minute": 50,
+     "player": "J. Larios",
+     "reason": "Foul",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 29073,
+     "added_time": null
+    },
+    {
+     "type": "substitution",
+     "minute": 46,
+     "is_home": true,
+     "player_in": "R. López",
+     "added_time": null,
+     "player_out": "G. Macho",
+     "player_in_id": 28258,
+     "player_out_id": 31527
+    },
+    {
+     "type": "substitution",
+     "minute": 46,
+     "is_home": true,
+     "player_in": "J. Larios",
+     "added_time": null,
+     "player_out": "I. Recio",
+     "player_in_id": 29073,
+     "player_out_id": 26891
+    },
+    {
+     "text": "HT",
+     "type": "period",
+     "minute": 45,
+     "is_live": false,
+     "away_score": 1,
+     "home_score": 0
+    },
+    {
+     "type": "injuryTime",
+     "length": 1,
+     "minute": 45
+    },
+    {
+     "type": "card",
+     "minute": 43,
+     "player": "Á. Serradell",
+     "reason": "Argument",
+     "is_home": true,
+     "card_type": "yellow",
+     "player_id": 31522,
+     "added_time": null
+    },
+    {
+     "type": "card",
+     "minute": 40,
+     "player": "D. Jiménez",
+     "reason": "Foul",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 4609,
+     "added_time": null
+    },
+    {
+     "type": "card",
+     "minute": 22,
+     "player": "S. Rodríguez",
+     "reason": "Argument",
+     "is_home": false,
+     "card_type": "yellow",
+     "player_id": 66123,
+     "added_time": null
+    },
+    {
+     "type": "goal",
+     "assist": "D. Jiménez",
+     "minute": 1,
+     "player": "A. Reina",
+     "is_home": false,
+     "sequence": [
+      {
+       "end": {
+        "x": 30.5,
+        "y": 19.2
+       },
+       "pid": 27892,
+       "pos": {
+        "x": 23.5,
+        "y": 17.2
+       },
+       "event": "pass",
+       "player": "P. Sáenz"
+      },
+      {
+       "end": {
+        "x": 21.4,
+        "y": 79.9
+       },
+       "pid": 1979,
+       "pos": {
+        "x": 31,
+        "y": 19.8
+       },
+       "event": "pass",
+       "player": "A. Reina"
+      },
+      {
+       "end": {
+        "x": 4,
+        "y": 51.7
+       },
+       "pid": 4609,
+       "pos": {
+        "x": 18.9,
+        "y": 88.3
+       },
+       "event": "cross",
+       "assist": true,
+       "player": "D. Jiménez"
+      },
+      {
+       "gk": {
+        "x": 2,
+        "y": 54.5
+       },
+       "gm": {
+        "x": 42.47,
+        "y": 96.83
+       },
+       "pid": 1979,
+       "pos": {
+        "x": 4,
+        "y": 51.7
+       },
+       "body": "right-foot",
+       "event": "goal",
+       "player": "A. Reina"
+      }
+     ],
+     "goal_type": "regular",
+     "player_id": 1979,
+     "added_time": null,
+     "away_score": 1,
+     "home_score": 0
+    }
+   ]
+  }
+ ]
+}
