@@ -81,7 +81,7 @@
    ],
    "elo_diff": 32.1,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Burton",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -125,7 +125,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E2|03/10/2026|Leyton Orient|Plymouth": {
    "away": "Plymouth",
@@ -208,7 +208,7 @@
    ],
    "elo_diff": -59.1,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Leyton Orient",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -252,7 +252,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E2|03/10/2026|Reading|Bradford": {
    "away": "Bradford",
@@ -335,7 +335,7 @@
    ],
    "elo_diff": 91.1,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Reading",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -379,7 +379,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Accrington|Cheltenham": {
    "away": "Cheltenham",
@@ -462,7 +462,7 @@
    ],
    "elo_diff": 44.5,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Accrington",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -506,7 +506,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Chesterfield|Tranmere": {
    "away": "Tranmere",
@@ -589,7 +589,7 @@
    ],
    "elo_diff": 159.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Chesterfield",
    "kickoff_utc": "2026-10-03T11:30+00:00",
@@ -633,7 +633,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Crewe|Bristol Rvs": {
    "away": "Bristol Rvs",
@@ -716,7 +716,7 @@
    ],
    "elo_diff": 118.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Crewe",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -760,7 +760,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Exeter|Rotherham": {
    "away": "Rotherham",
@@ -843,7 +843,7 @@
    ],
    "elo_diff": 106.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Exeter",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -887,7 +887,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Gillingham|Newport County": {
    "away": "Newport County",
@@ -970,7 +970,7 @@
    ],
    "elo_diff": 109.2,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Gillingham",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1014,7 +1014,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Grimsby|Shrewsbury": {
    "away": "Shrewsbury",
@@ -1097,7 +1097,7 @@
    ],
    "elo_diff": 204.1,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Grimsby",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1141,7 +1141,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Rochdale|Swindon": {
    "away": "Swindon",
@@ -1224,7 +1224,7 @@
    ],
    "elo_diff": 139.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Rochdale",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1268,7 +1268,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "E3|03/10/2026|Salford|Fleetwood Town": {
    "away": "Fleetwood Town",
@@ -1351,7 +1351,7 @@
    ],
    "elo_diff": 86.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Salford",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1395,7 +1395,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Aldershot|Carlisle": {
    "away": "Carlisle",
@@ -1478,7 +1478,7 @@
    ],
    "elo_diff": -30.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Aldershot",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1522,7 +1522,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Barrow|Wealdstone": {
    "away": "Wealdstone",
@@ -1605,7 +1605,7 @@
    ],
    "elo_diff": 46.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Barrow",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1649,7 +1649,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Boreham Wood|Altrincham": {
    "away": "Altrincham",
@@ -1732,7 +1732,7 @@
    ],
    "elo_diff": 194.3,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Boreham Wood",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1776,7 +1776,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Eastleigh|Woking": {
    "away": "Woking",
@@ -1859,7 +1859,7 @@
    ],
    "elo_diff": 12.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Eastleigh",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -1903,7 +1903,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Gateshead|Worthing": {
    "away": "Worthing",
@@ -1986,7 +1986,7 @@
    ],
    "elo_diff": -65.5,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Gateshead",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2030,7 +2030,7 @@
     "score": "1-1"
    },
    "track": "s2",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Harrogate|Hornchurch": {
    "away": "Hornchurch",
@@ -2113,7 +2113,7 @@
    ],
    "elo_diff": 25.3,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Harrogate",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2157,7 +2157,7 @@
     "score": "1-1"
    },
    "track": "s2",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Hartlepool|Tamworth": {
    "away": "Tamworth",
@@ -2240,7 +2240,7 @@
    ],
    "elo_diff": 138.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Hartlepool",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2284,7 +2284,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Kidderminster|Sutton": {
    "away": "Sutton",
@@ -2367,7 +2367,7 @@
    ],
    "elo_diff": 15.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Kidderminster",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2411,7 +2411,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Solihull|Halifax": {
    "away": "Halifax",
@@ -2494,7 +2494,7 @@
    ],
    "elo_diff": -57.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Solihull",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2538,7 +2538,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Southend|Fylde": {
    "away": "Fylde",
@@ -2621,7 +2621,7 @@
    ],
    "elo_diff": 103.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Southend",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2665,7 +2665,7 @@
     "score": "2-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "EC|03/10/2026|Yeovil|Boston Utd": {
    "away": "Boston Utd",
@@ -2748,7 +2748,7 @@
    ],
    "elo_diff": -35.5,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Yeovil",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2792,7 +2792,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC1|03/10/2026|Livingston|Ayr": {
    "away": "Ayr",
@@ -2875,7 +2875,7 @@
    ],
    "elo_diff": 36.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Livingston",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -2919,7 +2919,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC1|03/10/2026|Morton|Raith Rvs": {
    "away": "Raith Rvs",
@@ -3002,7 +3002,7 @@
    ],
    "elo_diff": -24.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Morton",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3046,7 +3046,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC1|03/10/2026|Partick|Arbroath": {
    "away": "Arbroath",
@@ -3129,7 +3129,7 @@
    ],
    "elo_diff": 184.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Partick",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3173,7 +3173,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC2|03/10/2026|Airdrie Utd|Montrose": {
    "away": "Montrose",
@@ -3256,7 +3256,7 @@
    ],
    "elo_diff": 10.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Airdrie Utd",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3300,7 +3300,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC2|03/10/2026|East Fife|East Kilbride": {
    "away": "East Kilbride",
@@ -3383,7 +3383,7 @@
    ],
    "elo_diff": 14.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "East Fife",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3427,7 +3427,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC2|03/10/2026|Hamilton|Peterhead": {
    "away": "Peterhead",
@@ -3510,7 +3510,7 @@
    ],
    "elo_diff": 155.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Hamilton",
    "kickoff_utc": "2026-10-03T16:30+00:00",
@@ -3554,7 +3554,7 @@
     "score": "2-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC2|03/10/2026|Queen of Sth|Cove Rangers": {
    "away": "Cove Rangers",
@@ -3637,7 +3637,7 @@
    ],
    "elo_diff": 77.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Queen of Sth",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3681,7 +3681,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC2|03/10/2026|Ross County|Alloa": {
    "away": "Alloa",
@@ -3764,7 +3764,7 @@
    ],
    "elo_diff": 46.9,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Ross County",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3808,7 +3808,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC3|03/10/2026|Annan Athletic|Stirling": {
    "away": "Stirling",
@@ -3891,7 +3891,7 @@
    ],
    "elo_diff": 127.2,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Annan Athletic",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -3935,7 +3935,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC3|03/10/2026|Dumbarton|Forfar": {
    "away": "Forfar",
@@ -4018,7 +4018,7 @@
    ],
    "elo_diff": 93.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Dumbarton",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -4062,7 +4062,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC3|03/10/2026|Elgin|Clyde": {
    "away": "Clyde",
@@ -4145,7 +4145,7 @@
    ],
    "elo_diff": 57.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Elgin",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -4189,7 +4189,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC3|03/10/2026|Spartans|Kelty Hearts": {
    "away": "Kelty Hearts",
@@ -4272,7 +4272,7 @@
    ],
    "elo_diff": 117.5,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Spartans",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -4316,7 +4316,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SC3|03/10/2026|Stranraer|Edinburgh City": {
    "away": "Edinburgh City",
@@ -4399,7 +4399,7 @@
    ],
    "elo_diff": 51.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Stranraer",
    "kickoff_utc": "2026-10-03T14:00+00:00",
@@ -4443,7 +4443,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|02/10/2026|Eldense|Oviedo": {
    "away": "Oviedo",
@@ -4526,7 +4526,7 @@
    ],
    "elo_diff": 3.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Eldense",
    "kickoff_utc": "2026-10-02T18:30+00:00",
@@ -4570,7 +4570,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|03/10/2026|Albacete|Eibar": {
    "away": "Eibar",
@@ -4653,7 +4653,7 @@
    ],
    "elo_diff": -31.6,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Albacete",
    "kickoff_utc": "2026-10-03T12:00+00:00",
@@ -4697,7 +4697,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|03/10/2026|Almeria|Burgos": {
    "away": "Burgos",
@@ -4780,7 +4780,7 @@
    ],
    "elo_diff": 132.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Almeria",
    "kickoff_utc": "2026-10-03T14:15+00:00",
@@ -4824,7 +4824,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|03/10/2026|Cadiz|Leganes": {
    "away": "Leganes",
@@ -4907,7 +4907,7 @@
    ],
    "elo_diff": -2.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Cadiz",
    "kickoff_utc": "2026-10-03T16:30+00:00",
@@ -4951,7 +4951,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|03/10/2026|Sabadell|Andorra": {
    "away": "Andorra",
@@ -5034,7 +5034,7 @@
    ],
    "elo_diff": 59.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Sabadell",
    "kickoff_utc": "2026-10-03T16:30+00:00",
@@ -5078,7 +5078,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|04/10/2026|Castellon|Ceuta": {
    "away": "Ceuta",
@@ -5161,7 +5161,7 @@
    ],
    "elo_diff": 179.8,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Castellon",
    "kickoff_utc": "2026-10-04T16:30+00:00",
@@ -5205,7 +5205,7 @@
     "score": "2-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|04/10/2026|Girona|Mallorca": {
    "away": "Mallorca",
@@ -5288,7 +5288,7 @@
    ],
    "elo_diff": 110.0,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Girona",
    "kickoff_utc": "2026-10-04T19:00+00:00",
@@ -5299,7 +5299,7 @@
    "late_ingest": false,
    "league_zh": "西乙",
    "lock_minutes": 60,
-   "locked_at": null,
+   "locked_at": "2026-10-04T18:41:14+00:00",
    "market": [
     0.4249,
     0.2735,
@@ -5332,7 +5332,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|04/10/2026|Las Palmas|Valladolid": {
    "away": "Valladolid",
@@ -5415,7 +5415,7 @@
    ],
    "elo_diff": 166.4,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Las Palmas",
    "kickoff_utc": "2026-10-04T16:30+00:00",
@@ -5459,7 +5459,7 @@
     "score": "1-0"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|04/10/2026|Sociedad B|Granada": {
    "away": "Granada",
@@ -5542,7 +5542,7 @@
    ],
    "elo_diff": 4.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Sociedad B",
    "kickoff_utc": "2026-10-04T12:00+00:00",
@@ -5586,7 +5586,7 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|04/10/2026|Sp Gijon|Celta B": {
    "away": "Celta B",
@@ -5669,7 +5669,7 @@
    ],
    "elo_diff": 40.5,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Sp Gijon",
    "kickoff_utc": "2026-10-04T14:15+00:00",
@@ -5713,7 +5713,7 @@
     "score": "1-1"
    },
    "track": "s2",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   },
   "SP2|05/10/2026|Cordoba|Tenerife": {
    "away": "Tenerife",
@@ -5796,7 +5796,7 @@
    ],
    "elo_diff": 66.7,
    "engine": "TX-Football S5 三軌集成＋向量標度校準（S4 天喜足球LGB ＋ S3 入球模型 ＋ S2 天喜足球ELO）",
-   "fingerprint": "4ceb54eaf1ed-67607cce0f1a-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995",
    "first_seen": "2026-10-02T09:49:12+00:00",
    "home": "Cordoba",
    "kickoff_utc": "2026-10-05T18:30+00:00",
@@ -5840,13 +5840,13 @@
     "score": "1-1"
    },
    "track": "s5",
-   "updated_at": "2026-10-04T09:51:17+00:00"
+   "updated_at": "2026-10-04T18:41:14+00:00"
   }
  },
  "meta": {
   "count": 46,
   "month": "2026-10",
   "note": "逐場凍結帳，只增不改；賽果欄由結算腳本補",
-  "updated_at": "2026-10-04T09:51:17+00:00"
+  "updated_at": "2026-10-04T18:41:14+00:00"
  }
 }
