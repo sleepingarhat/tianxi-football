@@ -10093,3 +10093,50 @@
 {"ts": "2026-10-04T18:41:14+00:00", "action": "refresh", "match_key": "SP2|04/10/2026|Las Palmas|Valladolid", "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-10-04T18:41:14+00:00", "action": "lock", "match_key": "SP2|04/10/2026|Girona|Mallorca", "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
 {"ts": "2026-10-04T18:41:14+00:00", "action": "refresh", "match_key": "SP2|05/10/2026|Cordoba|Tenerife", "fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|02/10/2026|Eldense|Oviedo", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Chesterfield|Tranmere", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|03/10/2026|Albacete|Eibar", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E2|03/10/2026|Burton|Huddersfield", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E2|03/10/2026|Leyton Orient|Plymouth", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E2|03/10/2026|Reading|Bradford", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Accrington|Cheltenham", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Crewe|Bristol Rvs", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Exeter|Rotherham", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Gillingham|Newport County", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Grimsby|Shrewsbury", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Rochdale|Swindon", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "E3|03/10/2026|Salford|Fleetwood Town", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Aldershot|Carlisle", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Barrow|Wealdstone", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Boreham Wood|Altrincham", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Eastleigh|Woking", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Gateshead|Worthing", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Harrogate|Hornchurch", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Hartlepool|Tamworth", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Kidderminster|Sutton", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Solihull|Halifax", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Southend|Fylde", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "EC|03/10/2026|Yeovil|Boston Utd", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC1|03/10/2026|Livingston|Ayr", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC1|03/10/2026|Morton|Raith Rvs", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC1|03/10/2026|Partick|Arbroath", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC2|03/10/2026|Airdrie Utd|Montrose", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC2|03/10/2026|East Fife|East Kilbride", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC2|03/10/2026|Queen of Sth|Cove Rangers", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC2|03/10/2026|Ross County|Alloa", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC3|03/10/2026|Annan Athletic|Stirling", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC3|03/10/2026|Dumbarton|Forfar", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC3|03/10/2026|Elgin|Clyde", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC3|03/10/2026|Spartans|Kelty Hearts", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC3|03/10/2026|Stranraer|Edinburgh City", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|03/10/2026|Almeria|Burgos", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SC2|03/10/2026|Hamilton|Peterhead", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|03/10/2026|Cadiz|Leganes", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|03/10/2026|Sabadell|Andorra", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|04/10/2026|Sociedad B|Granada", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|04/10/2026|Sp Gijon|Celta B", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|04/10/2026|Castellon|Ceuta", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|04/10/2026|Las Palmas|Valladolid", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refuse_locked", "match_key": "SP2|04/10/2026|Girona|Mallorca", "fields": ["p", "lambda", "over25", "btts", "cs", "scores", "top_score", "elo_diff", "fingerprint"], "kept_fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995", "rejected_fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "fingerprint_drift", "match_key": "SP2|04/10/2026|Girona|Mallorca", "kept_fingerprint": "4ceb54eaf1ed-96c4ac7dcb20-198341-s5:378c283b73a7-bb35e29b0c7b-175995", "rejected_fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995", "note": "已鎖場次拒絕升指紋（重訓只影響之後未鎖場次）"}
+{"ts": "2026-10-04T23:59:24+00:00", "action": "refresh", "match_key": "SP2|05/10/2026|Cordoba|Tenerife", "fingerprint": "4ceb54eaf1ed-68571d6d18af-198386-s5:378c283b73a7-bb35e29b0c7b-175995"}
