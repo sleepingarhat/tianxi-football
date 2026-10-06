@@ -1,0 +1,2 @@
+ALTER TABLE public.football_lineup_snapshots ADD COLUMN IF NOT EXISTS context jsonb;
+ALTER TABLE public.football_lineup_settle ADD COLUMN IF NOT EXISTS post_stats jsonb, ADD COLUMN IF NOT EXISTS incidents jsonb;
