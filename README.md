@@ -1,6 +1,10 @@
-# tianxi-football-database
+# tianxi-football
 
-天喜足球引擎 · 資料層（對應賽馬 `tianxi-database`）
+天喜足球・統一倉（資料層＋訓練回測層＋服務層設計）· 對應賽馬 `tianxi-database`
+
+> **2026-10-06 三倉合一**：原 `tianxi-football-database`／`tianxi-football-engine`／`tianxi-football-backend`
+> 三個倉合併為本倉；舊倉網址由 GitHub 自動轉址過嚟，舊兩倉已封存。
+> 分層職責說明：`docs/engine-scope.md`（訓練與回測層）、`docs/backend-scope.md`（服務層設計）。
 
 ## 目錄
 
@@ -10,6 +14,7 @@ scripts/         採集器與驗收／基準腳本
 snapshots/       凍結快照（基準線、驗收報告），只增不改
 mapping/         team_names / player_names 繁中（馬會官方譯名優先）對照表
 .github/workflows/  排程 Actions
+docs/           分層職責、schema 與來源調查
 ```
 
 ## 鐵律
@@ -62,7 +67,7 @@ Understat 明文禁止程式存取，未獲書面授權前零排程抓取。
 - `data/predictions/upcoming.json`：**只係未開窗口**，每日覆寫，唔係歷史 SSOT。
 - `data/predictions/log/YYYY-MM.json`：逐場凍結帳，一場一行（key = `div|DD/MM/YYYY|home|away`）。
   一經鎖定（`locked_at` 已寫）預測欄永不覆寫；上游有新數只會記入 `log/audit.jsonl` 並拒絕改帳。
-- 逐場鎖定＝**開賽前 60 分鐘**（`predict_fixtures.py` LOCK_MINUTES = 60）。黃燈可刷新、綠燈已鎖。
+- 逐場鎖定＝**開賽前 6 小時**（T−6h；2026-10-06 前舊場次為 60 分鐘，歷史帳不改）。黃燈可刷新、綠燈已鎖。
 - `scripts/settle_predictions.py`：賽果 CSV 入庫後按同一 key join，只寫 `result`
   （ft_h／ft_a／ftr／rps／argmax_hit／p_actual／波膽格排名），預測欄一分不改；對唔上名入 unmatched。
 - `data/predictions/hit_rate.json`：公開讀口。頁頂戰績只收五大聯賽、綠燈場；紅燈退回基準軌只作診斷。
@@ -70,7 +75,7 @@ Understat 明文禁止程式存取，未獲書面授權前零排程抓取。
 
 ### 鎖定政策（唯一口徑）
 
-- 逐場鎖定＝**開賽前 60 分鐘**：之前係黃燈（可刷新），之後係綠燈（已鎖）。
+- 逐場鎖定＝**開賽前 6 小時**：之前係黃燈（可刷新），之後係綠燈（已鎖）。
 - **已鎖場次永遠跟當時指紋**：重訓／升版只影響之後未鎖嘅場次。
 - 已鎖場次遇上新模型：`log_predictions.py` 拒絕改帳，寫 `log/audit.jsonl`
   （`refuse_locked` ＋ `fingerprint_drift`），並出 `snapshots/lock_YYYY-MM-DD.json`。
