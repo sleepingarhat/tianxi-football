@@ -2,42 +2,42 @@
  "fail": [],
  "files": {
   "2026_Bundesliga": {
-   "fetched_at": "2026-09-30T10:31:33+00:00",
+   "fetched_at": "2026-10-06T11:18:50+00:00",
    "first": "2026-08-28",
    "last": "2026-09-20",
    "rows": 36,
    "unmapped_rows": 0
   },
   "2026_EPL": {
-   "fetched_at": "2026-09-30T10:31:25+00:00",
+   "fetched_at": "2026-10-06T11:18:42+00:00",
    "first": "2026-08-21",
    "last": "2026-09-20",
    "rows": 50,
    "unmapped_rows": 0
   },
   "2026_La_liga": {
-   "fetched_at": "2026-09-30T10:31:29+00:00",
+   "fetched_at": "2026-10-06T11:18:47+00:00",
    "first": "2026-08-15",
    "last": "2026-09-20",
    "rows": 69,
    "unmapped_rows": 0
   },
   "2026_Ligue_1": {
-   "fetched_at": "2026-09-30T10:31:41+00:00",
+   "fetched_at": "2026-10-06T11:18:58+00:00",
    "first": "2026-08-21",
    "last": "2026-09-20",
    "rows": 45,
    "unmapped_rows": 0
   },
   "2026_Serie_A": {
-   "fetched_at": "2026-09-30T10:31:37+00:00",
+   "fetched_at": "2026-10-06T11:18:55+00:00",
    "first": "2026-08-22",
    "last": "2026-09-20",
    "rows": 50,
    "unmapped_rows": 0
   }
  },
- "last_run_at": "2026-09-30T10:31:44+00:00",
+ "last_run_at": "2026-10-06T11:19:01+00:00",
  "last_run_ok": true,
  "rows_this_run": 250,
  "unmapped": []
