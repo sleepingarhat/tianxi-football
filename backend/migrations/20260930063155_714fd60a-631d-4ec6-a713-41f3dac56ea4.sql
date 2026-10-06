@@ -1,0 +1,1 @@
+ALTER TABLE public.football_lineup_snapshots ADD COLUMN bsd_latency_ms int;
