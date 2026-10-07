@@ -30,7 +30,7 @@ OUT_DIR = os.path.join(ROOT, "data", "predictions")
 OUT = os.path.join(OUT_DIR, "upcoming.json")
 
 # --- S2 Elo 參數（同 scripts/elo_s2.py 一致，已凍結） ---
-MEAN, HFA, K0, REG = 1500.0, 60.0, 22.0, 0.70
+MEAN, HFA, K0, REG = 1500.0, 80.0, 24.0, 0.90  # elo-v2
 DRAW0, DRAW1 = 0.30, 0.18
 # --- S3 入球模型參數（同 scripts/dc_s3.py 一致，已凍結） ---
 LR, RHO, GAMMA, REGRESS, WARM, MAXG = 0.04, -0.05, 0.12, 0.80, 40, 10
