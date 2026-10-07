@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESULTS_DIR = os.path.join(ROOT, "data", "results")
 
 # 在線狀態參數（同 S4／S5 回測一致）
-ELO_HOME_ADV, K, REG = 60.0, 22.0, 0.70
+ELO_HOME_ADV, K, REG = 80.0, 24.0, 0.90  # elo-v2（2026-10-07 定版）
 GAMMA, RHO, LR, MU0, SREG = 0.12, -0.05, 0.010, 0.30, 0.80
 MAXG = 8
 WARM = 40
