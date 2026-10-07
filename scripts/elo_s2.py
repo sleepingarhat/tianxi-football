@@ -2,9 +2,9 @@ import csv, json, math
 from collections import defaultdict
 
 MEAN = 1500.0
-HFA = 60.0          # 主場優勢（Elo 分）
-K0 = 22.0           # 基礎 K
-REG = 0.70          # 跨季回歸保留比例
+HFA = 80.0          # 主場優勢（Elo 分）
+K0 = 24.0           # 基礎 K
+REG = 0.90          # 跨季回歸保留比例
 DRAW0, DRAW1 = 0.30, 0.18   # 和局機率模型參數
 
 rows = []
