@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T00:45:03+00:00",
+ "generated_at": "2026-10-07T10:18:55+00:00",
  "scope": {
   "big5": [
    "E0",
@@ -89,7 +89,7 @@
   "n": 515,
   "rps_avg": 0.2087,
   "argmax_hit_rate": 0.499,
-  "ece": 0.0185,
+  "ece": 0.0189,
   "cs_top1": 0.1282,
   "cs_top3": 0.3592,
   "cs_top8": 0.6757,
@@ -107,11 +107,11 @@
    "4ceb54eaf1ed-c45462b55608-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-dea3d203aecd-198288-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-e9c91f2d2a6d-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
-   "4ceb54eaf1ed-eceae03e5357-198387-s5:378c283b73a7-bb35e29b0c7b-175995",
    "4ceb54eaf1ed-f13dd97ada1f-198090-s5:378c283b73a7-bb35e29b0c7b-175995",
    "7e5d74215c9e-9509bddba37a-197871",
    "8bc6b8265acb-9ec0702bbfd7-198061-s5:378c283b73a7-bb35e29b0c7b-175995",
-   "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995"
+   "8bc6b8265acb-c6f746ae8b6f-197871-s5:378c283b73a7-bb35e29b0c7b-175995",
+   "bfa183fa1454-95d959553147-198387-s5:a9ff1755c372-821d78d72d8b-175995"
   ]
  },
  "settled_this_run": 0,
