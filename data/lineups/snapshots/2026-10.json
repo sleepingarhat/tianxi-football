@@ -1,7 +1,7 @@
 {
  "table": "football_lineup_snapshots",
  "month": "2026-10",
- "count": 63,
+ "count": 64,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -5715,6 +5715,442 @@
    }
   },
   {
+   "match_key": "EC|03/10/2026|Barrow|Wealdstone",
+   "bsd_event_id": 588233,
+   "captured_at": "2026-10-03T13:00:59.717213+00:00",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "div": "EC",
+   "home": "Barrow",
+   "away": "Wealdstone",
+   "lineup_status": "predicted",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 42803,
+       "name": "Dante Baptiste",
+       "ai_score": 0.251,
+       "position": "G",
+       "short_name": "D. Baptiste",
+       "jersey_number": 1
+      },
+      {
+       "id": 42657,
+       "name": "Joe Newton",
+       "ai_score": 0.234,
+       "position": "D",
+       "short_name": "J. Newton",
+       "jersey_number": 3
+      },
+      {
+       "id": 35835,
+       "name": "Dion Conroy",
+       "ai_score": 0.284,
+       "position": "D",
+       "short_name": "D. Conroy",
+       "jersey_number": 5
+      },
+      {
+       "id": 42807,
+       "name": "Connor McAvoy",
+       "ai_score": 0.277,
+       "position": "D",
+       "short_name": "C. McAvoy",
+       "jersey_number": 22
+      },
+      {
+       "id": 49495,
+       "name": "Mason Barrett",
+       "ai_score": 0.255,
+       "position": "D",
+       "short_name": "M. Barrett",
+       "jersey_number": 6
+      },
+      {
+       "id": 42810,
+       "name": "Dylan Kadji",
+       "ai_score": 0.26,
+       "position": "M",
+       "short_name": "D. Kadji",
+       "jersey_number": 8
+      },
+      {
+       "id": 46511,
+       "name": "Aaron Henry",
+       "ai_score": 0.306,
+       "position": "M",
+       "short_name": "A. Henry",
+       "jersey_number": 15
+      },
+      {
+       "id": 49490,
+       "name": "Jack Wells-Morrison",
+       "ai_score": 0.277,
+       "position": "M",
+       "short_name": "J. Wells-Morrison",
+       "jersey_number": 4
+      },
+      {
+       "id": 186383,
+       "name": "Wilson Waweru",
+       "ai_score": 0.215,
+       "position": "F",
+       "short_name": "W. Waweru",
+       "jersey_number": 19
+      },
+      {
+       "id": 42663,
+       "name": "Luke Norris",
+       "ai_score": 0.244,
+       "position": "F",
+       "short_name": "L. Norris",
+       "jersey_number": 7
+      },
+      {
+       "id": 37196,
+       "name": "Dan Chesters",
+       "ai_score": 0.254,
+       "position": "M",
+       "short_name": "D. Chesters",
+       "jersey_number": 11
+      }
+     ],
+     "team_id": 1878,
+     "formation": "3-4-2-1",
+     "team_name": "Wealdstone",
+     "confidence": 0.464,
+     "substitutes": [
+      {
+       "id": 87458,
+       "name": "Kyle Smith",
+       "ai_score": 0.244,
+       "position": "D",
+       "short_name": "K. Smith",
+       "jersey_number": 18
+      },
+      {
+       "id": 42812,
+       "name": "Olufela Olomola",
+       "ai_score": 0.214,
+       "position": "F",
+       "short_name": "O. Olomola",
+       "jersey_number": 9
+      },
+      {
+       "id": 114653,
+       "name": "Jaydn Mundle-Smith",
+       "ai_score": 0.167,
+       "position": "D",
+       "short_name": "J. Mundle-Smith",
+       "jersey_number": 23
+      },
+      {
+       "id": 42791,
+       "name": "Jayden Harris",
+       "ai_score": 0.15,
+       "position": "M",
+       "short_name": "J. Harris",
+       "jersey_number": 10
+      },
+      {
+       "id": 43061,
+       "name": "Aidan Francis Clarke",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "A. F. Clarke",
+       "jersey_number": 12
+      },
+      {
+       "id": 42818,
+       "name": "Endurance Johnson",
+       "ai_score": 0.035,
+       "position": "G",
+       "short_name": "E. Johnson",
+       "jersey_number": 13
+      },
+      {
+       "id": 42805,
+       "name": "Jack Cook",
+       "ai_score": 0.03,
+       "position": "D",
+       "short_name": "J. Cook",
+       "jersey_number": 2
+      },
+      {
+       "id": 42750,
+       "name": "Tyrelle Newton",
+       "ai_score": 0.025,
+       "position": "M",
+       "short_name": "T. Newton",
+       "jersey_number": 27
+      },
+      {
+       "id": 114538,
+       "name": "Amaru Kaunda",
+       "ai_score": 0.015,
+       "position": "F",
+       "short_name": "A. Kaunda",
+       "jersey_number": null
+      },
+      {
+       "id": 43721,
+       "name": "Abraham Kanu",
+       "ai_score": 0.01,
+       "position": "D",
+       "short_name": "A. Kanu",
+       "jersey_number": 32
+      },
+      {
+       "id": 215118,
+       "name": "Carmichael Uchenna",
+       "ai_score": 0.01,
+       "position": "M",
+       "short_name": "C. Uchenna",
+       "jersey_number": 16
+      },
+      {
+       "id": 119784,
+       "name": "Fejiri Okenabirhie",
+       "ai_score": 0.01,
+       "position": "F",
+       "short_name": "F. Okenabirhie",
+       "jersey_number": null
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 34199,
+       "name": "Benjamin Winterbottom",
+       "ai_score": 0.254,
+       "position": "G",
+       "short_name": "B. Winterbottom",
+       "jersey_number": 1
+      },
+      {
+       "id": 43565,
+       "name": "Thierry Latty-Fairweather",
+       "ai_score": 0.299,
+       "position": "D",
+       "short_name": "T. Latty-Fairweather",
+       "jersey_number": 36
+      },
+      {
+       "id": 62947,
+       "name": "Paul Kalambayi",
+       "ai_score": 0.304,
+       "position": "D",
+       "short_name": "P. Kalambayi",
+       "jersey_number": 25
+      },
+      {
+       "id": 62948,
+       "name": "Marcel Oakley",
+       "ai_score": 0.265,
+       "position": "D",
+       "short_name": "M. Oakley",
+       "jersey_number": 2
+      },
+      {
+       "id": 60935,
+       "name": "Xavier Benjamin",
+       "ai_score": 0.289,
+       "position": "D",
+       "short_name": "X. Benjamin",
+       "jersey_number": 33
+      },
+      {
+       "id": 34207,
+       "name": "Scott Smith",
+       "ai_score": 0.23,
+       "position": "M",
+       "short_name": "S. Smith",
+       "jersey_number": 8
+      },
+      {
+       "id": 35390,
+       "name": "MJ Williams",
+       "ai_score": 0.298,
+       "position": "D",
+       "short_name": "M. Williams",
+       "jersey_number": 4
+      },
+      {
+       "id": 42934,
+       "name": "Isaac Marriott",
+       "ai_score": 0.236,
+       "position": "M",
+       "short_name": "I. Marriott",
+       "jersey_number": 27
+      },
+      {
+       "id": 42929,
+       "name": "Oliver Crankshaw",
+       "ai_score": 0.232,
+       "position": "M",
+       "short_name": "O. Crankshaw",
+       "jersey_number": 7
+      },
+      {
+       "id": 34212,
+       "name": "Innes Cameron",
+       "ai_score": 0.253,
+       "position": "F",
+       "short_name": "I. Cameron",
+       "jersey_number": 18
+      },
+      {
+       "id": 60754,
+       "name": "George Walker",
+       "ai_score": 0.23,
+       "position": "M",
+       "short_name": "G. Walker",
+       "jersey_number": 11
+      }
+     ],
+     "team_id": 1428,
+     "formation": "4-3-3",
+     "team_name": "Barrow AFC",
+     "confidence": 0.464,
+     "substitutes": [
+      {
+       "id": 62946,
+       "name": "Daniel Amos",
+       "ai_score": 0.254,
+       "position": "D",
+       "short_name": "D. Amos",
+       "jersey_number": 22
+      },
+      {
+       "id": 34204,
+       "name": "Ben Jackson",
+       "ai_score": 0.19,
+       "position": "D",
+       "short_name": "B. Jackson",
+       "jersey_number": 30
+      },
+      {
+       "id": 45738,
+       "name": "Kennedy Digie",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "K. Digie",
+       "jersey_number": 6
+      },
+      {
+       "id": 35383,
+       "name": "Rekeem Harper",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "R. Harper",
+       "jersey_number": 26
+      },
+      {
+       "id": 60753,
+       "name": "Alex Reid",
+       "ai_score": 0.045,
+       "position": "F",
+       "short_name": "A. Reid",
+       "jersey_number": 9
+      },
+      {
+       "id": 46498,
+       "name": "Keaton Ward",
+       "ai_score": 0.045,
+       "position": "M",
+       "short_name": "K. Ward",
+       "jersey_number": 10
+      },
+      {
+       "id": 138950,
+       "name": "Dan Mooney",
+       "ai_score": 0.03,
+       "position": "M",
+       "short_name": "D. Mooney",
+       "jersey_number": 23
+      },
+      {
+       "id": 36080,
+       "name": "Mikey Lane",
+       "ai_score": 0.025,
+       "position": "F",
+       "short_name": "M. Lane",
+       "jersey_number": 32
+      },
+      {
+       "id": 148142,
+       "name": "Seb Thompson",
+       "ai_score": 0.025,
+       "position": "M",
+       "short_name": "S. Thompson",
+       "jersey_number": 14
+      },
+      {
+       "id": 213652,
+       "name": "Arian Allen",
+       "ai_score": 0.01,
+       "position": "M",
+       "short_name": "A. Allen",
+       "jersey_number": 19
+      },
+      {
+       "id": 46344,
+       "name": "Corey Edwards",
+       "ai_score": 0.01,
+       "position": "M",
+       "short_name": "C. Edwards",
+       "jersey_number": 24
+      },
+      {
+       "id": 33738,
+       "name": "Arian Allen",
+       "ai_score": 0.005,
+       "position": "F",
+       "short_name": "A. Allen",
+       "jersey_number": 18
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [],
+    "home": []
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 379,
+   "context": {
+    "h2h": null,
+    "odds": {
+     "draw": 3.69,
+     "btts_no": 2.17,
+     "away_win": 3.92,
+     "btts_yes": 1.61,
+     "home_win": 1.74,
+     "over_15_goals": 1.18,
+     "over_25_goals": 1.65,
+     "over_35_goals": 2.55,
+     "under_15_goals": 4.43,
+     "under_25_goals": 2.18,
+     "under_35_goals": 1.48
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 12",
+    "neutral": false,
+    "odds_at": "2026-10-03T12:50:07Z",
+    "referee": null,
+    "weather": {
+     "code": null,
+     "wind_speed": 9.7,
+     "description": null,
+     "temperature_c": 17
+    },
+    "travel_km": null,
+    "pitch_condition": null
+   }
+  },
+  {
    "match_key": "EC|03/10/2026|Boreham Wood|Altrincham",
    "bsd_event_id": 588234,
    "captured_at": "2026-10-03T13:00:59.717213+00:00",
@@ -6269,556 +6705,6 @@
      "temperature_c": 21
     },
     "travel_km": 237,
-    "pitch_condition": null
-   }
-  },
-  {
-   "match_key": "EC|03/10/2026|Eastleigh|Woking",
-   "bsd_event_id": 588235,
-   "captured_at": "2026-10-03T13:00:59.717213+00:00",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "div": "EC",
-   "home": "Eastleigh",
-   "away": "Woking",
-   "lineup_status": "predicted",
-   "lineups": {
-    "away": {
-     "players": [
-      {
-       "id": 66868,
-       "name": "Will Jääskeläinen",
-       "ai_score": 0.268,
-       "position": "G",
-       "short_name": "W. Jääskeläinen",
-       "jersey_number": 22
-      },
-      {
-       "id": 33981,
-       "name": "Shadrach Ogie",
-       "ai_score": 0.281,
-       "position": "D",
-       "short_name": "S. Ogie",
-       "jersey_number": null
-      },
-      {
-       "id": 66870,
-       "name": "Chinwike Okoli",
-       "ai_score": 0.292,
-       "position": "D",
-       "short_name": "C. Okoli",
-       "jersey_number": 4
-      },
-      {
-       "id": 66871,
-       "name": "Timi Odusina",
-       "ai_score": 0.284,
-       "position": "D",
-       "short_name": "T. Odusina",
-       "jersey_number": 5
-      },
-      {
-       "id": 33878,
-       "name": "Zico Asare",
-       "ai_score": 0.235,
-       "position": "D",
-       "short_name": "Z. Asare",
-       "jersey_number": 2
-      },
-      {
-       "id": 66875,
-       "name": "Roy Syla",
-       "ai_score": 0.277,
-       "position": "M",
-       "short_name": "R. Syla",
-       "jersey_number": 15
-      },
-      {
-       "id": 66888,
-       "name": "Tim Akinola",
-       "ai_score": 0.251,
-       "position": "M",
-       "short_name": "T. Akinola",
-       "jersey_number": 23
-      },
-      {
-       "id": 33794,
-       "name": "Josh Kelly",
-       "ai_score": 0.131,
-       "position": "F",
-       "short_name": "J. Kelly",
-       "jersey_number": 10
-      },
-      {
-       "id": 42821,
-       "name": "Steven Turner",
-       "ai_score": 0.27,
-       "position": "M",
-       "short_name": "S. Turner",
-       "jersey_number": 6
-      },
-      {
-       "id": 66880,
-       "name": "Matt Ward",
-       "ai_score": 0.219,
-       "position": "M",
-       "short_name": "M. Ward",
-       "jersey_number": 11
-      },
-      {
-       "id": 66890,
-       "name": "Aiden O'Brien",
-       "ai_score": 0.22,
-       "position": "F",
-       "short_name": "A. O'Brien",
-       "jersey_number": 10
-      }
-     ],
-     "team_id": 4058,
-     "formation": "4-2-3-1",
-     "team_name": "Woking",
-     "confidence": 0.5,
-     "substitutes": [
-      {
-       "id": 33813,
-       "name": "Taylan Harris",
-       "ai_score": 0.176,
-       "position": "M",
-       "short_name": "T. Harris",
-       "jersey_number": 25
-      },
-      {
-       "id": 34179,
-       "name": "Josh Ayres",
-       "ai_score": 0.13,
-       "position": "F",
-       "short_name": "J. Ayres",
-       "jersey_number": 41
-      },
-      {
-       "id": 66885,
-       "name": "Craig Ross",
-       "ai_score": 0.05,
-       "position": "G",
-       "short_name": "C. Ross",
-       "jersey_number": 13
-      },
-      {
-       "id": 33949,
-       "name": "Jaiden Putman",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "J. Putman",
-       "jersey_number": 43
-      },
-      {
-       "id": 35730,
-       "name": "Liam Dulson",
-       "ai_score": 0.05,
-       "position": "F",
-       "short_name": "L. Dulson",
-       "jersey_number": 14
-      },
-      {
-       "id": 66877,
-       "name": "Jake Forster-Caskey",
-       "ai_score": 0.045,
-       "position": "M",
-       "short_name": "J. Forster-Caskey",
-       "jersey_number": 25
-      },
-      {
-       "id": 115302,
-       "name": "Tunji Akinola",
-       "ai_score": 0.045,
-       "position": "D",
-       "short_name": "T. Akinola",
-       "jersey_number": 16
-      },
-      {
-       "id": 42814,
-       "name": "Anthony Georgiou",
-       "ai_score": 0.04,
-       "position": "M",
-       "short_name": "A. Georgiou",
-       "jersey_number": null
-      },
-      {
-       "id": 33700,
-       "name": "Harrison Sohna",
-       "ai_score": 0.04,
-       "position": "M",
-       "short_name": "H. Sohna",
-       "jersey_number": 25
-      },
-      {
-       "id": 34144,
-       "name": "John Marquis",
-       "ai_score": 0.03,
-       "position": "F",
-       "short_name": "J. Marquis",
-       "jersey_number": 32
-      },
-      {
-       "id": 66874,
-       "name": "Caleb Richards",
-       "ai_score": 0.025,
-       "position": "D",
-       "short_name": "C. Richards",
-       "jersey_number": 3
-      }
-     ]
-    },
-    "home": {
-     "players": [
-      {
-       "id": 73879,
-       "name": "Josh Jeffries",
-       "ai_score": 0.05,
-       "position": "G",
-       "short_name": "J. Jeffries",
-       "jersey_number": 15
-      },
-      {
-       "id": 6175,
-       "name": "Reece Johnson",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "R. Johnson",
-       "jersey_number": 27
-      },
-      {
-       "id": 43339,
-       "name": "Temi Eweka",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "T. Eweka",
-       "jersey_number": 6
-      },
-      {
-       "id": 35360,
-       "name": "Oliver Hawkins",
-       "ai_score": 0.035,
-       "position": "F",
-       "short_name": "O. Hawkins",
-       "jersey_number": 12
-      },
-      {
-       "id": 37301,
-       "name": "Tommy Dobson-Ventura",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "T. Dobson-Ventura",
-       "jersey_number": 18
-      },
-      {
-       "id": 46472,
-       "name": "Dion Rankine",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "D. Rankine",
-       "jersey_number": 17
-      },
-      {
-       "id": 33999,
-       "name": "Harry Sidwell",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "H. Sidwell",
-       "jersey_number": 4
-      },
-      {
-       "id": 43323,
-       "name": "Aaron Blair",
-       "ai_score": 0.05,
-       "position": "F",
-       "short_name": "A. Blair",
-       "jersey_number": 11
-      },
-      {
-       "id": 43329,
-       "name": "Josh Lundstram",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "J. Lundstram",
-       "jersey_number": 8
-      },
-      {
-       "id": 46406,
-       "name": "Manny Duku",
-       "ai_score": 0.035,
-       "position": "F",
-       "short_name": "I. Duku",
-       "jersey_number": 9
-      },
-      {
-       "id": 43333,
-       "name": "Barney Stone",
-       "ai_score": 0.03,
-       "position": "F",
-       "short_name": "B. Stone",
-       "jersey_number": 22
-      }
-     ],
-     "team_id": 1872,
-     "formation": "4-2-3-1",
-     "team_name": "Eastleigh",
-     "confidence": 0.455,
-     "substitutes": [
-      {
-       "id": 33616,
-       "name": "Max Dickov",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "M. Dickov",
-       "jersey_number": 7
-      },
-      {
-       "id": 49491,
-       "name": "Will Randall",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "W. Randall",
-       "jersey_number": 10
-      },
-      {
-       "id": 33706,
-       "name": "Ibrahim Bakare",
-       "ai_score": 0.045,
-       "position": "D",
-       "short_name": "I. Bakare",
-       "jersey_number": 5
-      },
-      {
-       "id": 43326,
-       "name": "Jordan Cousins",
-       "ai_score": 0.045,
-       "position": "M",
-       "short_name": "J. Cousins",
-       "jersey_number": 24
-      },
-      {
-       "id": 43345,
-       "name": "Nick Townsend",
-       "ai_score": 0.035,
-       "position": "G",
-       "short_name": "N. Townsend",
-       "jersey_number": 1
-      },
-      {
-       "id": 43337,
-       "name": "Aaron Pierre",
-       "ai_score": 0.025,
-       "position": "D",
-       "short_name": "A. Pierre",
-       "jersey_number": 16
-      },
-      {
-       "id": 42902,
-       "name": "Hady Ghandour",
-       "ai_score": 0.025,
-       "position": "F",
-       "short_name": "H. Ghandour",
-       "jersey_number": 23
-      },
-      {
-       "id": 33984,
-       "name": "Nelson Khumbeni",
-       "ai_score": 0.025,
-       "position": "M",
-       "short_name": "N. Khumbeni",
-       "jersey_number": 27
-      },
-      {
-       "id": 33747,
-       "name": "Nicholas Akoto",
-       "ai_score": 0.025,
-       "position": "D",
-       "short_name": "N. Akoto",
-       "jersey_number": 14
-      },
-      {
-       "id": 43332,
-       "name": "Connor Underhill",
-       "ai_score": 0.015,
-       "position": "M",
-       "short_name": "C. Underhill",
-       "jersey_number": 30
-      },
-      {
-       "id": 76164,
-       "name": "Nick Akoto",
-       "ai_score": 0.015,
-       "position": "D",
-       "short_name": "N. Akoto",
-       "jersey_number": null
-      },
-      {
-       "id": 36804,
-       "name": "Jake Caprice",
-       "ai_score": 0.01,
-       "position": "D",
-       "short_name": "J. Caprice",
-       "jersey_number": 2
-      }
-     ]
-    }
-   },
-   "unavailable": {
-    "away": [],
-    "home": []
-   },
-   "bsd_prediction": null,
-   "error": null,
-   "bsd_latency_ms": 408,
-   "context": {
-    "h2h": {
-     "draws": 11,
-     "away_wins": 6,
-     "home_wins": 6,
-     "away_goals": 31,
-     "home_goals": 32,
-     "away_win_rate": 0.2608695652173913,
-     "home_win_rate": 0.2608695652173913,
-     "total_matches": 23,
-     "recent_matches": [
-      {
-       "away": "Eastleigh",
-       "date": "2026-04-03T14:00:00+00:00",
-       "home": "Woking",
-       "score": "3-3",
-       "event_id": 589204,
-       "away_score": 3,
-       "home_score": 3,
-       "away_team_id": 1872,
-       "home_team_id": 4058
-      },
-      {
-       "away": "Woking",
-       "date": "2025-12-26T15:00:00+00:00",
-       "home": "Eastleigh",
-       "score": "1-1",
-       "event_id": 588949,
-       "away_score": 1,
-       "home_score": 1,
-       "away_team_id": 4058,
-       "home_team_id": 1872
-      },
-      {
-       "away": "Eastleigh",
-       "date": "2025-04-26T11:30:00+00:00",
-       "home": "Woking",
-       "score": "2-2",
-       "event_id": 589824,
-       "away_score": 2,
-       "home_score": 2,
-       "away_team_id": 1872,
-       "home_team_id": 4058
-      },
-      {
-       "away": "Woking",
-       "date": "2024-09-24T18:45:00+00:00",
-       "home": "Eastleigh",
-       "score": "2-2",
-       "event_id": 589384,
-       "away_score": 2,
-       "home_score": 2,
-       "away_team_id": 4058,
-       "home_team_id": 1872
-      },
-      {
-       "away": "Eastleigh",
-       "date": "2024-03-29T15:00:00+00:00",
-       "home": "Woking",
-       "score": "0-1",
-       "event_id": 590418,
-       "away_score": 1,
-       "home_score": 0,
-       "away_team_id": 1872,
-       "home_team_id": 4058
-      },
-      {
-       "away": "Woking",
-       "date": "2023-10-24T18:45:00+00:00",
-       "home": "Eastleigh",
-       "score": "0-1",
-       "event_id": 590057,
-       "away_score": 1,
-       "home_score": 0,
-       "away_team_id": 4058,
-       "home_team_id": 1872
-      },
-      {
-       "away": "Woking",
-       "date": "2023-02-04T15:00:00+00:00",
-       "home": "Eastleigh",
-       "score": "1-0",
-       "event_id": 590910,
-       "away_score": 0,
-       "home_score": 1,
-       "away_team_id": 4058,
-       "home_team_id": 1872
-      },
-      {
-       "away": "Eastleigh",
-       "date": "2022-10-29T14:00:00+00:00",
-       "home": "Woking",
-       "score": "1-0",
-       "event_id": 590693,
-       "away_score": 0,
-       "home_score": 1,
-       "away_team_id": 1872,
-       "home_team_id": 4058
-      },
-      {
-       "away": "Eastleigh",
-       "date": "2022-05-07T14:00:00+00:00",
-       "home": "Woking",
-       "score": "1-2",
-       "event_id": 591681,
-       "away_score": 2,
-       "home_score": 1,
-       "away_team_id": 1872,
-       "home_team_id": 4058
-      },
-      {
-       "away": "Woking",
-       "date": "2021-09-25T14:00:00+00:00",
-       "home": "Eastleigh",
-       "score": "3-2",
-       "event_id": 591219,
-       "away_score": 2,
-       "home_score": 3,
-       "away_team_id": 4058,
-       "home_team_id": 1872
-      }
-     ],
-     "avg_total_goals": 2.739130434782609
-    },
-    "odds": {
-     "draw": 3.46,
-     "btts_no": 2.28,
-     "away_win": 2.22,
-     "btts_yes": 1.56,
-     "home_win": 2.78,
-     "over_15_goals": 1.2,
-     "over_25_goals": 1.67,
-     "over_35_goals": 2.65,
-     "under_15_goals": 4.26,
-     "under_25_goals": 2.14,
-     "under_35_goals": 1.44
-    },
-    "derby": false,
-    "round": "Regular season · Matchday 12",
-    "neutral": false,
-    "odds_at": "2026-10-03T12:50:07Z",
-    "referee": null,
-    "weather": {
-     "code": null,
-     "wind_speed": 22,
-     "description": null,
-     "temperature_c": 21
-    },
-    "travel_km": 69,
     "pitch_condition": null
    }
   },
@@ -10348,400 +10234,392 @@
    "context": null
   },
   {
-   "match_key": "EC|03/10/2026|Barrow|Wealdstone",
-   "bsd_event_id": 588233,
+   "match_key": "EC|03/10/2026|Eastleigh|Woking",
+   "bsd_event_id": 588235,
    "captured_at": "2026-10-03T13:00:59.717213+00:00",
    "kickoff_utc": "2026-10-03T14:00:00+00:00",
    "div": "EC",
-   "home": "Barrow",
-   "away": "Wealdstone",
+   "home": "Eastleigh",
+   "away": "Woking",
    "lineup_status": "predicted",
    "lineups": {
     "away": {
      "players": [
       {
-       "id": 42803,
-       "name": "Dante Baptiste",
-       "ai_score": 0.251,
+       "id": 66868,
+       "name": "Will Jääskeläinen",
+       "ai_score": 0.268,
        "position": "G",
-       "short_name": "D. Baptiste",
-       "jersey_number": 1
-      },
-      {
-       "id": 42657,
-       "name": "Joe Newton",
-       "ai_score": 0.234,
-       "position": "D",
-       "short_name": "J. Newton",
-       "jersey_number": 3
-      },
-      {
-       "id": 35835,
-       "name": "Dion Conroy",
-       "ai_score": 0.284,
-       "position": "D",
-       "short_name": "D. Conroy",
-       "jersey_number": 5
-      },
-      {
-       "id": 42807,
-       "name": "Connor McAvoy",
-       "ai_score": 0.277,
-       "position": "D",
-       "short_name": "C. McAvoy",
+       "short_name": "W. Jääskeläinen",
        "jersey_number": 22
       },
       {
-       "id": 49495,
-       "name": "Mason Barrett",
-       "ai_score": 0.255,
+       "id": 33981,
+       "name": "Shadrach Ogie",
+       "ai_score": 0.281,
        "position": "D",
-       "short_name": "M. Barrett",
-       "jersey_number": 6
+       "short_name": "S. Ogie",
+       "jersey_number": null
       },
       {
-       "id": 42810,
-       "name": "Dylan Kadji",
-       "ai_score": 0.26,
-       "position": "M",
-       "short_name": "D. Kadji",
-       "jersey_number": 8
-      },
-      {
-       "id": 46511,
-       "name": "Aaron Henry",
-       "ai_score": 0.306,
-       "position": "M",
-       "short_name": "A. Henry",
-       "jersey_number": 15
-      },
-      {
-       "id": 49490,
-       "name": "Jack Wells-Morrison",
-       "ai_score": 0.277,
-       "position": "M",
-       "short_name": "J. Wells-Morrison",
+       "id": 66870,
+       "name": "Chinwike Okoli",
+       "ai_score": 0.292,
+       "position": "D",
+       "short_name": "C. Okoli",
        "jersey_number": 4
       },
       {
-       "id": 186383,
-       "name": "Wilson Waweru",
-       "ai_score": 0.215,
-       "position": "F",
-       "short_name": "W. Waweru",
-       "jersey_number": 19
-      },
-      {
-       "id": 42663,
-       "name": "Luke Norris",
-       "ai_score": 0.244,
-       "position": "F",
-       "short_name": "L. Norris",
-       "jersey_number": 7
-      },
-      {
-       "id": 37196,
-       "name": "Dan Chesters",
-       "ai_score": 0.254,
-       "position": "M",
-       "short_name": "D. Chesters",
-       "jersey_number": 11
-      }
-     ],
-     "team_id": 1878,
-     "formation": "3-4-2-1",
-     "team_name": "Wealdstone",
-     "confidence": 0.464,
-     "substitutes": [
-      {
-       "id": 87458,
-       "name": "Kyle Smith",
-       "ai_score": 0.244,
+       "id": 66871,
+       "name": "Timi Odusina",
+       "ai_score": 0.284,
        "position": "D",
-       "short_name": "K. Smith",
-       "jersey_number": 18
+       "short_name": "T. Odusina",
+       "jersey_number": 5
       },
       {
-       "id": 42812,
-       "name": "Olufela Olomola",
-       "ai_score": 0.214,
-       "position": "F",
-       "short_name": "O. Olomola",
-       "jersey_number": 9
-      },
-      {
-       "id": 114653,
-       "name": "Jaydn Mundle-Smith",
-       "ai_score": 0.167,
+       "id": 33878,
+       "name": "Zico Asare",
+       "ai_score": 0.235,
        "position": "D",
-       "short_name": "J. Mundle-Smith",
-       "jersey_number": 23
-      },
-      {
-       "id": 42791,
-       "name": "Jayden Harris",
-       "ai_score": 0.15,
-       "position": "M",
-       "short_name": "J. Harris",
-       "jersey_number": 10
-      },
-      {
-       "id": 43061,
-       "name": "Aidan Francis Clarke",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "A. F. Clarke",
-       "jersey_number": 12
-      },
-      {
-       "id": 42818,
-       "name": "Endurance Johnson",
-       "ai_score": 0.035,
-       "position": "G",
-       "short_name": "E. Johnson",
-       "jersey_number": 13
-      },
-      {
-       "id": 42805,
-       "name": "Jack Cook",
-       "ai_score": 0.03,
-       "position": "D",
-       "short_name": "J. Cook",
+       "short_name": "Z. Asare",
        "jersey_number": 2
       },
       {
-       "id": 42750,
-       "name": "Tyrelle Newton",
-       "ai_score": 0.025,
+       "id": 66875,
+       "name": "Roy Syla",
+       "ai_score": 0.277,
        "position": "M",
-       "short_name": "T. Newton",
-       "jersey_number": 27
+       "short_name": "R. Syla",
+       "jersey_number": 15
       },
       {
-       "id": 114538,
-       "name": "Amaru Kaunda",
-       "ai_score": 0.015,
+       "id": 66888,
+       "name": "Tim Akinola",
+       "ai_score": 0.251,
+       "position": "M",
+       "short_name": "T. Akinola",
+       "jersey_number": 23
+      },
+      {
+       "id": 33794,
+       "name": "Josh Kelly",
+       "ai_score": 0.131,
        "position": "F",
-       "short_name": "A. Kaunda",
-       "jersey_number": null
+       "short_name": "J. Kelly",
+       "jersey_number": 10
       },
       {
-       "id": 43721,
-       "name": "Abraham Kanu",
-       "ai_score": 0.01,
-       "position": "D",
-       "short_name": "A. Kanu",
-       "jersey_number": 32
-      },
-      {
-       "id": 215118,
-       "name": "Carmichael Uchenna",
-       "ai_score": 0.01,
+       "id": 42821,
+       "name": "Steven Turner",
+       "ai_score": 0.27,
        "position": "M",
-       "short_name": "C. Uchenna",
+       "short_name": "S. Turner",
+       "jersey_number": 6
+      },
+      {
+       "id": 66880,
+       "name": "Matt Ward",
+       "ai_score": 0.219,
+       "position": "M",
+       "short_name": "M. Ward",
+       "jersey_number": 11
+      },
+      {
+       "id": 66890,
+       "name": "Aiden O'Brien",
+       "ai_score": 0.22,
+       "position": "F",
+       "short_name": "A. O'Brien",
+       "jersey_number": 10
+      }
+     ],
+     "team_id": 4058,
+     "formation": "4-2-3-1",
+     "team_name": "Woking",
+     "confidence": 0.5,
+     "substitutes": [
+      {
+       "id": 33813,
+       "name": "Taylan Harris",
+       "ai_score": 0.176,
+       "position": "M",
+       "short_name": "T. Harris",
+       "jersey_number": 25
+      },
+      {
+       "id": 34179,
+       "name": "Josh Ayres",
+       "ai_score": 0.13,
+       "position": "F",
+       "short_name": "J. Ayres",
+       "jersey_number": 41
+      },
+      {
+       "id": 66885,
+       "name": "Craig Ross",
+       "ai_score": 0.05,
+       "position": "G",
+       "short_name": "C. Ross",
+       "jersey_number": 13
+      },
+      {
+       "id": 33949,
+       "name": "Jaiden Putman",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "J. Putman",
+       "jersey_number": 43
+      },
+      {
+       "id": 35730,
+       "name": "Liam Dulson",
+       "ai_score": 0.05,
+       "position": "F",
+       "short_name": "L. Dulson",
+       "jersey_number": 14
+      },
+      {
+       "id": 66877,
+       "name": "Jake Forster-Caskey",
+       "ai_score": 0.045,
+       "position": "M",
+       "short_name": "J. Forster-Caskey",
+       "jersey_number": 25
+      },
+      {
+       "id": 115302,
+       "name": "Tunji Akinola",
+       "ai_score": 0.045,
+       "position": "D",
+       "short_name": "T. Akinola",
        "jersey_number": 16
       },
       {
-       "id": 119784,
-       "name": "Fejiri Okenabirhie",
-       "ai_score": 0.01,
-       "position": "F",
-       "short_name": "F. Okenabirhie",
+       "id": 42814,
+       "name": "Anthony Georgiou",
+       "ai_score": 0.04,
+       "position": "M",
+       "short_name": "A. Georgiou",
        "jersey_number": null
+      },
+      {
+       "id": 33700,
+       "name": "Harrison Sohna",
+       "ai_score": 0.04,
+       "position": "M",
+       "short_name": "H. Sohna",
+       "jersey_number": 25
+      },
+      {
+       "id": 34144,
+       "name": "John Marquis",
+       "ai_score": 0.03,
+       "position": "F",
+       "short_name": "J. Marquis",
+       "jersey_number": 32
+      },
+      {
+       "id": 66874,
+       "name": "Caleb Richards",
+       "ai_score": 0.025,
+       "position": "D",
+       "short_name": "C. Richards",
+       "jersey_number": 3
       }
      ]
     },
     "home": {
      "players": [
       {
-       "id": 34199,
-       "name": "Benjamin Winterbottom",
-       "ai_score": 0.254,
+       "id": 73879,
+       "name": "Josh Jeffries",
+       "ai_score": 0.05,
        "position": "G",
-       "short_name": "B. Winterbottom",
-       "jersey_number": 1
+       "short_name": "J. Jeffries",
+       "jersey_number": 15
       },
       {
-       "id": 43565,
-       "name": "Thierry Latty-Fairweather",
-       "ai_score": 0.299,
+       "id": 6175,
+       "name": "Reece Johnson",
+       "ai_score": 0.05,
        "position": "D",
-       "short_name": "T. Latty-Fairweather",
-       "jersey_number": 36
-      },
-      {
-       "id": 62947,
-       "name": "Paul Kalambayi",
-       "ai_score": 0.304,
-       "position": "D",
-       "short_name": "P. Kalambayi",
-       "jersey_number": 25
-      },
-      {
-       "id": 62948,
-       "name": "Marcel Oakley",
-       "ai_score": 0.265,
-       "position": "D",
-       "short_name": "M. Oakley",
-       "jersey_number": 2
-      },
-      {
-       "id": 60935,
-       "name": "Xavier Benjamin",
-       "ai_score": 0.289,
-       "position": "D",
-       "short_name": "X. Benjamin",
-       "jersey_number": 33
-      },
-      {
-       "id": 34207,
-       "name": "Scott Smith",
-       "ai_score": 0.23,
-       "position": "M",
-       "short_name": "S. Smith",
-       "jersey_number": 8
-      },
-      {
-       "id": 35390,
-       "name": "MJ Williams",
-       "ai_score": 0.298,
-       "position": "D",
-       "short_name": "M. Williams",
-       "jersey_number": 4
-      },
-      {
-       "id": 42934,
-       "name": "Isaac Marriott",
-       "ai_score": 0.236,
-       "position": "M",
-       "short_name": "I. Marriott",
+       "short_name": "R. Johnson",
        "jersey_number": 27
       },
       {
-       "id": 42929,
-       "name": "Oliver Crankshaw",
-       "ai_score": 0.232,
-       "position": "M",
-       "short_name": "O. Crankshaw",
-       "jersey_number": 7
-      },
-      {
-       "id": 34212,
-       "name": "Innes Cameron",
-       "ai_score": 0.253,
-       "position": "F",
-       "short_name": "I. Cameron",
-       "jersey_number": 18
-      },
-      {
-       "id": 60754,
-       "name": "George Walker",
-       "ai_score": 0.23,
-       "position": "M",
-       "short_name": "G. Walker",
-       "jersey_number": 11
-      }
-     ],
-     "team_id": 1428,
-     "formation": "4-3-3",
-     "team_name": "Barrow AFC",
-     "confidence": 0.464,
-     "substitutes": [
-      {
-       "id": 62946,
-       "name": "Daniel Amos",
-       "ai_score": 0.254,
-       "position": "D",
-       "short_name": "D. Amos",
-       "jersey_number": 22
-      },
-      {
-       "id": 34204,
-       "name": "Ben Jackson",
-       "ai_score": 0.19,
-       "position": "D",
-       "short_name": "B. Jackson",
-       "jersey_number": 30
-      },
-      {
-       "id": 45738,
-       "name": "Kennedy Digie",
+       "id": 43339,
+       "name": "Temi Eweka",
        "ai_score": 0.05,
        "position": "D",
-       "short_name": "K. Digie",
+       "short_name": "T. Eweka",
        "jersey_number": 6
       },
       {
-       "id": 35383,
-       "name": "Rekeem Harper",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "R. Harper",
-       "jersey_number": 26
+       "id": 35360,
+       "name": "Oliver Hawkins",
+       "ai_score": 0.035,
+       "position": "F",
+       "short_name": "O. Hawkins",
+       "jersey_number": 12
       },
       {
-       "id": 60753,
-       "name": "Alex Reid",
-       "ai_score": 0.045,
+       "id": 37301,
+       "name": "Tommy Dobson-Ventura",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "T. Dobson-Ventura",
+       "jersey_number": 18
+      },
+      {
+       "id": 46472,
+       "name": "Dion Rankine",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "D. Rankine",
+       "jersey_number": 17
+      },
+      {
+       "id": 33999,
+       "name": "Harry Sidwell",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "H. Sidwell",
+       "jersey_number": 4
+      },
+      {
+       "id": 43323,
+       "name": "Aaron Blair",
+       "ai_score": 0.05,
        "position": "F",
-       "short_name": "A. Reid",
+       "short_name": "A. Blair",
+       "jersey_number": 11
+      },
+      {
+       "id": 43329,
+       "name": "Josh Lundstram",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "J. Lundstram",
+       "jersey_number": 8
+      },
+      {
+       "id": 46406,
+       "name": "Manny Duku",
+       "ai_score": 0.035,
+       "position": "F",
+       "short_name": "I. Duku",
        "jersey_number": 9
       },
       {
-       "id": 46498,
-       "name": "Keaton Ward",
-       "ai_score": 0.045,
+       "id": 43333,
+       "name": "Barney Stone",
+       "ai_score": 0.03,
+       "position": "F",
+       "short_name": "B. Stone",
+       "jersey_number": 22
+      }
+     ],
+     "team_id": 1872,
+     "formation": "4-2-3-1",
+     "team_name": "Eastleigh",
+     "confidence": 0.455,
+     "substitutes": [
+      {
+       "id": 33616,
+       "name": "Max Dickov",
+       "ai_score": 0.05,
        "position": "M",
-       "short_name": "K. Ward",
+       "short_name": "M. Dickov",
+       "jersey_number": 7
+      },
+      {
+       "id": 49491,
+       "name": "Will Randall",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "W. Randall",
        "jersey_number": 10
       },
       {
-       "id": 138950,
-       "name": "Dan Mooney",
-       "ai_score": 0.03,
-       "position": "M",
-       "short_name": "D. Mooney",
-       "jersey_number": 23
+       "id": 33706,
+       "name": "Ibrahim Bakare",
+       "ai_score": 0.045,
+       "position": "D",
+       "short_name": "I. Bakare",
+       "jersey_number": 5
       },
       {
-       "id": 36080,
-       "name": "Mikey Lane",
-       "ai_score": 0.025,
-       "position": "F",
-       "short_name": "M. Lane",
-       "jersey_number": 32
-      },
-      {
-       "id": 148142,
-       "name": "Seb Thompson",
-       "ai_score": 0.025,
+       "id": 43326,
+       "name": "Jordan Cousins",
+       "ai_score": 0.045,
        "position": "M",
-       "short_name": "S. Thompson",
-       "jersey_number": 14
-      },
-      {
-       "id": 213652,
-       "name": "Arian Allen",
-       "ai_score": 0.01,
-       "position": "M",
-       "short_name": "A. Allen",
-       "jersey_number": 19
-      },
-      {
-       "id": 46344,
-       "name": "Corey Edwards",
-       "ai_score": 0.01,
-       "position": "M",
-       "short_name": "C. Edwards",
+       "short_name": "J. Cousins",
        "jersey_number": 24
       },
       {
-       "id": 33738,
-       "name": "Arian Allen",
-       "ai_score": 0.005,
+       "id": 43345,
+       "name": "Nick Townsend",
+       "ai_score": 0.035,
+       "position": "G",
+       "short_name": "N. Townsend",
+       "jersey_number": 1
+      },
+      {
+       "id": 43337,
+       "name": "Aaron Pierre",
+       "ai_score": 0.025,
+       "position": "D",
+       "short_name": "A. Pierre",
+       "jersey_number": 16
+      },
+      {
+       "id": 42902,
+       "name": "Hady Ghandour",
+       "ai_score": 0.025,
        "position": "F",
-       "short_name": "A. Allen",
-       "jersey_number": 18
+       "short_name": "H. Ghandour",
+       "jersey_number": 23
+      },
+      {
+       "id": 33984,
+       "name": "Nelson Khumbeni",
+       "ai_score": 0.025,
+       "position": "M",
+       "short_name": "N. Khumbeni",
+       "jersey_number": 27
+      },
+      {
+       "id": 33747,
+       "name": "Nicholas Akoto",
+       "ai_score": 0.025,
+       "position": "D",
+       "short_name": "N. Akoto",
+       "jersey_number": 14
+      },
+      {
+       "id": 43332,
+       "name": "Connor Underhill",
+       "ai_score": 0.015,
+       "position": "M",
+       "short_name": "C. Underhill",
+       "jersey_number": 30
+      },
+      {
+       "id": 76164,
+       "name": "Nick Akoto",
+       "ai_score": 0.015,
+       "position": "D",
+       "short_name": "N. Akoto",
+       "jersey_number": null
+      },
+      {
+       "id": 36804,
+       "name": "Jake Caprice",
+       "ai_score": 0.01,
+       "position": "D",
+       "short_name": "J. Caprice",
+       "jersey_number": 2
       }
      ]
     }
@@ -10752,21 +10630,143 @@
    },
    "bsd_prediction": null,
    "error": null,
-   "bsd_latency_ms": 379,
+   "bsd_latency_ms": 408,
    "context": {
-    "h2h": null,
+    "h2h": {
+     "draws": 11,
+     "away_wins": 6,
+     "home_wins": 6,
+     "away_goals": 31,
+     "home_goals": 32,
+     "away_win_rate": 0.2608695652173913,
+     "home_win_rate": 0.2608695652173913,
+     "total_matches": 23,
+     "recent_matches": [
+      {
+       "away": "Eastleigh",
+       "date": "2026-04-03T14:00:00+00:00",
+       "home": "Woking",
+       "score": "3-3",
+       "event_id": 589204,
+       "away_score": 3,
+       "home_score": 3,
+       "away_team_id": 1872,
+       "home_team_id": 4058
+      },
+      {
+       "away": "Woking",
+       "date": "2025-12-26T15:00:00+00:00",
+       "home": "Eastleigh",
+       "score": "1-1",
+       "event_id": 588949,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 4058,
+       "home_team_id": 1872
+      },
+      {
+       "away": "Eastleigh",
+       "date": "2025-04-26T11:30:00+00:00",
+       "home": "Woking",
+       "score": "2-2",
+       "event_id": 589824,
+       "away_score": 2,
+       "home_score": 2,
+       "away_team_id": 1872,
+       "home_team_id": 4058
+      },
+      {
+       "away": "Woking",
+       "date": "2024-09-24T18:45:00+00:00",
+       "home": "Eastleigh",
+       "score": "2-2",
+       "event_id": 589384,
+       "away_score": 2,
+       "home_score": 2,
+       "away_team_id": 4058,
+       "home_team_id": 1872
+      },
+      {
+       "away": "Eastleigh",
+       "date": "2024-03-29T15:00:00+00:00",
+       "home": "Woking",
+       "score": "0-1",
+       "event_id": 590418,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 1872,
+       "home_team_id": 4058
+      },
+      {
+       "away": "Woking",
+       "date": "2023-10-24T18:45:00+00:00",
+       "home": "Eastleigh",
+       "score": "0-1",
+       "event_id": 590057,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 4058,
+       "home_team_id": 1872
+      },
+      {
+       "away": "Woking",
+       "date": "2023-02-04T15:00:00+00:00",
+       "home": "Eastleigh",
+       "score": "1-0",
+       "event_id": 590910,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 4058,
+       "home_team_id": 1872
+      },
+      {
+       "away": "Eastleigh",
+       "date": "2022-10-29T14:00:00+00:00",
+       "home": "Woking",
+       "score": "1-0",
+       "event_id": 590693,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 1872,
+       "home_team_id": 4058
+      },
+      {
+       "away": "Eastleigh",
+       "date": "2022-05-07T14:00:00+00:00",
+       "home": "Woking",
+       "score": "1-2",
+       "event_id": 591681,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 1872,
+       "home_team_id": 4058
+      },
+      {
+       "away": "Woking",
+       "date": "2021-09-25T14:00:00+00:00",
+       "home": "Eastleigh",
+       "score": "3-2",
+       "event_id": 591219,
+       "away_score": 2,
+       "home_score": 3,
+       "away_team_id": 4058,
+       "home_team_id": 1872
+      }
+     ],
+     "avg_total_goals": 2.739130434782609
+    },
     "odds": {
-     "draw": 3.69,
-     "btts_no": 2.17,
-     "away_win": 3.92,
-     "btts_yes": 1.61,
-     "home_win": 1.74,
-     "over_15_goals": 1.18,
-     "over_25_goals": 1.65,
-     "over_35_goals": 2.55,
-     "under_15_goals": 4.43,
-     "under_25_goals": 2.18,
-     "under_35_goals": 1.48
+     "draw": 3.46,
+     "btts_no": 2.28,
+     "away_win": 2.22,
+     "btts_yes": 1.56,
+     "home_win": 2.78,
+     "over_15_goals": 1.2,
+     "over_25_goals": 1.67,
+     "over_35_goals": 2.65,
+     "under_15_goals": 4.26,
+     "under_25_goals": 2.14,
+     "under_35_goals": 1.44
     },
     "derby": false,
     "round": "Regular season · Matchday 12",
@@ -10775,11 +10775,11 @@
     "referee": null,
     "weather": {
      "code": null,
-     "wind_speed": 9.7,
+     "wind_speed": 22,
      "description": null,
-     "temperature_c": 17
+     "temperature_c": 21
     },
-    "travel_km": null,
+    "travel_km": 69,
     "pitch_condition": null
    }
   },
@@ -13665,6 +13665,364 @@
    "context": null
   },
   {
+   "match_key": "SP2|04/10/2026|Castellon|Ceuta",
+   "bsd_event_id": 214845,
+   "captured_at": "2026-10-04T15:30:24.271967+00:00",
+   "kickoff_utc": "2026-10-04T16:30:00+00:00",
+   "div": "SP2",
+   "home": "Castellon",
+   "away": "Ceuta",
+   "lineup_status": "confirmed",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 31873,
+       "name": "Guillermo Vallejo",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "G. Vallejo",
+       "jersey_number": 13
+      },
+      {
+       "id": 28145,
+       "name": "Toni Abad",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "T. Abad",
+       "jersey_number": 2
+      },
+      {
+       "id": 35188,
+       "name": "Carlos Hernández",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Carlos",
+       "jersey_number": 6
+      },
+      {
+       "id": 31866,
+       "name": "Albert Caparrós",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Caparrós",
+       "jersey_number": 4
+      },
+      {
+       "id": 30376,
+       "name": "Jose Matos",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Matos",
+       "jersey_number": 3
+      },
+      {
+       "id": 26885,
+       "name": "Joaquín González",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "J. González",
+       "jersey_number": 15
+      },
+      {
+       "id": 31872,
+       "name": "Anuar",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "Anuar",
+       "jersey_number": 23
+      },
+      {
+       "id": 41302,
+       "name": "Gabriel Okoro",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "G. Okoro",
+       "jersey_number": 32
+      },
+      {
+       "id": 31870,
+       "name": "Kialy Abdoul Kone",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "K. A. Kone",
+       "jersey_number": 22
+      },
+      {
+       "id": 30535,
+       "name": "Kuki Zalazar",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "K. Zalazar",
+       "jersey_number": 8
+      },
+      {
+       "id": 32588,
+       "name": "Alejandro Camacho",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "A. Camacho",
+       "jersey_number": 7
+      }
+     ],
+     "team_id": 1458,
+     "formation": "4-3-3",
+     "team_name": "AD Ceuta",
+     "confidence": null,
+     "substitutes": []
+    },
+    "home": {
+     "players": [
+      {
+       "id": 35548,
+       "name": "Romain Matthys",
+       "captain": false,
+       "ai_score": null,
+       "position": "G",
+       "short_name": "R. Matthys",
+       "jersey_number": 13
+      },
+      {
+       "id": 12922,
+       "name": "Juanjo Nieto",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "J. Nieto",
+       "jersey_number": 2
+      },
+      {
+       "id": 30423,
+       "name": "Alberto Jiménez",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Jiménez",
+       "jersey_number": 5
+      },
+      {
+       "id": 32040,
+       "name": "Agustín Sienra",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "A. Sienra",
+       "jersey_number": 4
+      },
+      {
+       "id": 30391,
+       "name": "Íñigo Cordoba",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "I. Cordoba",
+       "jersey_number": 14
+      },
+      {
+       "id": 31830,
+       "name": "Álvaro Martín",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "Á. Martín",
+       "jersey_number": 21
+      },
+      {
+       "id": 32047,
+       "name": "Diego Barri",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "D. Barri",
+       "jersey_number": 8
+      },
+      {
+       "id": 35546,
+       "name": "Lucas Alcazar",
+       "captain": false,
+       "ai_score": null,
+       "position": "D",
+       "short_name": "L. Alcázar",
+       "jersey_number": 12
+      },
+      {
+       "id": 30461,
+       "name": "Israel Suero",
+       "captain": false,
+       "ai_score": null,
+       "position": "M",
+       "short_name": "I. Suero",
+       "jersey_number": 10
+      },
+      {
+       "id": 16290,
+       "name": "Adam Jakobsen",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "A. Jakobsen",
+       "jersey_number": 16
+      },
+      {
+       "id": 30429,
+       "name": "Ousmane Camara",
+       "captain": false,
+       "ai_score": null,
+       "position": "F",
+       "short_name": "O. Camara",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1398,
+     "formation": "3-4-2-1",
+     "team_name": "CD Castellón",
+     "confidence": null,
+     "substitutes": []
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 30509,
+      "name": "Kenneth Mamah",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "K. O. Mamah"
+     }
+    ],
+    "home": [
+     {
+      "id": 7246,
+      "name": "Amir Saipi",
+      "reason": "national_team",
+      "status": "injured",
+      "short_name": "A. Saipi"
+     },
+     {
+      "id": 35547,
+      "name": "Fabrizio Brignani",
+      "reason": "Cruciate Ligament Injury",
+      "status": "injured",
+      "short_name": "F. Brignani"
+     },
+     {
+      "id": 30309,
+      "name": "Jeremy Mellot",
+      "reason": "red_card_suspension",
+      "status": "suspended",
+      "short_name": "J. Mellot"
+     },
+     {
+      "id": 74703,
+      "name": "Matias Orozco",
+      "reason": "national_team",
+      "status": "injured",
+      "short_name": "M. Orozco"
+     },
+     {
+      "id": 2058,
+      "name": "Rodrigo Rego",
+      "reason": "national_team",
+      "status": "injured",
+      "short_name": "R. Rêgo"
+     }
+    ]
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 381,
+   "context": {
+    "h2h": {
+     "draws": 2,
+     "away_wins": 0,
+     "home_wins": 0,
+     "away_goals": 4,
+     "home_goals": 4,
+     "away_win_rate": 0,
+     "home_win_rate": 0,
+     "total_matches": 2,
+     "recent_matches": [
+      {
+       "away": "CD Castellón",
+       "date": "2026-05-09T12:00:00+00:00",
+       "home": "AD Ceuta",
+       "score": "1-1",
+       "event_id": 204251,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1398,
+       "home_team_id": 1458
+      },
+      {
+       "away": "AD Ceuta",
+       "date": "2025-09-14T16:30:00+00:00",
+       "home": "CD Castellón",
+       "score": "3-3",
+       "event_id": 203881,
+       "away_score": 3,
+       "home_score": 3,
+       "away_team_id": 1458,
+       "home_team_id": 1398
+      }
+     ],
+     "avg_total_goals": 4
+    },
+    "odds": {
+     "draw": 6.07,
+     "btts_no": 2.02,
+     "away_win": 9.68,
+     "btts_yes": 1.72,
+     "home_win": 1.22,
+     "over_15_goals": 1.08,
+     "over_25_goals": 1.35,
+     "over_35_goals": 1.93,
+     "under_15_goals": 6.69,
+     "under_25_goals": 3.04,
+     "under_35_goals": 1.86
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-04T15:20:10Z",
+    "referee": {
+     "id": 1620,
+     "name": "Marta Huerta de Aza",
+     "country": "Spain",
+     "matches": 41,
+     "birthdate": null,
+     "career_games": 68,
+     "nationality_a3": "ESP",
+     "total_red_cards": 12,
+     "career_red_cards": 11,
+     "avg_red_per_match": 0.29,
+     "total_yellow_cards": 187,
+     "avg_fouls_per_match": 25.8,
+     "avg_goals_per_match": 2.27,
+     "career_yellow_cards": 258,
+     "avg_yellow_per_match": 4.56
+    },
+    "weather": {
+     "code": 2,
+     "wind_speed": 8.8,
+     "description": "cloudy",
+     "temperature_c": 24
+    },
+    "travel_km": null,
+    "pitch_condition": null
+   }
+  },
+  {
    "match_key": "SP2|04/10/2026|Las Palmas|Valladolid",
    "bsd_event_id": 214851,
    "captured_at": "2026-10-04T15:30:24.271967+00:00",
@@ -14370,364 +14728,6 @@
      "temperature_c": 20
     },
     "travel_km": 1795,
-    "pitch_condition": null
-   }
-  },
-  {
-   "match_key": "SP2|04/10/2026|Castellon|Ceuta",
-   "bsd_event_id": 214845,
-   "captured_at": "2026-10-04T15:30:24.271967+00:00",
-   "kickoff_utc": "2026-10-04T16:30:00+00:00",
-   "div": "SP2",
-   "home": "Castellon",
-   "away": "Ceuta",
-   "lineup_status": "confirmed",
-   "lineups": {
-    "away": {
-     "players": [
-      {
-       "id": 31873,
-       "name": "Guillermo Vallejo",
-       "captain": false,
-       "ai_score": null,
-       "position": "G",
-       "short_name": "G. Vallejo",
-       "jersey_number": 13
-      },
-      {
-       "id": 28145,
-       "name": "Toni Abad",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "T. Abad",
-       "jersey_number": 2
-      },
-      {
-       "id": 35188,
-       "name": "Carlos Hernández",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "Carlos",
-       "jersey_number": 6
-      },
-      {
-       "id": 31866,
-       "name": "Albert Caparrós",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "A. Caparrós",
-       "jersey_number": 4
-      },
-      {
-       "id": 30376,
-       "name": "Jose Matos",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "J. Matos",
-       "jersey_number": 3
-      },
-      {
-       "id": 26885,
-       "name": "Joaquín González",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "J. González",
-       "jersey_number": 15
-      },
-      {
-       "id": 31872,
-       "name": "Anuar",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "Anuar",
-       "jersey_number": 23
-      },
-      {
-       "id": 41302,
-       "name": "Gabriel Okoro",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "G. Okoro",
-       "jersey_number": 32
-      },
-      {
-       "id": 31870,
-       "name": "Kialy Abdoul Kone",
-       "captain": false,
-       "ai_score": null,
-       "position": "F",
-       "short_name": "K. A. Kone",
-       "jersey_number": 22
-      },
-      {
-       "id": 30535,
-       "name": "Kuki Zalazar",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "K. Zalazar",
-       "jersey_number": 8
-      },
-      {
-       "id": 32588,
-       "name": "Alejandro Camacho",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "A. Camacho",
-       "jersey_number": 7
-      }
-     ],
-     "team_id": 1458,
-     "formation": "4-3-3",
-     "team_name": "AD Ceuta",
-     "confidence": null,
-     "substitutes": []
-    },
-    "home": {
-     "players": [
-      {
-       "id": 35548,
-       "name": "Romain Matthys",
-       "captain": false,
-       "ai_score": null,
-       "position": "G",
-       "short_name": "R. Matthys",
-       "jersey_number": 13
-      },
-      {
-       "id": 12922,
-       "name": "Juanjo Nieto",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "J. Nieto",
-       "jersey_number": 2
-      },
-      {
-       "id": 30423,
-       "name": "Alberto Jiménez",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "A. Jiménez",
-       "jersey_number": 5
-      },
-      {
-       "id": 32040,
-       "name": "Agustín Sienra",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "A. Sienra",
-       "jersey_number": 4
-      },
-      {
-       "id": 30391,
-       "name": "Íñigo Cordoba",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "I. Cordoba",
-       "jersey_number": 14
-      },
-      {
-       "id": 31830,
-       "name": "Álvaro Martín",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "Á. Martín",
-       "jersey_number": 21
-      },
-      {
-       "id": 32047,
-       "name": "Diego Barri",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "D. Barri",
-       "jersey_number": 8
-      },
-      {
-       "id": 35546,
-       "name": "Lucas Alcazar",
-       "captain": false,
-       "ai_score": null,
-       "position": "D",
-       "short_name": "L. Alcázar",
-       "jersey_number": 12
-      },
-      {
-       "id": 30461,
-       "name": "Israel Suero",
-       "captain": false,
-       "ai_score": null,
-       "position": "M",
-       "short_name": "I. Suero",
-       "jersey_number": 10
-      },
-      {
-       "id": 16290,
-       "name": "Adam Jakobsen",
-       "captain": false,
-       "ai_score": null,
-       "position": "F",
-       "short_name": "A. Jakobsen",
-       "jersey_number": 16
-      },
-      {
-       "id": 30429,
-       "name": "Ousmane Camara",
-       "captain": false,
-       "ai_score": null,
-       "position": "F",
-       "short_name": "O. Camara",
-       "jersey_number": 9
-      }
-     ],
-     "team_id": 1398,
-     "formation": "3-4-2-1",
-     "team_name": "CD Castellón",
-     "confidence": null,
-     "substitutes": []
-    }
-   },
-   "unavailable": {
-    "away": [
-     {
-      "id": 30509,
-      "name": "Kenneth Mamah",
-      "reason": "Muscle Injury",
-      "status": "injured",
-      "short_name": "K. O. Mamah"
-     }
-    ],
-    "home": [
-     {
-      "id": 7246,
-      "name": "Amir Saipi",
-      "reason": "national_team",
-      "status": "injured",
-      "short_name": "A. Saipi"
-     },
-     {
-      "id": 35547,
-      "name": "Fabrizio Brignani",
-      "reason": "Cruciate Ligament Injury",
-      "status": "injured",
-      "short_name": "F. Brignani"
-     },
-     {
-      "id": 30309,
-      "name": "Jeremy Mellot",
-      "reason": "red_card_suspension",
-      "status": "suspended",
-      "short_name": "J. Mellot"
-     },
-     {
-      "id": 74703,
-      "name": "Matias Orozco",
-      "reason": "national_team",
-      "status": "injured",
-      "short_name": "M. Orozco"
-     },
-     {
-      "id": 2058,
-      "name": "Rodrigo Rego",
-      "reason": "national_team",
-      "status": "injured",
-      "short_name": "R. Rêgo"
-     }
-    ]
-   },
-   "bsd_prediction": null,
-   "error": null,
-   "bsd_latency_ms": 381,
-   "context": {
-    "h2h": {
-     "draws": 2,
-     "away_wins": 0,
-     "home_wins": 0,
-     "away_goals": 4,
-     "home_goals": 4,
-     "away_win_rate": 0,
-     "home_win_rate": 0,
-     "total_matches": 2,
-     "recent_matches": [
-      {
-       "away": "CD Castellón",
-       "date": "2026-05-09T12:00:00+00:00",
-       "home": "AD Ceuta",
-       "score": "1-1",
-       "event_id": 204251,
-       "away_score": 1,
-       "home_score": 1,
-       "away_team_id": 1398,
-       "home_team_id": 1458
-      },
-      {
-       "away": "AD Ceuta",
-       "date": "2025-09-14T16:30:00+00:00",
-       "home": "CD Castellón",
-       "score": "3-3",
-       "event_id": 203881,
-       "away_score": 3,
-       "home_score": 3,
-       "away_team_id": 1458,
-       "home_team_id": 1398
-      }
-     ],
-     "avg_total_goals": 4
-    },
-    "odds": {
-     "draw": 6.07,
-     "btts_no": 2.02,
-     "away_win": 9.68,
-     "btts_yes": 1.72,
-     "home_win": 1.22,
-     "over_15_goals": 1.08,
-     "over_25_goals": 1.35,
-     "over_35_goals": 1.93,
-     "under_15_goals": 6.69,
-     "under_25_goals": 3.04,
-     "under_35_goals": 1.86
-    },
-    "derby": false,
-    "round": "Regular season · Matchday 8",
-    "neutral": false,
-    "odds_at": "2026-10-04T15:20:10Z",
-    "referee": {
-     "id": 1620,
-     "name": "Marta Huerta de Aza",
-     "country": "Spain",
-     "matches": 41,
-     "birthdate": null,
-     "career_games": 68,
-     "nationality_a3": "ESP",
-     "total_red_cards": 12,
-     "career_red_cards": 11,
-     "avg_red_per_match": 0.29,
-     "total_yellow_cards": 187,
-     "avg_fouls_per_match": 25.8,
-     "avg_goals_per_match": 2.27,
-     "career_yellow_cards": 258,
-     "avg_yellow_per_match": 4.56
-    },
-    "weather": {
-     "code": 2,
-     "wind_speed": 8.8,
-     "description": "cloudy",
-     "temperature_c": 24
-    },
-    "travel_km": null,
     "pitch_condition": null
    }
   },
@@ -24040,6 +24040,22 @@
     "travel_km": 762,
     "pitch_condition": null
    }
+  },
+  {
+   "match_key": "P1|09/10/2026|Sp Braga|Sp Lisbon",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-09T13:15:28.998372+00:00",
+   "kickoff_utc": "2026-10-09T19:15:00+00:00",
+   "div": "P1",
+   "home": "Sp Braga",
+   "away": "Sp Lisbon",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
   }
  ]
 }
