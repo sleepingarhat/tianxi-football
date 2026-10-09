@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 61,
+ "count": 63,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2014,6 +2014,72 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.5,
+   "stake": 100
+  },
+  {
+   "match_key": "E1|09/10/2026|West Ham|QPR",
+   "version": "dual-v2",
+   "div": "E1",
+   "home": "West Ham",
+   "away": "QPR",
+   "kickoff_utc": "2026-10-09T19:00:00+00:00",
+   "locked_at": "2026-10-09T13:00:05.804021+00:00",
+   "p_a": [
+    0.5719,
+    0.2395,
+    0.1886
+   ],
+   "lambda": [
+    2.018,
+    1.095
+   ],
+   "p_b_d": 0.224952327054405,
+   "p_final": [
+    0.577369963285724,
+    0.232226163527203,
+    0.190403873187074
+   ],
+   "prediction": "home",
+   "odds": [
+    1.41,
+    4.33,
+    7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.41,
+   "stake": 100
+  },
+  {
+   "match_key": "SP1|09/10/2026|Malaga|Espanol",
+   "version": "dual-v2",
+   "div": "SP1",
+   "home": "Malaga",
+   "away": "Espanol",
+   "kickoff_utc": "2026-10-09T19:00:00+00:00",
+   "locked_at": "2026-10-09T13:00:05.804021+00:00",
+   "p_a": [
+    0.4306,
+    0.2927,
+    0.2767
+   ],
+   "lambda": [
+    1.321,
+    1.204
+   ],
+   "p_b_d": 0.279628669744955,
+   "p_final": [
+    0.434578873750758,
+    0.286164334872477,
+    0.279256791376765
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.9,
+    3.2,
+    2.55
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.2,
    "stake": 100
   }
  ]
