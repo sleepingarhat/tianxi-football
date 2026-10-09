@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 50,
+ "count": 56,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -1651,6 +1651,204 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.25,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|09/10/2026|Dunkerque|Annecy",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Dunkerque",
+   "away": "Annecy",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.3893,
+    0.2842,
+    0.3265
+   ],
+   "lambda": [
+    1.43,
+    1.146
+   ],
+   "p_b_d": 0.273955235249235,
+   "p_final": [
+    0.392085894745371,
+    0.279077617624618,
+    0.328836487630012
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.15,
+    3.2,
+    3
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.2,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|09/10/2026|Montpellier|Grenoble",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Montpellier",
+   "away": "Grenoble",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.5309,
+    0.2661,
+    0.203
+   ],
+   "lambda": [
+    1.339,
+    1.024
+   ],
+   "p_b_d": 0.286411718538396,
+   "p_final": [
+    0.523553296517213,
+    0.276255859269198,
+    0.200190844213589
+   ],
+   "prediction": "home",
+   "odds": [
+    1.55,
+    3.5,
+    5.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.55,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|09/10/2026|Nancy|Guingamp",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Nancy",
+   "away": "Guingamp",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.413,
+    0.2876,
+    0.2994
+   ],
+   "lambda": [
+    1.736,
+    1.239
+   ],
+   "p_b_d": 0.248290291736184,
+   "p_final": [
+    0.424394518187083,
+    0.267945145868092,
+    0.307660335944825
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.83,
+    3.25,
+    3.75
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.25,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|09/10/2026|Pau FC|Laval",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Pau FC",
+   "away": "Laval",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.4281,
+    0.2846,
+    0.2872
+   ],
+   "lambda": [
+    1.609,
+    1.024
+   ],
+   "p_b_d": 0.260962665815393,
+   "p_final": [
+    0.435233204784307,
+    0.272781332907696,
+    0.291985462307996
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.9,
+    3.2,
+    3.6
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.2,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|09/10/2026|Sochaux|Boulogne",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Sochaux",
+   "away": "Boulogne",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.4734,
+    0.2769,
+    0.2497
+   ],
+   "lambda": [
+    1.24,
+    0.881
+   ],
+   "p_b_d": 0.302675435269723,
+   "p_final": [
+    0.464962653120809,
+    0.289787717634861,
+    0.24524962924433
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.25,
+    3,
+    3
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3,
+   "stake": 100
+  },
+  {
+   "match_key": "N1|09/10/2026|PSV Eindhoven|Heerenveen",
+   "version": "dual-v2",
+   "div": "N1",
+   "home": "PSV Eindhoven",
+   "away": "Heerenveen",
+   "kickoff_utc": "2026-10-09T18:00:00+00:00",
+   "locked_at": "2026-10-09T12:00:02.41007+00:00",
+   "p_a": [
+    0.7624,
+    0.1501,
+    0.0875
+   ],
+   "lambda": [
+    2.532,
+    1.35
+   ],
+   "p_b_d": 0.192867279218306,
+   "p_final": [
+    0.743217876411321,
+    0.171483639609153,
+    0.0852984839795259
+   ],
+   "prediction": "home",
+   "odds": [
+    1.27,
+    6,
+    8.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.27,
    "stake": 100
   }
  ]
