@@ -1,7 +1,7 @@
 {
  "table": "football_lineup_snapshots",
  "month": "2026-10",
- "count": 48,
+ "count": 49,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -16607,6 +16607,22 @@
     "travel_km": 192,
     "pitch_condition": null
    }
+  },
+  {
+   "match_key": "T1|09/10/2026|Galatasaray|Kasimpasa",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-09T11:00:14.491453+00:00",
+   "kickoff_utc": "2026-10-09T17:00:00+00:00",
+   "div": "T1",
+   "home": "Galatasaray",
+   "away": "Kasimpasa",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
   }
  ]
 }
