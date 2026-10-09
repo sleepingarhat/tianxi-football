@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 48,
+ "count": 49,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -1585,6 +1585,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.4,
+   "stake": 100
+  },
+  {
+   "match_key": "T1|09/10/2026|Galatasaray|Kasimpasa",
+   "version": "dual-v2",
+   "div": "T1",
+   "home": "Galatasaray",
+   "away": "Kasimpasa",
+   "kickoff_utc": "2026-10-09T17:00:00+00:00",
+   "locked_at": "2026-10-09T11:00:02.37518+00:00",
+   "p_a": [
+    0.7755,
+    0.1518,
+    0.0726
+   ],
+   "lambda": [
+    1.604,
+    1.309
+   ],
+   "p_b_d": 0.256261720883888,
+   "p_final": [
+    0.727831703486939,
+    0.204030860441944,
+    0.0681374360711177
+   ],
+   "prediction": "home",
+   "odds": [
+    1.24,
+    5.25,
+    10
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.24,
    "stake": 100
   }
  ]
