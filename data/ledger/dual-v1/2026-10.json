@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 46,
+ "count": 48,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -1520,6 +1520,72 @@
    "odds_source": "b365",
    "pick_odds": 1.86,
    "stake": 10
+  },
+  {
+   "match_key": "D2|09/10/2026|Braunschweig|Holstein Kiel",
+   "version": "dual-v2",
+   "div": "D2",
+   "home": "Braunschweig",
+   "away": "Holstein Kiel",
+   "kickoff_utc": "2026-10-09T16:30:00+00:00",
+   "locked_at": "2026-10-09T10:45:04.784296+00:00",
+   "p_a": [
+    0.3614,
+    0.2741,
+    0.3645
+   ],
+   "lambda": [
+    1.618,
+    1.36
+   ],
+   "p_b_d": 0.253955933251396,
+   "p_final": [
+    0.366414510072287,
+    0.264027966625698,
+    0.369557523302016
+   ],
+   "prediction": "away",
+   "odds": [
+    2.75,
+    3.75,
+    2.25
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.25,
+   "stake": 100
+  },
+  {
+   "match_key": "D2|09/10/2026|Heidenheim|Kaiserslautern",
+   "version": "dual-v2",
+   "div": "D2",
+   "home": "Heidenheim",
+   "away": "Kaiserslautern",
+   "kickoff_utc": "2026-10-09T16:30:00+00:00",
+   "locked_at": "2026-10-09T10:45:04.784296+00:00",
+   "p_a": [
+    0.3892,
+    0.2786,
+    0.3323
+   ],
+   "lambda": [
+    1.687,
+    1.236
+   ],
+   "p_b_d": 0.251966468864334,
+   "p_final": [
+    0.396329542839918,
+    0.265283234432167,
+    0.338387222727915
+   ],
+   "prediction": "away",
+   "odds": [
+    1.91,
+    3.8,
+    3.4
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
+   "stake": 100
   }
  ]
 }
