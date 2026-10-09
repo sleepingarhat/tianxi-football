@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 49,
+ "count": 50,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -1618,6 +1618,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.24,
+   "stake": 100
+  },
+  {
+   "match_key": "P1|09/10/2026|Moreirense|Gil Vicente",
+   "version": "dual-v2",
+   "div": "P1",
+   "home": "Moreirense",
+   "away": "Gil Vicente",
+   "kickoff_utc": "2026-10-09T17:45:00+00:00",
+   "locked_at": "2026-10-09T11:45:02.569558+00:00",
+   "p_a": [
+    0.3381,
+    0.2982,
+    0.3636
+   ],
+   "lambda": [
+    1.376,
+    1.102
+   ],
+   "p_b_d": 0.28003626128503,
+   "p_final": [
+    0.342524098660062,
+    0.289118130642515,
+    0.368357770697423
+   ],
+   "prediction": "away",
+   "odds": [
+    3.25,
+    3.1,
+    2.25
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.25,
    "stake": 100
   }
  ]
