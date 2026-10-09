@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 58,
+ "count": 61,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -1915,6 +1915,105 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.1,
+   "stake": 100
+  },
+  {
+   "match_key": "B1|09/10/2026|Beveren|Lommel SK",
+   "version": "dual-v2",
+   "div": "B1",
+   "home": "Beveren",
+   "away": "Lommel SK",
+   "kickoff_utc": "2026-10-09T18:45:00+00:00",
+   "locked_at": "2026-10-09T12:45:04.5924+00:00",
+   "p_a": [
+    0.3967,
+    0.2813,
+    0.322
+   ],
+   "lambda": [
+    1.468,
+    1.102
+   ],
+   "p_b_d": 0.272230754760349,
+   "p_final": [
+    0.399202970353812,
+    0.276765377380174,
+    0.324031652266013
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.75,
+    3.8,
+    3.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.8,
+   "stake": 100
+  },
+  {
+   "match_key": "EC|09/10/2026|Sutton|Boreham Wood",
+   "version": "dual-v2",
+   "div": "EC",
+   "home": "Sutton",
+   "away": "Boreham Wood",
+   "kickoff_utc": "2026-10-09T18:45:00+00:00",
+   "locked_at": "2026-10-09T12:45:04.5924+00:00",
+   "p_a": [
+    0.1758,
+    0.2516,
+    0.5727
+   ],
+   "lambda": [
+    1.192,
+    1.921
+   ],
+   "p_b_d": 0.23419163120878,
+   "p_final": [
+    0.177820862547426,
+    0.24289581560439,
+    0.579283321848184
+   ],
+   "prediction": "away",
+   "odds": [
+    4.5,
+    3.8,
+    1.65
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.65,
+   "stake": 100
+  },
+  {
+   "match_key": "F1|09/10/2026|Lens|Lyon",
+   "version": "dual-v2",
+   "div": "F1",
+   "home": "Lens",
+   "away": "Lyon",
+   "kickoff_utc": "2026-10-09T18:45:00+00:00",
+   "locked_at": "2026-10-09T12:45:04.5924+00:00",
+   "p_a": [
+    0.476,
+    0.2573,
+    0.2668
+   ],
+   "lambda": [
+    1.346,
+    1.438
+   ],
+   "p_b_d": 0.26528390672401,
+   "p_final": [
+    0.473377800484229,
+    0.261291953362005,
+    0.265330246153766
+   ],
+   "prediction": "home",
+   "odds": [
+    2.5,
+    3.6,
+    2.63
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.5,
    "stake": 100
   }
  ]
