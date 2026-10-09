@@ -1,7 +1,7 @@
 {
  "table": "football_lineup_snapshots",
  "month": "2026-10",
- "count": 49,
+ "count": 50,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -16623,6 +16623,595 @@
    "error": "no bsd event match",
    "bsd_latency_ms": null,
    "context": null
+  },
+  {
+   "match_key": "P1|09/10/2026|Moreirense|Gil Vicente",
+   "bsd_event_id": 215543,
+   "captured_at": "2026-10-09T11:45:09.277954+00:00",
+   "kickoff_utc": "2026-10-09T17:45:00+00:00",
+   "div": "P1",
+   "home": "Moreirense",
+   "away": "Gil Vicente",
+   "lineup_status": "predicted",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 3871,
+       "name": "Lucão",
+       "ai_score": 0.624,
+       "position": "G",
+       "short_name": "Lucão",
+       "jersey_number": 30
+      },
+      {
+       "id": 249,
+       "name": "Weverson",
+       "ai_score": 0.337,
+       "position": "D",
+       "short_name": "Weverson",
+       "jersey_number": 26
+      },
+      {
+       "id": 1885,
+       "name": "Jonathan Buatu",
+       "ai_score": 0.695,
+       "position": "D",
+       "short_name": "J. Buatu",
+       "jersey_number": 39
+      },
+      {
+       "id": 1884,
+       "name": "Marvin Elimbi Gilbert",
+       "ai_score": 0.693,
+       "position": "D",
+       "short_name": "M. Elimbi Gilbert",
+       "jersey_number": 4
+      },
+      {
+       "id": 12080,
+       "name": "José Silva",
+       "ai_score": 0.24,
+       "position": "D",
+       "short_name": "J. Silva",
+       "jersey_number": 2
+      },
+      {
+       "id": 21316,
+       "name": "Gil Martins",
+       "ai_score": 0.564,
+       "position": "M",
+       "short_name": "G. Martins",
+       "jersey_number": 20
+      },
+      {
+       "id": 4230,
+       "name": "Diogo Prioste",
+       "ai_score": 0.462,
+       "position": "M",
+       "short_name": "D. Prioste",
+       "jersey_number": 86
+      },
+      {
+       "id": 1890,
+       "name": "Joelson Fernandes",
+       "ai_score": 0.46,
+       "position": "M",
+       "short_name": "J. Fernandes",
+       "jersey_number": 11
+      },
+      {
+       "id": 1891,
+       "name": "Santi García",
+       "ai_score": 0.476,
+       "position": "M",
+       "short_name": "S. García",
+       "jersey_number": 10
+      },
+      {
+       "id": 1887,
+       "name": "Murilo",
+       "ai_score": 0.508,
+       "position": "M",
+       "short_name": "Murilo",
+       "jersey_number": 77
+      },
+      {
+       "id": 5027,
+       "name": "Héctor Hernández",
+       "ai_score": 0.491,
+       "position": "F",
+       "short_name": "H. Hernández",
+       "jersey_number": 23
+      }
+     ],
+     "team_id": 24,
+     "formation": "4-2-3-1",
+     "team_name": "Gil Vicente",
+     "confidence": 0.555,
+     "substitutes": [
+      {
+       "id": 5808,
+       "name": "Ricardo Esgaio",
+       "ai_score": 0.618,
+       "position": "D",
+       "short_name": "R. Esgaio",
+       "jersey_number": 47
+      },
+      {
+       "id": 64700,
+       "name": "Andreas Lausen",
+       "ai_score": 0.47,
+       "position": "M",
+       "short_name": "A. Lausen",
+       "jersey_number": 12
+      },
+      {
+       "id": 8553,
+       "name": "David Moreira",
+       "ai_score": 0.425,
+       "position": "D",
+       "short_name": "D. Moreira",
+       "jersey_number": 45
+      },
+      {
+       "id": 1900,
+       "name": "Zé Carlos",
+       "ai_score": 0.328,
+       "position": "M",
+       "short_name": "Z. Carlos",
+       "jersey_number": 6
+      },
+      {
+       "id": 4013,
+       "name": "Tidjany Touré",
+       "ai_score": 0.247,
+       "position": "M",
+       "short_name": "T. Touré",
+       "jersey_number": 7
+      },
+      {
+       "id": 1893,
+       "name": "Agustín Moreira",
+       "ai_score": 0.235,
+       "position": "M",
+       "short_name": "A. Moreira",
+       "jersey_number": 27
+      },
+      {
+       "id": 1894,
+       "name": "Martin Fernández",
+       "ai_score": 0.234,
+       "position": "M",
+       "short_name": "M. Fernández",
+       "jersey_number": 32
+      },
+      {
+       "id": 206824,
+       "name": "Mohamed Sanoussi Kaba",
+       "ai_score": 0.199,
+       "position": "F",
+       "short_name": "M. S. Kaba",
+       "jersey_number": 99
+      },
+      {
+       "id": 1897,
+       "name": "Sergio Bermejo",
+       "ai_score": 0.191,
+       "position": "M",
+       "short_name": "S. Bermejo",
+       "jersey_number": 17
+      },
+      {
+       "id": 1899,
+       "name": "Antonio Espigares",
+       "ai_score": 0.183,
+       "position": "D",
+       "short_name": "A. Espigares",
+       "jersey_number": 3
+      },
+      {
+       "id": 7951,
+       "name": "Samuel",
+       "ai_score": 0.025,
+       "position": "G",
+       "short_name": "Samuel",
+       "jersey_number": 94
+      },
+      {
+       "id": 4253,
+       "name": "Gonçalo Maia Pereira",
+       "ai_score": 0.02,
+       "position": "M",
+       "short_name": "G. M. Pereira",
+       "jersey_number": 82
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 2302,
+       "name": "André Ferreira",
+       "ai_score": 0.674,
+       "position": "G",
+       "short_name": "A. Ferreira",
+       "jersey_number": 13
+      },
+      {
+       "id": 2306,
+       "name": "Kiko",
+       "ai_score": 0.685,
+       "position": "D",
+       "short_name": "Kiko",
+       "jersey_number": 27
+      },
+      {
+       "id": 2319,
+       "name": "Gilberto Batista",
+       "ai_score": 0.703,
+       "position": "D",
+       "short_name": "G. Batista",
+       "jersey_number": 66
+      },
+      {
+       "id": 2305,
+       "name": "Maracás",
+       "ai_score": 0.636,
+       "position": "D",
+       "short_name": "Maracás",
+       "jersey_number": 26
+      },
+      {
+       "id": 2303,
+       "name": "Dinis Pinto",
+       "ai_score": 0.558,
+       "position": "D",
+       "short_name": "D. Pinto",
+       "jersey_number": 76
+      },
+      {
+       "id": 8892,
+       "name": "Nile John",
+       "ai_score": 0.669,
+       "position": "M",
+       "short_name": "N. John",
+       "jersey_number": 23
+      },
+      {
+       "id": 37310,
+       "name": "Manuel Mendonça",
+       "ai_score": 0.533,
+       "position": "M",
+       "short_name": "M. Mendonça",
+       "jersey_number": 7
+      },
+      {
+       "id": 13630,
+       "name": "Tiago Andrade",
+       "ai_score": 0.376,
+       "position": "F",
+       "short_name": "T. Andrade",
+       "jersey_number": 19
+      },
+      {
+       "id": 52460,
+       "name": "Guilherme Liberato",
+       "ai_score": 0.485,
+       "position": "M",
+       "short_name": "G. Liberato",
+       "jersey_number": 65
+      },
+      {
+       "id": 2314,
+       "name": "Kiko Bondoso",
+       "ai_score": 0.374,
+       "position": "M",
+       "short_name": "K. Bondoso",
+       "jersey_number": 10
+      },
+      {
+       "id": 7714,
+       "name": "Alexandre Parsemain",
+       "ai_score": 0.421,
+       "position": "F",
+       "short_name": "A. Parsemain",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 29,
+     "formation": "4-2-3-1",
+     "team_name": "Moreirense",
+     "confidence": 0.568,
+     "substitutes": [
+      {
+       "id": 2312,
+       "name": "Landerson",
+       "ai_score": 0.449,
+       "position": "F",
+       "short_name": "Landerson",
+       "jersey_number": 11
+      },
+      {
+       "id": 2320,
+       "name": "Rodrigo Alonso",
+       "ai_score": 0.405,
+       "position": "M",
+       "short_name": "R. Alonso",
+       "jersey_number": 21
+      },
+      {
+       "id": 2069,
+       "name": "João Veloso",
+       "ai_score": 0.364,
+       "position": "M",
+       "short_name": "J. Veloso",
+       "jersey_number": 20
+      },
+      {
+       "id": 2308,
+       "name": "Mateja Stjepanović",
+       "ai_score": 0.348,
+       "position": "M",
+       "short_name": "M. Stjepanović",
+       "jersey_number": 8
+      },
+      {
+       "id": 88654,
+       "name": "Leonardo Vonić",
+       "ai_score": 0.347,
+       "position": "F",
+       "short_name": "L. Vonić",
+       "jersey_number": 79
+      },
+      {
+       "id": 4717,
+       "name": "Leandro Santos",
+       "ai_score": 0.289,
+       "position": "D",
+       "short_name": "L. Santos",
+       "jersey_number": 2
+      },
+      {
+       "id": 3952,
+       "name": "Kevyn Monteiro",
+       "ai_score": 0.275,
+       "position": "D",
+       "short_name": "K. Monteiro",
+       "jersey_number": 4
+      },
+      {
+       "id": 4263,
+       "name": "Yan Maranhão",
+       "ai_score": 0.248,
+       "position": "F",
+       "short_name": "Y. Maranhão",
+       "jersey_number": 99
+      },
+      {
+       "id": 110849,
+       "name": "Chipyoka Songa",
+       "ai_score": 0.205,
+       "position": "M",
+       "short_name": "S. Chipyoka",
+       "jersey_number": 28
+      },
+      {
+       "id": 22861,
+       "name": "Michael Dacosta Gonzalez",
+       "ai_score": 0.19,
+       "position": "F",
+       "short_name": "M. D. Gonzalez",
+       "jersey_number": 44
+      },
+      {
+       "id": 75304,
+       "name": "Afonso Vieira",
+       "ai_score": 0.156,
+       "position": "F",
+       "short_name": "A. Vieira",
+       "jersey_number": 89
+      },
+      {
+       "id": 3972,
+       "name": "Álvaro Martínez",
+       "ai_score": 0.035,
+       "position": "D",
+       "short_name": "Á. Martínez",
+       "jersey_number": 17
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 4843,
+      "name": "Arthur Tchaptchet",
+      "reason": "Unknown",
+      "status": "injured",
+      "short_name": "A. Tchaptchet"
+     },
+     {
+      "id": 17345,
+      "name": "Walace dos Santos França",
+      "reason": "Unknown",
+      "status": "injured",
+      "short_name": "W. d. S. França"
+     }
+    ],
+    "home": []
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 430,
+   "context": {
+    "h2h": {
+     "draws": 6,
+     "away_wins": 7,
+     "home_wins": 9,
+     "away_goals": 27,
+     "home_goals": 34,
+     "away_win_rate": 0.3181818181818182,
+     "home_win_rate": 0.4090909090909091,
+     "total_matches": 22,
+     "recent_matches": [
+      {
+       "away": "Moreirense",
+       "date": "2026-07-25T12:00:00+00:00",
+       "home": "Gil Vicente",
+       "score": "2-2",
+       "event_id": 221440,
+       "away_score": 2,
+       "home_score": 2,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Gil Vicente",
+       "date": "2026-02-07T15:30:00+00:00",
+       "home": "Moreirense",
+       "score": "1-2",
+       "event_id": 571,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 24,
+       "home_team_id": 29
+      },
+      {
+       "away": "Moreirense",
+       "date": "2025-08-29T19:15:00+00:00",
+       "home": "Gil Vicente",
+       "score": "2-0",
+       "event_id": 411,
+       "away_score": 0,
+       "home_score": 2,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Moreirense",
+       "date": "2025-04-06T14:30:00+00:00",
+       "home": "Gil Vicente",
+       "score": "0-1",
+       "event_id": 305982,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Moreirense",
+       "date": "2025-01-12T19:45:00+00:00",
+       "home": "Gil Vicente",
+       "score": "1-0",
+       "event_id": 599644,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Gil Vicente",
+       "date": "2024-11-08T20:15:00+00:00",
+       "home": "Moreirense",
+       "score": "3-2",
+       "event_id": 305824,
+       "away_score": 2,
+       "home_score": 3,
+       "away_team_id": 24,
+       "home_team_id": 29
+      },
+      {
+       "away": "Gil Vicente",
+       "date": "2024-04-20T14:30:00+00:00",
+       "home": "Moreirense",
+       "score": "0-1",
+       "event_id": 311465,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 24,
+       "home_team_id": 29
+      },
+      {
+       "away": "Moreirense",
+       "date": "2023-12-11T20:15:00+00:00",
+       "home": "Gil Vicente",
+       "score": "1-1",
+       "event_id": 311314,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Moreirense",
+       "date": "2022-04-08T19:15:00+00:00",
+       "home": "Gil Vicente",
+       "score": "1-2",
+       "event_id": 320231,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 29,
+       "home_team_id": 24
+      },
+      {
+       "away": "Gil Vicente",
+       "date": "2021-11-26T20:15:00+00:00",
+       "home": "Moreirense",
+       "score": "2-2",
+       "event_id": 320074,
+       "away_score": 2,
+       "home_score": 2,
+       "away_team_id": 24,
+       "home_team_id": 29
+      }
+     ],
+     "avg_total_goals": 2.772727272727273
+    },
+    "odds": {
+     "draw": 3.16,
+     "btts_no": 1.77,
+     "away_win": 2.25,
+     "btts_yes": 1.96,
+     "home_win": 3.2,
+     "over_15_goals": 1.39,
+     "over_25_goals": 2.24,
+     "over_35_goals": 4.26,
+     "under_15_goals": 2.8,
+     "under_25_goals": 1.64,
+     "under_35_goals": 1.2
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-09T11:35:06Z",
+    "referee": {
+     "id": 2170,
+     "name": "Miguel Nogueira",
+     "country": "Portugal",
+     "matches": 32,
+     "birthdate": null,
+     "career_games": 159,
+     "nationality_a3": "",
+     "total_red_cards": 12,
+     "career_red_cards": 29,
+     "avg_red_per_match": 0.38,
+     "total_yellow_cards": 137,
+     "avg_fouls_per_match": 26.8,
+     "avg_goals_per_match": 2.38,
+     "career_yellow_cards": 767,
+     "avg_yellow_per_match": 4.28
+    },
+    "weather": {
+     "code": 0,
+     "wind_speed": 8.2,
+     "description": "unknown",
+     "temperature_c": 27
+    },
+    "travel_km": null,
+    "pitch_condition": null
+   }
   }
  ]
 }
