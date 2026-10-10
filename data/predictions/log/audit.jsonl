@@ -11254,3 +11254,203 @@
 {"ts": "2026-10-10T09:53:18+00:00", "action": "refresh", "match_key": "SP1|12/10/2026|Levante|Sevilla", "fingerprint": "bfa183fa1454-a20b30b65767-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
 {"ts": "2026-10-10T09:53:18+00:00", "action": "refresh", "match_key": "SP2|12/10/2026|Tenerife|Girona", "fingerprint": "bfa183fa1454-a20b30b65767-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
 {"ts": "2026-10-10T09:53:18+00:00", "action": "refresh", "match_key": "P1|12/10/2026|Famalicao|Alverca", "fingerprint": "bfa183fa1454-a20b30b65767-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|09/10/2026|Braunschweig|Holstein Kiel", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|09/10/2026|Heidenheim|Kaiserslautern", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|09/10/2026|Galatasaray|Kasimpasa", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|09/10/2026|Moreirense|Gil Vicente", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|09/10/2026|Dunkerque|Annecy", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|09/10/2026|Montpellier|Grenoble", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|09/10/2026|Nancy|Guingamp", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|09/10/2026|Pau FC|Laval", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|09/10/2026|Sochaux|Boulogne", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|09/10/2026|PSV Eindhoven|Heerenveen", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|09/10/2026|Dortmund|Werder Bremen", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|09/10/2026|Avellino|Sampdoria", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|09/10/2026|Beveren|Lommel SK", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|09/10/2026|Sutton|Boreham Wood", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|09/10/2026|Lens|Lyon", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|09/10/2026|West Ham|QPR", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|09/10/2026|Malaga|Espanol", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|09/10/2026|Sp Braga|Sp Lisbon", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refuse_locked", "match_key": "T1|10/10/2026|Genclerbirligi|Amedspor", "fields": ["fingerprint"], "kept_fingerprint": "bfa183fa1454-a20b30b65767-198387-s5:a9ff1755c372-821d78d72d8b-175995", "rejected_fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "fingerprint_drift", "match_key": "T1|10/10/2026|Genclerbirligi|Amedspor", "kept_fingerprint": "bfa183fa1454-a20b30b65767-198387-s5:a9ff1755c372-821d78d72d8b-175995", "rejected_fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995", "note": "已鎖場次拒絕升指紋（重訓只影響之後未鎖場次）"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|10/10/2026|Darmstadt|Cottbus", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|10/10/2026|Magdeburg|Hannover", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|10/10/2026|Osnabruck|Dresden", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Arsenal|Leeds", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Charlton|Bristol City", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Swansea|Norwich", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|West Brom|Birmingham", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Notts County|Oxford", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Plymouth|AFC Wimbledon", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Oldham|Accrington", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Swindon|Crewe", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Altrincham|Aldershot", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Carlisle|Kidderminster", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|10/10/2026|Clermont|Red Star", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|10/10/2026|Nantes|Reims", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|10/10/2026|Genoa|Fiorentina", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Benevento|Cesena", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Empoli|Palermo", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Sudtirol|Ascoli", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Virtus Entella|Juve Stabia", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|10/10/2026|Alanyaspor|Erzurumspor", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|10/10/2026|Samsunspor|Trabzonspor", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|Augsburg|Bayern Munich", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|Hoffenheim|Hamburg", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|Mainz|Leverkusen", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|Paderborn|Stuttgart", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|Union Berlin|Elversberg", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|10/10/2026|Cercle Brugge|Anderlecht", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Aston Villa|Brentford", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Chelsea|Bournemouth", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Ipswich|Fulham", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Sunderland|Brighton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Blackburn|Cardiff", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Bolton|Stoke", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Derby|Wrexham", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Middlesbrough|Wolves", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Preston|Millwall", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Sheffield United|Lincoln", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|10/10/2026|Watford|Burnley", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Bradford|Leyton Orient", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Cambridge|Blackpool", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Doncaster|Burton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Huddersfield|Sheffield Weds", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Leicester|Peterboro", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Mansfield|Bromley", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Milton Keynes Dons|Reading", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Stevenage|Wigan", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Stockport|Barnsley", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E2|10/10/2026|Wycombe|Luton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Bristol Rvs|Barnet", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Cheltenham|Salford", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Crawley Town|Chesterfield", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Fleetwood Town|Walsall", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Newport County|Colchester", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Port Vale|Grimsby", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Rotherham|Gillingham", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Shrewsbury|Exeter", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|Tranmere|Rochdale", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E3|10/10/2026|York|Northampton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Boston Utd|Southend", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Fylde|Scunthorpe", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Halifax|Gateshead", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Hornchurch|Eastleigh", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Tamworth|Barrow", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Wealdstone|Yeovil", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Woking|Harrogate", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Worthing|Solihull", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|10/10/2026|Dundee United|Hibernian", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|10/10/2026|Falkirk|Dundee", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|10/10/2026|Hearts|St Mirren", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|10/10/2026|Rangers|Kilmarnock", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC1|10/10/2026|Arbroath|Morton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC1|10/10/2026|Ayr|Dunfermline", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC1|10/10/2026|Livingston|Partick", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC2|10/10/2026|Alloa|Hamilton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC2|10/10/2026|Cove Rangers|East Fife", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC2|10/10/2026|East Kilbride|Airdrie Utd", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC2|10/10/2026|Montrose|Ross County", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC2|10/10/2026|Peterhead|Queen of Sth", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC3|10/10/2026|Annan Athletic|Stranraer", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC3|10/10/2026|Clyde|Dumbarton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC3|10/10/2026|Edinburgh City|Spartans", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC3|10/10/2026|Forfar|Elgin", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC3|10/10/2026|Stirling|Kelty Hearts", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|10/10/2026|Alaves|Ath Madrid", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|10/10/2026|Ceuta|Sabadell", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|10/10/2026|Go Ahead Eagles|Sparta Rotterdam", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|10/10/2026|Casa Pia|Santa Clara", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|10/10/2026|Lille|Le Havre", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Vicenza|Pisa", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|10/10/2026|Inter|Parma", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|10/10/2026|Rizespor|Fenerbahce", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|10/10/2026|RAAL La Louviere|Club Brugge", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|10/10/2026|RB Leipzig|Ein Frankfurt", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|10/10/2026|Man United|Tottenham", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "EC|10/10/2026|Forest Green|Hartlepool", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|10/10/2026|AEK|OFI Crete", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|10/10/2026|Asteras Tripolis|Atromitos", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|10/10/2026|Barcelona|Getafe", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|10/10/2026|Eldense|Cordoba", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|10/10/2026|Feyenoord|AZ Alkmaar", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|10/10/2026|Maritimo|Porto", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|10/10/2026|Arezzo|Cremonese", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|10/10/2026|St Etienne|Rodez", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|10/10/2026|For Sittard|Twente", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|10/10/2026|Nurnberg|Wolfsburg", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|10/10/2026|Genk|Kortrijk", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|10/10/2026|Waregem|Gent", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|10/10/2026|Brest|Angers", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|10/10/2026|Lorient|Paris FC", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|10/10/2026|Monaco|Toulouse", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|10/10/2026|Paris SG|Le Mans", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|10/10/2026|Napoli|Frosinone", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|10/10/2026|Ajax|Nijmegen", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|10/10/2026|Real Madrid|Villarreal", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|10/10/2026|Celta B|Sociedad B", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "lock", "match_key": "P1|10/10/2026|Academico Viseu|Estoril", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|11/10/2026|Utrecht|Willem II", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|11/10/2026|Como|Roma", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|11/10/2026|Konyaspor|Buyuksehyr", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E1|11/10/2026|Southampton|Portsmouth", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|11/10/2026|Motherwell|Celtic", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|11/10/2026|Standard|Charleroi", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|11/10/2026|Bochum|Bielefeld", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|11/10/2026|Hertha|Greuther Furth", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D2|11/10/2026|St Pauli|Karlsruhe", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|11/10/2026|Elche|Celta", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|11/10/2026|Andorra|Castellon", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|11/10/2026|Telstar|Den Haag", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|11/10/2026|Zwolle|Cambuur", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|11/10/2026|Crystal Palace|Nott'm Forest", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|11/10/2026|Hull|Everton", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|11/10/2026|Nice|Strasbourg", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|11/10/2026|Lazio|Monza", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|11/10/2026|Lecce|Bologna", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|11/10/2026|Catanzaro|Mantova", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SC0|11/10/2026|Aberdeen|St Johnstone", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|11/10/2026|Gaziantep|Corum", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|11/10/2026|FC Koln|M'gladbach", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|11/10/2026|St. Gilloise|Oud-Heverlee Leuven", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|11/10/2026|Iraklis|Levadeiakos", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|11/10/2026|Kifisia|Panetolikos", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|11/10/2026|Sociedad|La Coruna", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|11/10/2026|Almeria|Leganes", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|11/10/2026|Rio Ave|Nacional", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "N1|11/10/2026|Excelsior|Groningen", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|11/10/2026|Rennes|Auxerre", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|11/10/2026|Padova|Carrarese", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "D1|11/10/2026|Freiburg|Schalke 04", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|11/10/2026|Liverpool|Man City", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|11/10/2026|Aris|Volos NFC", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|11/10/2026|Sassuolo|Milan", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|11/10/2026|Besiktas|Kocaelispor", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|11/10/2026|Westerlo|Antwerp", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|11/10/2026|Betis|Osasuna", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|11/10/2026|Mallorca|Las Palmas", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|11/10/2026|Benfica|Guimaraes", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "B1|11/10/2026|Mechelen|St Truiden", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I2|11/10/2026|Modena|Verona", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|11/10/2026|Olympiakos|Panathinaikos", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F1|11/10/2026|Troyes|Marseille", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|11/10/2026|Cagliari|Juventus", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|11/10/2026|Santander|Valencia", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|11/10/2026|Cadiz|Sp Gijon", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|11/10/2026|Arouca|Estrela", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|12/10/2026|Valladolid|Albacete", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|12/10/2026|Burgos|Granada", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "G1|12/10/2026|PAOK|Kalamata", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|12/10/2026|Atalanta|Venezia", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|12/10/2026|Oviedo|Eibar", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "T1|12/10/2026|Eyupspor|Goztep", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "F2|12/10/2026|Dijon|Metz", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "I1|12/10/2026|Torino|Udinese", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "E0|12/10/2026|Coventry|Newcastle", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP1|12/10/2026|Levante|Sevilla", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "SP2|12/10/2026|Tenerife|Girona", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
+{"ts": "2026-10-10T19:18:37+00:00", "action": "refresh", "match_key": "P1|12/10/2026|Famalicao|Alverca", "fingerprint": "bfa183fa1454-2e729a3fe8ad-198387-s5:a9ff1755c372-821d78d72d8b-175995"}
