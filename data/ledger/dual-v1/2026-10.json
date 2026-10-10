@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 65,
+ "count": 68,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2146,6 +2146,105 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.05,
+   "stake": 100
+  },
+  {
+   "match_key": "D2|10/10/2026|Darmstadt|Cottbus",
+   "version": "dual-v2",
+   "div": "D2",
+   "home": "Darmstadt",
+   "away": "Cottbus",
+   "kickoff_utc": "2026-10-10T11:00:00+00:00",
+   "locked_at": "2026-10-10T05:00:02.689261+00:00",
+   "p_a": [
+    0.4646,
+    0.2649,
+    0.2704
+   ],
+   "lambda": [
+    1.628,
+    1.783
+   ],
+   "p_b_d": 0.237752600014504,
+   "p_final": [
+    0.473243266689293,
+    0.251326300007252,
+    0.275430433303454
+   ],
+   "prediction": "home",
+   "odds": [
+    2.2,
+    3.5,
+    2.8
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.2,
+   "stake": 100
+  },
+  {
+   "match_key": "D2|10/10/2026|Magdeburg|Hannover",
+   "version": "dual-v2",
+   "div": "D2",
+   "home": "Magdeburg",
+   "away": "Hannover",
+   "kickoff_utc": "2026-10-10T11:00:00+00:00",
+   "locked_at": "2026-10-10T05:00:02.689261+00:00",
+   "p_a": [
+    0.3582,
+    0.2732,
+    0.3686
+   ],
+   "lambda": [
+    1.692,
+    1.151
+   ],
+   "p_b_d": 0.252604292414593,
+   "p_final": [
+    0.36327524935133,
+    0.262902146207297,
+    0.373822604441374
+   ],
+   "prediction": "away",
+   "odds": [
+    2.45,
+    3.8,
+    2.45
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.45,
+   "stake": 100
+  },
+  {
+   "match_key": "D2|10/10/2026|Osnabruck|Dresden",
+   "version": "dual-v2",
+   "div": "D2",
+   "home": "Osnabruck",
+   "away": "Dresden",
+   "kickoff_utc": "2026-10-10T11:00:00+00:00",
+   "locked_at": "2026-10-10T05:00:02.689261+00:00",
+   "p_a": [
+    0.3473,
+    0.2692,
+    0.3836
+   ],
+   "lambda": [
+    1.927,
+    1.321
+   ],
+   "p_b_d": 0.234088580863574,
+   "p_final": [
+    0.355594387649528,
+    0.251644290431787,
+    0.392761321918684
+   ],
+   "prediction": "away",
+   "odds": [
+    2.55,
+    3.6,
+    2.4
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.4,
    "stake": 100
   }
  ]
