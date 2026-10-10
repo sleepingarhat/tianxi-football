@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 78,
+ "count": 81,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2575,6 +2575,105 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.48,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|10/10/2026|Clermont|Red Star",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Clermont",
+   "away": "Red Star",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "p_a": [
+    0.3058,
+    0.2839,
+    0.4103
+   ],
+   "lambda": [
+    1.291,
+    1.092
+   ],
+   "p_b_d": 0.28763962059208,
+   "p_final": [
+    0.305001524942705,
+    0.28576981029604,
+    0.409228664761255
+   ],
+   "prediction": "away",
+   "odds": [
+    3.4,
+    3,
+    2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|10/10/2026|Nantes|Reims",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Nantes",
+   "away": "Reims",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "p_a": [
+    0.3136,
+    0.2878,
+    0.3986
+   ],
+   "lambda": [
+    1.513,
+    1.423
+   ],
+   "p_b_d": 0.257806413041961,
+   "p_final": [
+    0.320203474354143,
+    0.272803206520981,
+    0.406993319124877
+   ],
+   "prediction": "away",
+   "odds": [
+    2.05,
+    3.2,
+    3.3
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.3,
+   "stake": 100
+  },
+  {
+   "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao",
+   "version": "dual-v2",
+   "div": "SP1",
+   "home": "Vallecano",
+   "away": "Ath Bilbao",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "p_a": [
+    0.4143,
+    0.2923,
+    0.2934
+   ],
+   "lambda": [
+    1.439,
+    1.361
+   ],
+   "p_b_d": 0.264546111227131,
+   "p_final": [
+    0.422423806781546,
+    0.278423055613566,
+    0.299153137604889
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.7,
+    3.4,
+    2.6
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
    "stake": 100
   }
  ]
