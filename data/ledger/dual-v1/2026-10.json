@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 64,
+ "count": 65,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2113,6 +2113,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.25,
+   "stake": 100
+  },
+  {
+   "match_key": "T1|10/10/2026|Genclerbirligi|Amedspor",
+   "version": "dual-v2",
+   "div": "T1",
+   "home": "Genclerbirligi",
+   "away": "Amedspor",
+   "kickoff_utc": "2026-10-10T10:30:00+00:00",
+   "locked_at": "2026-10-10T04:30:05.447741+00:00",
+   "p_a": [
+    0.4284,
+    0.269,
+    0.3026
+   ],
+   "lambda": [
+    1.358,
+    1.905
+   ],
+   "p_b_d": 0.235468371326393,
+   "p_final": [
+    0.438225547006685,
+    0.252234185663196,
+    0.309540267330119
+   ],
+   "prediction": "away",
+   "odds": [
+    3.1,
+    3.3,
+    2.05
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.05,
    "stake": 100
   }
  ]
