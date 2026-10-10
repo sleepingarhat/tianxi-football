@@ -1,7 +1,7 @@
 {
  "table": "football_lineup_snapshots",
  "month": "2026-10",
- "count": 154,
+ "count": 156,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -25913,400 +25913,400 @@
    }
   },
   {
-   "match_key": "E3|10/10/2026|Swindon|Crewe",
-   "bsd_event_id": 224655,
+   "match_key": "EC|10/10/2026|Altrincham|Aldershot",
+   "bsd_event_id": 588245,
    "captured_at": "2026-10-10T05:30:38.140952+00:00",
    "kickoff_utc": "2026-10-10T11:30:00+00:00",
-   "div": "E3",
-   "home": "Swindon",
-   "away": "Crewe",
+   "div": "EC",
+   "home": "Altrincham",
+   "away": "Aldershot",
    "lineup_status": "predicted",
    "lineups": {
     "away": {
      "players": [
       {
-       "id": 34234,
-       "name": "Tom Booth",
-       "ai_score": 0.874,
+       "id": 46532,
+       "name": "Nick Hayes",
+       "ai_score": 0.03,
        "position": "G",
-       "short_name": "T. Booth",
+       "short_name": "N. Hayes",
        "jersey_number": 1
       },
       {
-       "id": 46470,
-       "name": "Reece Hutchinson",
-       "ai_score": 0.582,
+       "id": 60829,
+       "name": "Jack Matton",
+       "ai_score": 0.05,
        "position": "D",
-       "short_name": "R. Hutchinson",
-       "jersey_number": 3
+       "short_name": "J. Matton",
+       "jersey_number": 16
       },
       {
-       "id": 28497,
-       "name": "Luke Offord",
-       "ai_score": 0.82,
+       "id": 33557,
+       "name": "Michael Stickland",
+       "ai_score": 0.05,
        "position": "D",
-       "short_name": "L. Offord",
-       "jersey_number": 6
-      },
-      {
-       "id": 13723,
-       "name": "Joshua Stephenson",
-       "ai_score": 0.765,
-       "position": "D",
-       "short_name": "J. Stephenson",
+       "short_name": "M. Stickland",
        "jersey_number": 12
       },
       {
-       "id": 34229,
-       "name": "Lewis Billington",
-       "ai_score": 0.801,
+       "id": 42828,
+       "name": "Dominic Odusanya",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "D. Odusanya",
+       "jersey_number": 6
+      },
+      {
+       "id": 50461,
+       "name": "Nino Adom-Malaki",
+       "ai_score": 0.05,
        "position": "D",
-       "short_name": "L. Billington",
-       "jersey_number": 2
+       "short_name": "S. Adom-Malaki",
+       "jersey_number": 18
       },
       {
-       "id": 46471,
-       "name": "Matúš Holíček",
-       "ai_score": 0.749,
+       "id": 42906,
+       "name": "Brody Peart",
+       "ai_score": 0.05,
        "position": "M",
-       "short_name": "M. Holíček",
-       "jersey_number": 17
+       "short_name": "B. Peart",
+       "jersey_number": 21
       },
       {
-       "id": 34046,
-       "name": "Joe White",
-       "ai_score": 0.576,
+       "id": 63566,
+       "name": "Conor Lawless",
+       "ai_score": 0.05,
        "position": "M",
-       "short_name": "J. White",
-       "jersey_number": 10
-      },
-      {
-       "id": 27341,
-       "name": "Jordan Gibson",
-       "ai_score": 0.56,
-       "position": "M",
-       "short_name": "J. Gibson",
-       "jersey_number": 14
-      },
-      {
-       "id": 62785,
-       "name": "Jack Lankester",
-       "ai_score": 0.675,
-       "position": "M",
-       "short_name": "J. Lankester",
-       "jersey_number": 7
-      },
-      {
-       "id": 62788,
-       "name": "Joel Tabiner",
-       "ai_score": 0.562,
-       "position": "M",
-       "short_name": "J. Tabiner",
-       "jersey_number": 11
-      },
-      {
-       "id": 34236,
-       "name": "Josh March",
-       "ai_score": 0.79,
-       "position": "F",
-       "short_name": "J. March",
-       "jersey_number": 9
-      }
-     ],
-     "team_id": 1448,
-     "formation": "4-2-3-1",
-     "team_name": "Crewe Alexandra",
-     "confidence": 0.818,
-     "substitutes": [
-      {
-       "id": 34230,
-       "name": "Calum Agius",
-       "ai_score": 0.531,
-       "position": "M",
-       "short_name": "C. Agius",
-       "jersey_number": 20
-      },
-      {
-       "id": 46468,
-       "name": "Mickey Demetriou",
-       "ai_score": 0.438,
-       "position": "D",
-       "short_name": "M. Demetriou",
-       "jersey_number": 5
-      },
-      {
-       "id": 34227,
-       "name": "Adrien Thibaut",
-       "ai_score": 0.42,
-       "position": "F",
-       "short_name": "A. Thibaut",
-       "jersey_number": 29
-      },
-      {
-       "id": 66914,
-       "name": "Kyle Ure",
-       "ai_score": 0.417,
-       "position": "M",
-       "short_name": "K. Ure",
-       "jersey_number": 4
-      },
-      {
-       "id": 6170,
-       "name": "Charlie McNeill",
-       "ai_score": 0.359,
-       "position": "F",
-       "short_name": "C. McNeill",
+       "short_name": "C. Lawless",
        "jersey_number": 23
       },
       {
-       "id": 205732,
-       "name": "Joel Ewusi",
-       "ai_score": 0.272,
+       "id": 29012,
+       "name": "Jacob Borgnis",
+       "ai_score": 0.035,
        "position": "M",
-       "short_name": "J. Ewusi",
-       "jersey_number": 36
+       "short_name": "J. Borgnis",
+       "jersey_number": 4
       },
       {
-       "id": 34219,
-       "name": "Stan Dancey",
-       "ai_score": 0.272,
+       "id": 33987,
+       "name": "Marcus Wyllie",
+       "ai_score": 0.05,
+       "position": "F",
+       "short_name": "M. Wyllie",
+       "jersey_number": 20
+      },
+      {
+       "id": 42904,
+       "name": "Tristan Abrahams",
+       "ai_score": 0.05,
+       "position": "F",
+       "short_name": "T. Abrahams",
+       "jersey_number": 7
+      },
+      {
+       "id": 33655,
+       "name": "Marcus Dinanga",
+       "ai_score": 0.045,
+       "position": "F",
+       "short_name": "M. Dinanga",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1883,
+     "formation": "3-4-3",
+     "team_name": "Aldershot Town",
+     "confidence": 0.464,
+     "substitutes": [
+      {
+       "id": 42766,
+       "name": "Tyrese Dyce",
+       "ai_score": 0.05,
        "position": "D",
-       "short_name": "S. Dancey",
-       "jersey_number": 30
+       "short_name": "T. Dyce",
+       "jersey_number": 17
       },
       {
-       "id": 34226,
-       "name": "Owen Lunt",
-       "ai_score": 0.266,
+       "id": 60980,
+       "name": "Hakeem Sandah",
+       "ai_score": 0.045,
        "position": "M",
-       "short_name": "O. Lunt",
+       "short_name": "H. Sandah",
+       "jersey_number": 11
+      },
+      {
+       "id": 75770,
+       "name": "Elijah Oladunjoye",
+       "ai_score": 0.035,
+       "position": "D",
+       "short_name": "E. Oladunjoye",
+       "jersey_number": 24
+      },
+      {
+       "id": 50462,
+       "name": "Kiki Oshilaja",
+       "ai_score": 0.035,
+       "position": "D",
+       "short_name": "K. Oshilaja",
+       "jersey_number": 5
+      },
+      {
+       "id": 30013,
+       "name": "Michee Efete",
+       "ai_score": 0.035,
+       "position": "D",
+       "short_name": "M. Efete",
+       "jersey_number": 2
+      },
+      {
+       "id": 37031,
+       "name": "Basil Tuma",
+       "ai_score": 0.03,
+       "position": "F",
+       "short_name": "Tuma",
+       "jersey_number": 10
+      },
+      {
+       "id": 210034,
+       "name": "Alfonso Tenconi",
+       "ai_score": 0.015,
+       "position": "D",
+       "short_name": "A. Tenconi",
        "jersey_number": 19
       },
       {
-       "id": 73733,
-       "name": "Patrick Mlynarski",
-       "ai_score": 0.261,
-       "position": "F",
-       "short_name": "P. Mlynarski",
-       "jersey_number": 27
-      },
-      {
-       "id": 34224,
-       "name": "Luca Moore",
-       "ai_score": 0.229,
-       "position": "M",
-       "short_name": "L. Moore",
-       "jersey_number": 32
-      },
-      {
-       "id": 46469,
-       "name": "Conor Thomas",
-       "ai_score": 0.136,
-       "position": "M",
-       "short_name": "C. Thomas",
-       "jersey_number": 8
-      },
-      {
-       "id": 33509,
-       "name": "Ian Lawlor",
-       "ai_score": 0.035,
+       "id": 60981,
+       "name": "Charlie Patmore",
+       "ai_score": 0.015,
        "position": "G",
-       "short_name": "I. Lawlor",
+       "short_name": "C. Patmore",
        "jersey_number": 13
+      },
+      {
+       "id": 140360,
+       "name": "Elijah Oladunjoye",
+       "ai_score": 0.015,
+       "position": "D",
+       "short_name": "E. Oladunjoye",
+       "jersey_number": 24
+      },
+      {
+       "id": 52356,
+       "name": "Kwaku Frimpong",
+       "ai_score": 0.015,
+       "position": "M",
+       "short_name": "K. Frimpong",
+       "jersey_number": 15
+      },
+      {
+       "id": 140359,
+       "name": "Mohammed Idris Oshilaja",
+       "ai_score": 0.01,
+       "position": "D",
+       "short_name": "M. I. Oshilaja",
+       "jersey_number": 5
+      },
+      {
+       "id": 102974,
+       "name": "Ollie Harfield",
+       "ai_score": 0.01,
+       "position": "D",
+       "short_name": "O. Harfield",
+       "jersey_number": 3
       }
      ]
     },
     "home": {
      "players": [
       {
-       "id": 34001,
-       "name": "Connor Ripley",
-       "ai_score": 0.877,
+       "id": 125402,
+       "name": "Andrew Firth",
+       "ai_score": 0.05,
        "position": "G",
-       "short_name": "C. Ripley",
-       "jersey_number": 1
+       "short_name": "A. Firth",
+       "jersey_number": null
       },
       {
-       "id": 34025,
-       "name": "Dan Butler",
-       "ai_score": 0.556,
-       "position": "D",
-       "short_name": "D. Butler",
-       "jersey_number": 26
-      },
-      {
-       "id": 16447,
-       "name": "Stephan Negru",
-       "ai_score": 0.875,
-       "position": "D",
-       "short_name": "S. Negru",
-       "jersey_number": 5
-      },
-      {
-       "id": 100512,
-       "name": "Kaelan Majekodunmi",
-       "ai_score": 0.71,
-       "position": "D",
-       "short_name": "K. A. M. Majekodunmi",
-       "jersey_number": 21
-      },
-      {
-       "id": 33499,
-       "name": "Mitchell Clark",
-       "ai_score": 0.658,
+       "id": 62122,
+       "name": "Aidan Barlow",
+       "ai_score": 0.05,
        "position": "M",
-       "short_name": "M. Clark",
-       "jersey_number": 2
-      },
-      {
-       "id": 34012,
-       "name": "Ollie Clarke",
-       "ai_score": 0.598,
-       "position": "M",
-       "short_name": "O. Clarke",
-       "jersey_number": 8
-      },
-      {
-       "id": 36724,
-       "name": "Anthony Munda",
-       "ai_score": 0.68,
-       "position": "M",
-       "short_name": "A. Munda",
-       "jersey_number": 27
-      },
-      {
-       "id": 6006,
-       "name": "Jack Thomson",
-       "ai_score": 0.649,
-       "position": "M",
-       "short_name": "J. Thomson",
-       "jersey_number": 25
-      },
-      {
-       "id": 34008,
-       "name": "Paul Glatzel",
-       "ai_score": 0.422,
-       "position": "F",
-       "short_name": "P. Glatzel",
-       "jersey_number": 9
-      },
-      {
-       "id": 34019,
-       "name": "Aaron Drinan",
-       "ai_score": 0.85,
-       "position": "F",
-       "short_name": "A. Drinan",
-       "jersey_number": 23
-      },
-      {
-       "id": 29926,
-       "name": "Joseph Hungbo",
-       "ai_score": 0.366,
-       "position": "F",
-       "short_name": "J. Hungbo",
-       "jersey_number": 15
-      }
-     ],
-     "team_id": 1440,
-     "formation": "4-3-3",
-     "team_name": "Swindon Town",
-     "confidence": 0.723,
-     "substitutes": [
-      {
-       "id": 37365,
-       "name": "Billy Kirkman",
-       "ai_score": 0.51,
-       "position": "D",
-       "short_name": "B. Kirkman",
-       "jersey_number": 34
-      },
-      {
-       "id": 33836,
-       "name": "Matthew Virtue-Thick",
-       "ai_score": 0.396,
-       "position": "M",
-       "short_name": "M. Virtue-Thick",
-       "jersey_number": 24
-      },
-      {
-       "id": 34007,
-       "name": "James Ball",
-       "ai_score": 0.393,
-       "position": "D",
-       "short_name": "J. Ball",
-       "jersey_number": 6
-      },
-      {
-       "id": 37363,
-       "name": "Ryan Tafazolli",
-       "ai_score": 0.37,
-       "position": "D",
-       "short_name": "R. Tafazolli",
-       "jersey_number": 17
-      },
-      {
-       "id": 33686,
-       "name": "Ben Middlemas",
-       "ai_score": 0.362,
-       "position": "M",
-       "short_name": "B. Middlemas",
-       "jersey_number": 20
-      },
-      {
-       "id": 34017,
-       "name": "Tom Nichols",
-       "ai_score": 0.361,
-       "position": "M",
-       "short_name": "T. Nichols",
-       "jersey_number": 7
-      },
-      {
-       "id": 34016,
-       "name": "Joe Snowdon",
-       "ai_score": 0.358,
-       "position": "M",
-       "short_name": "J. Snowdon",
-       "jersey_number": 19
-      },
-      {
-       "id": 33897,
-       "name": "Ollie Palmer",
-       "ai_score": 0.291,
-       "position": "F",
-       "short_name": "O. Palmer",
-       "jersey_number": 28
-      },
-      {
-       "id": 33788,
-       "name": "Antwoine Hackford",
-       "ai_score": 0.281,
-       "position": "F",
-       "short_name": "A. Hackford",
-       "jersey_number": 29
-      },
-      {
-       "id": 8585,
-       "name": "James Debayo",
-       "ai_score": 0.252,
-       "position": "D",
-       "short_name": "J. Debayo",
+       "short_name": "A. Barlow",
        "jersey_number": 18
       },
       {
-       "id": 12089,
-       "name": "Jaylan Pearman",
-       "ai_score": 0.221,
+       "id": 42945,
+       "name": "Jake Southern-Cooper",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "J. Southern-Cooper",
+       "jersey_number": 5
+      },
+      {
+       "id": 185462,
+       "name": "Reuben Lopata White",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "R. L. White",
+       "jersey_number": 26
+      },
+      {
+       "id": 48103,
+       "name": "Lewis Banks",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "L. Banks",
+       "jersey_number": 2
+      },
+      {
+       "id": 34101,
+       "name": "Jack Hinchy",
+       "ai_score": 0.05,
        "position": "M",
-       "short_name": "J. Pearman",
+       "short_name": "J. Hinchy",
+       "jersey_number": 32
+      },
+      {
+       "id": 42926,
+       "name": "Kian Breckin",
+       "ai_score": 0.045,
+       "position": "M",
+       "short_name": "K. Breckin",
+       "jersey_number": 12
+      },
+      {
+       "id": 42933,
+       "name": "Tom Crawford",
+       "ai_score": 0.045,
+       "position": "M",
+       "short_name": "T. Crawford",
        "jersey_number": 22
       },
       {
-       "id": 73618,
-       "name": "Louis Millard",
-       "ai_score": 0.214,
+       "id": 42924,
+       "name": "Charlie Kirk",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "C. Kirk",
+       "jersey_number": 40
+      },
+      {
+       "id": 42923,
+       "name": "Jimmy Knowles",
+       "ai_score": 0.05,
        "position": "F",
-       "short_name": "L. Millard",
-       "jersey_number": 39
+       "short_name": "J. Knowles",
+       "jersey_number": 11
+      },
+      {
+       "id": 42931,
+       "name": "Kahrel Reddin",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "K. Reddin",
+       "jersey_number": 20
+      }
+     ],
+     "team_id": 1896,
+     "formation": "3-4-2-1",
+     "team_name": "Altrincham FC",
+     "confidence": 0.491,
+     "substitutes": [
+      {
+       "id": 42936,
+       "name": "Matty Kosylo",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "M. Kosylo",
+       "jersey_number": 14
+      },
+      {
+       "id": 24176,
+       "name": "Sam Taylor",
+       "ai_score": 0.05,
+       "position": "M",
+       "short_name": "S. Taylor",
+       "jersey_number": 32
+      },
+      {
+       "id": 35379,
+       "name": "Kane Hemmings",
+       "ai_score": 0.04,
+       "position": "F",
+       "short_name": "K. Hemmings",
+       "jersey_number": null
+      },
+      {
+       "id": 42930,
+       "name": "Liam Humbles",
+       "ai_score": 0.04,
+       "position": "M",
+       "short_name": "L. Humbles",
+       "jersey_number": 27
+      },
+      {
+       "id": 42925,
+       "name": "Otis Khan",
+       "ai_score": 0.04,
+       "position": "M",
+       "short_name": "O. Khan",
+       "jersey_number": 10
+      },
+      {
+       "id": 42922,
+       "name": "Lucas Weaver",
+       "ai_score": 0.03,
+       "position": "F",
+       "short_name": "L. Weaver",
+       "jersey_number": 17
+      },
+      {
+       "id": 52358,
+       "name": "Sam Barnes",
+       "ai_score": 0.03,
+       "position": "D",
+       "short_name": "S. Barnes",
+       "jersey_number": 24
+      },
+      {
+       "id": 34288,
+       "name": "Owen Evans",
+       "ai_score": 0.025,
+       "position": "G",
+       "short_name": "O. Evans",
+       "jersey_number": 13
+      },
+      {
+       "id": 42937,
+       "name": "Remi Raymond",
+       "ai_score": 0.02,
+       "position": "M",
+       "short_name": "R. Raymond",
+       "jersey_number": 16
+      },
+      {
+       "id": 142237,
+       "name": "Michael Acquah",
+       "ai_score": 0.015,
+       "position": "G",
+       "short_name": "M. Acquah",
+       "jersey_number": null
+      },
+      {
+       "id": 42927,
+       "name": "Anthony Forde",
+       "ai_score": 0.01,
+       "position": "M",
+       "short_name": "A. Forde",
+       "jersey_number": 26
+      },
+      {
+       "id": 33756,
+       "name": "Harry Isted",
+       "ai_score": 0.01,
+       "position": "G",
+       "short_name": "H. Isted",
+       "jersey_number": null
       }
      ]
     }
@@ -26317,156 +26317,156 @@
    },
    "bsd_prediction": null,
    "error": null,
-   "bsd_latency_ms": 770,
+   "bsd_latency_ms": 396,
    "context": {
     "h2h": {
-     "draws": 6,
-     "away_wins": 11,
-     "home_wins": 12,
-     "away_goals": 35,
-     "home_goals": 50,
-     "away_win_rate": 0.3793103448275862,
-     "home_win_rate": 0.41379310344827586,
-     "total_matches": 29,
+     "draws": 2,
+     "away_wins": 8,
+     "home_wins": 6,
+     "away_goals": 23,
+     "home_goals": 21,
+     "away_win_rate": 0.5,
+     "home_win_rate": 0.375,
+     "total_matches": 16,
      "recent_matches": [
       {
-       "away": "Crewe Alexandra",
-       "date": "2026-02-21T12:30:00+00:00",
-       "home": "Swindon Town",
+       "away": "Altrincham FC",
+       "date": "2025-12-06T15:00:00+00:00",
+       "home": "Aldershot Town",
+       "score": "2-1",
+       "event_id": 588917,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1896,
+       "home_team_id": 1883
+      },
+      {
+       "away": "Aldershot Town",
+       "date": "2025-08-09T14:00:00+00:00",
+       "home": "Altrincham FC",
+       "score": "3-2",
+       "event_id": 588652,
+       "away_score": 2,
+       "home_score": 3,
+       "away_team_id": 1883,
+       "home_team_id": 1896
+      },
+      {
+       "away": "Aldershot Town",
+       "date": "2025-03-15T15:00:00+00:00",
+       "home": "Altrincham FC",
        "score": "1-2",
-       "event_id": 228298,
+       "event_id": 589739,
        "away_score": 2,
        "home_score": 1,
-       "away_team_id": 1448,
-       "home_team_id": 1440
+       "away_team_id": 1883,
+       "home_team_id": 1896
       },
       {
-       "away": "Swindon Town",
-       "date": "2025-08-30T11:30:00+00:00",
-       "home": "Crewe Alexandra",
-       "score": "0-3",
-       "event_id": 227935,
-       "away_score": 3,
-       "home_score": 0,
-       "away_team_id": 1440,
-       "home_team_id": 1448
-      },
-      {
-       "away": "Crewe Alexandra",
-       "date": "2025-01-11T15:00:00+00:00",
-       "home": "Swindon Town",
-       "score": "0-0",
-       "event_id": 235108,
-       "away_score": 0,
-       "home_score": 0,
-       "away_team_id": 1448,
-       "home_team_id": 1440
-      },
-      {
-       "away": "Swindon Town",
-       "date": "2024-08-24T11:30:00+00:00",
-       "home": "Crewe Alexandra",
-       "score": "0-0",
-       "event_id": 234804,
-       "away_score": 0,
-       "home_score": 0,
-       "away_team_id": 1440,
-       "home_team_id": 1448
-      },
-      {
-       "away": "Swindon Town",
-       "date": "2024-01-13T15:00:00+00:00",
-       "home": "Crewe Alexandra",
+       "away": "Altrincham FC",
+       "date": "2024-11-23T15:00:00+00:00",
+       "home": "Aldershot Town",
        "score": "2-1",
-       "event_id": 244699,
+       "event_id": 589476,
        "away_score": 1,
        "home_score": 2,
-       "away_team_id": 1440,
-       "home_team_id": 1448
+       "away_team_id": 1896,
+       "home_team_id": 1883
       },
       {
-       "away": "Crewe Alexandra",
-       "date": "2023-08-12T14:00:00+00:00",
-       "home": "Swindon Town",
+       "away": "Altrincham FC",
+       "date": "2024-02-17T17:30:00+00:00",
+       "home": "Aldershot Town",
+       "score": "2-0",
+       "event_id": 590308,
+       "away_score": 0,
+       "home_score": 2,
+       "away_team_id": 1896,
+       "home_team_id": 1883
+      },
+      {
+       "away": "Aldershot Town",
+       "date": "2023-10-03T18:45:00+00:00",
+       "home": "Altrincham FC",
+       "score": "2-1",
+       "event_id": 590009,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1883,
+       "home_team_id": 1896
+      },
+      {
+       "away": "Altrincham FC",
+       "date": "2023-04-29T16:30:00+00:00",
+       "home": "Aldershot Town",
+       "score": "1-1",
+       "event_id": 591106,
+       "away_score": 1,
+       "home_score": 1,
+       "away_team_id": 1896,
+       "home_team_id": 1883
+      },
+      {
+       "away": "Aldershot Town",
+       "date": "2022-09-24T14:00:00+00:00",
+       "home": "Altrincham FC",
+       "score": "1-0",
+       "event_id": 590613,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 1883,
+       "home_team_id": 1896
+      },
+      {
+       "away": "Aldershot Town",
+       "date": "2022-03-26T15:00:00+00:00",
+       "home": "Altrincham FC",
+       "score": "1-0",
+       "event_id": 591582,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 1883,
+       "home_team_id": 1896
+      },
+      {
+       "away": "Altrincham FC",
+       "date": "2021-12-04T15:00:00+00:00",
+       "home": "Aldershot Town",
        "score": "2-2",
-       "event_id": 244374,
+       "event_id": 591341,
        "away_score": 2,
        "home_score": 2,
-       "away_team_id": 1448,
-       "home_team_id": 1440
-      },
-      {
-       "away": "Swindon Town",
-       "date": "2023-04-29T14:00:00+00:00",
-       "home": "Crewe Alexandra",
-       "score": "2-1",
-       "event_id": 256103,
-       "away_score": 1,
-       "home_score": 2,
-       "away_team_id": 1440,
-       "home_team_id": 1448
-      },
-      {
-       "away": "Crewe Alexandra",
-       "date": "2022-11-19T15:00:00+00:00",
-       "home": "Swindon Town",
-       "score": "0-1",
-       "event_id": 255759,
-       "away_score": 1,
-       "home_score": 0,
-       "away_team_id": 1448,
-       "home_team_id": 1440
-      },
-      {
-       "away": "Swindon Town",
-       "date": "2021-11-06T15:00:00+00:00",
-       "home": "Crewe Alexandra",
-       "score": "0-3",
-       "event_id": 267056,
-       "away_score": 3,
-       "home_score": 0,
-       "away_team_id": 1440,
-       "home_team_id": 1448
-      },
-      {
-       "away": "Crewe Alexandra",
-       "date": "2021-02-20T15:00:00+00:00",
-       "home": "Swindon Town",
-       "score": "2-1",
-       "event_id": 280259,
-       "away_score": 1,
-       "home_score": 2,
-       "away_team_id": 1448,
-       "home_team_id": 1440
+       "away_team_id": 1896,
+       "home_team_id": 1883
       }
      ],
-     "avg_total_goals": 2.9310344827586206
+     "avg_total_goals": 2.75
     },
     "odds": {
-     "draw": 3.42,
-     "btts_no": 2.26,
-     "away_win": 2.51,
-     "btts_yes": 1.57,
-     "home_win": 2.53,
-     "over_15_goals": 1.2,
-     "over_25_goals": 1.73,
-     "over_35_goals": 2.76,
-     "under_15_goals": 4.12,
-     "under_25_goals": 2.05,
-     "under_35_goals": 1.4
+     "draw": 3.63,
+     "btts_no": 2.35,
+     "away_win": 3.57,
+     "btts_yes": 1.52,
+     "home_win": 1.84,
+     "over_15_goals": 1.15,
+     "over_25_goals": 1.56,
+     "over_35_goals": 2.35,
+     "under_15_goals": 4.81,
+     "under_25_goals": 2.31,
+     "under_35_goals": 1.52
     },
     "derby": false,
-    "round": "Regular season · Matchday 10",
+    "round": "Regular season · Matchday 13",
     "neutral": false,
     "odds_at": "2026-10-10T05:20:08Z",
     "referee": null,
     "weather": {
-     "code": null,
-     "wind_speed": null,
-     "description": null,
-     "temperature_c": null
+     "code": 3,
+     "wind_speed": 3.3,
+     "description": "rain",
+     "temperature_c": 15
     },
-    "travel_km": 176,
+    "travel_km": 261,
     "pitch_condition": null
    }
   },
@@ -30838,400 +30838,400 @@
    }
   },
   {
-   "match_key": "EC|10/10/2026|Altrincham|Aldershot",
-   "bsd_event_id": 588245,
+   "match_key": "E3|10/10/2026|Swindon|Crewe",
+   "bsd_event_id": 224655,
    "captured_at": "2026-10-10T05:30:38.140952+00:00",
    "kickoff_utc": "2026-10-10T11:30:00+00:00",
-   "div": "EC",
-   "home": "Altrincham",
-   "away": "Aldershot",
+   "div": "E3",
+   "home": "Swindon",
+   "away": "Crewe",
    "lineup_status": "predicted",
    "lineups": {
     "away": {
      "players": [
       {
-       "id": 46532,
-       "name": "Nick Hayes",
-       "ai_score": 0.03,
+       "id": 34234,
+       "name": "Tom Booth",
+       "ai_score": 0.874,
        "position": "G",
-       "short_name": "N. Hayes",
+       "short_name": "T. Booth",
        "jersey_number": 1
       },
       {
-       "id": 60829,
-       "name": "Jack Matton",
-       "ai_score": 0.05,
+       "id": 46470,
+       "name": "Reece Hutchinson",
+       "ai_score": 0.582,
        "position": "D",
-       "short_name": "J. Matton",
-       "jersey_number": 16
+       "short_name": "R. Hutchinson",
+       "jersey_number": 3
       },
       {
-       "id": 33557,
-       "name": "Michael Stickland",
-       "ai_score": 0.05,
+       "id": 28497,
+       "name": "Luke Offord",
+       "ai_score": 0.82,
        "position": "D",
-       "short_name": "M. Stickland",
-       "jersey_number": 12
-      },
-      {
-       "id": 42828,
-       "name": "Dominic Odusanya",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "D. Odusanya",
+       "short_name": "L. Offord",
        "jersey_number": 6
       },
       {
-       "id": 50461,
-       "name": "Nino Adom-Malaki",
-       "ai_score": 0.05,
+       "id": 13723,
+       "name": "Joshua Stephenson",
+       "ai_score": 0.765,
        "position": "D",
-       "short_name": "S. Adom-Malaki",
-       "jersey_number": 18
+       "short_name": "J. Stephenson",
+       "jersey_number": 12
       },
       {
-       "id": 42906,
-       "name": "Brody Peart",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "B. Peart",
-       "jersey_number": 21
-      },
-      {
-       "id": 63566,
-       "name": "Conor Lawless",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "C. Lawless",
-       "jersey_number": 23
-      },
-      {
-       "id": 29012,
-       "name": "Jacob Borgnis",
-       "ai_score": 0.035,
-       "position": "M",
-       "short_name": "J. Borgnis",
-       "jersey_number": 4
-      },
-      {
-       "id": 33987,
-       "name": "Marcus Wyllie",
-       "ai_score": 0.05,
-       "position": "F",
-       "short_name": "M. Wyllie",
-       "jersey_number": 20
-      },
-      {
-       "id": 42904,
-       "name": "Tristan Abrahams",
-       "ai_score": 0.05,
-       "position": "F",
-       "short_name": "T. Abrahams",
-       "jersey_number": 7
-      },
-      {
-       "id": 33655,
-       "name": "Marcus Dinanga",
-       "ai_score": 0.045,
-       "position": "F",
-       "short_name": "M. Dinanga",
-       "jersey_number": 9
-      }
-     ],
-     "team_id": 1883,
-     "formation": "3-4-3",
-     "team_name": "Aldershot Town",
-     "confidence": 0.464,
-     "substitutes": [
-      {
-       "id": 42766,
-       "name": "Tyrese Dyce",
-       "ai_score": 0.05,
+       "id": 34229,
+       "name": "Lewis Billington",
+       "ai_score": 0.801,
        "position": "D",
-       "short_name": "T. Dyce",
-       "jersey_number": 17
-      },
-      {
-       "id": 60980,
-       "name": "Hakeem Sandah",
-       "ai_score": 0.045,
-       "position": "M",
-       "short_name": "H. Sandah",
-       "jersey_number": 11
-      },
-      {
-       "id": 75770,
-       "name": "Elijah Oladunjoye",
-       "ai_score": 0.035,
-       "position": "D",
-       "short_name": "E. Oladunjoye",
-       "jersey_number": 24
-      },
-      {
-       "id": 50462,
-       "name": "Kiki Oshilaja",
-       "ai_score": 0.035,
-       "position": "D",
-       "short_name": "K. Oshilaja",
-       "jersey_number": 5
-      },
-      {
-       "id": 30013,
-       "name": "Michee Efete",
-       "ai_score": 0.035,
-       "position": "D",
-       "short_name": "M. Efete",
+       "short_name": "L. Billington",
        "jersey_number": 2
       },
       {
-       "id": 37031,
-       "name": "Basil Tuma",
-       "ai_score": 0.03,
-       "position": "F",
-       "short_name": "Tuma",
+       "id": 46471,
+       "name": "Matúš Holíček",
+       "ai_score": 0.749,
+       "position": "M",
+       "short_name": "M. Holíček",
+       "jersey_number": 17
+      },
+      {
+       "id": 34046,
+       "name": "Joe White",
+       "ai_score": 0.576,
+       "position": "M",
+       "short_name": "J. White",
        "jersey_number": 10
       },
       {
-       "id": 210034,
-       "name": "Alfonso Tenconi",
-       "ai_score": 0.015,
-       "position": "D",
-       "short_name": "A. Tenconi",
-       "jersey_number": 19
-      },
-      {
-       "id": 60981,
-       "name": "Charlie Patmore",
-       "ai_score": 0.015,
-       "position": "G",
-       "short_name": "C. Patmore",
-       "jersey_number": 13
-      },
-      {
-       "id": 140360,
-       "name": "Elijah Oladunjoye",
-       "ai_score": 0.015,
-       "position": "D",
-       "short_name": "E. Oladunjoye",
-       "jersey_number": 24
-      },
-      {
-       "id": 52356,
-       "name": "Kwaku Frimpong",
-       "ai_score": 0.015,
+       "id": 27341,
+       "name": "Jordan Gibson",
+       "ai_score": 0.56,
        "position": "M",
-       "short_name": "K. Frimpong",
-       "jersey_number": 15
+       "short_name": "J. Gibson",
+       "jersey_number": 14
       },
       {
-       "id": 140359,
-       "name": "Mohammed Idris Oshilaja",
-       "ai_score": 0.01,
+       "id": 62785,
+       "name": "Jack Lankester",
+       "ai_score": 0.675,
+       "position": "M",
+       "short_name": "J. Lankester",
+       "jersey_number": 7
+      },
+      {
+       "id": 62788,
+       "name": "Joel Tabiner",
+       "ai_score": 0.562,
+       "position": "M",
+       "short_name": "J. Tabiner",
+       "jersey_number": 11
+      },
+      {
+       "id": 34236,
+       "name": "Josh March",
+       "ai_score": 0.79,
+       "position": "F",
+       "short_name": "J. March",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 1448,
+     "formation": "4-2-3-1",
+     "team_name": "Crewe Alexandra",
+     "confidence": 0.818,
+     "substitutes": [
+      {
+       "id": 34230,
+       "name": "Calum Agius",
+       "ai_score": 0.531,
+       "position": "M",
+       "short_name": "C. Agius",
+       "jersey_number": 20
+      },
+      {
+       "id": 46468,
+       "name": "Mickey Demetriou",
+       "ai_score": 0.438,
        "position": "D",
-       "short_name": "M. I. Oshilaja",
+       "short_name": "M. Demetriou",
        "jersey_number": 5
       },
       {
-       "id": 102974,
-       "name": "Ollie Harfield",
-       "ai_score": 0.01,
+       "id": 34227,
+       "name": "Adrien Thibaut",
+       "ai_score": 0.42,
+       "position": "F",
+       "short_name": "A. Thibaut",
+       "jersey_number": 29
+      },
+      {
+       "id": 66914,
+       "name": "Kyle Ure",
+       "ai_score": 0.417,
+       "position": "M",
+       "short_name": "K. Ure",
+       "jersey_number": 4
+      },
+      {
+       "id": 6170,
+       "name": "Charlie McNeill",
+       "ai_score": 0.359,
+       "position": "F",
+       "short_name": "C. McNeill",
+       "jersey_number": 23
+      },
+      {
+       "id": 205732,
+       "name": "Joel Ewusi",
+       "ai_score": 0.272,
+       "position": "M",
+       "short_name": "J. Ewusi",
+       "jersey_number": 36
+      },
+      {
+       "id": 34219,
+       "name": "Stan Dancey",
+       "ai_score": 0.272,
        "position": "D",
-       "short_name": "O. Harfield",
-       "jersey_number": 3
+       "short_name": "S. Dancey",
+       "jersey_number": 30
+      },
+      {
+       "id": 34226,
+       "name": "Owen Lunt",
+       "ai_score": 0.266,
+       "position": "M",
+       "short_name": "O. Lunt",
+       "jersey_number": 19
+      },
+      {
+       "id": 73733,
+       "name": "Patrick Mlynarski",
+       "ai_score": 0.261,
+       "position": "F",
+       "short_name": "P. Mlynarski",
+       "jersey_number": 27
+      },
+      {
+       "id": 34224,
+       "name": "Luca Moore",
+       "ai_score": 0.229,
+       "position": "M",
+       "short_name": "L. Moore",
+       "jersey_number": 32
+      },
+      {
+       "id": 46469,
+       "name": "Conor Thomas",
+       "ai_score": 0.136,
+       "position": "M",
+       "short_name": "C. Thomas",
+       "jersey_number": 8
+      },
+      {
+       "id": 33509,
+       "name": "Ian Lawlor",
+       "ai_score": 0.035,
+       "position": "G",
+       "short_name": "I. Lawlor",
+       "jersey_number": 13
       }
      ]
     },
     "home": {
      "players": [
       {
-       "id": 125402,
-       "name": "Andrew Firth",
-       "ai_score": 0.05,
+       "id": 34001,
+       "name": "Connor Ripley",
+       "ai_score": 0.877,
        "position": "G",
-       "short_name": "A. Firth",
-       "jersey_number": null
+       "short_name": "C. Ripley",
+       "jersey_number": 1
       },
       {
-       "id": 62122,
-       "name": "Aidan Barlow",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "A. Barlow",
-       "jersey_number": 18
-      },
-      {
-       "id": 42945,
-       "name": "Jake Southern-Cooper",
-       "ai_score": 0.05,
+       "id": 34025,
+       "name": "Dan Butler",
+       "ai_score": 0.556,
        "position": "D",
-       "short_name": "J. Southern-Cooper",
+       "short_name": "D. Butler",
+       "jersey_number": 26
+      },
+      {
+       "id": 16447,
+       "name": "Stephan Negru",
+       "ai_score": 0.875,
+       "position": "D",
+       "short_name": "S. Negru",
        "jersey_number": 5
       },
       {
-       "id": 185462,
-       "name": "Reuben Lopata White",
-       "ai_score": 0.05,
+       "id": 100512,
+       "name": "Kaelan Majekodunmi",
+       "ai_score": 0.71,
        "position": "D",
-       "short_name": "R. L. White",
-       "jersey_number": 26
+       "short_name": "K. A. M. Majekodunmi",
+       "jersey_number": 21
       },
       {
-       "id": 48103,
-       "name": "Lewis Banks",
-       "ai_score": 0.05,
-       "position": "D",
-       "short_name": "L. Banks",
+       "id": 33499,
+       "name": "Mitchell Clark",
+       "ai_score": 0.658,
+       "position": "M",
+       "short_name": "M. Clark",
        "jersey_number": 2
       },
       {
-       "id": 34101,
-       "name": "Jack Hinchy",
-       "ai_score": 0.05,
+       "id": 34012,
+       "name": "Ollie Clarke",
+       "ai_score": 0.598,
        "position": "M",
-       "short_name": "J. Hinchy",
-       "jersey_number": 32
+       "short_name": "O. Clarke",
+       "jersey_number": 8
       },
       {
-       "id": 42926,
-       "name": "Kian Breckin",
-       "ai_score": 0.045,
+       "id": 36724,
+       "name": "Anthony Munda",
+       "ai_score": 0.68,
        "position": "M",
-       "short_name": "K. Breckin",
-       "jersey_number": 12
-      },
-      {
-       "id": 42933,
-       "name": "Tom Crawford",
-       "ai_score": 0.045,
-       "position": "M",
-       "short_name": "T. Crawford",
-       "jersey_number": 22
-      },
-      {
-       "id": 42924,
-       "name": "Charlie Kirk",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "C. Kirk",
-       "jersey_number": 40
-      },
-      {
-       "id": 42923,
-       "name": "Jimmy Knowles",
-       "ai_score": 0.05,
-       "position": "F",
-       "short_name": "J. Knowles",
-       "jersey_number": 11
-      },
-      {
-       "id": 42931,
-       "name": "Kahrel Reddin",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "K. Reddin",
-       "jersey_number": 20
-      }
-     ],
-     "team_id": 1896,
-     "formation": "3-4-2-1",
-     "team_name": "Altrincham FC",
-     "confidence": 0.491,
-     "substitutes": [
-      {
-       "id": 42936,
-       "name": "Matty Kosylo",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "M. Kosylo",
-       "jersey_number": 14
-      },
-      {
-       "id": 24176,
-       "name": "Sam Taylor",
-       "ai_score": 0.05,
-       "position": "M",
-       "short_name": "S. Taylor",
-       "jersey_number": 32
-      },
-      {
-       "id": 35379,
-       "name": "Kane Hemmings",
-       "ai_score": 0.04,
-       "position": "F",
-       "short_name": "K. Hemmings",
-       "jersey_number": null
-      },
-      {
-       "id": 42930,
-       "name": "Liam Humbles",
-       "ai_score": 0.04,
-       "position": "M",
-       "short_name": "L. Humbles",
+       "short_name": "A. Munda",
        "jersey_number": 27
       },
       {
-       "id": 42925,
-       "name": "Otis Khan",
-       "ai_score": 0.04,
+       "id": 6006,
+       "name": "Jack Thomson",
+       "ai_score": 0.649,
        "position": "M",
-       "short_name": "O. Khan",
-       "jersey_number": 10
+       "short_name": "J. Thomson",
+       "jersey_number": 25
       },
       {
-       "id": 42922,
-       "name": "Lucas Weaver",
-       "ai_score": 0.03,
+       "id": 34008,
+       "name": "Paul Glatzel",
+       "ai_score": 0.422,
        "position": "F",
-       "short_name": "L. Weaver",
-       "jersey_number": 17
+       "short_name": "P. Glatzel",
+       "jersey_number": 9
       },
       {
-       "id": 52358,
-       "name": "Sam Barnes",
-       "ai_score": 0.03,
+       "id": 34019,
+       "name": "Aaron Drinan",
+       "ai_score": 0.85,
+       "position": "F",
+       "short_name": "A. Drinan",
+       "jersey_number": 23
+      },
+      {
+       "id": 29926,
+       "name": "Joseph Hungbo",
+       "ai_score": 0.366,
+       "position": "F",
+       "short_name": "J. Hungbo",
+       "jersey_number": 15
+      }
+     ],
+     "team_id": 1440,
+     "formation": "4-3-3",
+     "team_name": "Swindon Town",
+     "confidence": 0.723,
+     "substitutes": [
+      {
+       "id": 37365,
+       "name": "Billy Kirkman",
+       "ai_score": 0.51,
        "position": "D",
-       "short_name": "S. Barnes",
+       "short_name": "B. Kirkman",
+       "jersey_number": 34
+      },
+      {
+       "id": 33836,
+       "name": "Matthew Virtue-Thick",
+       "ai_score": 0.396,
+       "position": "M",
+       "short_name": "M. Virtue-Thick",
        "jersey_number": 24
       },
       {
-       "id": 34288,
-       "name": "Owen Evans",
-       "ai_score": 0.025,
-       "position": "G",
-       "short_name": "O. Evans",
-       "jersey_number": 13
+       "id": 34007,
+       "name": "James Ball",
+       "ai_score": 0.393,
+       "position": "D",
+       "short_name": "J. Ball",
+       "jersey_number": 6
       },
       {
-       "id": 42937,
-       "name": "Remi Raymond",
-       "ai_score": 0.02,
+       "id": 37363,
+       "name": "Ryan Tafazolli",
+       "ai_score": 0.37,
+       "position": "D",
+       "short_name": "R. Tafazolli",
+       "jersey_number": 17
+      },
+      {
+       "id": 33686,
+       "name": "Ben Middlemas",
+       "ai_score": 0.362,
        "position": "M",
-       "short_name": "R. Raymond",
-       "jersey_number": 16
+       "short_name": "B. Middlemas",
+       "jersey_number": 20
       },
       {
-       "id": 142237,
-       "name": "Michael Acquah",
-       "ai_score": 0.015,
-       "position": "G",
-       "short_name": "M. Acquah",
-       "jersey_number": null
-      },
-      {
-       "id": 42927,
-       "name": "Anthony Forde",
-       "ai_score": 0.01,
+       "id": 34017,
+       "name": "Tom Nichols",
+       "ai_score": 0.361,
        "position": "M",
-       "short_name": "A. Forde",
-       "jersey_number": 26
+       "short_name": "T. Nichols",
+       "jersey_number": 7
       },
       {
-       "id": 33756,
-       "name": "Harry Isted",
-       "ai_score": 0.01,
-       "position": "G",
-       "short_name": "H. Isted",
-       "jersey_number": null
+       "id": 34016,
+       "name": "Joe Snowdon",
+       "ai_score": 0.358,
+       "position": "M",
+       "short_name": "J. Snowdon",
+       "jersey_number": 19
+      },
+      {
+       "id": 33897,
+       "name": "Ollie Palmer",
+       "ai_score": 0.291,
+       "position": "F",
+       "short_name": "O. Palmer",
+       "jersey_number": 28
+      },
+      {
+       "id": 33788,
+       "name": "Antwoine Hackford",
+       "ai_score": 0.281,
+       "position": "F",
+       "short_name": "A. Hackford",
+       "jersey_number": 29
+      },
+      {
+       "id": 8585,
+       "name": "James Debayo",
+       "ai_score": 0.252,
+       "position": "D",
+       "short_name": "J. Debayo",
+       "jersey_number": 18
+      },
+      {
+       "id": 12089,
+       "name": "Jaylan Pearman",
+       "ai_score": 0.221,
+       "position": "M",
+       "short_name": "J. Pearman",
+       "jersey_number": 22
+      },
+      {
+       "id": 73618,
+       "name": "Louis Millard",
+       "ai_score": 0.214,
+       "position": "F",
+       "short_name": "L. Millard",
+       "jersey_number": 39
       }
      ]
     }
@@ -31242,156 +31242,156 @@
    },
    "bsd_prediction": null,
    "error": null,
-   "bsd_latency_ms": 396,
+   "bsd_latency_ms": 770,
    "context": {
     "h2h": {
-     "draws": 2,
-     "away_wins": 8,
-     "home_wins": 6,
-     "away_goals": 23,
-     "home_goals": 21,
-     "away_win_rate": 0.5,
-     "home_win_rate": 0.375,
-     "total_matches": 16,
+     "draws": 6,
+     "away_wins": 11,
+     "home_wins": 12,
+     "away_goals": 35,
+     "home_goals": 50,
+     "away_win_rate": 0.3793103448275862,
+     "home_win_rate": 0.41379310344827586,
+     "total_matches": 29,
      "recent_matches": [
       {
-       "away": "Altrincham FC",
-       "date": "2025-12-06T15:00:00+00:00",
-       "home": "Aldershot Town",
-       "score": "2-1",
-       "event_id": 588917,
-       "away_score": 1,
-       "home_score": 2,
-       "away_team_id": 1896,
-       "home_team_id": 1883
-      },
-      {
-       "away": "Aldershot Town",
-       "date": "2025-08-09T14:00:00+00:00",
-       "home": "Altrincham FC",
-       "score": "3-2",
-       "event_id": 588652,
-       "away_score": 2,
-       "home_score": 3,
-       "away_team_id": 1883,
-       "home_team_id": 1896
-      },
-      {
-       "away": "Aldershot Town",
-       "date": "2025-03-15T15:00:00+00:00",
-       "home": "Altrincham FC",
+       "away": "Crewe Alexandra",
+       "date": "2026-02-21T12:30:00+00:00",
+       "home": "Swindon Town",
        "score": "1-2",
-       "event_id": 589739,
+       "event_id": 228298,
        "away_score": 2,
        "home_score": 1,
-       "away_team_id": 1883,
-       "home_team_id": 1896
+       "away_team_id": 1448,
+       "home_team_id": 1440
       },
       {
-       "away": "Altrincham FC",
-       "date": "2024-11-23T15:00:00+00:00",
-       "home": "Aldershot Town",
+       "away": "Swindon Town",
+       "date": "2025-08-30T11:30:00+00:00",
+       "home": "Crewe Alexandra",
+       "score": "0-3",
+       "event_id": 227935,
+       "away_score": 3,
+       "home_score": 0,
+       "away_team_id": 1440,
+       "home_team_id": 1448
+      },
+      {
+       "away": "Crewe Alexandra",
+       "date": "2025-01-11T15:00:00+00:00",
+       "home": "Swindon Town",
+       "score": "0-0",
+       "event_id": 235108,
+       "away_score": 0,
+       "home_score": 0,
+       "away_team_id": 1448,
+       "home_team_id": 1440
+      },
+      {
+       "away": "Swindon Town",
+       "date": "2024-08-24T11:30:00+00:00",
+       "home": "Crewe Alexandra",
+       "score": "0-0",
+       "event_id": 234804,
+       "away_score": 0,
+       "home_score": 0,
+       "away_team_id": 1440,
+       "home_team_id": 1448
+      },
+      {
+       "away": "Swindon Town",
+       "date": "2024-01-13T15:00:00+00:00",
+       "home": "Crewe Alexandra",
        "score": "2-1",
-       "event_id": 589476,
+       "event_id": 244699,
        "away_score": 1,
        "home_score": 2,
-       "away_team_id": 1896,
-       "home_team_id": 1883
+       "away_team_id": 1440,
+       "home_team_id": 1448
       },
       {
-       "away": "Altrincham FC",
-       "date": "2024-02-17T17:30:00+00:00",
-       "home": "Aldershot Town",
-       "score": "2-0",
-       "event_id": 590308,
-       "away_score": 0,
-       "home_score": 2,
-       "away_team_id": 1896,
-       "home_team_id": 1883
-      },
-      {
-       "away": "Aldershot Town",
-       "date": "2023-10-03T18:45:00+00:00",
-       "home": "Altrincham FC",
-       "score": "2-1",
-       "event_id": 590009,
-       "away_score": 1,
-       "home_score": 2,
-       "away_team_id": 1883,
-       "home_team_id": 1896
-      },
-      {
-       "away": "Altrincham FC",
-       "date": "2023-04-29T16:30:00+00:00",
-       "home": "Aldershot Town",
-       "score": "1-1",
-       "event_id": 591106,
-       "away_score": 1,
-       "home_score": 1,
-       "away_team_id": 1896,
-       "home_team_id": 1883
-      },
-      {
-       "away": "Aldershot Town",
-       "date": "2022-09-24T14:00:00+00:00",
-       "home": "Altrincham FC",
-       "score": "1-0",
-       "event_id": 590613,
-       "away_score": 0,
-       "home_score": 1,
-       "away_team_id": 1883,
-       "home_team_id": 1896
-      },
-      {
-       "away": "Aldershot Town",
-       "date": "2022-03-26T15:00:00+00:00",
-       "home": "Altrincham FC",
-       "score": "1-0",
-       "event_id": 591582,
-       "away_score": 0,
-       "home_score": 1,
-       "away_team_id": 1883,
-       "home_team_id": 1896
-      },
-      {
-       "away": "Altrincham FC",
-       "date": "2021-12-04T15:00:00+00:00",
-       "home": "Aldershot Town",
+       "away": "Crewe Alexandra",
+       "date": "2023-08-12T14:00:00+00:00",
+       "home": "Swindon Town",
        "score": "2-2",
-       "event_id": 591341,
+       "event_id": 244374,
        "away_score": 2,
        "home_score": 2,
-       "away_team_id": 1896,
-       "home_team_id": 1883
+       "away_team_id": 1448,
+       "home_team_id": 1440
+      },
+      {
+       "away": "Swindon Town",
+       "date": "2023-04-29T14:00:00+00:00",
+       "home": "Crewe Alexandra",
+       "score": "2-1",
+       "event_id": 256103,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1440,
+       "home_team_id": 1448
+      },
+      {
+       "away": "Crewe Alexandra",
+       "date": "2022-11-19T15:00:00+00:00",
+       "home": "Swindon Town",
+       "score": "0-1",
+       "event_id": 255759,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 1448,
+       "home_team_id": 1440
+      },
+      {
+       "away": "Swindon Town",
+       "date": "2021-11-06T15:00:00+00:00",
+       "home": "Crewe Alexandra",
+       "score": "0-3",
+       "event_id": 267056,
+       "away_score": 3,
+       "home_score": 0,
+       "away_team_id": 1440,
+       "home_team_id": 1448
+      },
+      {
+       "away": "Crewe Alexandra",
+       "date": "2021-02-20T15:00:00+00:00",
+       "home": "Swindon Town",
+       "score": "2-1",
+       "event_id": 280259,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 1448,
+       "home_team_id": 1440
       }
      ],
-     "avg_total_goals": 2.75
+     "avg_total_goals": 2.9310344827586206
     },
     "odds": {
-     "draw": 3.63,
-     "btts_no": 2.35,
-     "away_win": 3.57,
-     "btts_yes": 1.52,
-     "home_win": 1.84,
-     "over_15_goals": 1.15,
-     "over_25_goals": 1.56,
-     "over_35_goals": 2.35,
-     "under_15_goals": 4.81,
-     "under_25_goals": 2.31,
-     "under_35_goals": 1.52
+     "draw": 3.42,
+     "btts_no": 2.26,
+     "away_win": 2.51,
+     "btts_yes": 1.57,
+     "home_win": 2.53,
+     "over_15_goals": 1.2,
+     "over_25_goals": 1.73,
+     "over_35_goals": 2.76,
+     "under_15_goals": 4.12,
+     "under_25_goals": 2.05,
+     "under_35_goals": 1.4
     },
     "derby": false,
-    "round": "Regular season · Matchday 13",
+    "round": "Regular season · Matchday 10",
     "neutral": false,
     "odds_at": "2026-10-10T05:20:08Z",
     "referee": null,
     "weather": {
-     "code": 3,
-     "wind_speed": 3.3,
-     "description": "rain",
-     "temperature_c": 15
+     "code": null,
+     "wind_speed": null,
+     "description": null,
+     "temperature_c": null
     },
-    "travel_km": 261,
+    "travel_km": 176,
     "pitch_condition": null
    }
   },
@@ -54454,246 +54454,6 @@
    }
   },
   {
-   "match_key": "SC1|10/10/2026|Arbroath|Morton",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC1",
-   "home": "Arbroath",
-   "away": "Morton",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC1|10/10/2026|Ayr|Dunfermline",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC1",
-   "home": "Ayr",
-   "away": "Dunfermline",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC1",
-   "home": "Inverness C",
-   "away": "Stenhousemuir",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC1|10/10/2026|Livingston|Partick",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC1",
-   "home": "Livingston",
-   "away": "Partick",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC1",
-   "home": "Raith Rvs",
-   "away": "Queens Park",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC2|10/10/2026|Alloa|Hamilton",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC2",
-   "home": "Alloa",
-   "away": "Hamilton",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC2|10/10/2026|Cove Rangers|East Fife",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC2",
-   "home": "Cove Rangers",
-   "away": "East Fife",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC2|10/10/2026|East Kilbride|Airdrie Utd",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC2",
-   "home": "East Kilbride",
-   "away": "Airdrie Utd",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC2|10/10/2026|Montrose|Ross County",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC2",
-   "home": "Montrose",
-   "away": "Ross County",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC2|10/10/2026|Peterhead|Queen of Sth",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC2",
-   "home": "Peterhead",
-   "away": "Queen of Sth",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC3|10/10/2026|Annan Athletic|Stranraer",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC3",
-   "home": "Annan Athletic",
-   "away": "Stranraer",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC3|10/10/2026|Clyde|Dumbarton",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC3",
-   "home": "Clyde",
-   "away": "Dumbarton",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC3|10/10/2026|Edinburgh City|Spartans",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC3",
-   "home": "Edinburgh City",
-   "away": "Spartans",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC3|10/10/2026|Forfar|Elgin",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC3",
-   "home": "Forfar",
-   "away": "Elgin",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
-   "match_key": "SC3|10/10/2026|Stirling|Kelty Hearts",
-   "bsd_event_id": null,
-   "captured_at": "2026-10-10T08:03:20.942256+00:00",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "div": "SC3",
-   "home": "Stirling",
-   "away": "Kelty Hearts",
-   "lineup_status": null,
-   "lineups": null,
-   "unavailable": null,
-   "bsd_prediction": null,
-   "error": "no bsd event match",
-   "bsd_latency_ms": null,
-   "context": null
-  },
-  {
    "match_key": "E2|10/10/2026|Doncaster|Burton",
    "bsd_event_id": 224158,
    "captured_at": "2026-10-10T08:03:20.942256+00:00",
@@ -55234,6 +54994,246 @@
     "travel_km": 84,
     "pitch_condition": null
    }
+  },
+  {
+   "match_key": "SC1|10/10/2026|Ayr|Dunfermline",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC1",
+   "home": "Ayr",
+   "away": "Dunfermline",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC1",
+   "home": "Inverness C",
+   "away": "Stenhousemuir",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC1|10/10/2026|Livingston|Partick",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC1",
+   "home": "Livingston",
+   "away": "Partick",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC1",
+   "home": "Raith Rvs",
+   "away": "Queens Park",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC2|10/10/2026|Alloa|Hamilton",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC2",
+   "home": "Alloa",
+   "away": "Hamilton",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC2|10/10/2026|Cove Rangers|East Fife",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC2",
+   "home": "Cove Rangers",
+   "away": "East Fife",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC2|10/10/2026|East Kilbride|Airdrie Utd",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC2",
+   "home": "East Kilbride",
+   "away": "Airdrie Utd",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC2|10/10/2026|Montrose|Ross County",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC2",
+   "home": "Montrose",
+   "away": "Ross County",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC2|10/10/2026|Peterhead|Queen of Sth",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC2",
+   "home": "Peterhead",
+   "away": "Queen of Sth",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC3|10/10/2026|Annan Athletic|Stranraer",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC3",
+   "home": "Annan Athletic",
+   "away": "Stranraer",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC3|10/10/2026|Clyde|Dumbarton",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC3",
+   "home": "Clyde",
+   "away": "Dumbarton",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC3|10/10/2026|Edinburgh City|Spartans",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC3",
+   "home": "Edinburgh City",
+   "away": "Spartans",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC3|10/10/2026|Forfar|Elgin",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC3",
+   "home": "Forfar",
+   "away": "Elgin",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC3|10/10/2026|Stirling|Kelty Hearts",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC3",
+   "home": "Stirling",
+   "away": "Kelty Hearts",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
+  },
+  {
+   "match_key": "SC1|10/10/2026|Arbroath|Morton",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:03:20.942256+00:00",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "div": "SC1",
+   "home": "Arbroath",
+   "away": "Morton",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
   },
   {
    "match_key": "B1|10/10/2026|Cercle Brugge|Anderlecht",
@@ -63961,6 +63961,619 @@
     "travel_km": null,
     "pitch_condition": null
    }
+  },
+  {
+   "match_key": "N1|10/10/2026|Go Ahead Eagles|Sparta Rotterdam",
+   "bsd_event_id": 210864,
+   "captured_at": "2026-10-10T08:32:15.161788+00:00",
+   "kickoff_utc": "2026-10-10T14:30:00+00:00",
+   "div": "N1",
+   "home": "Go Ahead Eagles",
+   "away": "Sparta Rotterdam",
+   "lineup_status": "predicted",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 5293,
+       "name": "Filip Bednarek",
+       "ai_score": 0.448,
+       "position": "G",
+       "short_name": "F. Bednarek",
+       "jersey_number": 20
+      },
+      {
+       "id": 5268,
+       "name": "Bas Kuipers",
+       "ai_score": 0.699,
+       "position": "D",
+       "short_name": "B. Kuipers",
+       "jersey_number": 5
+      },
+      {
+       "id": 5280,
+       "name": "Marvin Young",
+       "ai_score": 0.723,
+       "position": "D",
+       "short_name": "M. Young",
+       "jersey_number": 3
+      },
+      {
+       "id": 5552,
+       "name": "Bruno Martins Indi",
+       "ai_score": 0.621,
+       "position": "D",
+       "short_name": "B. Martins Indi",
+       "jersey_number": 4
+      },
+      {
+       "id": 5296,
+       "name": "Lushendry Edward Martes",
+       "ai_score": 0.701,
+       "position": "D",
+       "short_name": "L. E. Martes",
+       "jersey_number": 2
+      },
+      {
+       "id": 5283,
+       "name": "Julian Baas",
+       "ai_score": 0.631,
+       "position": "M",
+       "short_name": "J. Baas",
+       "jersey_number": 6
+      },
+      {
+       "id": 8533,
+       "name": "Cedric Hatenboer",
+       "ai_score": 0.431,
+       "position": "M",
+       "short_name": "C. Hatenboer",
+       "jersey_number": 8
+      },
+      {
+       "id": 5419,
+       "name": "Joel Ideho",
+       "ai_score": 0.305,
+       "position": "M",
+       "short_name": "J. Ideho",
+       "jersey_number": 11
+      },
+      {
+       "id": 5539,
+       "name": "Robin van Cruijsen",
+       "ai_score": 0.286,
+       "position": "M",
+       "short_name": "R. van Cruijsen",
+       "jersey_number": 17
+      },
+      {
+       "id": 7231,
+       "name": "Casper Terho",
+       "ai_score": 0.508,
+       "position": "F",
+       "short_name": "C. Terho",
+       "jersey_number": 7
+      },
+      {
+       "id": 5438,
+       "name": "Milan Zonneveld",
+       "ai_score": 0.544,
+       "position": "F",
+       "short_name": "M. Zonneveld",
+       "jersey_number": 9
+      }
+     ],
+     "team_id": 176,
+     "formation": "4-2-3-1",
+     "team_name": "Sparta Rotterdam",
+     "confidence": 0.668,
+     "substitutes": [
+      {
+       "id": 5409,
+       "name": "Nick Verschuren",
+       "ai_score": 0.478,
+       "position": "D",
+       "short_name": "N. Verschuren",
+       "jersey_number": 14
+      },
+      {
+       "id": 5285,
+       "name": "Mitchell Van Bergen",
+       "ai_score": 0.448,
+       "position": "M",
+       "short_name": "M. Van Bergen",
+       "jersey_number": 11
+      },
+      {
+       "id": 2988,
+       "name": "Michael Brouwer",
+       "ai_score": 0.417,
+       "position": "G",
+       "short_name": "M. Brouwer",
+       "jersey_number": 25
+      },
+      {
+       "id": 5298,
+       "name": "Jens Toornstra",
+       "ai_score": 0.381,
+       "position": "M",
+       "short_name": "J. Toornstra",
+       "jersey_number": 21
+      },
+      {
+       "id": 5611,
+       "name": "Isaac Babadi",
+       "ai_score": 0.267,
+       "position": "M",
+       "short_name": "I. Babadi",
+       "jersey_number": 10
+      },
+      {
+       "id": 5281,
+       "name": "Teo Quintero",
+       "ai_score": 0.227,
+       "position": "D",
+       "short_name": "T. Q. León",
+       "jersey_number": 16
+      },
+      {
+       "id": 8786,
+       "name": "Alwande Roaldsoy",
+       "ai_score": 0.197,
+       "position": "M",
+       "short_name": "A. Roaldsøy",
+       "jersey_number": 18
+      },
+      {
+       "id": 26489,
+       "name": "Boyd Reith",
+       "ai_score": 0.169,
+       "position": "D",
+       "short_name": "B. Reith",
+       "jersey_number": 12
+      },
+      {
+       "id": 13002,
+       "name": "Andrej Kostić",
+       "ai_score": 0.141,
+       "position": "F",
+       "short_name": "A. Kostić",
+       "jersey_number": 19
+      },
+      {
+       "id": 5597,
+       "name": "Giannino Vianello",
+       "ai_score": 0.05,
+       "position": "D",
+       "short_name": "G. Vianello",
+       "jersey_number": 22
+      },
+      {
+       "id": 5294,
+       "name": "Pascal Kuiper",
+       "ai_score": 0.035,
+       "position": "G",
+       "short_name": "P. Kuiper",
+       "jersey_number": 30
+      },
+      {
+       "id": 5588,
+       "name": "Max De Ligt",
+       "ai_score": 0.015,
+       "position": "D",
+       "short_name": "M. d. Ligt",
+       "jersey_number": 14
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 1958,
+       "name": "Kjetil Haug",
+       "ai_score": 0.676,
+       "position": "G",
+       "short_name": "K. Haug",
+       "jersey_number": 1
+      },
+      {
+       "id": 3101,
+       "name": "Dean James",
+       "ai_score": 0.692,
+       "position": "D",
+       "short_name": "D. James",
+       "jersey_number": 5
+      },
+      {
+       "id": 3100,
+       "name": "Joris Kramer",
+       "ai_score": 0.694,
+       "position": "D",
+       "short_name": "J. Kramer",
+       "jersey_number": 4
+      },
+      {
+       "id": 3099,
+       "name": "Julius Dirksen",
+       "ai_score": 0.636,
+       "position": "D",
+       "short_name": "J. Dirksen",
+       "jersey_number": 26
+      },
+      {
+       "id": 6102,
+       "name": "Alfons Sampsted",
+       "ai_score": 0.632,
+       "position": "D",
+       "short_name": "A. Sampsted",
+       "jersey_number": 2
+      },
+      {
+       "id": 3108,
+       "name": "Evert Linthorst",
+       "ai_score": 0.688,
+       "position": "M",
+       "short_name": "E. Linthorst",
+       "jersey_number": 8
+      },
+      {
+       "id": 3102,
+       "name": "Melle Meulensteen",
+       "ai_score": 0.664,
+       "position": "M",
+       "short_name": "M. Meulensteen",
+       "jersey_number": 21
+      },
+      {
+       "id": 3106,
+       "name": "Mathis Suray",
+       "ai_score": 0.714,
+       "position": "M",
+       "short_name": "M. Suray",
+       "jersey_number": 17
+      },
+      {
+       "id": 3103,
+       "name": "Yassir Rahmouni",
+       "ai_score": 0.231,
+       "position": "M",
+       "short_name": "Y. Rahmouni",
+       "jersey_number": 34
+      },
+      {
+       "id": 5629,
+       "name": "Søren Tengstedt",
+       "ai_score": 0.722,
+       "position": "M",
+       "short_name": "S. Tengstedt",
+       "jersey_number": 10
+      },
+      {
+       "id": 3111,
+       "name": "Victor Edvardsen",
+       "ai_score": 0.637,
+       "position": "F",
+       "short_name": "V. Edvardsen",
+       "jersey_number": 16
+      }
+     ],
+     "team_id": 139,
+     "formation": "4-2-3-1",
+     "team_name": "Go Ahead Eagles",
+     "confidence": 0.732,
+     "substitutes": [
+      {
+       "id": 9025,
+       "name": "Stefán Ingi Sigurðarson",
+       "ai_score": 0.513,
+       "position": "F",
+       "short_name": "S. I. Sigurðarson",
+       "jersey_number": 9
+      },
+      {
+       "id": 16008,
+       "name": "Erik Flataker",
+       "ai_score": 0.311,
+       "position": "F",
+       "short_name": "E. Flataker",
+       "jersey_number": 29
+      },
+      {
+       "id": 3110,
+       "name": "Giovanni van Zwam",
+       "ai_score": 0.291,
+       "position": "D",
+       "short_name": "G. v. Zwam",
+       "jersey_number": 25
+      },
+      {
+       "id": 4190,
+       "name": "Richonell Margaret",
+       "ai_score": 0.226,
+       "position": "F",
+       "short_name": "R. Margaret",
+       "jersey_number": 18
+      },
+      {
+       "id": 5274,
+       "name": "Thibo Baeten",
+       "ai_score": 0.216,
+       "position": "F",
+       "short_name": "T. Baeten",
+       "jersey_number": 23
+      },
+      {
+       "id": 29305,
+       "name": "Tomas Galvez",
+       "ai_score": 0.194,
+       "position": "D",
+       "short_name": "T. Galvez",
+       "jersey_number": 27
+      },
+      {
+       "id": 3109,
+       "name": "Oskar Siira Sivertsen",
+       "ai_score": 0.183,
+       "position": "F",
+       "short_name": "O. S. Sivertsen",
+       "jersey_number": 11
+      },
+      {
+       "id": 3115,
+       "name": "Nando Verdoni",
+       "ai_score": 0.045,
+       "position": "G",
+       "short_name": "N. Verdoni",
+       "jersey_number": 33
+      },
+      {
+       "id": 10620,
+       "name": "Nick Marsman",
+       "ai_score": 0.03,
+       "position": "G",
+       "short_name": "N. Marsman",
+       "jersey_number": 22
+      },
+      {
+       "id": 5276,
+       "name": "Dani Tijman",
+       "ai_score": 0.02,
+       "position": "D",
+       "short_name": "D. Tijman",
+       "jersey_number": 31
+      },
+      {
+       "id": 4192,
+       "name": "Ofosu Boakye",
+       "ai_score": 0.02,
+       "position": "F",
+       "short_name": "O. Boakye",
+       "jersey_number": 32
+      },
+      {
+       "id": 67468,
+       "name": "Tino Jukić",
+       "ai_score": 0.02,
+       "position": "D",
+       "short_name": "T. Jukić",
+       "jersey_number": 6
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 5287,
+      "name": "Shunsuke Mito",
+      "reason": "Unknown",
+      "status": "injured",
+      "short_name": "S. Mito"
+     }
+    ],
+    "home": [
+     {
+      "id": 4719,
+      "name": "Eus Waayers",
+      "reason": "Unknown",
+      "status": "injured",
+      "short_name": "E. Waayers"
+     },
+     {
+      "id": 36135,
+      "name": "Pim Saathof",
+      "reason": "ACL Knee Injury",
+      "status": "injured",
+      "short_name": "P. Saathof"
+     }
+    ]
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 431,
+   "context": {
+    "h2h": {
+     "draws": 3,
+     "away_wins": 11,
+     "home_wins": 6,
+     "away_goals": 33,
+     "home_goals": 21,
+     "away_win_rate": 0.55,
+     "home_win_rate": 0.3,
+     "total_matches": 20,
+     "recent_matches": [
+      {
+       "away": "Go Ahead Eagles",
+       "date": "2026-05-03T14:45:00+00:00",
+       "home": "Sparta Rotterdam",
+       "score": "2-2",
+       "event_id": 3040,
+       "away_score": 2,
+       "home_score": 2,
+       "away_team_id": 139,
+       "home_team_id": 176
+      },
+      {
+       "away": "Sparta Rotterdam",
+       "date": "2025-08-23T14:30:00+00:00",
+       "home": "Go Ahead Eagles",
+       "score": "0-3",
+       "event_id": 2770,
+       "away_score": 3,
+       "home_score": 0,
+       "away_team_id": 176,
+       "home_team_id": 139
+      },
+      {
+       "away": "Sparta Rotterdam",
+       "date": "2025-02-14T19:00:00+00:00",
+       "home": "Go Ahead Eagles",
+       "score": "1-0",
+       "event_id": 305226,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 176,
+       "home_team_id": 139
+      },
+      {
+       "away": "Go Ahead Eagles",
+       "date": "2024-09-15T10:15:00+00:00",
+       "home": "Sparta Rotterdam",
+       "score": "1-2",
+       "event_id": 305068,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 139,
+       "home_team_id": 176
+      },
+      {
+       "away": "Go Ahead Eagles",
+       "date": "2024-01-21T13:30:00+00:00",
+       "home": "Sparta Rotterdam",
+       "score": "0-2",
+       "event_id": 310649,
+       "away_score": 2,
+       "home_score": 0,
+       "away_team_id": 139,
+       "home_team_id": 176
+      },
+      {
+       "away": "Sparta Rotterdam",
+       "date": "2023-10-22T14:45:00+00:00",
+       "home": "Go Ahead Eagles",
+       "score": "0-0",
+       "event_id": 310571,
+       "away_score": 0,
+       "home_score": 0,
+       "away_team_id": 176,
+       "home_team_id": 139
+      },
+      {
+       "away": "Go Ahead Eagles",
+       "date": "2023-02-12T11:15:00+00:00",
+       "home": "Sparta Rotterdam",
+       "score": "2-1",
+       "event_id": 315690,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 139,
+       "home_team_id": 176
+      },
+      {
+       "away": "Sparta Rotterdam",
+       "date": "2022-08-27T14:30:00+00:00",
+       "home": "Go Ahead Eagles",
+       "score": "0-1",
+       "event_id": 315533,
+       "away_score": 1,
+       "home_score": 0,
+       "away_team_id": 176,
+       "home_team_id": 139
+      },
+      {
+       "away": "Go Ahead Eagles",
+       "date": "2022-03-12T15:30:00+00:00",
+       "home": "Sparta Rotterdam",
+       "score": "1-0",
+       "event_id": 319491,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 139,
+       "home_team_id": 176
+      },
+      {
+       "away": "Sparta Rotterdam",
+       "date": "2021-08-28T18:00:00+00:00",
+       "home": "Go Ahead Eagles",
+       "score": "2-0",
+       "event_id": 319283,
+       "away_score": 0,
+       "home_score": 2,
+       "away_team_id": 176,
+       "home_team_id": 139
+      }
+     ],
+     "avg_total_goals": 2.7
+    },
+    "odds": {
+     "draw": 4.08,
+     "btts_no": 2.79,
+     "away_win": 4.12,
+     "btts_yes": 1.39,
+     "home_win": 1.73,
+     "over_15_goals": 1.09,
+     "over_25_goals": 1.36,
+     "over_35_goals": 1.96,
+     "under_15_goals": 6.6,
+     "under_25_goals": 3.02,
+     "under_35_goals": 1.83
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-10T08:20:09Z",
+    "referee": {
+     "id": 1593,
+     "name": "Jeroen Manschot",
+     "country": "Netherlands",
+     "matches": 26,
+     "birthdate": null,
+     "career_games": 353,
+     "nationality_a3": "",
+     "total_red_cards": 6,
+     "career_red_cards": 32,
+     "avg_red_per_match": 0.23,
+     "total_yellow_cards": 98,
+     "avg_fouls_per_match": 19.9,
+     "avg_goals_per_match": 3.12,
+     "career_yellow_cards": 1180,
+     "avg_yellow_per_match": 3.77
+    },
+    "weather": {
+     "code": null,
+     "wind_speed": 8.9,
+     "description": null,
+     "temperature_c": 15
+    },
+    "travel_km": 125,
+    "pitch_condition": null
+   }
+  },
+  {
+   "match_key": "P1|10/10/2026|Casa Pia|Santa Clara",
+   "bsd_event_id": null,
+   "captured_at": "2026-10-10T08:32:15.161788+00:00",
+   "kickoff_utc": "2026-10-10T14:30:00+00:00",
+   "div": "P1",
+   "home": "Casa Pia",
+   "away": "Santa Clara",
+   "lineup_status": null,
+   "lineups": null,
+   "unavailable": null,
+   "bsd_prediction": null,
+   "error": "no bsd event match",
+   "bsd_latency_ms": null,
+   "context": null
   }
  ]
 }
