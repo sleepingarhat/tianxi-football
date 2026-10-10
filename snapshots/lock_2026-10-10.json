@@ -1,0 +1,18 @@
+{
+ "generated_at": "2026-10-10T00:53:51+00:00",
+ "months": [
+  "2026-10"
+ ],
+ "inserted": 0,
+ "refreshed": 199,
+ "locked": 0,
+ "refused_locked": 0,
+ "refused_fingerprint_drift": 0,
+ "fingerprint": "bfa183fa1454-915259fecc87-198387-s5:a9ff1755c372-821d78d72d8b-175995",
+ "lock_minutes": 60,
+ "lock_policy": {
+  "lock_minutes": 60,
+  "rule": "開賽前 60 分鐘鎖定；已鎖場次永遠跟當時指紋，重訓只影響之後未鎖場次",
+  "on_new_model": "拒絕改帳，只寫 log/audit.jsonl（action=refuse_locked / fingerprint_drift）"
+ }
+}
