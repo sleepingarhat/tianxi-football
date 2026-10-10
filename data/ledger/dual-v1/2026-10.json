@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 156,
+ "count": 158,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -100,72 +100,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.5,
-   "stake": 10
-  },
-  {
-   "match_key": "E2|03/10/2026|Burton|Huddersfield",
-   "version": "dual-v1",
-   "div": "E2",
-   "home": "Burton",
-   "away": "Huddersfield",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.3444,
-    0.2783,
-    0.3772
-   ],
-   "lambda": [
-    1.485,
-    1.207
-   ],
-   "p_b_d": 0.267632761402761,
-   "p_final": [
-    0.346993318301614,
-    0.27296638070138,
-    0.380040300997006
-   ],
-   "prediction": "away",
-   "odds": [
-    3.9,
-    3.5,
-    1.81
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.81,
-   "stake": 10
-  },
-  {
-   "match_key": "E2|03/10/2026|Leyton Orient|Plymouth",
-   "version": "dual-v1",
-   "div": "E2",
-   "home": "Leyton Orient",
-   "away": "Plymouth",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.3229,
-    0.2807,
-    0.3965
-   ],
-   "lambda": [
-    1.582,
-    1.308
-   ],
-   "p_b_d": 0.257741103817899,
-   "p_final": [
-    0.328007622725327,
-    0.26922055190895,
-    0.402771825365724
-   ],
-   "prediction": "away",
-   "odds": [
-    3.4,
-    3.75,
-    1.91
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.91,
    "stake": 10
   },
   {
@@ -595,39 +529,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.42,
-   "stake": 10
-  },
-  {
-   "match_key": "EC|03/10/2026|Harrogate|Hornchurch",
-   "version": "dual-v1",
-   "div": "EC",
-   "home": "Harrogate",
-   "away": "Hornchurch",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.3825,
-    0.2869,
-    0.3306
-   ],
-   "lambda": [
-    1.848,
-    1.096
-   ],
-   "p_b_d": 0.239491946411476,
-   "p_final": [
-    0.395214612605252,
-    0.263195973205738,
-    0.34158941418901
-   ],
-   "prediction": "away",
-   "odds": [
-    1.6,
-    3.9,
-    4.75
-   ],
-   "odds_source": "b365",
-   "pick_odds": 4.75,
    "stake": 10
   },
   {
@@ -1192,6 +1093,105 @@
    "stake": 10
   },
   {
+   "match_key": "EC|03/10/2026|Harrogate|Hornchurch",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Harrogate",
+   "away": "Hornchurch",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.3825,
+    0.2869,
+    0.3306
+   ],
+   "lambda": [
+    1.848,
+    1.096
+   ],
+   "p_b_d": 0.239491946411476,
+   "p_final": [
+    0.395214612605252,
+    0.263195973205738,
+    0.34158941418901
+   ],
+   "prediction": "away",
+   "odds": [
+    1.6,
+    3.9,
+    4.75
+   ],
+   "odds_source": "b365",
+   "pick_odds": 4.75,
+   "stake": 10
+  },
+  {
+   "match_key": "E2|03/10/2026|Burton|Huddersfield",
+   "version": "dual-v1",
+   "div": "E2",
+   "home": "Burton",
+   "away": "Huddersfield",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.3444,
+    0.2783,
+    0.3772
+   ],
+   "lambda": [
+    1.485,
+    1.207
+   ],
+   "p_b_d": 0.267632761402761,
+   "p_final": [
+    0.346993318301614,
+    0.27296638070138,
+    0.380040300997006
+   ],
+   "prediction": "away",
+   "odds": [
+    3.9,
+    3.5,
+    1.81
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.81,
+   "stake": 10
+  },
+  {
+   "match_key": "E2|03/10/2026|Leyton Orient|Plymouth",
+   "version": "dual-v1",
+   "div": "E2",
+   "home": "Leyton Orient",
+   "away": "Plymouth",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.3229,
+    0.2807,
+    0.3965
+   ],
+   "lambda": [
+    1.582,
+    1.308
+   ],
+   "p_b_d": 0.257741103817899,
+   "p_final": [
+    0.328007622725327,
+    0.26922055190895,
+    0.402771825365724
+   ],
+   "prediction": "away",
+   "odds": [
+    3.4,
+    3.75,
+    1.91
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.91,
+   "stake": 10
+  },
+  {
    "match_key": "SP2|03/10/2026|Almeria|Burgos",
    "version": "dual-v1",
    "div": "SP2",
@@ -1222,6 +1222,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.56,
+   "stake": 10
+  },
+  {
+   "match_key": "SP2|03/10/2026|Sabadell|Andorra",
+   "version": "dual-v1",
+   "div": "SP2",
+   "home": "Sabadell",
+   "away": "Andorra",
+   "kickoff_utc": "2026-10-03T16:30:00+00:00",
+   "locked_at": "2026-10-03T15:30:05.051983+00:00",
+   "p_a": [
+    0.459,
+    0.2767,
+    0.2644
+   ],
+   "lambda": [
+    1.774,
+    1.059
+   ],
+   "p_b_d": 0.245757059267582,
+   "p_final": [
+    0.46875325531945,
+    0.261228529633791,
+    0.270018215046759
+   ],
+   "prediction": "home",
+   "odds": [
+    2.01,
+    3.4,
+    3.6
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.01,
    "stake": 10
   },
   {
@@ -1288,39 +1321,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.2,
-   "stake": 10
-  },
-  {
-   "match_key": "SP2|03/10/2026|Sabadell|Andorra",
-   "version": "dual-v1",
-   "div": "SP2",
-   "home": "Sabadell",
-   "away": "Andorra",
-   "kickoff_utc": "2026-10-03T16:30:00+00:00",
-   "locked_at": "2026-10-03T15:30:05.051983+00:00",
-   "p_a": [
-    0.459,
-    0.2767,
-    0.2644
-   ],
-   "lambda": [
-    1.774,
-    1.059
-   ],
-   "p_b_d": 0.245757059267582,
-   "p_final": [
-    0.46875325531945,
-    0.261228529633791,
-    0.270018215046759
-   ],
-   "prediction": "home",
-   "odds": [
-    2.01,
-    3.4,
-    3.6
-   ],
-   "odds_source": "b365",
-   "pick_odds": 2.01,
    "stake": 10
   },
   {
@@ -2578,39 +2578,6 @@
    "stake": 100
   },
   {
-   "match_key": "F2|10/10/2026|Clermont|Red Star",
-   "version": "dual-v2",
-   "div": "F2",
-   "home": "Clermont",
-   "away": "Red Star",
-   "kickoff_utc": "2026-10-10T12:00:00+00:00",
-   "locked_at": "2026-10-10T06:00:02.817603+00:00",
-   "p_a": [
-    0.3058,
-    0.2839,
-    0.4103
-   ],
-   "lambda": [
-    1.291,
-    1.092
-   ],
-   "p_b_d": 0.28763962059208,
-   "p_final": [
-    0.305001524942705,
-    0.28576981029604,
-    0.409228664761255
-   ],
-   "prediction": "away",
-   "odds": [
-    3.4,
-    3,
-    2
-   ],
-   "odds_source": "b365",
-   "pick_odds": 2,
-   "stake": 100
-  },
-  {
    "match_key": "F2|10/10/2026|Nantes|Reims",
    "version": "dual-v2",
    "div": "F2",
@@ -2641,6 +2608,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.3,
+   "stake": 100
+  },
+  {
+   "match_key": "F2|10/10/2026|Clermont|Red Star",
+   "version": "dual-v2",
+   "div": "F2",
+   "home": "Clermont",
+   "away": "Red Star",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "p_a": [
+    0.3058,
+    0.2839,
+    0.4103
+   ],
+   "lambda": [
+    1.291,
+    1.092
+   ],
+   "p_b_d": 0.28763962059208,
+   "p_final": [
+    0.305001524942705,
+    0.28576981029604,
+    0.409228664761255
+   ],
+   "prediction": "away",
+   "odds": [
+    3.4,
+    3,
+    2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2,
    "stake": 100
   },
   {
@@ -2842,39 +2842,6 @@
    "stake": 100
   },
   {
-   "match_key": "I1|10/10/2026|Genoa|Fiorentina",
-   "version": "dual-v2",
-   "div": "I1",
-   "home": "Genoa",
-   "away": "Fiorentina",
-   "kickoff_utc": "2026-10-10T13:00:00+00:00",
-   "locked_at": "2026-10-10T07:00:03.916254+00:00",
-   "p_a": [
-    0.3343,
-    0.2998,
-    0.366
-   ],
-   "lambda": [
-    1.607,
-    1.328
-   ],
-   "p_b_d": 0.255547095355547,
-   "p_final": [
-    0.344814698002742,
-    0.277673547677774,
-    0.377511754319484
-   ],
-   "prediction": "away",
-   "odds": [
-    3.3,
-    3.25,
-    2.25
-   ],
-   "odds_source": "b365",
-   "pick_odds": 2.25,
-   "stake": 100
-  },
-  {
    "match_key": "I2|10/10/2026|Empoli|Palermo",
    "version": "dual-v2",
    "div": "I2",
@@ -2905,6 +2872,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.86,
+   "stake": 100
+  },
+  {
+   "match_key": "I1|10/10/2026|Genoa|Fiorentina",
+   "version": "dual-v2",
+   "div": "I1",
+   "home": "Genoa",
+   "away": "Fiorentina",
+   "kickoff_utc": "2026-10-10T13:00:00+00:00",
+   "locked_at": "2026-10-10T07:00:03.916254+00:00",
+   "p_a": [
+    0.3343,
+    0.2998,
+    0.366
+   ],
+   "lambda": [
+    1.607,
+    1.328
+   ],
+   "p_b_d": 0.255547095355547,
+   "p_final": [
+    0.344814698002742,
+    0.277673547677774,
+    0.377511754319484
+   ],
+   "prediction": "away",
+   "odds": [
+    3.3,
+    3.25,
+    2.25
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.25,
    "stake": 100
   },
   {
@@ -4162,6 +4162,39 @@
    "stake": 100
   },
   {
+   "match_key": "SC1|10/10/2026|Arbroath|Morton",
+   "version": "dual-v2",
+   "div": "SC1",
+   "home": "Arbroath",
+   "away": "Morton",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.5462,
+    0.2628,
+    0.1909
+   ],
+   "lambda": [
+    1.552,
+    1.096
+   ],
+   "p_b_d": 0.265147121403808,
+   "p_final": [
+    0.545404478557346,
+    0.263973560701904,
+    0.19062196074075
+   ],
+   "prediction": "home",
+   "odds": [
+    1.75,
+    3.3,
+    4
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.75,
+   "stake": 100
+  },
+  {
    "match_key": "SC1|10/10/2026|Ayr|Dunfermline",
    "version": "dual-v2",
    "div": "SC1",
@@ -4192,39 +4225,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.15,
-   "stake": 100
-  },
-  {
-   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
-   "version": "dual-v2",
-   "div": "SC1",
-   "home": "Inverness C",
-   "away": "Stenhousemuir",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.4239,
-    0.2773,
-    0.2988
-   ],
-   "lambda": [
-    1.247,
-    1.221
-   ],
-   "p_b_d": 0.283718635791509,
-   "p_final": [
-    0.422017573189414,
-    0.280509317895754,
-    0.297473108914831
-   ],
-   "prediction": "draw",
-   "odds": [
-    1.83,
-    3.25,
-    3.7
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.25,
    "stake": 100
   },
   {
@@ -4624,36 +4624,36 @@
    "stake": 100
   },
   {
-   "match_key": "SC1|10/10/2026|Arbroath|Morton",
+   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
    "version": "dual-v2",
    "div": "SC1",
-   "home": "Arbroath",
-   "away": "Morton",
+   "home": "Inverness C",
+   "away": "Stenhousemuir",
    "kickoff_utc": "2026-10-10T14:00:00+00:00",
    "locked_at": "2026-10-10T08:00:02.953583+00:00",
    "p_a": [
-    0.5462,
-    0.2628,
-    0.1909
+    0.4239,
+    0.2773,
+    0.2988
    ],
    "lambda": [
-    1.552,
-    1.096
+    1.247,
+    1.221
    ],
-   "p_b_d": 0.265147121403808,
+   "p_b_d": 0.283718635791509,
    "p_final": [
-    0.545404478557346,
-    0.263973560701904,
-    0.19062196074075
+    0.422017573189414,
+    0.280509317895754,
+    0.297473108914831
    ],
-   "prediction": "home",
+   "prediction": "draw",
    "odds": [
-    1.75,
-    3.3,
-    4
+    1.83,
+    3.25,
+    3.7
    ],
    "odds_source": "b365",
-   "pick_odds": 1.75,
+   "pick_odds": 3.25,
    "stake": 100
   },
   {
@@ -5149,6 +5149,72 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.81,
+   "stake": 100
+  },
+  {
+   "match_key": "F1|10/10/2026|Lille|Le Havre",
+   "version": "dual-v2",
+   "div": "F1",
+   "home": "Lille",
+   "away": "Le Havre",
+   "kickoff_utc": "2026-10-10T15:15:00+00:00",
+   "locked_at": "2026-10-10T09:15:03.362692+00:00",
+   "p_a": [
+    0.6469,
+    0.217,
+    0.136
+   ],
+   "lambda": [
+    1.628,
+    1.017
+   ],
+   "p_b_d": 0.259216064119209,
+   "p_final": [
+    0.629541338690308,
+    0.238108032059605,
+    0.132350629250088
+   ],
+   "prediction": "home",
+   "odds": [
+    1.44,
+    4.5,
+    7.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.44,
+   "stake": 100
+  },
+  {
+   "match_key": "I2|10/10/2026|Vicenza|Pisa",
+   "version": "dual-v2",
+   "div": "I2",
+   "home": "Vicenza",
+   "away": "Pisa",
+   "kickoff_utc": "2026-10-10T15:15:00+00:00",
+   "locked_at": "2026-10-10T09:15:03.362692+00:00",
+   "p_a": [
+    0.3904,
+    0.2946,
+    0.315
+   ],
+   "lambda": [
+    1.517,
+    1.337
+   ],
+   "p_b_d": 0.260926137746651,
+   "p_final": [
+    0.399718312888933,
+    0.277763068873326,
+    0.322518618237741
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.85,
+    3.3,
+    2.2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.3,
    "stake": 100
   }
  ]
