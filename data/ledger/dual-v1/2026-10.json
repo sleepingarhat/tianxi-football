@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 160,
+ "count": 161,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2677,39 +2677,6 @@
    "stake": 100
   },
   {
-   "match_key": "I2|10/10/2026|Virtus Entella|Juve Stabia",
-   "version": "dual-v2",
-   "div": "I2",
-   "home": "Virtus Entella",
-   "away": "Juve Stabia",
-   "kickoff_utc": "2026-10-10T13:00:00+00:00",
-   "locked_at": "2026-10-10T07:00:03.916254+00:00",
-   "p_a": [
-    0.3999,
-    0.2923,
-    0.3079
-   ],
-   "lambda": [
-    1.521,
-    1.022
-   ],
-   "p_b_d": 0.269291563239133,
-   "p_final": [
-    0.406343270599513,
-    0.280795781619566,
-    0.31286094778092
-   ],
-   "prediction": "draw",
-   "odds": [
-    1.91,
-    3.2,
-    3.75
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.2,
-   "stake": 100
-  },
-  {
    "match_key": "I1|10/10/2026|Genoa|Fiorentina",
    "version": "dual-v2",
    "div": "I1",
@@ -2740,6 +2707,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.25,
+   "stake": 100
+  },
+  {
+   "match_key": "I2|10/10/2026|Virtus Entella|Juve Stabia",
+   "version": "dual-v2",
+   "div": "I2",
+   "home": "Virtus Entella",
+   "away": "Juve Stabia",
+   "kickoff_utc": "2026-10-10T13:00:00+00:00",
+   "locked_at": "2026-10-10T07:00:03.916254+00:00",
+   "p_a": [
+    0.3999,
+    0.2923,
+    0.3079
+   ],
+   "lambda": [
+    1.521,
+    1.022
+   ],
+   "p_b_d": 0.269291563239133,
+   "p_final": [
+    0.406343270599513,
+    0.280795781619566,
+    0.31286094778092
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.91,
+    3.2,
+    3.75
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.2,
    "stake": 100
   },
   {
@@ -4261,36 +4261,36 @@
    "stake": 100
   },
   {
-   "match_key": "SC1|10/10/2026|Livingston|Partick",
+   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
    "version": "dual-v2",
    "div": "SC1",
-   "home": "Livingston",
-   "away": "Partick",
+   "home": "Raith Rvs",
+   "away": "Queens Park",
    "kickoff_utc": "2026-10-10T14:00:00+00:00",
    "locked_at": "2026-10-10T08:00:02.953583+00:00",
    "p_a": [
-    0.2981,
-    0.2781,
-    0.4237
+    0.5405,
+    0.2651,
+    0.1943
    ],
    "lambda": [
-    1.277,
-    1.006
+    1.573,
+    0.856
    ],
-   "p_b_d": 0.293068282420411,
+   "p_b_d": 0.265182517887907,
    "p_final": [
-    0.295050384462784,
-    0.285584141210206,
-    0.41936547432701
+    0.540543208411531,
+    0.265141258943954,
+    0.194315532644515
    ],
-   "prediction": "away",
+   "prediction": "home",
    "odds": [
-    2.25,
-    3.1,
-    2.9
+    1.45,
+    3.8,
+    6
    ],
    "odds_source": "b365",
-   "pick_odds": 2.9,
+   "pick_odds": 1.45,
    "stake": 100
   },
   {
@@ -4624,36 +4624,36 @@
    "stake": 100
   },
   {
-   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
+   "match_key": "SC1|10/10/2026|Livingston|Partick",
    "version": "dual-v2",
    "div": "SC1",
-   "home": "Raith Rvs",
-   "away": "Queens Park",
+   "home": "Livingston",
+   "away": "Partick",
    "kickoff_utc": "2026-10-10T14:00:00+00:00",
    "locked_at": "2026-10-10T08:00:02.953583+00:00",
    "p_a": [
-    0.5405,
-    0.2651,
-    0.1943
+    0.2981,
+    0.2781,
+    0.4237
    ],
    "lambda": [
-    1.573,
-    0.856
+    1.277,
+    1.006
    ],
-   "p_b_d": 0.265182517887907,
+   "p_b_d": 0.293068282420411,
    "p_final": [
-    0.540543208411531,
-    0.265141258943954,
-    0.194315532644515
+    0.295050384462784,
+    0.285584141210206,
+    0.41936547432701
    ],
-   "prediction": "home",
+   "prediction": "away",
    "odds": [
-    1.45,
-    3.8,
-    6
+    2.25,
+    3.1,
+    2.9
    ],
    "odds_source": "b365",
-   "pick_odds": 1.45,
+   "pick_odds": 2.9,
    "stake": 100
   },
   {
@@ -5281,6 +5281,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.62,
+   "stake": 100
+  },
+  {
+   "match_key": "B1|10/10/2026|RAAL La Louviere|Club Brugge",
+   "version": "dual-v2",
+   "div": "B1",
+   "home": "RAAL La Louviere",
+   "away": "Club Brugge",
+   "kickoff_utc": "2026-10-10T16:15:00+00:00",
+   "locked_at": "2026-10-10T10:15:02.355498+00:00",
+   "p_a": [
+    0.0615,
+    0.1291,
+    0.8094
+   ],
+   "lambda": [
+    1.285,
+    1.533
+   ],
+   "p_b_d": 0.261698225158752,
+   "p_final": [
+    0.0568181818536782,
+    0.195399112579376,
+    0.747782705566946
+   ],
+   "prediction": "away",
+   "odds": [
+    6.25,
+    4.33,
+    1.42
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.42,
    "stake": 100
   }
  ]
