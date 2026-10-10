@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 170,
+ "count": 171,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2908,39 +2908,6 @@
    "stake": 100
   },
   {
-   "match_key": "D1|10/10/2026|Augsburg|Bayern Munich",
-   "version": "dual-v2",
-   "div": "D1",
-   "home": "Augsburg",
-   "away": "Bayern Munich",
-   "kickoff_utc": "2026-10-10T13:30:00+00:00",
-   "locked_at": "2026-10-10T07:30:02.882093+00:00",
-   "p_a": [
-    0.1197,
-    0.1703,
-    0.7101
-   ],
-   "lambda": [
-    1.777,
-    1.819
-   ],
-   "p_b_d": 0.231924818172071,
-   "p_final": [
-    0.115240834698001,
-    0.201112409086035,
-    0.683646756215963
-   ],
-   "prediction": "away",
-   "odds": [
-    11,
-    8.5,
-    1.18
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.18,
-   "stake": 100
-  },
-  {
    "match_key": "D1|10/10/2026|Hoffenheim|Hamburg",
    "version": "dual-v2",
    "div": "D1",
@@ -3070,6 +3037,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.9,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Augsburg|Bayern Munich",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Augsburg",
+   "away": "Bayern Munich",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.1197,
+    0.1703,
+    0.7101
+   ],
+   "lambda": [
+    1.777,
+    1.819
+   ],
+   "p_b_d": 0.231924818172071,
+   "p_final": [
+    0.115240834698001,
+    0.201112409086035,
+    0.683646756215963
+   ],
+   "prediction": "away",
+   "odds": [
+    11,
+    8.5,
+    1.18
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.18,
    "stake": 100
   },
   {
@@ -4789,6 +4789,39 @@
    "stake": 100
   },
   {
+   "match_key": "SC3|10/10/2026|Forfar|Elgin",
+   "version": "dual-v2",
+   "div": "SC3",
+   "home": "Forfar",
+   "away": "Elgin",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.4048,
+    0.2875,
+    0.3077
+   ],
+   "lambda": [
+    1.67,
+    1.771
+   ],
+   "p_b_d": 0.237048191153092,
+   "p_final": [
+    0.419131854190336,
+    0.262274095576546,
+    0.318594050233118
+   ],
+   "prediction": "draw",
+   "odds": [
+    3.2,
+    3.5,
+    1.91
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.5,
+   "stake": 100
+  },
+  {
    "match_key": "B1|10/10/2026|Cercle Brugge|Anderlecht",
    "version": "dual-v2",
    "div": "B1",
@@ -4918,39 +4951,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "SC3|10/10/2026|Forfar|Elgin",
-   "version": "dual-v2",
-   "div": "SC3",
-   "home": "Forfar",
-   "away": "Elgin",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.4048,
-    0.2875,
-    0.3077
-   ],
-   "lambda": [
-    1.67,
-    1.771
-   ],
-   "p_b_d": 0.237048191153092,
-   "p_final": [
-    0.419131854190336,
-    0.262274095576546,
-    0.318594050233118
-   ],
-   "prediction": "draw",
-   "odds": [
-    3.2,
-    3.5,
-    1.91
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.5,
    "stake": 100
   },
   {
@@ -5611,6 +5611,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.3,
+   "stake": 100
+  },
+  {
+   "match_key": "I2|10/10/2026|Arezzo|Cremonese",
+   "version": "dual-v2",
+   "div": "I2",
+   "home": "Arezzo",
+   "away": "Cremonese",
+   "kickoff_utc": "2026-10-10T17:30:00+00:00",
+   "locked_at": "2026-10-10T11:30:02.608303+00:00",
+   "p_a": [
+    0.4225,
+    0.2959,
+    0.2816
+   ],
+   "lambda": [
+    1.455,
+    1.382
+   ],
+   "p_b_d": 0.262701739980716,
+   "p_final": [
+    0.432460421004223,
+    0.279300869990358,
+    0.288238709005419
+   ],
+   "prediction": "draw",
+   "odds": [
+    3,
+    3.1,
+    2.25
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.1,
    "stake": 100
   }
  ]
