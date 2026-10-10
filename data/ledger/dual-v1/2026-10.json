@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 88,
+ "count": 93,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2905,6 +2905,171 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.86,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Augsburg|Bayern Munich",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Augsburg",
+   "away": "Bayern Munich",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.1197,
+    0.1703,
+    0.7101
+   ],
+   "lambda": [
+    1.777,
+    1.819
+   ],
+   "p_b_d": 0.231924818172071,
+   "p_final": [
+    0.115240834698001,
+    0.201112409086035,
+    0.683646756215963
+   ],
+   "prediction": "away",
+   "odds": [
+    11,
+    8.5,
+    1.18
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.18,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Hoffenheim|Hamburg",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Hoffenheim",
+   "away": "Hamburg",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.5343,
+    0.2631,
+    0.2026
+   ],
+   "lambda": [
+    2.317,
+    1.385
+   ],
+   "p_b_d": 0.208085923636277,
+   "p_final": [
+    0.554244375764105,
+    0.235592961818138,
+    0.210162662417757
+   ],
+   "prediction": "home",
+   "odds": [
+    1.42,
+    5,
+    7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.42,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Mainz|Leverkusen",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Mainz",
+   "away": "Leverkusen",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.2964,
+    0.2767,
+    0.4269
+   ],
+   "lambda": [
+    1.853,
+    1.619
+   ],
+   "p_b_d": 0.234765222482483,
+   "p_final": [
+    0.304992194149172,
+    0.255732611241241,
+    0.439275194609587
+   ],
+   "prediction": "away",
+   "odds": [
+    3,
+    3.8,
+    2.2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.2,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Paderborn|Stuttgart",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Paderborn",
+   "away": "Stuttgart",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.2493,
+    0.2509,
+    0.4998
+   ],
+   "lambda": [
+    1.715,
+    1.309
+   ],
+   "p_b_d": 0.24880410522966,
+   "p_final": [
+    0.249648756218292,
+    0.24985205261483,
+    0.500499191166878
+   ],
+   "prediction": "away",
+   "odds": [
+    4.75,
+    4.75,
+    1.6
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.6,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Union Berlin|Elversberg",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Union Berlin",
+   "away": "Elversberg",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.4,
+    0.2849,
+    0.3151
+   ],
+   "lambda": [
+    1.666,
+    2.205
+   ],
+   "p_b_d": 0.216776755555337,
+   "p_final": [
+    0.419052788265883,
+    0.250838377777668,
+    0.330108833956449
+   ],
+   "prediction": "away",
+   "odds": [
+    2.3,
+    3.6,
+    2.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.9,
    "stake": 100
   }
  ]
