@@ -1,7 +1,7 @@
 {
  "table": "football_lineup_snapshots",
  "month": "2026-10",
- "count": 160,
+ "count": 161,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -66835,6 +66835,572 @@
      "temperature_c": 15
     },
     "travel_km": 969,
+    "pitch_condition": null
+   }
+  },
+  {
+   "match_key": "B1|10/10/2026|RAAL La Louviere|Club Brugge",
+   "bsd_event_id": 212785,
+   "captured_at": "2026-10-10T10:17:38.784965+00:00",
+   "kickoff_utc": "2026-10-10T16:15:00+00:00",
+   "div": "B1",
+   "home": "RAAL La Louviere",
+   "away": "Club Brugge",
+   "lineup_status": "predicted",
+   "lineups": {
+    "away": {
+     "players": [
+      {
+       "id": 1678,
+       "name": "Yann Sommer",
+       "ai_score": 0.772,
+       "position": "G",
+       "short_name": "Y. Sommer",
+       "jersey_number": 1
+      },
+      {
+       "id": 3538,
+       "name": "Joaquin Seys",
+       "ai_score": 0.769,
+       "position": "D",
+       "short_name": "J. Seys",
+       "jersey_number": 65
+      },
+      {
+       "id": 3537,
+       "name": "Brandon Mechele",
+       "ai_score": 0.799,
+       "position": "D",
+       "short_name": "B. Mechele",
+       "jersey_number": 44
+      },
+      {
+       "id": 3259,
+       "name": "Han-Beom Lee",
+       "ai_score": 0.778,
+       "position": "D",
+       "short_name": "H. Lee",
+       "jersey_number": 3
+      },
+      {
+       "id": 4222,
+       "name": "Kyriani Sabbe",
+       "ai_score": 0.642,
+       "position": "D",
+       "short_name": "K. Sabbe",
+       "jersey_number": 64
+      },
+      {
+       "id": 3546,
+       "name": "Hugo Vetlesen",
+       "ai_score": 0.763,
+       "position": "M",
+       "short_name": "H. Vetlesen",
+       "jersey_number": 10
+      },
+      {
+       "id": 1640,
+       "name": "Freddie Potts",
+       "ai_score": 0.755,
+       "position": "M",
+       "short_name": "F. Potts",
+       "jersey_number": 8
+      },
+      {
+       "id": 3547,
+       "name": "Mamadou Diakhon",
+       "ai_score": 0.548,
+       "position": "F",
+       "short_name": "M. Diakhon",
+       "jersey_number": 67
+      },
+      {
+       "id": 3542,
+       "name": "Hans Vanaken",
+       "ai_score": 0.713,
+       "position": "M",
+       "short_name": "H. Vanaken",
+       "jersey_number": 20
+      },
+      {
+       "id": 3541,
+       "name": "Carlos Forbs",
+       "ai_score": 0.71,
+       "position": "M",
+       "short_name": "C. Forbs",
+       "jersey_number": 9
+      },
+      {
+       "id": 3545,
+       "name": "Nicolò Tresoldi",
+       "ai_score": 0.682,
+       "position": "F",
+       "short_name": "N. Tresoldi",
+       "jersey_number": 7
+      }
+     ],
+     "team_id": 123,
+     "formation": "4-2-3-1",
+     "team_name": "Club Brugge KV",
+     "confidence": 0.8,
+     "substitutes": [
+      {
+       "id": 2646,
+       "name": "Jan Virgili",
+       "ai_score": 0.444,
+       "position": "M",
+       "short_name": "J. Virgili",
+       "jersey_number": 11
+      },
+      {
+       "id": 3544,
+       "name": "Romeo Vermant",
+       "ai_score": 0.369,
+       "position": "F",
+       "short_name": "R. Vermant",
+       "jersey_number": 17
+      },
+      {
+       "id": 3897,
+       "name": "Félix Lemaréchal",
+       "ai_score": 0.32,
+       "position": "M",
+       "short_name": "F. Lemaréchal",
+       "jersey_number": 80
+      },
+      {
+       "id": 7432,
+       "name": "Cheveyo Tsawa",
+       "ai_score": 0.267,
+       "position": "M",
+       "short_name": "C. Tsawa",
+       "jersey_number": 16
+      },
+      {
+       "id": 3549,
+       "name": "Jorne Spileers",
+       "ai_score": 0.183,
+       "position": "D",
+       "short_name": "J. Spileers",
+       "jersey_number": 58
+      },
+      {
+       "id": 8558,
+       "name": "Tian Nai Koren",
+       "ai_score": 0.155,
+       "position": "M",
+       "short_name": "T. N. Koren",
+       "jersey_number": 85
+      },
+      {
+       "id": 3534,
+       "name": "Nordin Jackers",
+       "ai_score": 0.035,
+       "position": "G",
+       "short_name": "N. Jackers",
+       "jersey_number": 29
+      },
+      {
+       "id": 4223,
+       "name": "Lynnt Audoor",
+       "ai_score": 0.02,
+       "position": "M",
+       "short_name": "L. Audoor",
+       "jersey_number": 62
+      },
+      {
+       "id": 8311,
+       "name": "Matteo Dams",
+       "ai_score": 0.01,
+       "position": "D",
+       "short_name": "M. Dams",
+       "jersey_number": 32
+      },
+      {
+       "id": 67456,
+       "name": "Wout Verlinden",
+       "ai_score": 0.005,
+       "position": "D",
+       "short_name": "W. Verlinden",
+       "jersey_number": 93
+      }
+     ]
+    },
+    "home": {
+     "players": [
+      {
+       "id": 7574,
+       "name": "Marcos Hernán Peano",
+       "ai_score": 0.651,
+       "position": "G",
+       "short_name": "M. Peano",
+       "jersey_number": 21
+      },
+      {
+       "id": 48148,
+       "name": "Patrick Nkoa",
+       "ai_score": 0.616,
+       "position": "D",
+       "short_name": "S. P. A. Nkoa",
+       "jersey_number": 33
+      },
+      {
+       "id": 7747,
+       "name": "Wagane Faye",
+       "ai_score": 0.593,
+       "position": "D",
+       "short_name": "W. Faye",
+       "jersey_number": 4
+      },
+      {
+       "id": 7577,
+       "name": "Yllan Okou",
+       "ai_score": 0.593,
+       "position": "D",
+       "short_name": "Y. Okou",
+       "jersey_number": 99
+      },
+      {
+       "id": 38144,
+       "name": "Shaquil Delos",
+       "ai_score": 0.647,
+       "position": "D",
+       "short_name": "S. Delos",
+       "jersey_number": 18
+      },
+      {
+       "id": 3447,
+       "name": "Zsombor Gruber",
+       "ai_score": 0.415,
+       "position": "F",
+       "short_name": "Z. Gruber",
+       "jersey_number": 30
+      },
+      {
+       "id": 30988,
+       "name": "Ismaila Coulibaly",
+       "ai_score": 0.701,
+       "position": "M",
+       "short_name": "I. Coulibaly",
+       "jersey_number": 48
+      },
+      {
+       "id": 7362,
+       "name": "Anas Tajaouart",
+       "ai_score": 0.439,
+       "position": "M",
+       "short_name": "A. Tajaouart",
+       "jersey_number": 78
+      },
+      {
+       "id": 27429,
+       "name": "Elias Filet",
+       "ai_score": 0.457,
+       "position": "F",
+       "short_name": "E. Filet",
+       "jersey_number": 9
+      },
+      {
+       "id": 50204,
+       "name": "Mustapha Isah",
+       "ai_score": 0.673,
+       "position": "F",
+       "short_name": "M. Isah",
+       "jersey_number": 11
+      },
+      {
+       "id": 64273,
+       "name": "Mame Wade",
+       "ai_score": 0.447,
+       "position": "M",
+       "short_name": "M. Wade",
+       "jersey_number": 10
+      }
+     ],
+     "team_id": 238,
+     "formation": "3-4-3",
+     "team_name": "RAAL La Louvière",
+     "confidence": 0.641,
+     "substitutes": [
+      {
+       "id": 7583,
+       "name": "Thierry Lutonda",
+       "ai_score": 0.449,
+       "position": "M",
+       "short_name": "T. Lutonda",
+       "jersey_number": 5
+      },
+      {
+       "id": 1400,
+       "name": "Marius Courcoul",
+       "ai_score": 0.394,
+       "position": "D",
+       "short_name": "M. Courcoul",
+       "jersey_number": 29
+      },
+      {
+       "id": 7578,
+       "name": "Djibril Lamego",
+       "ai_score": 0.322,
+       "position": "D",
+       "short_name": "D. Lamego",
+       "jersey_number": 25
+      },
+      {
+       "id": 64272,
+       "name": "Mátyás Kovács",
+       "ai_score": 0.279,
+       "position": "M",
+       "short_name": "M. Kovács",
+       "jersey_number": 7
+      },
+      {
+       "id": 7661,
+       "name": "Mehdi Boukamir",
+       "ai_score": 0.248,
+       "position": "D",
+       "short_name": "M. Boukamir",
+       "jersey_number": 44
+      },
+      {
+       "id": 41014,
+       "name": "Siad Gourville",
+       "ai_score": 0.225,
+       "position": "D",
+       "short_name": "S. Gourville",
+       "jersey_number": 22
+      },
+      {
+       "id": 7588,
+       "name": "Joël Ito",
+       "ai_score": 0.195,
+       "position": "M",
+       "short_name": "J. Ito",
+       "jersey_number": 23
+      },
+      {
+       "id": 8769,
+       "name": "Théo Radelet",
+       "ai_score": 0.161,
+       "position": "G",
+       "short_name": "T. Radelet",
+       "jersey_number": 91
+      },
+      {
+       "id": 8848,
+       "name": "Nolan Gillot",
+       "ai_score": 0.154,
+       "position": "M",
+       "short_name": "N. Gillot",
+       "jersey_number": 3
+      },
+      {
+       "id": 42166,
+       "name": "Léandro Rousseau",
+       "ai_score": 0.153,
+       "position": "F",
+       "short_name": "L. Rousseau",
+       "jersey_number": 90
+      },
+      {
+       "id": 12169,
+       "name": "Bryan Soumaré",
+       "ai_score": 0.025,
+       "position": "M",
+       "short_name": "B. Soumaré",
+       "jersey_number": 28
+      },
+      {
+       "id": 7825,
+       "name": "Quentin Benaets",
+       "ai_score": 0.01,
+       "position": "F",
+       "short_name": "Q. Benaets",
+       "jersey_number": 43
+      }
+     ]
+    }
+   },
+   "unavailable": {
+    "away": [
+     {
+      "id": 3535,
+      "name": "Hugo Siquet",
+      "reason": "Muscle Injury",
+      "status": "injured",
+      "short_name": "H. Siquet"
+     }
+    ],
+    "home": []
+   },
+   "bsd_prediction": null,
+   "error": null,
+   "bsd_latency_ms": 411,
+   "context": {
+    "h2h": {
+     "draws": 2,
+     "away_wins": 8,
+     "home_wins": 2,
+     "away_goals": 26,
+     "home_goals": 11,
+     "away_win_rate": 0.6666666666666666,
+     "home_win_rate": 0.16666666666666666,
+     "total_matches": 12,
+     "recent_matches": [
+      {
+       "away": "RAAL La Louvière",
+       "date": "2026-01-16T19:45:00+00:00",
+       "home": "Club Brugge KV",
+       "score": "2-3",
+       "event_id": 4297,
+       "away_score": 3,
+       "home_score": 2,
+       "away_team_id": 238,
+       "home_team_id": 123
+      },
+      {
+       "away": "Club Brugge KV",
+       "date": "2025-09-13T18:45:00+00:00",
+       "home": "RAAL La Louvière",
+       "score": "1-0",
+       "event_id": 4188,
+       "away_score": 0,
+       "home_score": 1,
+       "away_team_id": 123,
+       "home_team_id": 238
+      },
+      {
+       "away": "Club Brugge KV",
+       "date": "2005-04-02T18:00:00+00:00",
+       "home": "RAAL La Louvière",
+       "score": "0-2",
+       "event_id": 498657,
+       "away_score": 2,
+       "home_score": 0,
+       "away_team_id": 123,
+       "home_team_id": 238
+      },
+      {
+       "away": "RAAL La Louvière",
+       "date": "2004-10-24T17:00:00+00:00",
+       "home": "Club Brugge KV",
+       "score": "2-0",
+       "event_id": 498507,
+       "away_score": 0,
+       "home_score": 2,
+       "away_team_id": 238,
+       "home_team_id": 123
+      },
+      {
+       "away": "Club Brugge KV",
+       "date": "2004-02-11T19:30:00+00:00",
+       "home": "RAAL La Louvière",
+       "score": "0-4",
+       "event_id": 502958,
+       "away_score": 4,
+       "home_score": 0,
+       "away_team_id": 123,
+       "home_team_id": 238
+      },
+      {
+       "away": "RAAL La Louvière",
+       "date": "2003-08-23T18:00:00+00:00",
+       "home": "Club Brugge KV",
+       "score": "3-3",
+       "event_id": 502799,
+       "away_score": 3,
+       "home_score": 3,
+       "away_team_id": 238,
+       "home_team_id": 123
+      },
+      {
+       "away": "RAAL La Louvière",
+       "date": "2003-01-18T19:00:00+00:00",
+       "home": "Club Brugge KV",
+       "score": "3-0",
+       "event_id": 506392,
+       "away_score": 0,
+       "home_score": 3,
+       "away_team_id": 238,
+       "home_team_id": 123
+      },
+      {
+       "away": "Club Brugge KV",
+       "date": "2002-08-11T18:00:00+00:00",
+       "home": "RAAL La Louvière",
+       "score": "1-2",
+       "event_id": 506246,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 123,
+       "home_team_id": 238
+      },
+      {
+       "away": "Club Brugge KV",
+       "date": "2002-02-09T19:00:00+00:00",
+       "home": "RAAL La Louvière",
+       "score": "1-2",
+       "event_id": 509952,
+       "away_score": 2,
+       "home_score": 1,
+       "away_team_id": 123,
+       "home_team_id": 238
+      },
+      {
+       "away": "RAAL La Louvière",
+       "date": "2001-09-16T16:00:00+00:00",
+       "home": "Club Brugge KV",
+       "score": "2-1",
+       "event_id": 509803,
+       "away_score": 1,
+       "home_score": 2,
+       "away_team_id": 238,
+       "home_team_id": 123
+      }
+     ],
+     "avg_total_goals": 3.0833333333333335
+    },
+    "odds": {
+     "draw": 4.83,
+     "btts_no": 2.08,
+     "away_win": 1.37,
+     "btts_yes": 1.68,
+     "home_win": 6.85,
+     "over_15_goals": 1.13,
+     "over_25_goals": 1.46,
+     "over_35_goals": 2.2,
+     "under_15_goals": 5.6,
+     "under_25_goals": 2.58,
+     "under_35_goals": 1.65
+    },
+    "derby": false,
+    "round": "Regular season · Matchday 8",
+    "neutral": false,
+    "odds_at": "2026-10-10T10:05:07Z",
+    "referee": {
+     "id": 1846,
+     "name": "Lothar D'hondt",
+     "country": "Belgium",
+     "matches": 36,
+     "birthdate": null,
+     "career_games": 200,
+     "nationality_a3": "",
+     "total_red_cards": 9,
+     "career_red_cards": 24,
+     "avg_red_per_match": 0.25,
+     "total_yellow_cards": 149,
+     "avg_fouls_per_match": 24.6,
+     "avg_goals_per_match": 2.42,
+     "career_yellow_cards": 801,
+     "avg_yellow_per_match": 4.14
+    },
+    "weather": {
+     "code": 51,
+     "wind_speed": 23.8,
+     "description": null,
+     "temperature_c": 17
+    },
+    "travel_km": null,
     "pitch_condition": null
    }
   }
