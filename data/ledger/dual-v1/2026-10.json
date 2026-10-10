@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 154,
+ "count": 156,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -100,6 +100,72 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.5,
+   "stake": 10
+  },
+  {
+   "match_key": "E2|03/10/2026|Burton|Huddersfield",
+   "version": "dual-v1",
+   "div": "E2",
+   "home": "Burton",
+   "away": "Huddersfield",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.3444,
+    0.2783,
+    0.3772
+   ],
+   "lambda": [
+    1.485,
+    1.207
+   ],
+   "p_b_d": 0.267632761402761,
+   "p_final": [
+    0.346993318301614,
+    0.27296638070138,
+    0.380040300997006
+   ],
+   "prediction": "away",
+   "odds": [
+    3.9,
+    3.5,
+    1.81
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.81,
+   "stake": 10
+  },
+  {
+   "match_key": "E2|03/10/2026|Leyton Orient|Plymouth",
+   "version": "dual-v1",
+   "div": "E2",
+   "home": "Leyton Orient",
+   "away": "Plymouth",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.3229,
+    0.2807,
+    0.3965
+   ],
+   "lambda": [
+    1.582,
+    1.308
+   ],
+   "p_b_d": 0.257741103817899,
+   "p_final": [
+    0.328007622725327,
+    0.26922055190895,
+    0.402771825365724
+   ],
+   "prediction": "away",
+   "odds": [
+    3.4,
+    3.75,
+    1.91
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.91,
    "stake": 10
   },
   {
@@ -463,6 +529,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.38,
+   "stake": 10
+  },
+  {
+   "match_key": "EC|03/10/2026|Eastleigh|Woking",
+   "version": "dual-v1",
+   "div": "EC",
+   "home": "Eastleigh",
+   "away": "Woking",
+   "kickoff_utc": "2026-10-03T14:00:00+00:00",
+   "locked_at": "2026-10-03T13:00:05.964735+00:00",
+   "p_a": [
+    0.2986,
+    0.2908,
+    0.4106
+   ],
+   "lambda": [
+    1.475,
+    1.385
+   ],
+   "p_b_d": 0.261464922401882,
+   "p_final": [
+    0.304775588106879,
+    0.276132461200941,
+    0.419091950692179
+   ],
+   "prediction": "away",
+   "odds": [
+    2.75,
+    3.5,
+    2.2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.2,
    "stake": 10
   },
   {
@@ -1090,105 +1189,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.85,
-   "stake": 10
-  },
-  {
-   "match_key": "EC|03/10/2026|Eastleigh|Woking",
-   "version": "dual-v1",
-   "div": "EC",
-   "home": "Eastleigh",
-   "away": "Woking",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.2986,
-    0.2908,
-    0.4106
-   ],
-   "lambda": [
-    1.475,
-    1.385
-   ],
-   "p_b_d": 0.261464922401882,
-   "p_final": [
-    0.304775588106879,
-    0.276132461200941,
-    0.419091950692179
-   ],
-   "prediction": "away",
-   "odds": [
-    2.75,
-    3.5,
-    2.2
-   ],
-   "odds_source": "b365",
-   "pick_odds": 2.2,
-   "stake": 10
-  },
-  {
-   "match_key": "E2|03/10/2026|Burton|Huddersfield",
-   "version": "dual-v1",
-   "div": "E2",
-   "home": "Burton",
-   "away": "Huddersfield",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.3444,
-    0.2783,
-    0.3772
-   ],
-   "lambda": [
-    1.485,
-    1.207
-   ],
-   "p_b_d": 0.267632761402761,
-   "p_final": [
-    0.346993318301614,
-    0.27296638070138,
-    0.380040300997006
-   ],
-   "prediction": "away",
-   "odds": [
-    3.9,
-    3.5,
-    1.81
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.81,
-   "stake": 10
-  },
-  {
-   "match_key": "E2|03/10/2026|Leyton Orient|Plymouth",
-   "version": "dual-v1",
-   "div": "E2",
-   "home": "Leyton Orient",
-   "away": "Plymouth",
-   "kickoff_utc": "2026-10-03T14:00:00+00:00",
-   "locked_at": "2026-10-03T13:00:05.964735+00:00",
-   "p_a": [
-    0.3229,
-    0.2807,
-    0.3965
-   ],
-   "lambda": [
-    1.582,
-    1.308
-   ],
-   "p_b_d": 0.257741103817899,
-   "p_final": [
-    0.328007622725327,
-    0.26922055190895,
-    0.402771825365724
-   ],
-   "prediction": "away",
-   "odds": [
-    3.4,
-    3.75,
-    1.91
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.91,
    "stake": 10
   },
   {
@@ -2248,39 +2248,6 @@
    "stake": 100
   },
   {
-   "match_key": "EC|10/10/2026|Carlisle|Kidderminster",
-   "version": "dual-v2",
-   "div": "EC",
-   "home": "Carlisle",
-   "away": "Kidderminster",
-   "kickoff_utc": "2026-10-10T11:30:00+00:00",
-   "locked_at": "2026-10-10T05:30:04.149469+00:00",
-   "p_a": [
-    0.574,
-    0.2461,
-    0.1799
-   ],
-   "lambda": [
-    1.617,
-    1.238
-   ],
-   "p_b_d": 0.257082050653429,
-   "p_final": [
-    0.569819275053012,
-    0.251591025326715,
-    0.178589699620273
-   ],
-   "prediction": "home",
-   "odds": [
-    1.48,
-    4.2,
-    5.5
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.48,
-   "stake": 100
-  },
-  {
    "match_key": "E0|10/10/2026|Arsenal|Leeds",
    "version": "dual-v2",
    "div": "E0",
@@ -2578,69 +2545,36 @@
    "stake": 100
   },
   {
-   "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao",
+   "match_key": "EC|10/10/2026|Carlisle|Kidderminster",
    "version": "dual-v2",
-   "div": "SP1",
-   "home": "Vallecano",
-   "away": "Ath Bilbao",
-   "kickoff_utc": "2026-10-10T12:00:00+00:00",
-   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "div": "EC",
+   "home": "Carlisle",
+   "away": "Kidderminster",
+   "kickoff_utc": "2026-10-10T11:30:00+00:00",
+   "locked_at": "2026-10-10T05:30:04.149469+00:00",
    "p_a": [
-    0.4143,
-    0.2923,
-    0.2934
+    0.574,
+    0.2461,
+    0.1799
    ],
    "lambda": [
-    1.439,
-    1.361
+    1.617,
+    1.238
    ],
-   "p_b_d": 0.264546111227131,
+   "p_b_d": 0.257082050653429,
    "p_final": [
-    0.422423806781546,
-    0.278423055613566,
-    0.299153137604889
+    0.569819275053012,
+    0.251591025326715,
+    0.178589699620273
    ],
-   "prediction": "draw",
+   "prediction": "home",
    "odds": [
-    2.7,
-    3.4,
-    2.6
+    1.48,
+    4.2,
+    5.5
    ],
    "odds_source": "b365",
-   "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "F2|10/10/2026|Nantes|Reims",
-   "version": "dual-v2",
-   "div": "F2",
-   "home": "Nantes",
-   "away": "Reims",
-   "kickoff_utc": "2026-10-10T12:00:00+00:00",
-   "locked_at": "2026-10-10T06:00:02.817603+00:00",
-   "p_a": [
-    0.3136,
-    0.2878,
-    0.3986
-   ],
-   "lambda": [
-    1.513,
-    1.423
-   ],
-   "p_b_d": 0.257806413041961,
-   "p_final": [
-    0.320203474354143,
-    0.272803206520981,
-    0.406993319124877
-   ],
-   "prediction": "away",
-   "odds": [
-    2.05,
-    3.2,
-    3.3
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.3,
+   "pick_odds": 1.48,
    "stake": 100
   },
   {
@@ -2677,36 +2611,69 @@
    "stake": 100
   },
   {
-   "match_key": "I2|10/10/2026|Empoli|Palermo",
+   "match_key": "F2|10/10/2026|Nantes|Reims",
    "version": "dual-v2",
-   "div": "I2",
-   "home": "Empoli",
-   "away": "Palermo",
-   "kickoff_utc": "2026-10-10T13:00:00+00:00",
-   "locked_at": "2026-10-10T07:00:03.916254+00:00",
+   "div": "F2",
+   "home": "Nantes",
+   "away": "Reims",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
    "p_a": [
-    0.2728,
-    0.282,
-    0.4452
+    0.3136,
+    0.2878,
+    0.3986
    ],
    "lambda": [
-    1.269,
-    1.278
+    1.513,
+    1.423
    ],
-   "p_b_d": 0.278834832584932,
+   "p_b_d": 0.257806413041961,
    "p_final": [
-    0.27340129364264,
-    0.280417416292466,
-    0.446181290064894
+    0.320203474354143,
+    0.272803206520981,
+    0.406993319124877
    ],
    "prediction": "away",
    "odds": [
-    3.7,
-    3.5,
-    1.86
+    2.05,
+    3.2,
+    3.3
    ],
    "odds_source": "b365",
-   "pick_odds": 1.86,
+   "pick_odds": 3.3,
+   "stake": 100
+  },
+  {
+   "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao",
+   "version": "dual-v2",
+   "div": "SP1",
+   "home": "Vallecano",
+   "away": "Ath Bilbao",
+   "kickoff_utc": "2026-10-10T12:00:00+00:00",
+   "locked_at": "2026-10-10T06:00:02.817603+00:00",
+   "p_a": [
+    0.4143,
+    0.2923,
+    0.2934
+   ],
+   "lambda": [
+    1.439,
+    1.361
+   ],
+   "p_b_d": 0.264546111227131,
+   "p_final": [
+    0.422423806781546,
+    0.278423055613566,
+    0.299153137604889
+   ],
+   "prediction": "draw",
+   "odds": [
+    2.7,
+    3.4,
+    2.6
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
    "stake": 100
   },
   {
@@ -2809,6 +2776,39 @@
    "stake": 100
   },
   {
+   "match_key": "I2|10/10/2026|Benevento|Cesena",
+   "version": "dual-v2",
+   "div": "I2",
+   "home": "Benevento",
+   "away": "Cesena",
+   "kickoff_utc": "2026-10-10T13:00:00+00:00",
+   "locked_at": "2026-10-10T07:00:03.916254+00:00",
+   "p_a": [
+    0.4211,
+    0.2891,
+    0.2898
+   ],
+   "lambda": [
+    1.427,
+    1.087
+   ],
+   "p_b_d": 0.276215370384022,
+   "p_final": [
+    0.424916090541066,
+    0.282657685192011,
+    0.292426224266922
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.76,
+    3.4,
+    4.2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
+   "stake": 100
+  },
+  {
    "match_key": "T1|10/10/2026|Samsunspor|Trabzonspor",
    "version": "dual-v2",
    "div": "T1",
@@ -2875,69 +2875,36 @@
    "stake": 100
   },
   {
-   "match_key": "I2|10/10/2026|Benevento|Cesena",
+   "match_key": "I2|10/10/2026|Empoli|Palermo",
    "version": "dual-v2",
    "div": "I2",
-   "home": "Benevento",
-   "away": "Cesena",
+   "home": "Empoli",
+   "away": "Palermo",
    "kickoff_utc": "2026-10-10T13:00:00+00:00",
    "locked_at": "2026-10-10T07:00:03.916254+00:00",
    "p_a": [
-    0.4211,
-    0.2891,
-    0.2898
+    0.2728,
+    0.282,
+    0.4452
    ],
    "lambda": [
-    1.427,
-    1.087
+    1.269,
+    1.278
    ],
-   "p_b_d": 0.276215370384022,
+   "p_b_d": 0.278834832584932,
    "p_final": [
-    0.424916090541066,
-    0.282657685192011,
-    0.292426224266922
+    0.27340129364264,
+    0.280417416292466,
+    0.446181290064894
    ],
-   "prediction": "draw",
+   "prediction": "away",
    "odds": [
-    1.76,
-    3.4,
-    4.2
+    3.7,
+    3.5,
+    1.86
    ],
    "odds_source": "b365",
-   "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "D1|10/10/2026|Hoffenheim|Hamburg",
-   "version": "dual-v2",
-   "div": "D1",
-   "home": "Hoffenheim",
-   "away": "Hamburg",
-   "kickoff_utc": "2026-10-10T13:30:00+00:00",
-   "locked_at": "2026-10-10T07:30:02.882093+00:00",
-   "p_a": [
-    0.5343,
-    0.2631,
-    0.2026
-   ],
-   "lambda": [
-    2.317,
-    1.385
-   ],
-   "p_b_d": 0.208085923636277,
-   "p_final": [
-    0.554244375764105,
-    0.235592961818138,
-    0.210162662417757
-   ],
-   "prediction": "home",
-   "odds": [
-    1.42,
-    5,
-    7
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.42,
+   "pick_odds": 1.86,
    "stake": 100
   },
   {
@@ -2974,39 +2941,6 @@
    "stake": 100
   },
   {
-   "match_key": "D1|10/10/2026|Union Berlin|Elversberg",
-   "version": "dual-v2",
-   "div": "D1",
-   "home": "Union Berlin",
-   "away": "Elversberg",
-   "kickoff_utc": "2026-10-10T13:30:00+00:00",
-   "locked_at": "2026-10-10T07:30:02.882093+00:00",
-   "p_a": [
-    0.4,
-    0.2849,
-    0.3151
-   ],
-   "lambda": [
-    1.666,
-    2.205
-   ],
-   "p_b_d": 0.216776755555337,
-   "p_final": [
-    0.419052788265883,
-    0.250838377777668,
-    0.330108833956449
-   ],
-   "prediction": "away",
-   "odds": [
-    2.3,
-    3.6,
-    2.9
-   ],
-   "odds_source": "b365",
-   "pick_odds": 2.9,
-   "stake": 100
-  },
-  {
    "match_key": "D1|10/10/2026|Paderborn|Stuttgart",
    "version": "dual-v2",
    "div": "D1",
@@ -3040,6 +2974,39 @@
    "stake": 100
   },
   {
+   "match_key": "D1|10/10/2026|Union Berlin|Elversberg",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Union Berlin",
+   "away": "Elversberg",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.4,
+    0.2849,
+    0.3151
+   ],
+   "lambda": [
+    1.666,
+    2.205
+   ],
+   "p_b_d": 0.216776755555337,
+   "p_final": [
+    0.419052788265883,
+    0.250838377777668,
+    0.330108833956449
+   ],
+   "prediction": "away",
+   "odds": [
+    2.3,
+    3.6,
+    2.9
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.9,
+   "stake": 100
+  },
+  {
    "match_key": "D1|10/10/2026|Augsburg|Bayern Munich",
    "version": "dual-v2",
    "div": "D1",
@@ -3070,6 +3037,138 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.18,
+   "stake": 100
+  },
+  {
+   "match_key": "D1|10/10/2026|Hoffenheim|Hamburg",
+   "version": "dual-v2",
+   "div": "D1",
+   "home": "Hoffenheim",
+   "away": "Hamburg",
+   "kickoff_utc": "2026-10-10T13:30:00+00:00",
+   "locked_at": "2026-10-10T07:30:02.882093+00:00",
+   "p_a": [
+    0.5343,
+    0.2631,
+    0.2026
+   ],
+   "lambda": [
+    2.317,
+    1.385
+   ],
+   "p_b_d": 0.208085923636277,
+   "p_final": [
+    0.554244375764105,
+    0.235592961818138,
+    0.210162662417757
+   ],
+   "prediction": "home",
+   "odds": [
+    1.42,
+    5,
+    7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.42,
+   "stake": 100
+  },
+  {
+   "match_key": "E1|10/10/2026|Sheffield United|Lincoln",
+   "version": "dual-v2",
+   "div": "E1",
+   "home": "Sheffield United",
+   "away": "Lincoln",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.2568,
+    0.2699,
+    0.4733
+   ],
+   "lambda": [
+    1.284,
+    1.126
+   ],
+   "p_b_d": 0.286468093874927,
+   "p_final": [
+    0.253886230306067,
+    0.278184046937464,
+    0.46792972275647
+   ],
+   "prediction": "away",
+   "odds": [
+    2.05,
+    3.4,
+    3.4
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
+   "stake": 100
+  },
+  {
+   "match_key": "E1|10/10/2026|Watford|Burnley",
+   "version": "dual-v2",
+   "div": "E1",
+   "home": "Watford",
+   "away": "Burnley",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.3756,
+    0.2927,
+    0.3317
+   ],
+   "lambda": [
+    1.541,
+    1.086
+   ],
+   "p_b_d": 0.266297750782836,
+   "p_final": [
+    0.382610239506551,
+    0.279498875391418,
+    0.337890885102031
+   ],
+   "prediction": "draw",
+   "odds": [
+    3.1,
+    3.4,
+    2.2
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.4,
+   "stake": 100
+  },
+  {
+   "match_key": "E2|10/10/2026|Bradford|Leyton Orient",
+   "version": "dual-v2",
+   "div": "E2",
+   "home": "Bradford",
+   "away": "Leyton Orient",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.5761,
+    0.2425,
+    0.1814
+   ],
+   "lambda": [
+    1.374,
+    1.028
+   ],
+   "p_b_d": 0.282982397313498,
+   "p_final": [
+    0.560706000599138,
+    0.262741198656749,
+    0.176552800744113
+   ],
+   "prediction": "home",
+   "odds": [
+    1.68,
+    3.7,
+    4.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.68,
    "stake": 100
   },
   {
@@ -3997,6 +4096,39 @@
    "stake": 100
   },
   {
+   "match_key": "SC0|10/10/2026|Falkirk|Dundee",
+   "version": "dual-v2",
+   "div": "SC0",
+   "home": "Falkirk",
+   "away": "Dundee",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.4267,
+    0.2861,
+    0.2872
+   ],
+   "lambda": [
+    1.484,
+    1.17
+   ],
+   "p_b_d": 0.268895328822973,
+   "p_final": [
+    0.431841639719315,
+    0.277497664411487,
+    0.290660695869199
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.96,
+    3.6,
+    3.5
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.6,
+   "stake": 100
+  },
+  {
    "match_key": "SC0|10/10/2026|Rangers|Kilmarnock",
    "version": "dual-v2",
    "div": "SC0",
@@ -4027,39 +4159,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 1.11,
-   "stake": 100
-  },
-  {
-   "match_key": "SC1|10/10/2026|Arbroath|Morton",
-   "version": "dual-v2",
-   "div": "SC1",
-   "home": "Arbroath",
-   "away": "Morton",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.5462,
-    0.2628,
-    0.1909
-   ],
-   "lambda": [
-    1.552,
-    1.096
-   ],
-   "p_b_d": 0.265147121403808,
-   "p_final": [
-    0.545404478557346,
-    0.263973560701904,
-    0.19062196074075
-   ],
-   "prediction": "home",
-   "odds": [
-    1.75,
-    3.3,
-    4
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.75,
    "stake": 100
   },
   {
@@ -4525,36 +4624,36 @@
    "stake": 100
   },
   {
-   "match_key": "SC0|10/10/2026|Falkirk|Dundee",
+   "match_key": "SC1|10/10/2026|Arbroath|Morton",
    "version": "dual-v2",
-   "div": "SC0",
-   "home": "Falkirk",
-   "away": "Dundee",
+   "div": "SC1",
+   "home": "Arbroath",
+   "away": "Morton",
    "kickoff_utc": "2026-10-10T14:00:00+00:00",
    "locked_at": "2026-10-10T08:00:02.953583+00:00",
    "p_a": [
-    0.4267,
-    0.2861,
-    0.2872
+    0.5462,
+    0.2628,
+    0.1909
    ],
    "lambda": [
-    1.484,
-    1.17
+    1.552,
+    1.096
    ],
-   "p_b_d": 0.268895328822973,
+   "p_b_d": 0.265147121403808,
    "p_final": [
-    0.431841639719315,
-    0.277497664411487,
-    0.290660695869199
+    0.545404478557346,
+    0.263973560701904,
+    0.19062196074075
    ],
-   "prediction": "draw",
+   "prediction": "home",
    "odds": [
-    1.96,
-    3.6,
-    3.5
+    1.75,
+    3.3,
+    4
    ],
    "odds_source": "b365",
-   "pick_odds": 3.6,
+   "pick_odds": 1.75,
    "stake": 100
   },
   {
@@ -4921,105 +5020,6 @@
    "stake": 100
   },
   {
-   "match_key": "E1|10/10/2026|Sheffield United|Lincoln",
-   "version": "dual-v2",
-   "div": "E1",
-   "home": "Sheffield United",
-   "away": "Lincoln",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.2568,
-    0.2699,
-    0.4733
-   ],
-   "lambda": [
-    1.284,
-    1.126
-   ],
-   "p_b_d": 0.286468093874927,
-   "p_final": [
-    0.253886230306067,
-    0.278184046937464,
-    0.46792972275647
-   ],
-   "prediction": "away",
-   "odds": [
-    2.05,
-    3.4,
-    3.4
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "E1|10/10/2026|Watford|Burnley",
-   "version": "dual-v2",
-   "div": "E1",
-   "home": "Watford",
-   "away": "Burnley",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.3756,
-    0.2927,
-    0.3317
-   ],
-   "lambda": [
-    1.541,
-    1.086
-   ],
-   "p_b_d": 0.266297750782836,
-   "p_final": [
-    0.382610239506551,
-    0.279498875391418,
-    0.337890885102031
-   ],
-   "prediction": "draw",
-   "odds": [
-    3.1,
-    3.4,
-    2.2
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "E2|10/10/2026|Bradford|Leyton Orient",
-   "version": "dual-v2",
-   "div": "E2",
-   "home": "Bradford",
-   "away": "Leyton Orient",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.5761,
-    0.2425,
-    0.1814
-   ],
-   "lambda": [
-    1.374,
-    1.028
-   ],
-   "p_b_d": 0.282982397313498,
-   "p_final": [
-    0.560706000599138,
-    0.262741198656749,
-    0.176552800744113
-   ],
-   "prediction": "home",
-   "odds": [
-    1.68,
-    3.7,
-    4.5
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.68,
-   "stake": 100
-  },
-  {
    "match_key": "SP1|10/10/2026|Alaves|Ath Madrid",
    "version": "dual-v2",
    "div": "SP1",
@@ -5083,6 +5083,72 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.1,
+   "stake": 100
+  },
+  {
+   "match_key": "N1|10/10/2026|Go Ahead Eagles|Sparta Rotterdam",
+   "version": "dual-v2",
+   "div": "N1",
+   "home": "Go Ahead Eagles",
+   "away": "Sparta Rotterdam",
+   "kickoff_utc": "2026-10-10T14:30:00+00:00",
+   "locked_at": "2026-10-10T08:30:02.479213+00:00",
+   "p_a": [
+    0.5095,
+    0.2621,
+    0.2283
+   ],
+   "lambda": [
+    2.317,
+    1.431
+   ],
+   "p_b_d": 0.208849630497974,
+   "p_final": [
+    0.527955518610248,
+    0.235474815248987,
+    0.236569666140765
+   ],
+   "prediction": "home",
+   "odds": [
+    1.75,
+    4,
+    4.1
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.75,
+   "stake": 100
+  },
+  {
+   "match_key": "P1|10/10/2026|Casa Pia|Santa Clara",
+   "version": "dual-v2",
+   "div": "P1",
+   "home": "Casa Pia",
+   "away": "Santa Clara",
+   "kickoff_utc": "2026-10-10T14:30:00+00:00",
+   "locked_at": "2026-10-10T08:30:02.479213+00:00",
+   "p_a": [
+    0.3171,
+    0.2799,
+    0.403
+   ],
+   "lambda": [
+    1.116,
+    1.331
+   ],
+   "p_b_d": 0.283172893129686,
+   "p_final": [
+    0.316379381744603,
+    0.281536446564843,
+    0.402084171690555
+   ],
+   "prediction": "away",
+   "odds": [
+    4.5,
+    3.25,
+    1.81
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.81,
    "stake": 100
   }
  ]
