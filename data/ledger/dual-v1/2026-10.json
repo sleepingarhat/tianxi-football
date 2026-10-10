@@ -1,7 +1,7 @@
 {
  "table": "football_dual_ledger",
  "month": "2026-10",
- "count": 158,
+ "count": 160,
  "rows": [
   {
    "match_key": "SP2|02/10/2026|Eldense|Oviedo",
@@ -2578,36 +2578,36 @@
    "stake": 100
   },
   {
-   "match_key": "F2|10/10/2026|Nantes|Reims",
+   "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao",
    "version": "dual-v2",
-   "div": "F2",
-   "home": "Nantes",
-   "away": "Reims",
+   "div": "SP1",
+   "home": "Vallecano",
+   "away": "Ath Bilbao",
    "kickoff_utc": "2026-10-10T12:00:00+00:00",
    "locked_at": "2026-10-10T06:00:02.817603+00:00",
    "p_a": [
-    0.3136,
-    0.2878,
-    0.3986
+    0.4143,
+    0.2923,
+    0.2934
    ],
    "lambda": [
-    1.513,
-    1.423
+    1.439,
+    1.361
    ],
-   "p_b_d": 0.257806413041961,
+   "p_b_d": 0.264546111227131,
    "p_final": [
-    0.320203474354143,
-    0.272803206520981,
-    0.406993319124877
+    0.422423806781546,
+    0.278423055613566,
+    0.299153137604889
    ],
-   "prediction": "away",
+   "prediction": "draw",
    "odds": [
-    2.05,
-    3.2,
-    3.3
+    2.7,
+    3.4,
+    2.6
    ],
    "odds_source": "b365",
-   "pick_odds": 3.3,
+   "pick_odds": 3.4,
    "stake": 100
   },
   {
@@ -2644,69 +2644,36 @@
    "stake": 100
   },
   {
-   "match_key": "SP1|10/10/2026|Vallecano|Ath Bilbao",
+   "match_key": "F2|10/10/2026|Nantes|Reims",
    "version": "dual-v2",
-   "div": "SP1",
-   "home": "Vallecano",
-   "away": "Ath Bilbao",
+   "div": "F2",
+   "home": "Nantes",
+   "away": "Reims",
    "kickoff_utc": "2026-10-10T12:00:00+00:00",
    "locked_at": "2026-10-10T06:00:02.817603+00:00",
    "p_a": [
-    0.4143,
-    0.2923,
-    0.2934
+    0.3136,
+    0.2878,
+    0.3986
    ],
    "lambda": [
-    1.439,
-    1.361
+    1.513,
+    1.423
    ],
-   "p_b_d": 0.264546111227131,
+   "p_b_d": 0.257806413041961,
    "p_final": [
-    0.422423806781546,
-    0.278423055613566,
-    0.299153137604889
-   ],
-   "prediction": "draw",
-   "odds": [
-    2.7,
-    3.4,
-    2.6
-   ],
-   "odds_source": "b365",
-   "pick_odds": 3.4,
-   "stake": 100
-  },
-  {
-   "match_key": "I2|10/10/2026|Sudtirol|Ascoli",
-   "version": "dual-v2",
-   "div": "I2",
-   "home": "Sudtirol",
-   "away": "Ascoli",
-   "kickoff_utc": "2026-10-10T13:00:00+00:00",
-   "locked_at": "2026-10-10T07:00:03.916254+00:00",
-   "p_a": [
-    0.3449,
-    0.3019,
-    0.3532
-   ],
-   "lambda": [
-    1.471,
-    1.032
-   ],
-   "p_b_d": 0.273790967015692,
-   "p_final": [
-    0.351843708262633,
-    0.287845483507846,
-    0.360310808229521
+    0.320203474354143,
+    0.272803206520981,
+    0.406993319124877
    ],
    "prediction": "away",
    "odds": [
-    2.32,
+    2.05,
     3.2,
-    2.85
+    3.3
    ],
    "odds_source": "b365",
-   "pick_odds": 2.85,
+   "pick_odds": 3.3,
    "stake": 100
   },
   {
@@ -2740,6 +2707,39 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.2,
+   "stake": 100
+  },
+  {
+   "match_key": "I1|10/10/2026|Genoa|Fiorentina",
+   "version": "dual-v2",
+   "div": "I1",
+   "home": "Genoa",
+   "away": "Fiorentina",
+   "kickoff_utc": "2026-10-10T13:00:00+00:00",
+   "locked_at": "2026-10-10T07:00:03.916254+00:00",
+   "p_a": [
+    0.3343,
+    0.2998,
+    0.366
+   ],
+   "lambda": [
+    1.607,
+    1.328
+   ],
+   "p_b_d": 0.255547095355547,
+   "p_final": [
+    0.344814698002742,
+    0.277673547677774,
+    0.377511754319484
+   ],
+   "prediction": "away",
+   "odds": [
+    3.3,
+    3.25,
+    2.25
+   ],
+   "odds_source": "b365",
+   "pick_odds": 2.25,
    "stake": 100
   },
   {
@@ -2875,36 +2875,36 @@
    "stake": 100
   },
   {
-   "match_key": "I1|10/10/2026|Genoa|Fiorentina",
+   "match_key": "I2|10/10/2026|Sudtirol|Ascoli",
    "version": "dual-v2",
-   "div": "I1",
-   "home": "Genoa",
-   "away": "Fiorentina",
+   "div": "I2",
+   "home": "Sudtirol",
+   "away": "Ascoli",
    "kickoff_utc": "2026-10-10T13:00:00+00:00",
    "locked_at": "2026-10-10T07:00:03.916254+00:00",
    "p_a": [
-    0.3343,
-    0.2998,
-    0.366
+    0.3449,
+    0.3019,
+    0.3532
    ],
    "lambda": [
-    1.607,
-    1.328
+    1.471,
+    1.032
    ],
-   "p_b_d": 0.255547095355547,
+   "p_b_d": 0.273790967015692,
    "p_final": [
-    0.344814698002742,
-    0.277673547677774,
-    0.377511754319484
+    0.351843708262633,
+    0.287845483507846,
+    0.360310808229521
    ],
    "prediction": "away",
    "odds": [
-    3.3,
-    3.25,
-    2.25
+    2.32,
+    3.2,
+    2.85
    ],
    "odds_source": "b365",
-   "pick_odds": 2.25,
+   "pick_odds": 2.85,
    "stake": 100
   },
   {
@@ -4228,6 +4228,39 @@
    "stake": 100
   },
   {
+   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
+   "version": "dual-v2",
+   "div": "SC1",
+   "home": "Inverness C",
+   "away": "Stenhousemuir",
+   "kickoff_utc": "2026-10-10T14:00:00+00:00",
+   "locked_at": "2026-10-10T08:00:02.953583+00:00",
+   "p_a": [
+    0.4239,
+    0.2773,
+    0.2988
+   ],
+   "lambda": [
+    1.247,
+    1.221
+   ],
+   "p_b_d": 0.283718635791509,
+   "p_final": [
+    0.422017573189414,
+    0.280509317895754,
+    0.297473108914831
+   ],
+   "prediction": "draw",
+   "odds": [
+    1.83,
+    3.25,
+    3.7
+   ],
+   "odds_source": "b365",
+   "pick_odds": 3.25,
+   "stake": 100
+  },
+  {
    "match_key": "SC1|10/10/2026|Livingston|Partick",
    "version": "dual-v2",
    "div": "SC1",
@@ -4258,39 +4291,6 @@
    ],
    "odds_source": "b365",
    "pick_odds": 2.9,
-   "stake": 100
-  },
-  {
-   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
-   "version": "dual-v2",
-   "div": "SC1",
-   "home": "Raith Rvs",
-   "away": "Queens Park",
-   "kickoff_utc": "2026-10-10T14:00:00+00:00",
-   "locked_at": "2026-10-10T08:00:02.953583+00:00",
-   "p_a": [
-    0.5405,
-    0.2651,
-    0.1943
-   ],
-   "lambda": [
-    1.573,
-    0.856
-   ],
-   "p_b_d": 0.265182517887907,
-   "p_final": [
-    0.540543208411531,
-    0.265141258943954,
-    0.194315532644515
-   ],
-   "prediction": "home",
-   "odds": [
-    1.45,
-    3.8,
-    6
-   ],
-   "odds_source": "b365",
-   "pick_odds": 1.45,
    "stake": 100
   },
   {
@@ -4624,36 +4624,36 @@
    "stake": 100
   },
   {
-   "match_key": "SC1|10/10/2026|Inverness C|Stenhousemuir",
+   "match_key": "SC1|10/10/2026|Raith Rvs|Queens Park",
    "version": "dual-v2",
    "div": "SC1",
-   "home": "Inverness C",
-   "away": "Stenhousemuir",
+   "home": "Raith Rvs",
+   "away": "Queens Park",
    "kickoff_utc": "2026-10-10T14:00:00+00:00",
    "locked_at": "2026-10-10T08:00:02.953583+00:00",
    "p_a": [
-    0.4239,
-    0.2773,
-    0.2988
+    0.5405,
+    0.2651,
+    0.1943
    ],
    "lambda": [
-    1.247,
-    1.221
+    1.573,
+    0.856
    ],
-   "p_b_d": 0.283718635791509,
+   "p_b_d": 0.265182517887907,
    "p_final": [
-    0.422017573189414,
-    0.280509317895754,
-    0.297473108914831
+    0.540543208411531,
+    0.265141258943954,
+    0.194315532644515
    ],
-   "prediction": "draw",
+   "prediction": "home",
    "odds": [
-    1.83,
-    3.25,
-    3.7
+    1.45,
+    3.8,
+    6
    ],
    "odds_source": "b365",
-   "pick_odds": 3.25,
+   "pick_odds": 1.45,
    "stake": 100
   },
   {
@@ -5215,6 +5215,72 @@
    ],
    "odds_source": "b365",
    "pick_odds": 3.3,
+   "stake": 100
+  },
+  {
+   "match_key": "I1|10/10/2026|Inter|Parma",
+   "version": "dual-v2",
+   "div": "I1",
+   "home": "Inter",
+   "away": "Parma",
+   "kickoff_utc": "2026-10-10T16:00:00+00:00",
+   "locked_at": "2026-10-10T10:00:03.22428+00:00",
+   "p_a": [
+    0.8127,
+    0.1259,
+    0.0614
+   ],
+   "lambda": [
+    2.035,
+    1.142
+   ],
+   "p_b_d": 0.224437864968104,
+   "p_final": [
+    0.76689189860452,
+    0.175168932484052,
+    0.057939168911428
+   ],
+   "prediction": "home",
+   "odds": [
+    1.14,
+    8,
+    19
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.14,
+   "stake": 100
+  },
+  {
+   "match_key": "T1|10/10/2026|Rizespor|Fenerbahce",
+   "version": "dual-v2",
+   "div": "T1",
+   "home": "Rizespor",
+   "away": "Fenerbahce",
+   "kickoff_utc": "2026-10-10T16:00:00+00:00",
+   "locked_at": "2026-10-10T10:00:03.22428+00:00",
+   "p_a": [
+    0.2002,
+    0.25,
+    0.5499
+   ],
+   "lambda": [
+    1.416,
+    1.559
+   ],
+   "p_b_d": 0.255589877840715,
+   "p_final": [
+    0.199427347324549,
+    0.252794938920357,
+    0.547777713755093
+   ],
+   "prediction": "away",
+   "odds": [
+    4.5,
+    3.75,
+    1.62
+   ],
+   "odds_source": "b365",
+   "pick_odds": 1.62,
    "stake": 100
   }
  ]
